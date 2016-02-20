@@ -42,5 +42,3 @@ def return_trees(path='data', report=False,
         trees_list.append(Tree.fromstring(strtree))
         
     return trees_list
-
-print return_trees()

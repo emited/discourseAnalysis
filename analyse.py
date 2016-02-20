@@ -1,10 +1,9 @@
 from DPLP.code.model import ParsingModel
 from DPLP.code.tree import RSTTree
 from DPLP.code.docreader import DocReader
-from DPLP.code.evaluation import Metrics
 from os import listdir
 from os.path import join as joinpath
-from DPLP.code.util import drawrst
+
 
 from nltk.tree import Tree
 

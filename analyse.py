@@ -8,28 +8,6 @@ from DPLP.code.util import drawrst
 
 from nltk.tree import Tree
 
-def parse(pm, doc):
-    """ Parse one document using the given parsing model
-
-    :type pm: ParsingModel
-    :param pm: an well-trained parsing model
-
-    :type fedus: string
-    :param fedus: file name of an document (with segmented EDUs) 
-    """
-    pred_rst = pm.sr_parse(doc)
-    return pred_rst
-
-
-def writebrackets(fname, brackets):
-    """ Write the bracketing results into file
-    """
-    print 'Writing parsing results into file: {}'.format(fname)
-    with open(fname, 'w') as fout:
-        for item in brackets:
-            fout.write(str(item) + '\n')
-
-            
 def return_trees(path='data', report=False, 
                bcvocab=None, withdp=False, fdpvocab=None, fprojmat=None):
 

@@ -1,24 +1,19 @@
 # discourseAnalysis
 
-##La forme de discours (voir fiche 4ème)
-Les textes peuvent appartenir à 4 formes de discours qui répondent à différents buts du locuteur :
- 
- 
- **Narratif** : raconter des événements réels ou imaginaires ;
- 
- 
- **Descriptif** : présenter un personnage, un lieu, un objet ;
- 
- 
- **Explicatif** : faire comprendre un phénomène, un mécanisme ;
- 
- 
- **Argumentatif** : convaincre, faire accepter une idée, un jugement.
+##Text types
+Textual types refer to the following four basic aspects of writing: descriptive, narrative, expository, and argumentative.
+
+**Descriptive text type**
+
+**Narrative test type:**
+
+**Expository text type:**
+
+**Argumentative text type:**
 
 
-En rédaction, on vous demandera de combiner ces différentes formes en vous indiquant aussi quel
-genre de texte vous devez produire.
+https://en.wikipedia.org/wiki/Text_types
 
-**Liens pour corpus**: 
+**corpus links**: 
 
-http://extranet.editis.com/it-yonixweb/IMAGES/500/art/doc/b/b81099545617a680393830343830363237323937.pdf
+

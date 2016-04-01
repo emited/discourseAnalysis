@@ -6,6 +6,9 @@ __pycache__/
 *.conll*
 # C extensions
 *.so
+*.txt.*
+*.txt~
+*.~
 DPLP/*
 coreNLP/*
 # Distribution / packaging

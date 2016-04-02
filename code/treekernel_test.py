@@ -81,9 +81,13 @@ def test_on_data_base():
     v2 = build_relations_vector(t[1][0])
     
     print "Dictionnaries' len : ",len(v1),len(v2)
-    print "distances using collection, counting, normalized counting :"
-    print kernel_on_relations_collection(t[0][0],t[1][0])
-    print kernel_on_relations_count(t[0][0],t[1][0])
-    print kernel_on_normalized_counting(t[0][0],t[1][0])
+    print "Computing distances using "
+    print " - collection : ",kernel_on_relations_collection(t[0][0],t[1][0])
+    print " - counting : ",kernel_on_relations_count(t[0][0],t[1][0])
+    print " - normalized counting : ",kernel_on_normalized_counting(t[0][0],t[1][0])
+    print " - original TreeKernel : ",TreeKernel(t[0][0],t[1][0])
+    print "RQ :"    
+    print "=>Counting occurences seems to be expressive enough"
+    print "=>TreeKernel is a bit too high value and slow since both texts have ~350 words"
 #=> Uncomment to test the following one
 #test_on_data_base()

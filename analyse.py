@@ -8,7 +8,7 @@ from os.path import join as joinpath
 from nltk.tree import Tree
 
 # Supprimer params inutiles
-def return_trees_from_merge(path='data', report=False, 
+def return_trees_from_merge(path, report=False, 
                bcvocab=None, withdp=False, fdpvocab=None, fprojmat=None):
 
     """ Test the parsing performance
@@ -73,7 +73,7 @@ def test_ecriture_lecture():
 
     print "Beginning test"
     
-    t = return_trees_from_merge()
+    t = return_trees_from_merge('./data')
     write_tree_in_csv(t)
     l = read_trees_from_csv('./data')
     for (ti,li) in zip(t,l):

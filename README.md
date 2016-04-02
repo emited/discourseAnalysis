@@ -21,15 +21,19 @@ https://en.wikipedia.org/wiki/Text_types
 **Fonctions ecrites :**
 
 **- Collection de relations existante dans un texte**
+
 (Sous forme de dictionnaire, forme sparse équivalente a un vecteur binaire)
 
 **- Construction de Vecteur d'occurence de chaque relations présente **
+
 (Sous forme de dico sparse)
 
 **- Construction de Vecteur d'occurence normalisé de chaque relations présente **
+
 (Sous forme de dico sparse normalisé par nombre total de relations comptées)
 
 **- Calcul de distance euclidienne entre 2 textes (tree) pour chacune des trois représentations**
+
 ( Le tout est disponible dans code/treekernel|.py|_test.py,
  lire commentaires pour tester sur les donneés disponible dans data/)
 

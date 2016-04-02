@@ -35,8 +35,10 @@ https://en.wikipedia.org/wiki/Text_types
   - Calcul de distance euclidienne entre 2 textes (tree) pour chacune des 
   trois représentations
 
-  ( Le tout est disponible dans code/treekernel|.py|_test.py,
-  lire commentaires pour tester sur les données disponibles dans data/)
-
-  Rq : voir src/readme_2.txt pour tester le pipeline 
-  =>traitement des données du .txt à l'écrire des trees dans .csv
+  RQ :
+ 
+  - Le tout est disponible dans code/treekernel|.py|_test.py,
+  - Lire commentaires dans code/treekernel_test.py pour tester sur 
+  les données disponibles dans data/
+  - Voir src/readme_2.txt pour tester le pipeline 
+    =>traitement des données du .txt à l'écrire des trees dans .csv

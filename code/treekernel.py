@@ -75,20 +75,26 @@ def build_relations_normalized_vector(T):
 def kernel_on_relations_collection(T1,T2):
     v1 = build_relations_vector(T1)
     v2 = build_relations_vector(T2)
+    # fusion des dicos  : emsemble des relations sur deux textes
+    merge = set(v1+v2)
     d=0    
-    for k in v1:
-        if k not in v2:
+     
+    for k in merge:
+        if (k not in v1) or (k not in v2):
             d+=1
     ''' returns a measure of the distance(how far) between the two representations of trees
     based on relations collection'''
-    return d
+    return np.sqrt(d) # Sqrt pour mettre pouvoir comparer aux autres kernels !
 
 def kernel_on_relations_count(T1,T2):
     v1 = build_relations_count_vector(T1)
     v2 = build_relations_count_vector(T2)
+    
+    merge = dict(v1.items()+v2.items())
+     
     d=0    
-    for k in v1.keys():
-        if not v2.has_key(k):
+    for k in merge:
+        if (not v1.has_key(k) ) or (not v2.has_key(k)):
             d+=1
         else :
             d += (v1[k] - v2[k])**2
@@ -99,9 +105,12 @@ def kernel_on_relations_count(T1,T2):
 def kernel_on_normalized_counting(T1,T2):
     v1 = build_relations_normalized_vector(T1)
     v2 = build_relations_normalized_vector(T2)
+    
+    merge = dict(v1.items()+v2.items())
+   
     d=0    
-    for k in v1.keys():
-        if not v2.has_key(k):
+    for k in merge:
+        if (not v1.has_key(k) ) or (not v2.has_key(k)):
             d+=1
         else :
             d += (v1[k] - v2[k])**2

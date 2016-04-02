@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 from treekernel import *
 
+# Tests for vectors
+
 def test_build_relations_vector():   
     s = '(S (NP (DT the) (NN cat)) (VP (VBD ate) (NP (DT a) (NN cookie))))'
     t = Tree.fromstring(s)  
     d  = build_relations_vector(t)
+    
     assert(['S', 'NP', 'DT', 'NN', 'VP', 'VBD'] ==d)
     print 'Test of collecting relations went ok \n'
     
@@ -23,6 +26,7 @@ def test_build_relations_normalized_vector():
     assert(sum(d.values()) == 1)
     print 'Test of normalization went ok with \n: ',d,'\n'
 
+# Tests for kernels
 def test_kernel_collections():
     s = '(S (NP (DT the) (NN cat)) (VP (VBD ate) (NP (DT a) (NN0 cookie))))'
     t = Tree.fromstring(s)  

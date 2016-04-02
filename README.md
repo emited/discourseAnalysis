@@ -42,3 +42,10 @@ https://en.wikipedia.org/wiki/Text_types
   les données disponibles dans data/
   - Voir src/readme_2.txt pour tester le pipeline 
     =>traitement des données du .txt à l'écrire des trees dans .csv
+
+  - Pour les prochaines versions : réfléchir aux kernels les plus pertinents à
+  implémenter.
+   =>Mettre en valeur certaines relations ?
+   =>Penaliser fortement abscence de relations dans calcul de distance ?
+   
+  - Comment tenir compte du Pos tagging ?

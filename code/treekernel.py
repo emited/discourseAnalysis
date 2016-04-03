@@ -128,7 +128,7 @@ def build_relations_count_and_positions_vector(T):
             pos[l].append(s.height())
             
     for k in pos.keys():
-        pos[k]= np.floor(np.mean(pos[k])+1) # partie entiere sup de la moyenne des hauteur
+        pos[k]= np.mean(pos[k]) #moyenne des hauteur
         
     '''returns 2 dictionnaries as a vector of relations :frequencies and mean positions of each relation'''
     return (count,pos)

@@ -62,6 +62,7 @@ def build_relations_count_vector(T):
             dico[l] += 1
     '''returns a dictionnary as a vector of relations with associated frequency'''
     return dico
+
     
 def build_relations_normalized_vector(T):
     dico = build_relations_count_vector(T)
@@ -111,5 +112,43 @@ def kernel_on_normalized_counting(T1,T2):
     ''' returns a measure of the distance(how far) between the two representations of trees
     based on relations normalized frequency'''
     return np.sqrt(d)
+
+#### En tenant compte des positions des relations
+
+def build_relations_count_and_positions_vector(T):
+    count = {} # Compteur d'occurence pour chaque relation
+    pos = {} # Enregistement des positions de chaque occurence, avant d'en extraire la moyenne
+    for s in T.subtrees(lambda T: T.label() != "EDU"):
+        l = s.label()
+        if l not in count.keys():           
+            count[l] = 1
+            pos[l]=[s.height()]
+        else:
+            count[l] += 1
+            pos[l].append(s.height())
+            
+    for k in pos.keys():
+        pos[k]= np.floor(np.mean(pos[l])+1) # partie entiere sup de la moyenne des hauteur
+        
+    '''returns 2 dictionnaries as a vector of relations :frequencies and mean positions of each relation'''
+    return (count,pos)
     
+def kernel_on_count_and_positions(T1,T2):
+    
+    v1_count,v1_pos = build_relations_count_and_positions_vector(T1)
+    v2_count,v2_pos = build_relations_count_and_positions_vector(T2)
+    
+    merged_labels = dict(v1_count.items()+v2_count.items())
+    
+    
+    d_count=0
+    d_pos=0    
+    
+    for k in merged_labels:
+        d_count+=(v1_count.get(k,0) - v2_count.get(k,0))**2
+        d_pos+=(v1_pos.get(k,0) - v2_pos.get(k,0))**2
+        
+    ''' returns a measure of the distance(how far) between the two representations of trees
+    based on relations normalized frequency'''
+    return np.sqrt(d_count),np.sqrt(d_pos)    
     

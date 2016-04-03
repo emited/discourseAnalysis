@@ -18,10 +18,14 @@ def g_aux(labels,depth,s):
         return ''
     
 def gen_rand_tree(labels=['A','B'],maxdepth=4):
+    '''generates random binary trees, with nodes with associated labels.
+    '''
     label=np.random.choice(labels)
     return Tree.fromstring('( '+label+' '+g_aux(labels,maxdepth,'')+' )')
 
 def gen_rand_tree_list(ntrees=10,labels=['A','B'],maxdepth=4):
+    '''generates a list of random binary trees, with min_nodes as a minimal amount of nodes per tree
+    '''
     k=0
     list_tree=[]
     min_nodes=3

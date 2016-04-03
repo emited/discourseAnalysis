@@ -25,9 +25,10 @@ Quelques idées:
       - eucl dist
       - treeKernel
       - mod treeKernel, ou les relations du discours sont pondérés selon leur position dans la représentation de l'arbre.
-
-
-                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  * vectorizer:
+       - tf-idf: term frequency inverse document frequency
+      
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Fonctions ecrites :**
 

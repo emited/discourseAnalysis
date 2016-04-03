@@ -21,6 +21,7 @@ Quelques idées:
       - Naive Bayes
       - SVM
       - KNN
+      - Random Forest
   * kernels:
       - eucl dist
       - treeKernel

@@ -15,6 +15,17 @@ Textual types refer to the following four basic aspects of writing: descriptive,
 https://en.wikipedia.org/wiki/Text_types
 
 **corpus links**: 
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quelques idées:
+  * classifieurs:
+      - Naive Bayes
+      - SVM
+      - KNN
+  * kernels:
+      - eucl dist
+      - treeKernel
+      - mod treeKernel, ou les relations du discours sont pondérés selon leur position dans la représentation de l'arbre.
+
 
                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

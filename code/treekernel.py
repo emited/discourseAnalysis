@@ -94,10 +94,12 @@ def kernel_on_relations_count(T1,T2):
      
     d=0    
     for k in merge:
-        if (not v1.has_key(k) ) or (not v2.has_key(k)):
-            d+=1
-        else :
-            d += (v1[k] - v2[k])**2
+        d+=(v1.get(k,0) - v2.get(k,0))**2
+                
+        #if (not v1.has_key(k) ) or (not v2.has_key(k)):
+        #    d+=(v1.get(k,0) - v2.get(k,0))**2
+        #else :
+        #    d += (v1[k] - v2[k])**2
     ''' returns a measure of the distance(how far) between the two representations of trees
     based on relations counting'''
     return np.sqrt(d)
@@ -110,10 +112,12 @@ def kernel_on_normalized_counting(T1,T2):
    
     d=0    
     for k in merge:
-        if (not v1.has_key(k) ) or (not v2.has_key(k)):
-            d+=1
-        else :
-            d += (v1[k] - v2[k])**2
+        d+=(v1.get(k,0) - v2.get(k,0))**2
+        
+        #if (not v1.has_key(k) ) or (not v2.has_key(k)):
+        #    d+=(v1.get(k,0) - v2.get(k,0))**2
+        #else :
+        #    d += (v1[k] - v2[k])**2
     ''' returns a measure of the distance(how far) between the two representations of trees
     based on relations normalized frequency'''
     return np.sqrt(d)

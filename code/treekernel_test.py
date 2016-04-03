@@ -85,7 +85,7 @@ def test_on_data_base():
     print " - collection : ",kernel_on_relations_collection(t[0][0],t[1][0])
     print " - counting : ",kernel_on_relations_count(t[0][0],t[1][0])
     print " - normalized counting : ",kernel_on_normalized_counting(t[0][0],t[1][0])
-    print " - original TreeKernel : ",TreeKernel(t[0][0],t[1][0])
+    #print " - original TreeKernel : ",TreeKernel(t[0][0],t[1][0])
     print "RQ :"    
     print "=>Counting occurences seems to be expressive enough"
     print "=>TreeKernel is a bit too high value and slow since both texts have ~350 words"

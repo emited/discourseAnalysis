@@ -34,8 +34,8 @@ class KNN(Classifier):
 def cross_validation(model,kernel,x,y,k):
     n=len(x)
     y=np.array(y)
+    scores=np.zeros((k))
     for index in range(k):
-        scores=np.zeros((k))
         ik=int(float(index)*n/k)
         ikp1=int(float(index+1)*n/k)
         x_train=x[:ik]+x[ikp1:]
@@ -45,4 +45,4 @@ def cross_validation(model,kernel,x,y,k):
         y_test=y[ik:ikp1]
         scores[index]=knn.score(x_test,y_test)
         print 'round '+str(index)+': '+str(scores[index])+'%.'
-    return scores[index].mean()   
+    return scores.mean()   

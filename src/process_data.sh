@@ -1,3 +1,4 @@
+
 #!usr/bin/bash
 
 # A executer depuis le dossier DPLP sous peine d'echec !
@@ -9,7 +10,9 @@ python convert.py ../data
 
 python segmenter.py ../data
 
-python rstparser.py ../data
+python analyse.py ../data
+
+#python rstparser.py ../data False
 
 
 

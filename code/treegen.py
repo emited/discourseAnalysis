@@ -1,4 +1,4 @@
-import nltk.Tree
+import nltk.Tree as Tree
 import numpy as np
 
 def g_aux(labels,depth,s):

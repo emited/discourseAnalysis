@@ -1,6 +1,3 @@
 [submodule "DPLP"]
 	path = DPLP
 	url = git://github.com/jiyfeng/DPLP
-[submodule "CoreNLP"]
-	path = CoreNLP
-	url = git://github.com/stanfordnlp/CoreNLP

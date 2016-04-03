@@ -43,6 +43,6 @@ def cross_validation(model,kernel,x,y,k):
         x_test=x[ik:ikp1]
         model.fit(kernel,x_train,y_train,k)        
         y_test=y[ik:ikp1]
-        scores[index]=knn.score(x_test,y_test)
+        scores[index]=model.score(x_test,y_test)
         print 'round '+str(index)+': '+str(scores[index])+'%.'
     return scores.mean()   

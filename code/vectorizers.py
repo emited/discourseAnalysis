@@ -2,10 +2,11 @@ from nltk.tree import Tree
 import numpy as np
 
 def build_bin_vect(T):
-    dico = []
+    dico = {}
     for s in T.subtrees(lambda T: T.label() != "EDU"):
-        if s.label() not in dico:
-            dico.append(s.label())
+        l = s.label()
+        if l not in dico.keys():           
+            dico[l] = 1
     '''returns the list of RST-relations contained in the tree as a vector'''
     return dico
     

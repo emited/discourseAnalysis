@@ -13,9 +13,6 @@ def vector_kernel(v1,v2):
     based on relations counting'''
     return np.sqrt(d)
 
-
-
-
 def clean_tree(tree):
     """Returns a tree without any digits"""
     strtree=str(tree)

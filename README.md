@@ -15,6 +15,14 @@ Textual types refer to the following four basic aspects of writing: descriptive,
 https://en.wikipedia.org/wiki/Text_types
 
 **corpus links**: 
+
+-  Expository type def: http://study.com/academy/lesson/what-is-expository-text-definition-types-examples.html
+
+- link to a txt data base : http://textfiles.com/directory.html
+
+- ex : APPLE II Documentation :textfiles.com/apple/DOCUMENTATION/ 
+(810 files for a total of 9,419,303 bytes)
+
        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Quelques idées:
   * classifieurs:

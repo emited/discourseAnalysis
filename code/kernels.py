@@ -13,6 +13,11 @@ def vector_kernel(v1,v2):
     based on relations counting'''
     return np.sqrt(d)
 
+def rbf_kernel(v1,v2,sigma=1.):
+    dist = vector_kernel(v1,v2)
+    return np.exp(-dist**2/(sigma*2))
+
+
 def clean_tree(tree):
     """Returns a tree without any digits"""
     strtree=str(tree)

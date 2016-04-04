@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Text_types
 
 - link to a txt data base : http://textfiles.com/directory.html
 
-- ex : APPLE II Documentation :textfiles.com/apple/DOCUMENTATION/ 
+- ex : APPLE II Documentation : http://textfiles.com/apple/DOCUMENTATION/ 
 (810 files for a total of 9,419,303 bytes)
 
 

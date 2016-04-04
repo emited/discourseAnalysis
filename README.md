@@ -23,7 +23,10 @@ https://en.wikipedia.org/wiki/Text_types
 - ex : APPLE II Documentation :textfiles.com/apple/DOCUMENTATION/ 
 (810 files for a total of 9,419,303 bytes)
 
-       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Quelques idées:
   * classifieurs:
       - Naive Bayes

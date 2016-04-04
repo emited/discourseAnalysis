@@ -10,7 +10,7 @@ def clean_tree(tree):
     return Tree.fromstring(strtree)
 
 
-def TreeKernel(T1,T2,const=1,rho=1):
+def treeKernel(T1,T2,const=1,rho=1):
     '''returns the number of common subset tree if rho=1 and common 
         subtrees if rho=0.
         const balances the contribution of subtrees: small values

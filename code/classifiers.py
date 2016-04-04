@@ -32,6 +32,9 @@ class KNN(Classifier):
 
 #Testing
 def cross_validation(model,kernel,x,y,k):
+'''remember to correct error. There might be one
+copy from arf file.
+    '''
     n=len(x)
     y=np.array(y)
     for index in range(k):

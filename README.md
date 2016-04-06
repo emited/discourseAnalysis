@@ -15,7 +15,8 @@ Textual types refer to the following four basic aspects of writing: descriptive,
 https://en.wikipedia.org/wiki/Text_types
 
 **corpus links**: 
-
+- Wikipedia film synopsys for narrative text classification.
+- Wikipedia film personnage description.
 -  Expository type def: http://study.com/academy/lesson/what-is-expository-text-definition-types-examples.html
 
 - link to a txt data base : http://textfiles.com/directory.html

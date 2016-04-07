@@ -16,7 +16,7 @@ scriptdir=`dirname $0`
 PATH=$1
 for FNAME in $PATH/*
 do
-    /usr/bin/java -mx4g -cp "$scriptdir/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse -ssplit.eolonly -tokenize.whitespace true -file $FNAME -outputFormat xml
+    /usr/bin/java -mx6g -cp "$scriptdir/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse -ssplit.eolonly -tokenize.whitespace true -file $FNAME -outputFormat xml -nthreads 5
     # /usr/bin/java -mx2g -cp "$scriptdir/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse -file $FNAME
     /bin/mv $(/usr/bin/basename $FNAME.xml) $PATH/
 done

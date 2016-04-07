@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.bracket*
 *.conll*
+tme5*
 # C extensions
 *.so
 *.txt.*

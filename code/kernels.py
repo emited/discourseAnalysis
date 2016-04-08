@@ -58,3 +58,13 @@ def tree_kernel(T1,T2,const=1,rho=1):
         for t2 in T2.subtrees():
             K+=delta(t1,t2,const,rho)
     return K
+
+def compute_kernel(X,Y,kernel):
+	"""computes a gram matrix K with matrices X and Y 
+	such as K[i,j] = kernel(X[i],Y[j]).
+	"""
+	K = np.zeros((X.shape[0],Y.shape[0]))
+	for i,x in enumerate(X):
+		for j,y in enumerate(Y):
+			K[i, j] = kernel(x,y)
+	return K

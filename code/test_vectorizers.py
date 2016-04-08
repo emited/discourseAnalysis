@@ -24,13 +24,13 @@ def test_build_norm_vect():
     assert(sum(d.values()) == 1)
     print 'Test of normalization went ok with \n: ',d,'\n'
 #
-def test_build_mean_height_vect():
+def test_build_height_vect():
     s = '(S (NP (DT the) (NN cat)) (VP (VBD ate) (NP (DT a) (NN cookie))))'
     t = Tree.fromstring(s)  
-    print "Test of mean height :\n", build_mean_height_vect(t)
+    print "Test of mean height :\n", build_height_vect(t)
 
 # Testing the precess of building the different vectors  
 test_build_bin_vect()  
 test_build_count_vect()
 test_build_norm_vect()
-test_build_mean_height_vect()
+test_build_height_vect()

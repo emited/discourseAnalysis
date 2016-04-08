@@ -9,6 +9,7 @@ import code.vectorizers as vectorizers
 from sklearn import feature_extraction
 from sklearn.metrics import pairwise
 import pandas as pd
+import cPickle as pickle
 
 # Fichier a lancer depuis DPLP 
 from nltk.tree import Tree
@@ -87,7 +88,7 @@ def test_ecriture_lecture():
         print "Un arbre teste"
     print "Test done for all trees : it's alright"
 
-def build_all_matrices():
+def build_all():
     # For each class, we build all the trees and save them in CSVs
     '''nar_trees = return_trees_from_merge('./data/narrative/')
     write_tree_in_csv(nar_trees)    
@@ -121,6 +122,8 @@ def build_all_matrices():
     y = np.array( y_nar + y_arg + y_inf + y_des )
     
     T = [t[0] for t in all_trees]
+    pickle.dump(T,open('test.pkl','wb'))
+    
     index = ['bin','count','norm','height','tfid']
 
     #Dicts
@@ -132,7 +135,7 @@ def build_all_matrices():
     
     D_df = pd.DataFrame([D_bin,D_count,D_norm,D_height,D_tfid],index=index)
     D_df = D_df.transpose()
-    D_df.to_csv('dicts_test.csv',sep='\t')
+    D_df.to_pickle('dicts_test.pkl')
     
 
     #Vects
@@ -143,28 +146,38 @@ def build_all_matrices():
     V_height = vectorizer.fit_transform(D_height)
     V_tfid = vectorizer.fit_transform(D_tfid)
 
-    all_V = [V_bin,V_count,V_norm,V_height,V_tfid]
-    all_V = [[str(v) for v in V] for V in all_V]
-    V_df = pd.DataFrame(all_V,index=index)
-    V_df = V_df.transpose()
-    V_df.to_csv('vects_test.csv',sep='\t')
+    V_all = np.zeros((len(index),V_bin.shape[0],V_bin.shape[1]))
+    V_all = np.array([V_bin,V_count,V_norm,V_height,V_tfid])
+    V_df = []
+    for i in range(V_all.shape[1]):
+        d = {}
+        for j,v in enumerate(V_all[:,i]):
+            d[index[j]]=v
+        V_df.append(d)
+    V_df = pd.DataFrame(V_df)
+    V_df.to_pickle('vects_test.pkl')
     
     Y = vectorizer.inverse_transform(V_bin)
-    rel_index = pd.DataFrame(Y)
-    rel_index.to_csv('rel_index.csv',sep='\t')
-    #print V_bin
-    #print V_count
-    #print V_norm
-    #print D_height
-    #print V_tfid
+    pickle.dump(Y,open('labels.pkl','wb'))
 
 
-    #pairwise.rbf_kernel(V_bin)
-    #bin_gram = kernels.compute_gram(V_bin,V_bin)
-    print 
-    print V_bin
+
+    #Kernels
+    ## tree kernels
+    ### tree pruning
+    #K_tree = kernels.compute_gram(T,T,kernels.tree_kernel)
+
+    ## vector kernels
+    K_bin_rbf = pairwise.rbf_kernel(V_bin)
+    K_count_rbf = pairwise.rbf_kernel(V_count)
+    K_norm_rbf = pairwise.rbf_kernel(V_norm)
+    K_height_rbf = pairwise.rbf_kernel(V_height)
+    K_tfid_rbf = pairwise.rbf_kernel(V_tfid)
+    
+
+
 
 
 #test_ecriture_lecture()
-build_all_matrices()
+build_all()
 print "done"

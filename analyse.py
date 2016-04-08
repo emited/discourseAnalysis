@@ -1,8 +1,11 @@
-from DPLP.code.model import ParsingModel
-from DPLP.code.tree import RSTTree
-from DPLP.code.docreader import DocReader
+#from DPLP.code.model import ParsingModel
+#from DPLP.code.tree import RSTTree
+#from DPLP.code.docreader import DocReader
 from os import listdir
 from os.path import join as joinpath
+import code.kernels as kernels
+import code.vectorizers as vectorizers
+from sklearn import feature_extraction
 
 # Fichier a lancer depuis DPLP 
 from nltk.tree import Tree
@@ -81,4 +84,30 @@ def test_ecriture_lecture():
         print "Un arbre teste"
     print "Test done for all trees : it's alright"
 
-test_ecriture_lecture()
+def built_all_matrixes():
+    # For each class, we build all the trees and save them in CSVs
+    narrative_trees = return_trees_from_merge('./data/narrative/')
+    write_tree_in_csv(narrative_trees)    
+    narrative_labels = [1 for i in range(len(narrative_trees))]
+    
+    argumentative_trees = return_trees_from_merge('./data/argumentative/')
+    write_tree_in_csv(argumentative_trees) 
+    argumentative_labels = [2 for i in range(len(argumentative_trees))]
+    
+    informative_trees = return_trees_from_merge('./data/informative/')
+    write_tree_in_csv(informative_trees) 
+    informative_labels = [3 for i in range(len(informative_trees))]
+    
+    # Attention, contient couples de (trees + tree_ID) où tree_ID est le nom du fichier.
+    all_trees = narrative_trees + argumentative_trees + informative_trees
+    #y = np.array(narrative_labels + argumentative_labels + informative_labels)
+    #D_norm = np.array([vectorizers.build_norm_vect(t[0]) for t in all_trees])
+    #D_pos = np.array([vectorizers.build_mean_height_vect (t[0]) for t in all_trees])
+    
+    
+    #v = feature_extraction.DictVectorizer(sparse=True)
+    #X = v.fit_transform(D_norm)
+    #Y = v.inverse_transform(X)
+    
+#test_ecriture_lecture()
+print "done"

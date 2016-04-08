@@ -59,7 +59,7 @@ def tree_kernel(T1,T2,const=1,rho=1):
             K+=delta(t1,t2,const,rho)
     return K
 
-def compute_kernel(X,Y,kernel):
+def compute_gram(X,Y,kernel):
 	"""computes a gram matrix K with matrices X and Y 
 	such as K[i,j] = kernel(X[i],Y[j]).
 	"""

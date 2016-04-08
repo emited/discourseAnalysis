@@ -44,14 +44,10 @@ def build_height_vect(T):
     pos = {} # Enregistement des positions de chaque occurence, avant d'en extraire la moyenne
     for s in T.subtrees(lambda T: T.label() != "EDU"):
         l = s.label()
-        if l not in pos.keys():           
-            pos[l]=[s.height()]
+        if l not in pos.keys():
+            pos[l]=s.height()
         else:
-            pos[l].append(s.height())
-            
-    for k in pos.keys():
-        pos[k]= np.mean(pos[k]) #moyenne des hauteur
-        
+            pos[l]+=s.height()
     '''returns dictionnary as a vector of relations :mean height of each relation'''
     return pos
 
@@ -59,7 +55,7 @@ def build_height_vects(T_list):
     return [build_count_vect(T) for T in T_list]
 
 def build_tfid_vects(T_list):
-    dicos = ve.build_norm_vects(T_list)
+    dicos = build_norm_vects(T_list)
     N = float(len(T_list))
     #term document count
     term_count = {}

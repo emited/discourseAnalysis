@@ -1,11 +1,14 @@
 #from DPLP.code.model import ParsingModel
 #from DPLP.code.tree import RSTTree
 #from DPLP.code.docreader import DocReader
+import numpy as np
 from os import listdir
 from os.path import join as joinpath
 import code.kernels as kernels
 import code.vectorizers as vectorizers
 from sklearn import feature_extraction
+from sklearn.metrics import pairwise
+import pandas as pd
 
 # Fichier a lancer depuis DPLP 
 from nltk.tree import Tree
@@ -84,30 +87,84 @@ def test_ecriture_lecture():
         print "Un arbre teste"
     print "Test done for all trees : it's alright"
 
-def built_all_matrixes():
+def build_all_matrices():
     # For each class, we build all the trees and save them in CSVs
-    narrative_trees = return_trees_from_merge('./data/narrative/')
-    write_tree_in_csv(narrative_trees)    
-    narrative_labels = [1 for i in range(len(narrative_trees))]
+    '''nar_trees = return_trees_from_merge('./data/narrative/')
+    write_tree_in_csv(nar_trees)    
+    narrative_labels = [1 for i in range(len(nar_trees))]
     
-    argumentative_trees = return_trees_from_merge('./data/argumentative/')
-    write_tree_in_csv(argumentative_trees) 
-    argumentative_labels = [2 for i in range(len(argumentative_trees))]
+    arg_trees = return_trees_from_merge('./data/argumentative/')
+    write_tree_in_csv(arg_trees) 
+    argumentative_labels = [2 for i in range(len(arg_trees))]
     
-    informative_trees = return_trees_from_merge('./data/informative/')
-    write_tree_in_csv(informative_trees) 
-    informative_labels = [3 for i in range(len(informative_trees))]
+    inf_trees = return_trees_from_merge('./data/informative/')
+    write_tree_in_csv(inf_trees) 
+    informative_labels = [3 for i in range(len(inf_trees))]'''
     
-    # Attention, contient couples de (trees + tree_ID) où tree_ID est le nom du fichier.
-    all_trees = narrative_trees + argumentative_trees + informative_trees
-    #y = np.array(narrative_labels + argumentative_labels + informative_labels)
-    #D_norm = np.array([vectorizers.build_norm_vect(t[0]) for t in all_trees])
-    #D_pos = np.array([vectorizers.build_mean_height_vect (t[0]) for t in all_trees])
+    #A enlever 
+    nar_trees = [('(N1)','n1'),('((N2)(N1))','n2')]
+    arg_trees = [('(A1)','a1'),('(A2)','a2')]
+    inf_trees = [('(A1(A1)(I1))','i1'),('(I2)','i2'),('(I1)','i1')]    
+    nar_trees = [(Tree.fromstring(t),n) for t,n in nar_trees]
+    arg_trees = [(Tree.fromstring(t),n) for t,n in arg_trees]
+    inf_trees = [(Tree.fromstring(t),n) for t,n in inf_trees]
+    des_trees = []
+
+    # Attention, contient couples de (trees + tree_ID) ou tree_ID est le nom du fichier.
+    all_trees = nar_trees + arg_trees + inf_trees + des_trees
+    int2cl = {0:'narrative', 1:'argumentative', 2:'informative',3:'descriptive'}
+
+    y_nar = [0 for t in nar_trees]
+    y_arg = [1 for t in arg_trees]
+    y_inf = [2 for t in inf_trees]
+    y_des = [3 for t in des_trees]
+    y = np.array( y_nar + y_arg + y_inf + y_des )
     
+    T = [t[0] for t in all_trees]
+    index = ['bin','count','norm','height','tfid']
+
+    #Dicts
+    D_bin = vectorizers.build_bin_vects(T)
+    D_count = vectorizers.build_count_vects(T)
+    D_norm = vectorizers.build_norm_vects(T)
+    D_height = vectorizers.build_height_vects(T)
+    D_tfid = vectorizers.build_tfid_vects(T)
     
-    #v = feature_extraction.DictVectorizer(sparse=True)
-    #X = v.fit_transform(D_norm)
-    #Y = v.inverse_transform(X)
+    D_df = pd.DataFrame([D_bin,D_count,D_norm,D_height,D_tfid],index=index)
+    D_df = D_df.transpose()
+    D_df.to_csv('dicts_test.csv',sep='\t')
     
+
+    #Vects
+    vectorizer = feature_extraction.DictVectorizer(sparse=False)
+    V_bin = vectorizer.fit_transform(D_bin)
+    V_count = vectorizer.fit_transform(D_count)
+    V_norm = vectorizer.fit_transform(D_norm)
+    V_height = vectorizer.fit_transform(D_height)
+    V_tfid = vectorizer.fit_transform(D_tfid)
+
+    all_V = [V_bin,V_count,V_norm,V_height,V_tfid]
+    all_V = [[str(v) for v in V] for V in all_V]
+    V_df = pd.DataFrame(all_V,index=index)
+    V_df = V_df.transpose()
+    V_df.to_csv('vects_test.csv',sep='\t')
+    
+    Y = vectorizer.inverse_transform(V_bin)
+    rel_index = pd.DataFrame(Y)
+    rel_index.to_csv('rel_index.csv',sep='\t')
+    #print V_bin
+    #print V_count
+    #print V_norm
+    #print D_height
+    #print V_tfid
+
+
+    #pairwise.rbf_kernel(V_bin)
+    #bin_gram = kernels.compute_gram(V_bin,V_bin)
+    print 
+    print V_bin
+
+
 #test_ecriture_lecture()
+build_all_matrices()
 print "done"

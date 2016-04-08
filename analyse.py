@@ -98,16 +98,16 @@ def built_all_matrixes():
     write_tree_in_csv(informative_trees) 
     informative_labels = [3 for i in range(len(informative_trees))]
     
-    
+    # Attention, contient couples de (trees + tree_ID) où tree_ID est le nom du fichier.
     all_trees = narrative_trees + argumentative_trees + informative_trees
-    y = np.array(narrative_labels + argumentative_labels + informative_labels)
-    D_norm = np.array([vectorizers.build_norm_vect(t[0]) for t in all_trees])
-    D_pos = np.array([vectorizers.build_mean_height_vect (t[0]) for t in all_trees])
+    #y = np.array(narrative_labels + argumentative_labels + informative_labels)
+    #D_norm = np.array([vectorizers.build_norm_vect(t[0]) for t in all_trees])
+    #D_pos = np.array([vectorizers.build_mean_height_vect (t[0]) for t in all_trees])
     
     
-    v = feature_extraction.DictVectorizer(sparse=True)
-    X = v.fit_transform(D_norm)
-    Y = v.inverse_transform(X)
+    #v = feature_extraction.DictVectorizer(sparse=True)
+    #X = v.fit_transform(D_norm)
+    #Y = v.inverse_transform(X)
     
 #test_ecriture_lecture()
 print "done"

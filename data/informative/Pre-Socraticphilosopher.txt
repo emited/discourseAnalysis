@@ -1,10 +1,18 @@
-Pre-Socratic philosophy is Greek ancient philosophy before Socrates (and includes schools contemporary to Socrates that were not influenced by him). In Classical antiquity, the Presocratic philosophers were called physiologoi (Greek: φυσιόλογοι; in English, physical or natural philosophers). Aristotle called them physikoi ("physicists", after physis, "nature") because they sought natural explanations for phenomena, as opposed to the earlier theologoi (theologians), whose philosophical basis was supernatural. Diogenes Laërtius divides the physiologoi into two groups, Ionian and Italiote, led by Anaximander and Pythagoras, respectively.
-Hermann Diels popularized the term pre-socratic in Die Fragmente der Vorsokratiker (The Fragments of the Pre-Socratics) in 1903. However, the term pre-Sokratic was in use as early as George Grote's Plato and the Other Companions of Sokrates in 1865. Edouard Zeller was also important in dividing thought before and after Socrates. Major analyses of pre-Socratic thought have been made by Gregory Vlastos, Jonathan Barnes, and Friedrich Nietzsche in his Philosophy in the Tragic Age of the Greeks.
-It may sometimes be difficult to determine the actual line of argument some Presocratics used in supporting their particular views. While most of them produced significant texts, none of the texts has survived in complete form. All that is available are quotations by later philosophers (often biased) and historians, and the occasional textual fragment.
-The Presocratic philosophers rejected traditional mythological explanations of the phenomena they saw around them in favor of more rational explanations. These philosophers asked questions about "the essence of things":
+Pre-Socratic philosophy is Greek ancient philosophy before Socrates (and includes schools contemporary to Socrates that were not influenced by him). In Classical antiquity, the Presocratic philosophers were called physiologoi (Greek: φυσιόλογοι; in English, physical or natural philosophers). Aristotle called them physikoi ("physicists", after physis, "nature") because they sought natural explanations for phenomena, as opposed to the earlier theologoi (theologians), whose philosophical basis was supernatural.
+Diogenes Laërtius divides the physiologoi into two groups, Ionian and Italiote, led by Anaximander and Pythagoras, respectively.
+Hermann Diels popularized the term pre-socratic in Die Fragmente der Vorsokratiker (The Fragments of the Pre-Socratics) in 1903.
+However, the term pre-Sokratic was in use as early as George Grote's Plato and the Other Companions of Sokrates in 1865.
+Edouard Zeller was also important in dividing thought before and after Socrates.
+Major analyses of pre-Socratic thought have been made by Gregory Vlastos, Jonathan Barnes, and Friedrich Nietzsche in his Philosophy in the Tragic Age of the Greeks.
+It may sometimes be difficult to determine the actual line of argument some Presocratics used in supporting their particular views.
+While most of them produced significant texts, none of the texts has survived in complete form.
+All that is available are quotations by later philosophers (often biased) and historians, and the occasional textual fragment.
+The Presocratic philosophers rejected traditional mythological explanations of the phenomena they saw around them in favor of more rational explanations.
+These philosophers asked questions about "the essence of things":
 From where does everything come?
 From what is everything created?
 How do we explain the plurality of things found in nature?
 How might we describe nature mathematically?
 Others concentrated on defining problems and paradoxes that became the basis for later mathematical, scientific and philosophic study.
-Later philosophers rejected many of the answers the early Greek philosophers provided, but continued to place importance on their questions. Furthermore, the cosmologies proposed by them have been updated by later developments in science.
+Later philosophers rejected many of the answers the early Greek philosophers provided, but continued to place importance on their questions.
+Furthermore, the cosmologies proposed by them have been updated by later developments in science.

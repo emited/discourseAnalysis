@@ -1,5 +1,27 @@
-In the Second Age of Middle Earth, the Dark Lord Sauron forges the One Ring in Mount Doom to conquer all. An army of men and elves battle Sauron’s forces in Mordor, where King Isildur of Gondor slays Sauron, but the evil influence of the Ring corrupts Isildur, preventing him from destroying it in Mount Doom. Isildur is later killed by Orcs, and the Ring is lost, found and owned by Gollum for five centuries. The Ring is then found by a Hobbit named Bilbo Baggins.
-Sixty years on, Bilbo celebrates his 111th birthday in the Shire, reuniting with his old friend Gandalf the Grey. Bilbo reveals he intends on leaving the Shire for one last adventure and leaves his inheritance to his nephew Frodo, including the Ring. Gandalf investigates the Ring, discovering its true identity and warns Frodo. Learning Gollum was tortured by Orcs and told them that Bilbo took the Ring, Gandalf instructs Frodo to leave the Shire, accompanied by his gardener Samwise Gamgee. Gandalf rides to Isengard, meeting fellow wizard Saruman the White, but learns he is in league with Sauron, who has unleashed the Ringwraiths to find Frodo. Frodo and Sam are joined by fellow Hobbits, Merry and Pippin, and they evade the Ringwraiths, arriving in Bree where they are meant to meet Gandalf, but are instead aided by a ranger named Strider, who escorts them to Rivendell.
-The Hobbits are ambushed by the Ringwraiths, one stabbing Frodo with a morgul blade. Arwen, an elf and Strider’s lover, comes to Frodo’s aid and successfully takes him to Rivendell where he is healed, meeting Gandalf who escaped Saruman on the back of a giant eagle. Arwen’s father, Lord Elrond, holds a council, deciding that the Ring must be destroyed in Mount Doom. While the members argue, Frodo volunteers to take the Ring, accompanied by Gandalf, Sam, Merry, Pippin, elf Legolas, dwarf Gimli, Boromir of Gondor, and Strider, who is revealed to be Aragorn, Isildur’s heir and rightful King of Gondor. Bilbo gives Frodo his sword Sting. The Fellowship of the Ring sets off but Saruman’s magic forces them to travel through the Mines of Moria.
-The Fellowship find the dwarves within have been slain, and they are attacked by Orcs and a cave troll. They defeat them, but are confronted by an ancient demon called the Balrog. Gandalf casts the Balrog into a vast chasm, but its fiery whip drags him down into the darkness too. The rest of the Fellowship, now led by Aragorn, reach Lothlórien, home to elves Galadriel and Celeborn. Galadriel privately informs Frodo that only he can complete the quest and one of his friends will try to take the Ring. Meanwhile, Saruman creates an army of Uruk-hai to track and kill the Fellowship save Frodo.
-The Fellowship leave Lothlórien by river to Parth Galen. Frodo wanders off, confronted by Boromir who tries to take the Ring in desperation. Afraid of the Ring corrupting his friends, Frodo decides to travel to Mordor alone. The other members fight off the Uruk-hai, but Merry and Pippin are taken captive, and Boromir is mortally wounded by the Uruk chieftain, Aragon helping him die peacefully. Sam follows Frodo, accompanying him to keep a promise to Gandalf to protect him, while Aragorn, Legolas, and Gimli go to rescue Merry and Pippin.
+In the Second Age of Middle Earth, the Dark Lord Sauron forges the One Ring in Mount Doom to conquer all.
+An army of men and elves battle Sauron’s forces in Mordor, where King Isildur of Gondor slays Sauron, but the evil influence of the Ring corrupts Isildur, preventing him from destroying it in Mount Doom.
+Isildur is later killed by Orcs, and the Ring is lost, found and owned by Gollum for five centuries.
+The Ring is then found by a Hobbit named Bilbo Baggins.
+Sixty years on, Bilbo celebrates his 111th birthday in the Shire, reuniting with his old friend Gandalf the Grey.
+Bilbo reveals he intends on leaving the Shire for one last adventure and leaves his inheritance to his nephew Frodo, including the Ring.
+Gandalf investigates the Ring, discovering its true identity and warns Frodo.
+Learning Gollum was tortured by Orcs and told them that Bilbo took the Ring, Gandalf instructs Frodo to leave the Shire, accompanied by his gardener Samwise Gamgee.
+Gandalf rides to Isengard, meeting fellow wizard Saruman the White, but learns he is in league with Sauron, who has unleashed the Ringwraiths to find Frodo.
+Frodo and Sam are joined by fellow Hobbits, Merry and Pippin, and they evade the Ringwraiths, arriving in Bree where they are meant to meet Gandalf, but are instead aided by a ranger named Strider, who escorts them to Rivendell.
+The Hobbits are ambushed by the Ringwraiths, one stabbing Frodo with a morgul blade.
+Arwen, an elf and Strider’s lover, comes to Frodo’s aid and successfully takes him to Rivendell where he is healed, meeting Gandalf who escaped Saruman on the back of a giant eagle.
+Arwen’s father, Lord Elrond, holds a council, deciding that the Ring must be destroyed in Mount Doom.
+While the members argue, Frodo volunteers to take the Ring, accompanied by Gandalf, Sam, Merry, Pippin, elf Legolas, dwarf Gimli, Boromir of Gondor, and Strider, who is revealed to be Aragorn, Isildur’s heir and rightful King of Gondor.
+Bilbo gives Frodo his sword Sting.
+The Fellowship of the Ring sets off but Saruman’s magic forces them to travel through the Mines of Moria.
+The Fellowship find the dwarves within have been slain, and they are attacked by Orcs and a cave troll.
+They defeat them, but are confronted by an ancient demon called the Balrog.
+Gandalf casts the Balrog into a vast chasm, but its fiery whip drags him down into the darkness too.
+The rest of the Fellowship, now led by Aragorn, reach Lothlórien, home to elves Galadriel and Celeborn.
+Galadriel privately informs Frodo that only he can complete the quest and one of his friends will try to take the Ring.
+Meanwhile, Saruman creates an army of Uruk-hai to track and kill the Fellowship save Frodo.
+The Fellowship leave Lothlórien by river to Parth Galen.
+Frodo wanders off, confronted by Boromir who tries to take the Ring in desperation.
+Afraid of the Ring corrupting his friends, Frodo decides to travel to Mordor alone.
+The other members fight off the Uruk-hai, but Merry and Pippin are taken captive, and Boromir is mortally wounded by the Uruk chieftain, Aragon helping him die peacefully.
+Sam follows Frodo, accompanying him to keep a promise to Gandalf to protect him, while Aragorn, Legolas, and Gimli go to rescue Merry and Pippin.

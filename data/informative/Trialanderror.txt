@@ -1,5 +1,15 @@
-Trial and error is a fundamental method of solving problems. It is characterised by repeated, varied attempts which are continued until success, or until the agent stops trying.
-According to W.H. Thorpe, the term was devised by C. Lloyd Morgan after trying out similar phrases "trial and failure" and "trial and practice". Under Morgan's Canon, animal behaviour should be explained in the simplest possible way. Where behaviour seems to imply higher mental processes, it might be explained by trial-and-error learning. An example is the skillful way in which his terrier Tony opened the garden gate, easily misunderstood as an insightful act by someone seeing the final behaviour. Lloyd Morgan, however, had watched and recorded the series of approximations by which the dog had gradually learned the response, and could demonstrate that no insight was required to explain it.
-Edward Thorndike showed how to manage a trial-and-error experiment in the laboratory. In his famous experiment, a cat was placed in a series of puzzle boxes in order to study the law of effect in learning. He plotted learning curves which recorded the timing for each trial. Thorndike's key observation was that learning was promoted by positive results, which was later refined and extended by B.F. Skinner's operant conditioning.
-Trial and error is also a heuristic method of problem solving, repair, tuning, or obtaining knowledge. In the field of computer science, the method is called generate and test. In elementary algebra, when solving equations, it is "guess and check".
-This approach can be seen as one of the two basic approaches to problem solving, contrasted with an approach using insight and theory. However, there are intermediate methods which for example, use theory to guide the method, an approach known as guided empiricism.
+Trial and error is a fundamental method of solving problems.
+It is characterised by repeated, varied attempts which are continued until success, or until the agent stops trying.
+According to W.H. Thorpe, the term was devised by C. Lloyd Morgan after trying out similar phrases "trial and failure" and "trial and practice". Under Morgan's Canon, animal behaviour should be explained in the simplest possible way.
+Where behaviour seems to imply higher mental processes, it might be explained by trial-and-error learning.
+An example is the skillful way in which his terrier Tony opened the garden gate, easily misunderstood as an insightful act by someone seeing the final behaviour.
+Lloyd Morgan, however, had watched and recorded the series of approximations by which the dog had gradually learned the response, and could demonstrate that no insight was required to explain it.
+Edward Thorndike showed how to manage a trial-and-error experiment in the laboratory.
+In his famous experiment, a cat was placed in a series of puzzle boxes in order to study the law of effect in learning.
+He plotted learning curves which recorded the timing for each trial.
+Thorndike's key observation was that learning was promoted by positive results, which was later refined and extended by B.F. Skinner's operant conditioning.
+Trial and error is also a heuristic method of problem solving, repair, tuning, or obtaining knowledge.
+In the field of computer science, the method is called generate and test.
+In elementary algebra, when solving equations, it is "guess and check".
+This approach can be seen as one of the two basic approaches to problem solving, contrasted with an approach using insight and theory.
+However, there are intermediate methods which for example, use theory to guide the method, an approach known as guided empiricism.

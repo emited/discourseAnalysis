@@ -1,7 +1,16 @@
-In mathematics, topology (from the Greek τόπος, place, and λόγος, study) is concerned with the properties of space that are preserved under continuous deformations, such as stretching and bending, but not tearing or gluing. This can be studied by considering a collection of subsets, called open sets, that satisfy certain properties, turning the given set into what is known as a topological space. Important topological properties include connectedness and compactness.
-Topology developed as a field of study out of geometry and set theory, through analysis of such concepts as space, dimension, and transformation. Such ideas go back to Gottfried Leibniz, who in the 17th century envisioned the geometria situs (Greek-Latin for "geometry of place") and analysis situs (Greek-Latin for "picking apart of place"). Leonhard Euler's Seven Bridges of Königsberg Problem and Polyhedron Formula are arguably the field's first theorems. The term topology was introduced by Johann Benedict Listing in the 19th century, although it was not until the first decades of the 20th century that the idea of a topological space was developed. By the middle of the 20th century, topology had become a major branch of mathematics.
+In mathematics, topology (from the Greek τόπος, place, and λόγος, study) is concerned with the properties of space that are preserved under continuous deformations, such as stretching and bending, but not tearing or gluing.
+This can be studied by considering a collection of subsets, called open sets, that satisfy certain properties, turning the given set into what is known as a topological space.
+Important topological properties include connectedness and compactness.
+Topology developed as a field of study out of geometry and set theory, through analysis of such concepts as space, dimension, and transformation.
+Such ideas go back to Gottfried Leibniz, who in the 17th century envisioned the geometria situs (Greek-Latin for "geometry of place") and analysis situs (Greek-Latin for "picking apart of place"). Leonhard Euler's Seven Bridges of Königsberg Problem and Polyhedron Formula are arguably the field's first theorems.
+The term topology was introduced by Johann Benedict Listing in the 19th century, although it was not until the first decades of the 20th century that the idea of a topological space was developed.
+By the middle of the 20th century, topology had become a major branch of mathematics.
 Topology has many subfields:
-General topology establishes the foundational aspects of topology and investigates properties of topological spaces and concepts inherent to topological spaces. It includes point-set topology, which is the foundational topology used in all other branches (including topics like compactness and connectedness).
+General topology establishes the foundational aspects of topology and investigates properties of topological spaces and concepts inherent to topological spaces.
+It includes point-set topology, which is the foundational topology used in all other branches (including topics like compactness and connectedness).
 Algebraic topology tries to measure degrees of connectivity using algebraic constructs such as homology and homotopy groups.
-Differential topology is the field dealing with differentiable functions on differentiable manifolds. It is closely related to differential geometry and together they make up the geometric theory of differentiable manifolds.
-Geometric topology primarily studies manifolds and their embeddings (placements) in other manifolds. A particularly active area is low-dimensional topology, which studies manifolds of four or fewer dimensions. This includes knot theory, the study of mathematical knots.
+Differential topology is the field dealing with differentiable functions on differentiable manifolds.
+It is closely related to differential geometry and together they make up the geometric theory of differentiable manifolds.
+Geometric topology primarily studies manifolds and their embeddings (placements) in other manifolds.
+A particularly active area is low-dimensional topology, which studies manifolds of four or fewer dimensions.
+This includes knot theory, the study of mathematical knots.

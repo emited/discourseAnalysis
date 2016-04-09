@@ -1,7 +1,48 @@
-Ingrid and Gregorio Cortez are rival spies who fall in love. They retire and have two children, 12-year-old Carmen and 9-year-old Juni. They work for the Organization of Super Spies (OSS) doing desk work. The children have no idea of their parents' previous work. Ingrid and Gregorio are called back into the field when agents go missing. Gregorio thinks that a kids' TV show star Fegan Floop has kidnapped the agents and mutated them into his "Fooglies", creatures on his show.
-They are almost immediately captured by Floop's "Thumb-thumb" robots whose arms, legs, and head are made of thumbs, and taken to Floop's castle. The children are left in the care of Uncle Felix Gumm. Felix is alerted to the parents' capture, activates the fail-safe and tells the children the truth, and that he is not their uncle. The house is assaulted by thumb-thumbs and the children escape on a submarine that's set to auto-pilot to a safe house. At the safe house, Carmen unlocks the door using her full name and the children learn of their parents' spy past and decide to rescue them.
-Inside of Floop's castle, he introduces his latest creation to Mr. Lisp, small robots in the shape of children. He wishes to replace the world leaders' children with these super-strong robots to control the world. The robots are "dumb" and cannot function outside of their inherent programming. Lisp is furious, demanding usable robots to sell to his clients. Floop along with his second-in-command Alexander Minion interrogate Gregorio and Ingrid. Floop demands the third brain, but Ingrid has no idea what he's talking about. Gregorio claims that he destroyed the brain years ago. Realizing the brain must be with the children, Floop sends his minions after them. Gregorio reveals to Ingrid the truth about the Third Brain. It was the code-name of a project back when he worked in the science division of OSS. It was to house the skills of all of the world's best super spies. The project was deemed too dangerous, was scrapped and the materials to be destroyed, but Gregorio couldn't destroy the brain.
-Back at the safe house, the kids are visited by Ms. Gradenko. Gradenko says she works for OSS and is there to help the children. Carmen is easily swayed, but Juni is suspicious. Gradenko wants the third brain, but Carmen does not know anything. Gradenko orders the house destroyed, and Juni sees Thumb-thumbs outside destroying the submarine. Gradenko's intentions revealed, Juni accidentally reveals the third brain, and a chase ensues with Carmen and some henchmen with jet packs. Carmen eventually gets the brain, and she and Juni escape the thumbs. Minion reveals that he made robots of the children and Floop sends them to get the brain.
-Carmen is attacked by the Juni-robot. She dismisses it until she sees her robot counterpart attack Juni. Although he tries, Juni cannot destroy the brain, and the robots get it and fly away. With the third brain, Floop can achieve his goal, but he wishes to continue his children's show. Minion has different plans and takes over, locking Floop into his "virtual room". The kids receive reluctant help from Gregorio's brother Isador "Machete" Cortez when they come to his spy shop, steal some of his gear, and take his plane to fly to Floop's castle. Juni crashes the plane into the water and the two swim into the castle. Minion takes Ingrid and Gregorio to the "fooglilizer". Gregorio reveals that Minion used to work for the OSS, but was fired when he attempted to steal the third brain.
-Juni rescues Floop and the three of them head to the control room. Floop theorizes he can fix the robots. They trap Minion on the fooglilizer and, confronting Lisp and Gradenko, the family are beset by 500 robots. Machete busts through the window and joins the family to fight. Floop resets the robots. With the robots on their side, the family heads home.
-With advice from Juni, Floop introduces the robot children on his show. The family's breakfast is interrupted by Devlin who has a mission for Carmen and Juni, but Carmen refuses, saying they work as a family.
+Ingrid and Gregorio Cortez are rival spies who fall in love.
+They retire and have two children, 12-year-old Carmen and 9-year-old Juni.
+They work for the Organization of Super Spies (OSS) doing desk work.
+The children have no idea of their parents' previous work.
+Ingrid and Gregorio are called back into the field when agents go missing.
+Gregorio thinks that a kids' TV show star Fegan Floop has kidnapped the agents and mutated them into his "Fooglies", creatures on his show.
+They are almost immediately captured by Floop's "Thumb-thumb" robots whose arms, legs, and head are made of thumbs, and taken to Floop's castle.
+The children are left in the care of Uncle Felix Gumm.
+Felix is alerted to the parents' capture, activates the fail-safe and tells the children the truth, and that he is not their uncle.
+The house is assaulted by thumb-thumbs and the children escape on a submarine that's set to auto-pilot to a safe house.
+At the safe house, Carmen unlocks the door using her full name and the children learn of their parents' spy past and decide to rescue them.
+Inside of Floop's castle, he introduces his latest creation to Mr.
+Lisp, small robots in the shape of children.
+He wishes to replace the world leaders' children with these super-strong robots to control the world.
+The robots are "dumb" and cannot function outside of their inherent programming.
+Lisp is furious, demanding usable robots to sell to his clients.
+Floop along with his second-in-command Alexander Minion interrogate Gregorio and Ingrid.
+Floop demands the third brain, but Ingrid has no idea what he's talking about.
+Gregorio claims that he destroyed the brain years ago.
+Realizing the brain must be with the children, Floop sends his minions after them.
+Gregorio reveals to Ingrid the truth about the Third Brain.
+It was the code-name of a project back when he worked in the science division of OSS.
+It was to house the skills of all of the world's best super spies.
+The project was deemed too dangerous, was scrapped and the materials to be destroyed, but Gregorio couldn't destroy the brain.
+Back at the safe house, the kids are visited by Ms.
+Gradenko.
+Gradenko says she works for OSS and is there to help the children.
+Carmen is easily swayed, but Juni is suspicious.
+Gradenko wants the third brain, but Carmen does not know anything.
+Gradenko orders the house destroyed, and Juni sees Thumb-thumbs outside destroying the submarine.
+Gradenko's intentions revealed, Juni accidentally reveals the third brain, and a chase ensues with Carmen and some henchmen with jet packs.
+Carmen eventually gets the brain, and she and Juni escape the thumbs.
+Minion reveals that he made robots of the children and Floop sends them to get the brain.
+Carmen is attacked by the Juni-robot.
+She dismisses it until she sees her robot counterpart attack Juni.
+Although he tries, Juni cannot destroy the brain, and the robots get it and fly away.
+With the third brain, Floop can achieve his goal, but he wishes to continue his children's show.
+Minion has different plans and takes over, locking Floop into his "virtual room". The kids receive reluctant help from Gregorio's brother Isador "Machete" Cortez when they come to his spy shop, steal some of his gear, and take his plane to fly to Floop's castle.
+Juni crashes the plane into the water and the two swim into the castle.
+Minion takes Ingrid and Gregorio to the "fooglilizer". Gregorio reveals that Minion used to work for the OSS, but was fired when he attempted to steal the third brain.
+Juni rescues Floop and the three of them head to the control room.
+Floop theorizes he can fix the robots.
+They trap Minion on the fooglilizer and, confronting Lisp and Gradenko, the family are beset by 500 robots.
+Machete busts through the window and joins the family to fight.
+Floop resets the robots.
+With the robots on their side, the family heads home.
+With advice from Juni, Floop introduces the robot children on his show.
+The family's breakfast is interrupted by Devlin who has a mission for Carmen and Juni, but Carmen refuses, saying they work as a family.

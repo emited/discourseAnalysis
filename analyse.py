@@ -120,9 +120,10 @@ def build_all():
     y_inf = [2 for t in inf_trees]
     y_des = [3 for t in des_trees]
     y = np.array( y_nar + y_arg + y_inf + y_des )
-    
+    pickle.dump(y,open('labels_test.pkl','wb'))
+
     T = [t[0] for t in all_trees]
-    pickle.dump(T,open('test.pkl','wb'))
+    pickle.dump(T,open('trees_test.pkl','wb'))
     
     index = ['bin','count','norm','height','tfid']
 
@@ -157,8 +158,7 @@ def build_all():
     V_df = pd.DataFrame(V_df)
     V_df.to_pickle('vects_test.pkl')
     
-    Y = vectorizer.inverse_transform(V_bin)
-    pickle.dump(Y,open('labels.pkl','wb'))
+    #Y = vectorizer.inverse_transform(V_bin)
 
 
 
@@ -168,13 +168,45 @@ def build_all():
     #K_tree = kernels.compute_gram(T,T,kernels.tree_kernel)
 
     ## vector kernels
+    ###linear
+    K_bin_lin = pairwise.linear_kernel(V_bin)
+    K_count_lin = pairwise.linear_kernel(V_count)
+    K_norm_lin = pairwise.linear_kernel(V_norm)
+    K_height_lin = pairwise.linear_kernel(V_height)
+    K_tfid_lin = pairwise.linear_kernel(V_tfid)
+    K_all_lin = [K_bin_lin, K_count_lin, K_norm_lin, K_height_lin, K_tfid_lin]
+    ### rbf
     K_bin_rbf = pairwise.rbf_kernel(V_bin)
     K_count_rbf = pairwise.rbf_kernel(V_count)
     K_norm_rbf = pairwise.rbf_kernel(V_norm)
     K_height_rbf = pairwise.rbf_kernel(V_height)
     K_tfid_rbf = pairwise.rbf_kernel(V_tfid)
-    
+    K_all_rbf = [K_bin_rbf, K_count_rbf, K_norm_rbf, K_height_rbf, K_tfid_rbf]
+    ### cosine sim
+    K_bin_cos_sim = pairwise.cosine_similarity(V_bin)
+    K_count_cos_sim = pairwise.cosine_similarity(V_count)
+    K_norm_cos_sim = pairwise.cosine_similarity(V_norm)
+    K_height_cos_sim = pairwise.cosine_similarity(V_height)
+    K_tfid_cos_sim = pairwise.cosine_similarity(V_tfid)
+    K_all_cos_sim = [K_bin_cos_sim, K_count_cos_sim, K_norm_cos_sim, K_height_cos_sim, K_tfid_cos_sim]    
+    #euclidean distance
+    K_bin_eucl_dist = pairwise.pairwise_distances(V_bin,metric='euclidean')
+    K_count_eucl_dist = pairwise.pairwise_distances(V_count,metric='euclidean')
+    K_norm_eucl_dist = pairwise.pairwise_distances(V_norm,metric='euclidean')
+    K_height_eucl_dist = pairwise.pairwise_distances(V_height,metric='euclidean')
+    K_tfid_eucl_dist = pairwise.pairwise_distances(V_tfid,metric='euclidean')
+    K_all_eucl_dist = [K_bin_eucl_dist, K_count_eucl_dist, K_norm_eucl_dist, K_height_eucl_dist, K_tfid_eucl_dist]
+    #minkowski distance
+    K_bin_mink_dist = pairwise.pairwise_distances(V_bin,metric='minkowski')
+    K_count_mink_dist = pairwise.pairwise_distances(V_count,metric='minkowski')
+    K_norm_mink_dist = pairwise.pairwise_distances(V_norm,metric='minkowski')
+    K_height_mink_dist = pairwise.pairwise_distances(V_height,metric='minkowski')
+    K_tfid_mink_dist = pairwise.pairwise_distances(V_tfid,metric='minkowski')
+    K_all_mink_dist = [K_bin_mink_dist, K_count_mink_dist, K_norm_mink_dist, K_height_mink_dist, K_tfid_mink_dist]
 
+
+    K_all = {'lin':K_all_lin, 'rbf':K_all_rbf, 'cos_sim':K_all_cos_sim,'eucl_dist':K_all_eucl_dist,'mink_dist':K_all_mink_dist}
+    pickle.dump(K_all,open('kernels_test.pkl','wb'))
 
 
 

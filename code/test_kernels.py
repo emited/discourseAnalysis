@@ -91,3 +91,4 @@ def test_on_data_base():
     print " - mean position: ",vector_kernel(v7,v8) 
 #=> Uncomment to test the following one
 test_on_data_base()
+

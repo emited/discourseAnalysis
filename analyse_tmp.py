@@ -10,8 +10,9 @@ from sklearn import feature_extraction
 from sklearn.metrics import pairwise
 import pandas as pd
 import cPickle as pickle
-from nltk.tree import Tree
 import code.tree as ctree
+from nltk.tree import Tree
+
 # Fichier a lancer depuis DPLP 
 
 
@@ -103,10 +104,7 @@ def build_all_test():
     write_tree_in_csv(inf_trees) 
     informative_labels = [3 for i in range(len(inf_trees))]'''
     
-    #A enlever 
-    nar_trees = [('(N1)','n1'),('((N2)(N1))','n2')]
-    arg_trees = [('(A1)','a1'),('(A2)','a2')]
-    inf_trees = [('(A1(A1)(I1))','i1'),('(I2)','i2'),('(I1)','i1')]    
+    #A remettre
     nar_trees = [(Tree.fromstring(t),n) for t,n in nar_trees]
     arg_trees = [(Tree.fromstring(t),n) for t,n in arg_trees]
     inf_trees = [(Tree.fromstring(t),n) for t,n in inf_trees]
@@ -125,6 +123,8 @@ def build_all_test():
     y_des = [3 for t in des_trees]
     y = np.array( y_nar + y_arg + y_inf + y_des )
     pickle.dump(y,open('labels_test.pkl','wb'))
+
+
     
     index = ['bin','count','norm','height','tfid']
 
@@ -151,8 +151,6 @@ def build_all_test():
     pickle.dump(V_all,open('vects_test.pkl','wb'))
     
     #Y = vectorizer.inverse_transform(V_bin)
-
-
 
     #Kernels
 
@@ -202,7 +200,6 @@ def build_all_test():
 
     K_all = {'lin':K_all_lin, 'rbf':K_all_rbf, 'cos_sim':K_all_cos_sim,'eucl_dist':K_all_eucl_dist,'mink_dist':K_all_mink_dist}
     pickle.dump(K_all,open('vect_kernels_test.pkl','wb'))
-    print "done"
 
 def build_all():
     # For each class, we build all the trees and save them in CSVs
@@ -224,16 +221,15 @@ def build_all():
     all_trees = nar_trees + arg_trees + inf_trees + des_trees
     int2cl = {0:'narrative', 1:'argumentative', 2:'informative',3:'descriptive'}
 
-    path_to_save = '~/Documents/s2/tal/discourseAnalysis/data/'
     y_nar = [0 for t in nar_trees]
     y_arg = [1 for t in arg_trees]
     y_inf = [2 for t in inf_trees]
     y_des = [3 for t in des_trees]
     y = np.array( y_nar + y_arg + y_inf + y_des )
-    pickle.dump(y,open(path_to_save+'labels_test.pkl','wb'))
+    pickle.dump(y,open('labels_test.pkl','wb'))
 
     T = [t[0] for t in all_trees]
-    pickle.dump(T,open(path_to_save+'trees_test.pkl','wb'))
+    pickle.dump(T,open('trees_test.pkl','wb'))
     
     index = ['bin','count','norm','height','tfid']
 
@@ -246,7 +242,7 @@ def build_all():
     
     D_df = pd.DataFrame([D_bin,D_count,D_norm,D_height,D_tfid],index=index)
     D_df = D_df.transpose()
-    D_df.to_pickle(path_to_save+'dicts_test.pkl')
+    D_df.to_pickle('dicts_test.pkl')
     
 
     #Vects
@@ -266,7 +262,7 @@ def build_all():
             d[index[j]]=v
         V_df.append(d)
     V_df = pd.DataFrame(V_df)
-    V_df.to_pickle(path_to_save+'vects_test.pkl')
+    V_df.to_pickle('vects_test.pkl')
     
     #euclidean distance
     K_bin_eucl_dist = pairwise.pairwise_distances(V_bin,metric='euclidean')
@@ -277,6 +273,7 @@ def build_all():
     K_all_eucl_dist = [K_bin_eucl_dist, K_count_eucl_dist, K_norm_eucl_dist, K_height_eucl_dist, K_tfid_eucl_dist]
     
     K_all = {'eucl_dist':K_all_eucl_dist}
-    pickle.dump(K_all,open(path_to_save+'kernels_test.pkl','wb'))
+    pickle.dump(K_all,open('kernels_test.pkl','wb'))
 
 build_all_test()
+print 'ok'

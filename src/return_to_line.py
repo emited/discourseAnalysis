@@ -7,6 +7,7 @@ Created on Thu Apr  7 22:11:12 2016
 
 import os
 import sys
+import re
 
 dirname = sys.argv[1]
 
@@ -17,7 +18,7 @@ for file in os.listdir(dirname):
         
         with open(fname, 'r') as f:
             read_data = f.read()
-            tmp = read_data.replace('\w\w.', '\w\w.\n')
+            tmp = re.sub(r'(.\w{2,})\. ', r'\1.\n',read_data)
         f.closed
 
         with open(fname, 'w') as f:

@@ -1,0 +1,4794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1" line="1">
+        <tokens>
+          <token id="1">
+            <word>Mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>discipline</word>
+            <lemma>discipline</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>applies</word>
+            <lemma>apply</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>principles</word>
+            <lemma>principle</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>physics,</word>
+            <lemma>physics,</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>97</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>materials</word>
+            <lemma>material</lemma>
+            <CharacterOffsetBegin>98</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>science</word>
+            <lemma>science</lemma>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>design,</word>
+            <lemma>design,</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>131</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>analysis,</word>
+            <lemma>analysis,</lemma>
+            <CharacterOffsetBegin>132</CharacterOffsetBegin>
+            <CharacterOffsetEnd>141</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>manufacturing,</word>
+            <lemma>manufacturing,</lemma>
+            <CharacterOffsetBegin>142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>156</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>160</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>maintenance</word>
+            <lemma>maintenance</lemma>
+            <CharacterOffsetBegin>161</CharacterOffsetBegin>
+            <CharacterOffsetEnd>172</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>173</CharacterOffsetBegin>
+            <CharacterOffsetEnd>175</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>systems.</word>
+            <lemma>systems.</lemma>
+            <CharacterOffsetBegin>187</CharacterOffsetBegin>
+            <CharacterOffsetEnd>195</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (JJ Mechanical) (NN engineering)) (VP (VBZ is) (NP (NP (DT the) (NN discipline)) (SBAR (WHNP (WDT that)) (S (VP (VBZ applies) (NP (NP (DT the) (NNS principles)) (PP (IN of) (NP (NP (NP (NN engineering,) (NN physics,) (CC and) (NNS materials) (NN science)) (PP (IN for) (NP (DT the) (NN design,) (NN analysis,) (NN manufacturing,)))) (CC and) (NP (NP (NN maintenance)) (PP (IN of) (NP (JJ mechanical) (NN systems.)))))))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">discipline</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">discipline</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">discipline</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">discipline</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">applies</governor>
+            <dependent idx="6">that</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="5">discipline</governor>
+            <dependent idx="7">applies</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">principles</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">applies</governor>
+            <dependent idx="9">principles</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">physics,</governor>
+            <dependent idx="10">of</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">physics,</governor>
+            <dependent idx="11">engineering,</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="9">principles</governor>
+            <dependent idx="12">physics,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">physics,</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">science</governor>
+            <dependent idx="14">materials</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">physics,</governor>
+            <dependent idx="15">science</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="16">for</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="18">design,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="19">analysis,</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="12">physics,</governor>
+            <dependent idx="20">manufacturing,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">physics,</governor>
+            <dependent idx="21">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">physics,</governor>
+            <dependent idx="22">maintenance</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">systems.</governor>
+            <dependent idx="23">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">systems.</governor>
+            <dependent idx="24">mechanical</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="22">maintenance</governor>
+            <dependent idx="25">systems.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">discipline</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">discipline</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">discipline</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">discipline</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">applies</governor>
+            <dependent idx="6">that</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="5">discipline</governor>
+            <dependent idx="7">applies</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">principles</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">applies</governor>
+            <dependent idx="9">principles</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">physics,</governor>
+            <dependent idx="10">of</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">physics,</governor>
+            <dependent idx="11">engineering,</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="9">principles</governor>
+            <dependent idx="12">physics,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">physics,</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">science</governor>
+            <dependent idx="14">materials</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">physics,</governor>
+            <dependent idx="15">science</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="16">for</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="18">design,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="19">analysis,</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="12">physics,</governor>
+            <dependent idx="20">manufacturing,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">physics,</governor>
+            <dependent idx="21">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">physics,</governor>
+            <dependent idx="22">maintenance</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">systems.</governor>
+            <dependent idx="23">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">systems.</governor>
+            <dependent idx="24">mechanical</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="22">maintenance</governor>
+            <dependent idx="25">systems.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">discipline</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">discipline</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">discipline</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">discipline</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">applies</governor>
+            <dependent idx="6">that</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="5">discipline</governor>
+            <dependent idx="7">applies</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">principles</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">applies</governor>
+            <dependent idx="9">principles</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">physics,</governor>
+            <dependent idx="10">of</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">physics,</governor>
+            <dependent idx="11">engineering,</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="9">principles</governor>
+            <dependent idx="12">physics,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">physics,</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="15">science</governor>
+            <dependent idx="14">materials</dependent>
+          </dep>
+          <dep type="nmod:of" extra="true">
+            <governor idx="9">principles</governor>
+            <dependent idx="15">science</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">physics,</governor>
+            <dependent idx="15">science</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="16">for</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="18">design,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="20">manufacturing,</governor>
+            <dependent idx="19">analysis,</dependent>
+          </dep>
+          <dep type="nmod:for">
+            <governor idx="12">physics,</governor>
+            <dependent idx="20">manufacturing,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">physics,</governor>
+            <dependent idx="21">and</dependent>
+          </dep>
+          <dep type="nmod:of" extra="true">
+            <governor idx="9">principles</governor>
+            <dependent idx="22">maintenance</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">physics,</governor>
+            <dependent idx="22">maintenance</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="25">systems.</governor>
+            <dependent idx="23">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">systems.</governor>
+            <dependent idx="24">mechanical</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="22">maintenance</governor>
+            <dependent idx="25">systems.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="2" line="2">
+        <tokens>
+          <token id="1">
+            <word>It</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>196</CharacterOffsetBegin>
+            <CharacterOffsetEnd>198</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>199</CharacterOffsetBegin>
+            <CharacterOffsetEnd>201</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>202</CharacterOffsetBegin>
+            <CharacterOffsetEnd>205</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>branch</word>
+            <lemma>branch</lemma>
+            <CharacterOffsetBegin>206</CharacterOffsetBegin>
+            <CharacterOffsetEnd>212</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>213</CharacterOffsetBegin>
+            <CharacterOffsetEnd>215</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>227</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>228</CharacterOffsetBegin>
+            <CharacterOffsetEnd>232</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>involves</word>
+            <lemma>involve</lemma>
+            <CharacterOffsetBegin>233</CharacterOffsetBegin>
+            <CharacterOffsetEnd>241</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>242</CharacterOffsetBegin>
+            <CharacterOffsetEnd>245</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>design,</word>
+            <lemma>design,</lemma>
+            <CharacterOffsetBegin>246</CharacterOffsetBegin>
+            <CharacterOffsetEnd>253</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>production,</word>
+            <lemma>production,</lemma>
+            <CharacterOffsetBegin>254</CharacterOffsetBegin>
+            <CharacterOffsetEnd>265</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>266</CharacterOffsetBegin>
+            <CharacterOffsetEnd>269</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>operation</word>
+            <lemma>operation</lemma>
+            <CharacterOffsetBegin>270</CharacterOffsetBegin>
+            <CharacterOffsetEnd>279</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>280</CharacterOffsetBegin>
+            <CharacterOffsetEnd>282</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>machinery.</word>
+            <lemma>machinery.</lemma>
+            <CharacterOffsetBegin>283</CharacterOffsetBegin>
+            <CharacterOffsetEnd>293</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT the) (NN branch)) (PP (IN of) (NP (NN engineering))) (SBAR (WHNP (WDT that)) (S (VP (VBZ involves) (NP (NP (DT the) (JJ design,) (NN production,) (CC and) (NN operation)) (PP (IN of) (NP (NN machinery.))))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">branch</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">branch</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">branch</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">branch</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">engineering</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">branch</governor>
+            <dependent idx="6">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">involves</governor>
+            <dependent idx="7">that</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="4">branch</governor>
+            <dependent idx="8">involves</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">production,</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">production,</governor>
+            <dependent idx="10">design,</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">involves</governor>
+            <dependent idx="11">production,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">production,</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">production,</governor>
+            <dependent idx="13">operation</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">machinery.</governor>
+            <dependent idx="14">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="11">production,</governor>
+            <dependent idx="15">machinery.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">branch</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">branch</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">branch</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">branch</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">engineering</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="4">branch</governor>
+            <dependent idx="6">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">involves</governor>
+            <dependent idx="7">that</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="4">branch</governor>
+            <dependent idx="8">involves</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">production,</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">production,</governor>
+            <dependent idx="10">design,</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">involves</governor>
+            <dependent idx="11">production,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">production,</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="11">production,</governor>
+            <dependent idx="13">operation</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">machinery.</governor>
+            <dependent idx="14">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="11">production,</governor>
+            <dependent idx="15">machinery.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">branch</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">branch</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">branch</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">branch</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">engineering</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="4">branch</governor>
+            <dependent idx="6">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">involves</governor>
+            <dependent idx="7">that</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="4">branch</governor>
+            <dependent idx="8">involves</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">production,</governor>
+            <dependent idx="9">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">production,</governor>
+            <dependent idx="10">design,</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">involves</governor>
+            <dependent idx="11">production,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">production,</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="dobj" extra="true">
+            <governor idx="8">involves</governor>
+            <dependent idx="13">operation</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="11">production,</governor>
+            <dependent idx="13">operation</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">machinery.</governor>
+            <dependent idx="14">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="11">production,</governor>
+            <dependent idx="15">machinery.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="3" line="3">
+        <tokens>
+          <token id="1">
+            <word>It</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>294</CharacterOffsetBegin>
+            <CharacterOffsetEnd>296</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>297</CharacterOffsetBegin>
+            <CharacterOffsetEnd>299</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>one</word>
+            <lemma>one</lemma>
+            <CharacterOffsetBegin>300</CharacterOffsetBegin>
+            <CharacterOffsetEnd>303</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>304</CharacterOffsetBegin>
+            <CharacterOffsetEnd>306</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>307</CharacterOffsetBegin>
+            <CharacterOffsetEnd>310</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>oldest</word>
+            <lemma>oldest</lemma>
+            <CharacterOffsetBegin>311</CharacterOffsetBegin>
+            <CharacterOffsetEnd>317</CharacterOffsetEnd>
+            <POS>JJS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>318</CharacterOffsetBegin>
+            <CharacterOffsetEnd>321</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>broadest</word>
+            <lemma>broadest</lemma>
+            <CharacterOffsetBegin>322</CharacterOffsetBegin>
+            <CharacterOffsetEnd>330</CharacterOffsetEnd>
+            <POS>JJS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>331</CharacterOffsetBegin>
+            <CharacterOffsetEnd>333</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>334</CharacterOffsetBegin>
+            <CharacterOffsetEnd>337</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>338</CharacterOffsetBegin>
+            <CharacterOffsetEnd>349</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>disciplines.</word>
+            <lemma>disciplines.</lemma>
+            <CharacterOffsetBegin>350</CharacterOffsetBegin>
+            <CharacterOffsetEnd>362</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJS oldest) (CC and) (JJS broadest)) (PP (IN of) (NP (DT the) (NN engineering) (NN disciplines.))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">one</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">one</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">one</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">oldest</governor>
+            <dependent idx="4">of</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">oldest</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">one</governor>
+            <dependent idx="6">oldest</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">oldest</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">oldest</governor>
+            <dependent idx="8">broadest</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="11">engineering</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="6">oldest</governor>
+            <dependent idx="12">disciplines.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">one</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">one</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">one</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">oldest</governor>
+            <dependent idx="4">of</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">oldest</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="3">one</governor>
+            <dependent idx="6">oldest</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">oldest</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="6">oldest</governor>
+            <dependent idx="8">broadest</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="11">engineering</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="6">oldest</governor>
+            <dependent idx="12">disciplines.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">one</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">one</governor>
+            <dependent idx="1">It</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">one</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">oldest</governor>
+            <dependent idx="4">of</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">oldest</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="3">one</governor>
+            <dependent idx="6">oldest</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">oldest</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="nmod:of" extra="true">
+            <governor idx="3">one</governor>
+            <dependent idx="8">broadest</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="6">oldest</governor>
+            <dependent idx="8">broadest</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">disciplines.</governor>
+            <dependent idx="11">engineering</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="6">oldest</governor>
+            <dependent idx="12">disciplines.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="4" line="4">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>363</CharacterOffsetBegin>
+            <CharacterOffsetEnd>366</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>367</CharacterOffsetBegin>
+            <CharacterOffsetEnd>378</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>field</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>379</CharacterOffsetBegin>
+            <CharacterOffsetEnd>384</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>requires</word>
+            <lemma>require</lemma>
+            <CharacterOffsetBegin>385</CharacterOffsetBegin>
+            <CharacterOffsetEnd>393</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>394</CharacterOffsetBegin>
+            <CharacterOffsetEnd>396</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>understanding</word>
+            <lemma>understanding</lemma>
+            <CharacterOffsetBegin>397</CharacterOffsetBegin>
+            <CharacterOffsetEnd>410</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>411</CharacterOffsetBegin>
+            <CharacterOffsetEnd>413</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>core</word>
+            <lemma>core</lemma>
+            <CharacterOffsetBegin>414</CharacterOffsetBegin>
+            <CharacterOffsetEnd>418</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>concepts</word>
+            <lemma>concept</lemma>
+            <CharacterOffsetBegin>419</CharacterOffsetBegin>
+            <CharacterOffsetEnd>427</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>including</word>
+            <lemma>include</lemma>
+            <CharacterOffsetBegin>428</CharacterOffsetBegin>
+            <CharacterOffsetEnd>437</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>mechanics,</word>
+            <lemma>mechanics,</lemma>
+            <CharacterOffsetBegin>438</CharacterOffsetBegin>
+            <CharacterOffsetEnd>448</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>kinematics,</word>
+            <lemma>kinematics,</lemma>
+            <CharacterOffsetBegin>449</CharacterOffsetBegin>
+            <CharacterOffsetEnd>460</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>thermodynamics,</word>
+            <lemma>thermodynamics,</lemma>
+            <CharacterOffsetBegin>461</CharacterOffsetBegin>
+            <CharacterOffsetEnd>476</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>materials</word>
+            <lemma>material</lemma>
+            <CharacterOffsetBegin>477</CharacterOffsetBegin>
+            <CharacterOffsetEnd>486</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>science,</word>
+            <lemma>science,</lemma>
+            <CharacterOffsetBegin>487</CharacterOffsetBegin>
+            <CharacterOffsetEnd>495</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>structural</word>
+            <lemma>structural</lemma>
+            <CharacterOffsetBegin>496</CharacterOffsetBegin>
+            <CharacterOffsetEnd>506</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>analysis,</word>
+            <lemma>analysis,</lemma>
+            <CharacterOffsetBegin>507</CharacterOffsetBegin>
+            <CharacterOffsetEnd>516</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>517</CharacterOffsetBegin>
+            <CharacterOffsetEnd>520</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>electricity.</word>
+            <lemma>electricity.</lemma>
+            <CharacterOffsetBegin>521</CharacterOffsetBegin>
+            <CharacterOffsetEnd>533</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NN engineering) (NN field)) (VP (VBZ requires) (SBAR (S (NP (NP (DT an) (NN understanding)) (PP (IN of) (NP (NP (NN core) (NNS concepts)) (PP (VBG including) (NP (JJ mechanics,) (NN kinematics,) (NN thermodynamics,) (NNS materials)))))) (VP (VBP science,) (NP (JJ structural) (NN analysis,) (CC and) (NN electricity.)))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">requires</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">field</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">field</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">requires</governor>
+            <dependent idx="3">field</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">understanding</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">science,</governor>
+            <dependent idx="6">understanding</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">concepts</governor>
+            <dependent idx="7">of</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">concepts</governor>
+            <dependent idx="8">core</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="6">understanding</governor>
+            <dependent idx="9">concepts</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">materials</governor>
+            <dependent idx="10">including</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">materials</governor>
+            <dependent idx="11">mechanics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">materials</governor>
+            <dependent idx="12">kinematics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">materials</governor>
+            <dependent idx="13">thermodynamics,</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="9">concepts</governor>
+            <dependent idx="14">materials</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="4">requires</governor>
+            <dependent idx="15">science,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="16">structural</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">science,</governor>
+            <dependent idx="17">analysis,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="19">electricity.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">requires</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">field</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">field</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">requires</governor>
+            <dependent idx="3">field</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">understanding</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">science,</governor>
+            <dependent idx="6">understanding</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">concepts</governor>
+            <dependent idx="7">of</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">concepts</governor>
+            <dependent idx="8">core</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="6">understanding</governor>
+            <dependent idx="9">concepts</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">materials</governor>
+            <dependent idx="10">including</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">materials</governor>
+            <dependent idx="11">mechanics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">materials</governor>
+            <dependent idx="12">kinematics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">materials</governor>
+            <dependent idx="13">thermodynamics,</dependent>
+          </dep>
+          <dep type="nmod:including">
+            <governor idx="9">concepts</governor>
+            <dependent idx="14">materials</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="4">requires</governor>
+            <dependent idx="15">science,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="16">structural</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">science,</governor>
+            <dependent idx="17">analysis,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="19">electricity.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">requires</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">field</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">field</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">requires</governor>
+            <dependent idx="3">field</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">understanding</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">science,</governor>
+            <dependent idx="6">understanding</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">concepts</governor>
+            <dependent idx="7">of</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="9">concepts</governor>
+            <dependent idx="8">core</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="6">understanding</governor>
+            <dependent idx="9">concepts</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">materials</governor>
+            <dependent idx="10">including</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">materials</governor>
+            <dependent idx="11">mechanics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">materials</governor>
+            <dependent idx="12">kinematics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">materials</governor>
+            <dependent idx="13">thermodynamics,</dependent>
+          </dep>
+          <dep type="nmod:including">
+            <governor idx="9">concepts</governor>
+            <dependent idx="14">materials</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="4">requires</governor>
+            <dependent idx="15">science,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="16">structural</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">science,</governor>
+            <dependent idx="17">analysis,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="dobj" extra="true">
+            <governor idx="15">science,</governor>
+            <dependent idx="19">electricity.</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="17">analysis,</governor>
+            <dependent idx="19">electricity.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="5" line="5">
+        <tokens>
+          <token id="1">
+            <word>Mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>534</CharacterOffsetBegin>
+            <CharacterOffsetEnd>544</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineers</word>
+            <lemma>engineer</lemma>
+            <CharacterOffsetBegin>545</CharacterOffsetBegin>
+            <CharacterOffsetEnd>554</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>use</word>
+            <lemma>use</lemma>
+            <CharacterOffsetBegin>555</CharacterOffsetBegin>
+            <CharacterOffsetEnd>558</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>these</word>
+            <lemma>these</lemma>
+            <CharacterOffsetBegin>559</CharacterOffsetBegin>
+            <CharacterOffsetEnd>564</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>core</word>
+            <lemma>core</lemma>
+            <CharacterOffsetBegin>565</CharacterOffsetBegin>
+            <CharacterOffsetEnd>569</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>principles</word>
+            <lemma>principle</lemma>
+            <CharacterOffsetBegin>570</CharacterOffsetBegin>
+            <CharacterOffsetEnd>580</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>along</word>
+            <lemma>along</lemma>
+            <CharacterOffsetBegin>581</CharacterOffsetBegin>
+            <CharacterOffsetEnd>586</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>587</CharacterOffsetBegin>
+            <CharacterOffsetEnd>591</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>tools</word>
+            <lemma>tool</lemma>
+            <CharacterOffsetBegin>592</CharacterOffsetBegin>
+            <CharacterOffsetEnd>597</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>like</word>
+            <lemma>like</lemma>
+            <CharacterOffsetBegin>598</CharacterOffsetBegin>
+            <CharacterOffsetEnd>602</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>computer-aided</word>
+            <lemma>computer-aided</lemma>
+            <CharacterOffsetBegin>603</CharacterOffsetBegin>
+            <CharacterOffsetEnd>617</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>design,</word>
+            <lemma>design,</lemma>
+            <CharacterOffsetBegin>618</CharacterOffsetBegin>
+            <CharacterOffsetEnd>625</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>626</CharacterOffsetBegin>
+            <CharacterOffsetEnd>629</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>product</word>
+            <lemma>product</lemma>
+            <CharacterOffsetBegin>630</CharacterOffsetBegin>
+            <CharacterOffsetEnd>637</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>lifecycle</word>
+            <lemma>lifecycle</lemma>
+            <CharacterOffsetBegin>638</CharacterOffsetBegin>
+            <CharacterOffsetEnd>647</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>management</word>
+            <lemma>management</lemma>
+            <CharacterOffsetBegin>648</CharacterOffsetBegin>
+            <CharacterOffsetEnd>658</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>659</CharacterOffsetBegin>
+            <CharacterOffsetEnd>661</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>design</word>
+            <lemma>design</lemma>
+            <CharacterOffsetBegin>662</CharacterOffsetBegin>
+            <CharacterOffsetEnd>668</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>669</CharacterOffsetBegin>
+            <CharacterOffsetEnd>672</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>analyze</word>
+            <lemma>analyze</lemma>
+            <CharacterOffsetBegin>673</CharacterOffsetBegin>
+            <CharacterOffsetEnd>680</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>manufacturing</word>
+            <lemma>manufacture</lemma>
+            <CharacterOffsetBegin>681</CharacterOffsetBegin>
+            <CharacterOffsetEnd>694</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>plants,</word>
+            <lemma>plants,</lemma>
+            <CharacterOffsetBegin>695</CharacterOffsetBegin>
+            <CharacterOffsetEnd>702</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>industrial</word>
+            <lemma>industrial</lemma>
+            <CharacterOffsetBegin>703</CharacterOffsetBegin>
+            <CharacterOffsetEnd>713</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>equipment</word>
+            <lemma>equipment</lemma>
+            <CharacterOffsetBegin>714</CharacterOffsetBegin>
+            <CharacterOffsetEnd>723</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>724</CharacterOffsetBegin>
+            <CharacterOffsetEnd>727</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>machinery,</word>
+            <lemma>machinery,</lemma>
+            <CharacterOffsetBegin>728</CharacterOffsetBegin>
+            <CharacterOffsetEnd>738</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>heating</word>
+            <lemma>heating</lemma>
+            <CharacterOffsetBegin>739</CharacterOffsetBegin>
+            <CharacterOffsetEnd>746</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>747</CharacterOffsetBegin>
+            <CharacterOffsetEnd>750</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>cooling</word>
+            <lemma>cooling</lemma>
+            <CharacterOffsetBegin>751</CharacterOffsetBegin>
+            <CharacterOffsetEnd>758</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>systems,</word>
+            <lemma>systems,</lemma>
+            <CharacterOffsetBegin>759</CharacterOffsetBegin>
+            <CharacterOffsetEnd>767</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>transport</word>
+            <lemma>transport</lemma>
+            <CharacterOffsetBegin>768</CharacterOffsetBegin>
+            <CharacterOffsetEnd>777</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>systems,</word>
+            <lemma>systems,</lemma>
+            <CharacterOffsetBegin>778</CharacterOffsetBegin>
+            <CharacterOffsetEnd>786</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>aircraft,</word>
+            <lemma>aircraft,</lemma>
+            <CharacterOffsetBegin>787</CharacterOffsetBegin>
+            <CharacterOffsetEnd>796</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>watercraft,</word>
+            <lemma>watercraft,</lemma>
+            <CharacterOffsetBegin>797</CharacterOffsetBegin>
+            <CharacterOffsetEnd>808</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>robotics,</word>
+            <lemma>robotics,</lemma>
+            <CharacterOffsetBegin>809</CharacterOffsetBegin>
+            <CharacterOffsetEnd>818</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="36">
+            <word>medical</word>
+            <lemma>medical</lemma>
+            <CharacterOffsetBegin>819</CharacterOffsetBegin>
+            <CharacterOffsetEnd>826</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="37">
+            <word>devices,</word>
+            <lemma>devices,</lemma>
+            <CharacterOffsetBegin>827</CharacterOffsetBegin>
+            <CharacterOffsetEnd>835</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>weapons,</word>
+            <lemma>weapons,</lemma>
+            <CharacterOffsetBegin>836</CharacterOffsetBegin>
+            <CharacterOffsetEnd>844</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="39">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>845</CharacterOffsetBegin>
+            <CharacterOffsetEnd>848</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="40">
+            <word>others.</word>
+            <lemma>others.</lemma>
+            <CharacterOffsetBegin>849</CharacterOffsetBegin>
+            <CharacterOffsetEnd>856</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (JJ Mechanical) (NNS engineers)) (VP (VBP use) (NP (DT these) (NN core) (NNS principles)) (PP (IN along) (IN with) (NP (NP (NNS tools)) (PP (IN like) (NP (JJ computer-aided) (NN design,) (CC and) (NN product) (NN lifecycle) (NN management))))) (S (VP (TO to) (VP (VP (VB design)) (CC and) (VP (VB analyze) (NP (NP (VBG manufacturing) (JJ plants,) (JJ industrial) (NN equipment) (CC and) (NN machinery,) (NN heating)) (CC and) (NP (NN cooling) (NN systems,) (NN transport) (NN systems,) (NN aircraft,) (NN watercraft,) (NN robotics,)))) (NP (JJ medical) (JJ devices,) (NN weapons,) (CC and) (NN others.)))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">use</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineers</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">use</governor>
+            <dependent idx="2">engineers</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">principles</governor>
+            <dependent idx="4">these</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">principles</governor>
+            <dependent idx="5">core</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">use</governor>
+            <dependent idx="6">principles</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">tools</governor>
+            <dependent idx="7">along</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">tools</governor>
+            <dependent idx="8">with</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">use</governor>
+            <dependent idx="9">tools</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">design,</governor>
+            <dependent idx="10">like</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">design,</governor>
+            <dependent idx="11">computer-aided</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="9">tools</governor>
+            <dependent idx="12">design,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">design,</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">management</governor>
+            <dependent idx="14">product</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">management</governor>
+            <dependent idx="15">lifecycle</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">design,</governor>
+            <dependent idx="16">management</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">design</governor>
+            <dependent idx="17">to</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">use</governor>
+            <dependent idx="18">design</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">design</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="18">design</governor>
+            <dependent idx="20">analyze</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="21">manufacturing</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="22">plants,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="23">industrial</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">analyze</governor>
+            <dependent idx="24">equipment</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="24">equipment</governor>
+            <dependent idx="25">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="27">heating</governor>
+            <dependent idx="26">machinery,</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="24">equipment</governor>
+            <dependent idx="27">heating</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="24">equipment</governor>
+            <dependent idx="28">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="29">cooling</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="30">systems,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="31">transport</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="32">systems,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="33">aircraft,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="34">watercraft,</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="24">equipment</governor>
+            <dependent idx="35">robotics,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="36">medical</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="37">devices,</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">design</governor>
+            <dependent idx="38">weapons,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="39">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="40">others.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">use</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineers</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">use</governor>
+            <dependent idx="2">engineers</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">principles</governor>
+            <dependent idx="4">these</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">principles</governor>
+            <dependent idx="5">core</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">use</governor>
+            <dependent idx="6">principles</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">tools</governor>
+            <dependent idx="7">along</dependent>
+          </dep>
+          <dep type="mwe">
+            <governor idx="7">along</governor>
+            <dependent idx="8">with</dependent>
+          </dep>
+          <dep type="nmod:along_with">
+            <governor idx="3">use</governor>
+            <dependent idx="9">tools</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">design,</governor>
+            <dependent idx="10">like</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">design,</governor>
+            <dependent idx="11">computer-aided</dependent>
+          </dep>
+          <dep type="nmod:like">
+            <governor idx="9">tools</governor>
+            <dependent idx="12">design,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">design,</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">management</governor>
+            <dependent idx="14">product</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">management</governor>
+            <dependent idx="15">lifecycle</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">design,</governor>
+            <dependent idx="16">management</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">design</governor>
+            <dependent idx="17">to</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">use</governor>
+            <dependent idx="18">design</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">design</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="18">design</governor>
+            <dependent idx="20">analyze</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="21">manufacturing</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="22">plants,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="23">industrial</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">analyze</governor>
+            <dependent idx="24">equipment</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="24">equipment</governor>
+            <dependent idx="25">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="27">heating</governor>
+            <dependent idx="26">machinery,</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="24">equipment</governor>
+            <dependent idx="27">heating</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="24">equipment</governor>
+            <dependent idx="28">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="29">cooling</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="30">systems,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="31">transport</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="32">systems,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="33">aircraft,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="34">watercraft,</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="24">equipment</governor>
+            <dependent idx="35">robotics,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="36">medical</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="37">devices,</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">design</governor>
+            <dependent idx="38">weapons,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="39">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="40">others.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">use</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineers</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">use</governor>
+            <dependent idx="2">engineers</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">principles</governor>
+            <dependent idx="4">these</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">principles</governor>
+            <dependent idx="5">core</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">use</governor>
+            <dependent idx="6">principles</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">tools</governor>
+            <dependent idx="7">along</dependent>
+          </dep>
+          <dep type="mwe">
+            <governor idx="7">along</governor>
+            <dependent idx="8">with</dependent>
+          </dep>
+          <dep type="nmod:along_with">
+            <governor idx="3">use</governor>
+            <dependent idx="9">tools</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">design,</governor>
+            <dependent idx="10">like</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">design,</governor>
+            <dependent idx="11">computer-aided</dependent>
+          </dep>
+          <dep type="nmod:like">
+            <governor idx="9">tools</governor>
+            <dependent idx="12">design,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">design,</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">management</governor>
+            <dependent idx="14">product</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">management</governor>
+            <dependent idx="15">lifecycle</dependent>
+          </dep>
+          <dep type="nmod:like" extra="true">
+            <governor idx="9">tools</governor>
+            <dependent idx="16">management</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">design,</governor>
+            <dependent idx="16">management</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">design</governor>
+            <dependent idx="17">to</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">use</governor>
+            <dependent idx="18">design</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">design</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="advcl" extra="true">
+            <governor idx="3">use</governor>
+            <dependent idx="20">analyze</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="18">design</governor>
+            <dependent idx="20">analyze</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="21">manufacturing</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="22">plants,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">equipment</governor>
+            <dependent idx="23">industrial</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">analyze</governor>
+            <dependent idx="24">equipment</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="24">equipment</governor>
+            <dependent idx="25">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="27">heating</governor>
+            <dependent idx="26">machinery,</dependent>
+          </dep>
+          <dep type="dobj" extra="true">
+            <governor idx="20">analyze</governor>
+            <dependent idx="27">heating</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="24">equipment</governor>
+            <dependent idx="27">heating</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="24">equipment</governor>
+            <dependent idx="28">and</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="29">cooling</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="30">systems,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="31">transport</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="32">systems,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="33">aircraft,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="35">robotics,</governor>
+            <dependent idx="34">watercraft,</dependent>
+          </dep>
+          <dep type="dobj" extra="true">
+            <governor idx="20">analyze</governor>
+            <dependent idx="35">robotics,</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="24">equipment</governor>
+            <dependent idx="35">robotics,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="36">medical</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="37">devices,</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">design</governor>
+            <dependent idx="38">weapons,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="39">and</dependent>
+          </dep>
+          <dep type="dobj" extra="true">
+            <governor idx="18">design</governor>
+            <dependent idx="40">others.</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="38">weapons,</governor>
+            <dependent idx="40">others.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="6" line="6">
+        <tokens>
+          <token id="1">
+            <word>Mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>857</CharacterOffsetBegin>
+            <CharacterOffsetEnd>867</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>868</CharacterOffsetBegin>
+            <CharacterOffsetEnd>879</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>emerged</word>
+            <lemma>emerge</lemma>
+            <CharacterOffsetBegin>880</CharacterOffsetBegin>
+            <CharacterOffsetEnd>887</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>888</CharacterOffsetBegin>
+            <CharacterOffsetEnd>890</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>891</CharacterOffsetBegin>
+            <CharacterOffsetEnd>892</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>field</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>893</CharacterOffsetBegin>
+            <CharacterOffsetEnd>898</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>during</word>
+            <lemma>during</lemma>
+            <CharacterOffsetBegin>899</CharacterOffsetBegin>
+            <CharacterOffsetEnd>905</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>906</CharacterOffsetBegin>
+            <CharacterOffsetEnd>909</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>industrial</word>
+            <lemma>industrial</lemma>
+            <CharacterOffsetBegin>910</CharacterOffsetBegin>
+            <CharacterOffsetEnd>920</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>revolution</word>
+            <lemma>revolution</lemma>
+            <CharacterOffsetBegin>921</CharacterOffsetBegin>
+            <CharacterOffsetEnd>931</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>932</CharacterOffsetBegin>
+            <CharacterOffsetEnd>934</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>Europe</word>
+            <lemma>Europe</lemma>
+            <CharacterOffsetBegin>935</CharacterOffsetBegin>
+            <CharacterOffsetEnd>941</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>942</CharacterOffsetBegin>
+            <CharacterOffsetEnd>944</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>945</CharacterOffsetBegin>
+            <CharacterOffsetEnd>948</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>18th</word>
+            <lemma>18th</lemma>
+            <CharacterOffsetBegin>949</CharacterOffsetBegin>
+            <CharacterOffsetEnd>953</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>century;</word>
+            <lemma>century;</lemma>
+            <CharacterOffsetBegin>954</CharacterOffsetBegin>
+            <CharacterOffsetEnd>962</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>however,</word>
+            <lemma>however,</lemma>
+            <CharacterOffsetBegin>963</CharacterOffsetBegin>
+            <CharacterOffsetEnd>971</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>its</word>
+            <lemma>its</lemma>
+            <CharacterOffsetBegin>972</CharacterOffsetBegin>
+            <CharacterOffsetEnd>975</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>development</word>
+            <lemma>development</lemma>
+            <CharacterOffsetBegin>976</CharacterOffsetBegin>
+            <CharacterOffsetEnd>987</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>can</word>
+            <lemma>can</lemma>
+            <CharacterOffsetBegin>988</CharacterOffsetBegin>
+            <CharacterOffsetEnd>991</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>be</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>992</CharacterOffsetBegin>
+            <CharacterOffsetEnd>994</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>traced</word>
+            <lemma>trace</lemma>
+            <CharacterOffsetBegin>995</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1001</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>back</word>
+            <lemma>back</lemma>
+            <CharacterOffsetBegin>1002</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1006</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>several</word>
+            <lemma>several</lemma>
+            <CharacterOffsetBegin>1007</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1014</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>thousand</word>
+            <lemma>thousand</lemma>
+            <CharacterOffsetBegin>1015</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1023</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>years</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>1024</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1029</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>around</word>
+            <lemma>around</lemma>
+            <CharacterOffsetBegin>1030</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1036</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1037</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1040</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>world.</word>
+            <lemma>world.</lemma>
+            <CharacterOffsetBegin>1041</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1047</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (JJ Mechanical) (NN engineering)) (VP (VBD emerged) (PP (IN as) (NP (DT a) (NN field))) (PP (IN during) (NP (NP (DT the) (JJ industrial) (NN revolution)) (PP (IN in) (NP (NNP Europe))))) (PP (IN in) (NP (NP (DT the) (JJ 18th) (NN century;) (NN however,)) (SBAR (S (NP (PRP$ its) (NN development)) (VP (MD can) (VP (VB be) (VP (VBN traced) (ADVP (RB back) (NP (QP (JJ several) (CD thousand)) (NNS years))) (PP (IN around) (NP (DT the) (NN world.))))))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">emerged</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">emerged</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">field</governor>
+            <dependent idx="4">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">field</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">emerged</governor>
+            <dependent idx="6">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">revolution</governor>
+            <dependent idx="7">during</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">revolution</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">revolution</governor>
+            <dependent idx="9">industrial</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">emerged</governor>
+            <dependent idx="10">revolution</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">Europe</governor>
+            <dependent idx="11">in</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="10">revolution</governor>
+            <dependent idx="12">Europe</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">however,</governor>
+            <dependent idx="13">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">however,</governor>
+            <dependent idx="14">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">however,</governor>
+            <dependent idx="15">18th</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="17">however,</governor>
+            <dependent idx="16">century;</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">emerged</governor>
+            <dependent idx="17">however,</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="19">development</governor>
+            <dependent idx="18">its</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="22">traced</governor>
+            <dependent idx="19">development</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">traced</governor>
+            <dependent idx="20">can</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="22">traced</governor>
+            <dependent idx="21">be</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="17">however,</governor>
+            <dependent idx="22">traced</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">traced</governor>
+            <dependent idx="23">back</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="25">thousand</governor>
+            <dependent idx="24">several</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">years</governor>
+            <dependent idx="25">thousand</dependent>
+          </dep>
+          <dep type="nmod:npmod">
+            <governor idx="23">back</governor>
+            <dependent idx="26">years</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="29">world.</governor>
+            <dependent idx="27">around</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="29">world.</governor>
+            <dependent idx="28">the</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="22">traced</governor>
+            <dependent idx="29">world.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">emerged</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">emerged</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">field</governor>
+            <dependent idx="4">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">field</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="3">emerged</governor>
+            <dependent idx="6">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">revolution</governor>
+            <dependent idx="7">during</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">revolution</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">revolution</governor>
+            <dependent idx="9">industrial</dependent>
+          </dep>
+          <dep type="nmod:during">
+            <governor idx="3">emerged</governor>
+            <dependent idx="10">revolution</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">Europe</governor>
+            <dependent idx="11">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="10">revolution</governor>
+            <dependent idx="12">Europe</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">however,</governor>
+            <dependent idx="13">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">however,</governor>
+            <dependent idx="14">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">however,</governor>
+            <dependent idx="15">18th</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="17">however,</governor>
+            <dependent idx="16">century;</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="3">emerged</governor>
+            <dependent idx="17">however,</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="19">development</governor>
+            <dependent idx="18">its</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="22">traced</governor>
+            <dependent idx="19">development</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">traced</governor>
+            <dependent idx="20">can</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="22">traced</governor>
+            <dependent idx="21">be</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="17">however,</governor>
+            <dependent idx="22">traced</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">traced</governor>
+            <dependent idx="23">back</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="25">thousand</governor>
+            <dependent idx="24">several</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">years</governor>
+            <dependent idx="25">thousand</dependent>
+          </dep>
+          <dep type="nmod:npmod">
+            <governor idx="23">back</governor>
+            <dependent idx="26">years</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="29">world.</governor>
+            <dependent idx="27">around</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="29">world.</governor>
+            <dependent idx="28">the</dependent>
+          </dep>
+          <dep type="nmod:around">
+            <governor idx="22">traced</governor>
+            <dependent idx="29">world.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">emerged</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">emerged</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">field</governor>
+            <dependent idx="4">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">field</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="3">emerged</governor>
+            <dependent idx="6">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">revolution</governor>
+            <dependent idx="7">during</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">revolution</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">revolution</governor>
+            <dependent idx="9">industrial</dependent>
+          </dep>
+          <dep type="nmod:during">
+            <governor idx="3">emerged</governor>
+            <dependent idx="10">revolution</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">Europe</governor>
+            <dependent idx="11">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="10">revolution</governor>
+            <dependent idx="12">Europe</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">however,</governor>
+            <dependent idx="13">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">however,</governor>
+            <dependent idx="14">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">however,</governor>
+            <dependent idx="15">18th</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="17">however,</governor>
+            <dependent idx="16">century;</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="3">emerged</governor>
+            <dependent idx="17">however,</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="19">development</governor>
+            <dependent idx="18">its</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="22">traced</governor>
+            <dependent idx="19">development</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">traced</governor>
+            <dependent idx="20">can</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="22">traced</governor>
+            <dependent idx="21">be</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="17">however,</governor>
+            <dependent idx="22">traced</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">traced</governor>
+            <dependent idx="23">back</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="25">thousand</governor>
+            <dependent idx="24">several</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="26">years</governor>
+            <dependent idx="25">thousand</dependent>
+          </dep>
+          <dep type="nmod:npmod">
+            <governor idx="23">back</governor>
+            <dependent idx="26">years</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="29">world.</governor>
+            <dependent idx="27">around</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="29">world.</governor>
+            <dependent idx="28">the</dependent>
+          </dep>
+          <dep type="nmod:around">
+            <governor idx="22">traced</governor>
+            <dependent idx="29">world.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="7" line="7">
+        <tokens>
+          <token id="1">
+            <word>Mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>1048</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1058</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>1059</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1070</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>science</word>
+            <lemma>science</lemma>
+            <CharacterOffsetBegin>1071</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1078</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>emerged</word>
+            <lemma>emerge</lemma>
+            <CharacterOffsetBegin>1079</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1086</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>1087</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1089</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1090</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1093</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>19th</word>
+            <lemma>19th</lemma>
+            <CharacterOffsetBegin>1094</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1098</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>century</word>
+            <lemma>century</lemma>
+            <CharacterOffsetBegin>1099</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1106</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>1107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1109</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>1110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1111</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>result</word>
+            <lemma>result</lemma>
+            <CharacterOffsetBegin>1112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1118</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1121</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>developments</word>
+            <lemma>development</lemma>
+            <CharacterOffsetBegin>1122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1134</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>1135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1137</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1141</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>field</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>1142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1147</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1150</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>physics.</word>
+            <lemma>physics.</lemma>
+            <CharacterOffsetBegin>1151</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1159</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (JJ Mechanical) (NN engineering) (NN science)) (VP (VBD emerged) (PP (IN in) (NP (DT the) (JJ 19th) (NN century))) (PP (IN as) (NP (NP (DT a) (NN result)) (PP (IN of) (NP (NP (NNS developments)) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NN physics.)))))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">emerged</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">science</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">science</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">emerged</governor>
+            <dependent idx="3">science</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">century</governor>
+            <dependent idx="5">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">century</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">century</governor>
+            <dependent idx="7">19th</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">emerged</governor>
+            <dependent idx="8">century</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">result</governor>
+            <dependent idx="9">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">result</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">emerged</governor>
+            <dependent idx="11">result</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">developments</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="11">result</governor>
+            <dependent idx="13">developments</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="16">field</governor>
+            <dependent idx="14">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">field</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="13">developments</governor>
+            <dependent idx="16">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">physics.</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="16">field</governor>
+            <dependent idx="18">physics.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">emerged</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">science</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">science</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">emerged</governor>
+            <dependent idx="3">science</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">century</governor>
+            <dependent idx="5">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">century</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">century</governor>
+            <dependent idx="7">19th</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="4">emerged</governor>
+            <dependent idx="8">century</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">result</governor>
+            <dependent idx="9">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">result</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="4">emerged</governor>
+            <dependent idx="11">result</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">developments</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="11">result</governor>
+            <dependent idx="13">developments</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="16">field</governor>
+            <dependent idx="14">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">field</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="13">developments</governor>
+            <dependent idx="16">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">physics.</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="16">field</governor>
+            <dependent idx="18">physics.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">emerged</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">science</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">science</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">emerged</governor>
+            <dependent idx="3">science</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">century</governor>
+            <dependent idx="5">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">century</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">century</governor>
+            <dependent idx="7">19th</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="4">emerged</governor>
+            <dependent idx="8">century</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">result</governor>
+            <dependent idx="9">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">result</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="4">emerged</governor>
+            <dependent idx="11">result</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">developments</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="11">result</governor>
+            <dependent idx="13">developments</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="16">field</governor>
+            <dependent idx="14">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">field</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="13">developments</governor>
+            <dependent idx="16">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">physics.</governor>
+            <dependent idx="17">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="16">field</governor>
+            <dependent idx="18">physics.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="8" line="8">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1160</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1163</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>field</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>1164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1169</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>1170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1173</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>continually</word>
+            <lemma>continually</lemma>
+            <CharacterOffsetBegin>1174</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1185</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>evolved</word>
+            <lemma>evolve</lemma>
+            <CharacterOffsetBegin>1186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1193</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>1194</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1196</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>incorporate</word>
+            <lemma>incorporate</lemma>
+            <CharacterOffsetBegin>1197</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1208</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>advancements</word>
+            <lemma>advancement</lemma>
+            <CharacterOffsetBegin>1209</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1221</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>1222</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1224</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>technology,</word>
+            <lemma>technology,</lemma>
+            <CharacterOffsetBegin>1225</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1236</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>1237</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1240</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>1241</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1251</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>engineers</word>
+            <lemma>engineer</lemma>
+            <CharacterOffsetBegin>1252</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1261</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>today</word>
+            <lemma>today</lemma>
+            <CharacterOffsetBegin>1262</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1267</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>1268</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1271</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>pursuing</word>
+            <lemma>pursue</lemma>
+            <CharacterOffsetBegin>1272</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1280</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>developments</word>
+            <lemma>development</lemma>
+            <CharacterOffsetBegin>1281</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1293</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>1294</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1296</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>such</word>
+            <lemma>such</lemma>
+            <CharacterOffsetBegin>1297</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1301</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>fields</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>1302</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1308</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>1309</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1311</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>composites,</word>
+            <lemma>composites,</lemma>
+            <CharacterOffsetBegin>1312</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1323</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>mechatronics,</word>
+            <lemma>mechatronics,</lemma>
+            <CharacterOffsetBegin>1324</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1337</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>1338</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1341</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>nanotechnology.</word>
+            <lemma>nanotechnology.</lemma>
+            <CharacterOffsetBegin>1342</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1357</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NN field)) (VP (VBZ has) (ADVP (RB continually)) (VP (VBN evolved) (S (VP (TO to) (VP (VB incorporate) (SBAR (S (NP (NP (NNS advancements)) (PP (IN in) (NP (NN technology,) (CC and) (JJ mechanical) (NNS engineers) (NN today)))) (VP (VBP are) (VP (VBG pursuing) (NP (NP (NNS developments)) (PP (IN in) (NP (JJ such) (NNS fields)))) (PP (IN as) (NP (NN composites,) (NN mechatronics,) (CC and) (NN nanotechnology.)))))))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">evolved</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">field</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">evolved</governor>
+            <dependent idx="2">field</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">evolved</governor>
+            <dependent idx="3">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">evolved</governor>
+            <dependent idx="4">continually</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="7">incorporate</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">evolved</governor>
+            <dependent idx="7">incorporate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="8">advancements</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">today</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">today</governor>
+            <dependent idx="10">technology,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="10">technology,</governor>
+            <dependent idx="11">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="10">technology,</governor>
+            <dependent idx="12">mechanical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">today</governor>
+            <dependent idx="13">engineers</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="8">advancements</governor>
+            <dependent idx="14">today</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="15">are</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="7">incorporate</governor>
+            <dependent idx="16">pursuing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="17">developments</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">fields</governor>
+            <dependent idx="18">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="20">fields</governor>
+            <dependent idx="19">such</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">developments</governor>
+            <dependent idx="20">fields</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="21">as</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="22">composites,</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="23">mechatronics,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="24">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="25">nanotechnology.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">evolved</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">field</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">evolved</governor>
+            <dependent idx="2">field</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">evolved</governor>
+            <dependent idx="3">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">evolved</governor>
+            <dependent idx="4">continually</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="7">incorporate</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">evolved</governor>
+            <dependent idx="7">incorporate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="8">advancements</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">today</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">today</governor>
+            <dependent idx="10">technology,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="10">technology,</governor>
+            <dependent idx="11">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="10">technology,</governor>
+            <dependent idx="12">mechanical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">today</governor>
+            <dependent idx="13">engineers</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="8">advancements</governor>
+            <dependent idx="14">today</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="15">are</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="7">incorporate</governor>
+            <dependent idx="16">pursuing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="17">developments</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">fields</governor>
+            <dependent idx="18">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="20">fields</governor>
+            <dependent idx="19">such</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="17">developments</governor>
+            <dependent idx="20">fields</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="21">as</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="22">composites,</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="23">mechatronics,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="24">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="25">nanotechnology.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">evolved</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">field</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">evolved</governor>
+            <dependent idx="2">field</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">evolved</governor>
+            <dependent idx="3">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">evolved</governor>
+            <dependent idx="4">continually</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="7">incorporate</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">evolved</governor>
+            <dependent idx="7">incorporate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="8">advancements</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">today</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">today</governor>
+            <dependent idx="10">technology,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="10">technology,</governor>
+            <dependent idx="11">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="10">technology,</governor>
+            <dependent idx="12">mechanical</dependent>
+          </dep>
+          <dep type="compound" extra="true">
+            <governor idx="14">today</governor>
+            <dependent idx="12">mechanical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="14">today</governor>
+            <dependent idx="13">engineers</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="8">advancements</governor>
+            <dependent idx="14">today</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="15">are</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="7">incorporate</governor>
+            <dependent idx="16">pursuing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="17">developments</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">fields</governor>
+            <dependent idx="18">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="20">fields</governor>
+            <dependent idx="19">such</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="17">developments</governor>
+            <dependent idx="20">fields</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="21">as</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="22">composites,</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="23">mechatronics,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="24">and</dependent>
+          </dep>
+          <dep type="nmod:as" extra="true">
+            <governor idx="16">pursuing</governor>
+            <dependent idx="25">nanotechnology.</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="23">mechatronics,</governor>
+            <dependent idx="25">nanotechnology.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="9" line="9">
+        <tokens>
+          <token id="1">
+            <word>Mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>1358</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1368</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>1369</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1380</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>overlaps</word>
+            <lemma>overlap</lemma>
+            <CharacterOffsetBegin>1381</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1389</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>1390</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1394</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>aerospace</word>
+            <lemma>aerospace</lemma>
+            <CharacterOffsetBegin>1395</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1404</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1405</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1417</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>metallurgical</word>
+            <lemma>metallurgical</lemma>
+            <CharacterOffsetBegin>1418</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1431</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1432</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1444</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>civil</word>
+            <lemma>civil</lemma>
+            <CharacterOffsetBegin>1445</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1450</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1451</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1463</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>electrical</word>
+            <lemma>electrical</lemma>
+            <CharacterOffsetBegin>1464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1474</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1475</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1487</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>manufacturing</word>
+            <lemma>manufacturing</lemma>
+            <CharacterOffsetBegin>1488</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1501</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1502</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1514</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>chemical</word>
+            <lemma>chemical</lemma>
+            <CharacterOffsetBegin>1515</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1523</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1524</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1536</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>industrial</word>
+            <lemma>industrial</lemma>
+            <CharacterOffsetBegin>1537</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1547</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1548</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1560</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>1561</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1564</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>other</word>
+            <lemma>other</lemma>
+            <CharacterOffsetBegin>1565</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1570</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>engineering</word>
+            <lemma>engineering</lemma>
+            <CharacterOffsetBegin>1571</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1582</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>disciplines</word>
+            <lemma>discipline</lemma>
+            <CharacterOffsetBegin>1583</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1594</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>1595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1597</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>varying</word>
+            <lemma>vary</lemma>
+            <CharacterOffsetBegin>1598</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1605</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>amounts.</word>
+            <lemma>amounts.</lemma>
+            <CharacterOffsetBegin>1606</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1614</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (JJ Mechanical) (NN engineering)) (VP (VBZ overlaps) (PP (IN with) (NP (NP (NN aerospace) (NN engineering,) (JJ metallurgical) (NN engineering,) (JJ civil) (NN engineering,) (JJ electrical) (NN engineering,) (NN manufacturing) (NN engineering,) (NN chemical) (NN engineering,) (JJ industrial) (NN engineering,) (CC and) (JJ other) (NN engineering) (NNS disciplines)) (PP (TO to) (NP (NP (VBG varying)) (ADJP (IN amounts.))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">overlaps</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="4">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="5">aerospace</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="6">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="7">metallurgical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="8">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="9">civil</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="10">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="11">electrical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="12">engineering,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="13">manufacturing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="14">engineering,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="15">chemical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="16">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="17">industrial</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="18">engineering,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">disciplines</governor>
+            <dependent idx="20">other</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="22">disciplines</governor>
+            <dependent idx="21">engineering</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="22">disciplines</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="24">varying</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="24">varying</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">varying</governor>
+            <dependent idx="25">amounts.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">overlaps</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="4">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="5">aerospace</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="6">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="7">metallurgical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="8">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="9">civil</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="10">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="11">electrical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="12">engineering,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="13">manufacturing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="14">engineering,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="15">chemical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="16">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="17">industrial</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="18">engineering,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">disciplines</governor>
+            <dependent idx="20">other</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="22">disciplines</governor>
+            <dependent idx="21">engineering</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="22">disciplines</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="24">varying</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="24">varying</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">varying</governor>
+            <dependent idx="25">amounts.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">overlaps</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineering</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="2">engineering</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="4">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="5">aerospace</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="6">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="7">metallurgical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="8">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="9">civil</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="10">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="11">electrical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="12">engineering,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="13">manufacturing</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="14">engineering,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="15">chemical</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="16">engineering,</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="17">industrial</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="18">engineering,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">disciplines</governor>
+            <dependent idx="20">other</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="22">disciplines</governor>
+            <dependent idx="21">engineering</dependent>
+          </dep>
+          <dep type="nmod:with" extra="true">
+            <governor idx="3">overlaps</governor>
+            <dependent idx="22">disciplines</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="22">disciplines</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="24">varying</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="18">engineering,</governor>
+            <dependent idx="24">varying</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">varying</governor>
+            <dependent idx="25">amounts.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="10" line="10">
+        <tokens>
+          <token id="1">
+            <word>Mechanical</word>
+            <lemma>mechanical</lemma>
+            <CharacterOffsetBegin>1615</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1625</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>engineers</word>
+            <lemma>engineer</lemma>
+            <CharacterOffsetBegin>1626</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1635</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>may</word>
+            <lemma>may</lemma>
+            <CharacterOffsetBegin>1636</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1639</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>also</word>
+            <lemma>also</lemma>
+            <CharacterOffsetBegin>1640</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1644</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>work</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>1645</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1649</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>1650</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1652</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1653</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1656</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>field</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>1657</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1662</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1663</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1665</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>biomedical</word>
+            <lemma>biomedical</lemma>
+            <CharacterOffsetBegin>1666</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1676</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>engineering,</word>
+            <lemma>engineering,</lemma>
+            <CharacterOffsetBegin>1677</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1689</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>specifically</word>
+            <lemma>specifically</lemma>
+            <CharacterOffsetBegin>1690</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1702</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>1703</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1707</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>biomechanics,</word>
+            <lemma>biomechanics,</lemma>
+            <CharacterOffsetBegin>1708</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1721</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>transport</word>
+            <lemma>transport</lemma>
+            <CharacterOffsetBegin>1722</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1731</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>phenomena,</word>
+            <lemma>phenomena,</lemma>
+            <CharacterOffsetBegin>1732</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1742</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>biomechatronics,</word>
+            <lemma>biomechatronics,</lemma>
+            <CharacterOffsetBegin>1743</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1759</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>bionanotechnology,</word>
+            <lemma>bionanotechnology,</lemma>
+            <CharacterOffsetBegin>1760</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1778</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>1779</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1782</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>modeling</word>
+            <lemma>modeling</lemma>
+            <CharacterOffsetBegin>1783</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1791</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1792</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1794</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>biological</word>
+            <lemma>biological</lemma>
+            <CharacterOffsetBegin>1795</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1805</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>systems.</word>
+            <lemma>systems.</lemma>
+            <CharacterOffsetBegin>1806</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1814</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (JJ Mechanical) (NNS engineers)) (VP (MD may) (ADVP (RB also)) (VP (VB work) (PP (IN in) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (JJ biomedical) (NN engineering,))))) (PP (ADVP (RB specifically)) (IN with) (NP (NP (NN biomechanics,) (NN transport) (NN phenomena,) (NN biomechatronics,) (NN bionanotechnology,) (CC and) (NN modeling)) (PP (IN of) (NP (JJ biological) (NN systems.))))))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">work</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineers</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">work</governor>
+            <dependent idx="2">engineers</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">work</governor>
+            <dependent idx="3">may</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">work</governor>
+            <dependent idx="4">also</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">field</governor>
+            <dependent idx="6">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">field</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">work</governor>
+            <dependent idx="8">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">engineering,</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">engineering,</governor>
+            <dependent idx="10">biomedical</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="8">field</governor>
+            <dependent idx="11">engineering,</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="12">specifically</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="14">biomechanics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="15">transport</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="16">phenomena,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="17">biomechatronics,</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">work</governor>
+            <dependent idx="18">bionanotechnology,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="20">modeling</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="23">systems.</governor>
+            <dependent idx="21">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">systems.</governor>
+            <dependent idx="22">biological</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="23">systems.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">work</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineers</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">work</governor>
+            <dependent idx="2">engineers</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">work</governor>
+            <dependent idx="3">may</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">work</governor>
+            <dependent idx="4">also</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">field</governor>
+            <dependent idx="6">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">field</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="5">work</governor>
+            <dependent idx="8">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">engineering,</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">engineering,</governor>
+            <dependent idx="10">biomedical</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="8">field</governor>
+            <dependent idx="11">engineering,</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="12">specifically</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="14">biomechanics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="15">transport</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="16">phenomena,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="17">biomechatronics,</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="5">work</governor>
+            <dependent idx="18">bionanotechnology,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="20">modeling</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="23">systems.</governor>
+            <dependent idx="21">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">systems.</governor>
+            <dependent idx="22">biological</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="23">systems.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">work</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">engineers</governor>
+            <dependent idx="1">Mechanical</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">work</governor>
+            <dependent idx="2">engineers</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">work</governor>
+            <dependent idx="3">may</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">work</governor>
+            <dependent idx="4">also</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">field</governor>
+            <dependent idx="6">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">field</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="5">work</governor>
+            <dependent idx="8">field</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">engineering,</governor>
+            <dependent idx="9">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">engineering,</governor>
+            <dependent idx="10">biomedical</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="8">field</governor>
+            <dependent idx="11">engineering,</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="12">specifically</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="14">biomechanics,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="15">transport</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="16">phenomena,</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="17">biomechatronics,</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="5">work</governor>
+            <dependent idx="18">bionanotechnology,</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="19">and</dependent>
+          </dep>
+          <dep type="nmod:with" extra="true">
+            <governor idx="5">work</governor>
+            <dependent idx="20">modeling</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="20">modeling</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="23">systems.</governor>
+            <dependent idx="21">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">systems.</governor>
+            <dependent idx="22">biological</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="18">bionanotechnology,</governor>
+            <dependent idx="23">systems.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

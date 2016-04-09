@@ -1,22 +1,23 @@
 
 #!usr/bin/bash
 
-# path to use : ~/Documents/s2/tal/discourseAnalysis/data
-~/Documents/s2/tal/discourseAnalysis/data
-
 # A executer depuis le dossier DPLP sous peine d'echec !
-rm ../data/*.txt.*
+# types : argumentative  informative  narrative  
 
+#rm ../data/*.txt.*
 
-../coreNLP/corenlp_2.sh  ../data
+bash /tmp/corenlp/torun.sh
 
-python convert.py ../data
+python convert.py ~/Documents/s2/tal/discourseAnalysis/data/narrative;
+python convert.py ~/Documents/s2/tal/discourseAnalysis/data/argumentative;
+python convert.py ~/Documents/s2/tal/discourseAnalysis/data/informative;
 
-python segmenter.py ../data
+python segmenter.py ~/Documents/s2/tal/discourseAnalysis/data/narrative;
+python segmenter.py ~/Documents/s2/tal/discourseAnalysis/data/argumentative;
+python segmenter.py ~/Documents/s2/tal/discourseAnalysis/data/informative;
 
-python analyse.py ../data
-
-#python rstparser.py ../data False
-
+python analyse.py ~/Documents/s2/tal/discourseAnalysis/data/narrative;
+python analyse.py ~/Documents/s2/tal/discourseAnalysis/data/argumentative;
+python analyse.py ~/Documents/s2/tal/discourseAnalysis/data/informative;
 
 

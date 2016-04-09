@@ -210,17 +210,17 @@ def build_all_test():
 
 def build_all():
     # For each class, we build all the trees and save them in CSVs
-    nar_trees = return_trees_from_merge('./data/narrative/')
+    nar_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/narrative')
     write_tree_in_csv(nar_trees)    
     
-    arg_trees = return_trees_from_merge('./data/argumentative/')
+    arg_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/argumentative/')
     write_tree_in_csv(arg_trees) 
-    
-    inf_trees = return_trees_from_merge('./data/informative/')
+     
+    inf_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/informative/')
     write_tree_in_csv(inf_trees) 
     
     des_trees = []
-    #des_trees = return_trees_from_merge('./data/informative/')
+    #des_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/informative/')
     #write_tree_in_csv(des_trees) 
     
     

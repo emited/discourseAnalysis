@@ -39,7 +39,7 @@ def return_trees_from_merge(path, report=False,
 
     for fmerge in doclist:
         # recuperation du nom : ici id et classe
-        tree_id = fmerge.split('.')[0]
+        tree_id = fmerge #.split('.')[0]
         # ----------------------------------------
         # Read *.merge file
         dr = DocReader()
@@ -88,7 +88,7 @@ def test_ecriture_lecture():
         print "Un arbre teste"
     print "Test done for all trees : it's alright"
 
-def build_all():
+def build_all_test():
     # For each class, we build all the trees and save them in CSVs
     '''nar_trees = return_trees_from_merge('./data/narrative/')
     write_tree_in_csv(nar_trees)    
@@ -208,8 +208,77 @@ def build_all():
     K_all = {'lin':K_all_lin, 'rbf':K_all_rbf, 'cos_sim':K_all_cos_sim,'eucl_dist':K_all_eucl_dist,'mink_dist':K_all_mink_dist}
     pickle.dump(K_all,open('kernels_test.pkl','wb'))
 
+def build_all():
+    # For each class, we build all the trees and save them in CSVs
+    nar_trees = return_trees_from_merge('./data/narrative/')
+    write_tree_in_csv(nar_trees)    
+    
+    arg_trees = return_trees_from_merge('./data/argumentative/')
+    write_tree_in_csv(arg_trees) 
+    
+    inf_trees = return_trees_from_merge('./data/informative/')
+    write_tree_in_csv(inf_trees) 
+    
+    des_trees = []
+    #des_trees = return_trees_from_merge('./data/informative/')
+    #write_tree_in_csv(des_trees) 
+    
+    
+    # Attention, contient couples de (trees + tree_ID) ou tree_ID est le nom du fichier.
+    all_trees = nar_trees + arg_trees + inf_trees + des_trees
+    int2cl = {0:'narrative', 1:'argumentative', 2:'informative',3:'descriptive'}
 
+    y_nar = [0 for t in nar_trees]
+    y_arg = [1 for t in arg_trees]
+    y_inf = [2 for t in inf_trees]
+    y_des = [3 for t in des_trees]
+    y = np.array( y_nar + y_arg + y_inf + y_des )
+    pickle.dump(y,open('labels_test.pkl','wb'))
 
-#test_ecriture_lecture()
-build_all()
-print "done"
+    T = [t[0] for t in all_trees]
+    pickle.dump(T,open('trees_test.pkl','wb'))
+    
+    index = ['bin','count','norm','height','tfid']
+
+    #Dicts
+    D_bin = vectorizers.build_bin_vects(T)
+    D_count = vectorizers.build_count_vects(T)
+    D_norm = vectorizers.build_norm_vects(T)
+    D_height = vectorizers.build_height_vects(T)
+    D_tfid = vectorizers.build_tfid_vects(T)
+    
+    D_df = pd.DataFrame([D_bin,D_count,D_norm,D_height,D_tfid],index=index)
+    D_df = D_df.transpose()
+    D_df.to_pickle('dicts_test.pkl')
+    
+
+    #Vects
+    vectorizer = feature_extraction.DictVectorizer(sparse=False)
+    V_bin = vectorizer.fit_transform(D_bin)
+    V_count = vectorizer.fit_transform(D_count)
+    V_norm = vectorizer.fit_transform(D_norm)
+    V_height = vectorizer.fit_transform(D_height)
+    V_tfid = vectorizer.fit_transform(D_tfid)
+
+    V_all = np.zeros((len(index),V_bin.shape[0],V_bin.shape[1]))
+    V_all = np.array([V_bin,V_count,V_norm,V_height,V_tfid])
+    V_df = []
+    for i in range(V_all.shape[1]):
+        d = {}
+        for j,v in enumerate(V_all[:,i]):
+            d[index[j]]=v
+        V_df.append(d)
+    V_df = pd.DataFrame(V_df)
+    V_df.to_pickle('vects_test.pkl')
+    
+    #euclidean distance
+    K_bin_eucl_dist = pairwise.pairwise_distances(V_bin,metric='euclidean')
+    K_count_eucl_dist = pairwise.pairwise_distances(V_count,metric='euclidean')
+    K_norm_eucl_dist = pairwise.pairwise_distances(V_norm,metric='euclidean')
+    K_height_eucl_dist = pairwise.pairwise_distances(V_height,metric='euclidean')
+    K_tfid_eucl_dist = pairwise.pairwise_distances(V_tfid,metric='euclidean')
+    K_all_eucl_dist = [K_bin_eucl_dist, K_count_eucl_dist, K_norm_eucl_dist, K_height_eucl_dist, K_tfid_eucl_dist]
+    
+    K_all = {'eucl_dist':K_all_eucl_dist}
+    pickle.dump(K_all,open('kernels_test.pkl','wb'))
+

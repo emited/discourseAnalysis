@@ -48,14 +48,36 @@ def delta(T1,T2,const=1,rho=1):
         return const*(rho+delta(T1[0],T2[0]))*(rho+delta(T1[1],T2[1]))
     return 1
 
-def tree_kernel(T1,T2,const=1,rho=1):
+def prune_aux(tree,cut,i):
+    if(type(tree)==str and cut>i):
+        return '('+tree+')'
+    try:
+        if(cut>i):
+            return '('+tree.label()+'\n\t'+prune_aux(tree[0],cut,i+1)+prune_aux(tree[1],cut,i+1)+')'
+        else:
+            return ''
+    except:
+        return '('+tree.label()+'\n\t'+prune_aux(tree[0],cut,i+1)+')'
+
+def prune(tree,max_height=10):
+    '''returns a tree with branches cut when their depth is superior to max_height.'''
+    s = prune_aux(tree,max_height,0)
+    return Tree.fromstring(s)
+
+
+def tree_kernel(T1,T2,const=1,rho=1,prune_level=None):
     '''returns the number of common subset tree if rho=1 and common 
         subtrees if rho=0.
         const balances the contribution of subtrees: small values
         decay the contribution of lower nodes in large subtrees.'''
     K=0
-    for t1 in T1.subtrees():
-        for t2 in T2.subtrees():
+    T1_p = Tree.copy(T1,deep=True)
+    T2_p = Tree.copy(T2,deep=True)    
+    if(prune_level):
+        T1_p = prune(T1,prune_level)
+        T2_p = prune(T2,prune_level)
+    for t1 in T1_p.subtrees():
+        for t2 in T2_p.subtrees():
             K+=delta(t1,t2,const,rho)
     return K
 

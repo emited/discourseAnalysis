@@ -17,7 +17,7 @@ for file in os.listdir(dirname):
         
         with open(fname, 'r') as f:
             read_data = f.read()
-            tmp = read_data.replace('.', '.\n')
+            tmp = read_data.replace('\w\w.', '\w\w.\n')
         f.closed
 
         with open(fname, 'w') as f:

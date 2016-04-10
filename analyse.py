@@ -1,6 +1,6 @@
-#from DPLP.code.model import ParsingModel
-#from DPLP.code.tree import RSTTree
-#from DPLP.code.docreader import DocReader
+from DPLP.code.model import ParsingModel
+from DPLP.code.tree import RSTTree
+from DPLP.code.docreader import DocReader
 import numpy as np
 from os import listdir
 from os.path import join as joinpath
@@ -89,27 +89,18 @@ def test_ecriture_lecture():
         print "Un arbre teste"
     print "Test done for all trees : it's alright"
 
-def build_all_test():
-    # For each class, we build all the trees and save them in CSVs
-    '''nar_trees = return_trees_from_merge('./data/narrative/')
+def build_all_2():
+    print 'For each class, we build all the trees and save them in CSVs'
+    path_to_save = '~/Documents/s2/tal/discourseAnalysis/data/'
+    nar_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/narrative')
     write_tree_in_csv(nar_trees)    
-    narrative_labels = [1 for i in range(len(nar_trees))]
     
-    arg_trees = return_trees_from_merge('./data/argumentative/')
+    arg_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/argumentative')
     write_tree_in_csv(arg_trees) 
-    argumentative_labels = [2 for i in range(len(arg_trees))]
-    
-    inf_trees = return_trees_from_merge('./data/informative/')
+     
+    inf_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/informative')
     write_tree_in_csv(inf_trees) 
-    informative_labels = [3 for i in range(len(inf_trees))]'''
     
-    #A enlever 
-    nar_trees = [('(N1)','n1'),('((N2)(N1))','n2')]
-    arg_trees = [('(A1)','a1'),('(A2)','a2')]
-    inf_trees = [('(A1(A1)(I1))','i1'),('(I2)','i2'),('(I1)','i1')]    
-    nar_trees = [(Tree.fromstring(t),n) for t,n in nar_trees]
-    arg_trees = [(Tree.fromstring(t),n) for t,n in arg_trees]
-    inf_trees = [(Tree.fromstring(t),n) for t,n in inf_trees]
     des_trees = []
 
     # Attention, contient couples de (trees + tree_ID) ou tree_ID est le nom du fichier.
@@ -117,18 +108,18 @@ def build_all_test():
     int2cl = {0:'narrative', 1:'argumentative', 2:'informative',3:'descriptive'}
 
     T = [t[0] for t in all_trees]
-    pickle.dump(T,open('trees_test.pkl','wb'))
+    pickle.dump(T,open(path_to_save+'trees.pkl','wb'))
 
     y_nar = [0 for t in nar_trees]
     y_arg = [1 for t in arg_trees]
     y_inf = [2 for t in inf_trees]
     y_des = [3 for t in des_trees]
     y = np.array( y_nar + y_arg + y_inf + y_des )
-    pickle.dump(y,open('labels_test.pkl','wb'))
+    pickle.dump(y,open(path_to_save+'labels.pkl','wb'))
     
     index = ['bin','count','norm','height','tfid']
 
-    #Dicts
+    print 'Dicts'
     D_bin = vectorizers.build_bin_vects(T)
     D_count = vectorizers.build_count_vects(T)
     D_norm = vectorizers.build_norm_vects(T)
@@ -136,10 +127,10 @@ def build_all_test():
     D_tfid = vectorizers.build_tfid_vects(T)
     
     D_all = {'bin':D_bin ,'count': D_count,'norm': D_norm,'height': D_height,'tfid': D_tfid}
-    pickle.dump(D_all,open('dicts_test.pkl','wb'))
+    pickle.dump(D_all,open(path_to_save+'dicts.pkl','wb'))
     
 
-    #Vects
+    print 'Vects'
     vectorizer = feature_extraction.DictVectorizer(sparse=False)
     V_bin = vectorizer.fit_transform(D_bin)
     V_count = vectorizer.fit_transform(D_count)
@@ -148,50 +139,50 @@ def build_all_test():
     V_tfid = vectorizer.fit_transform(D_tfid)
 
     V_all = {'bin':V_bin ,'count': V_count,'norm': V_norm,'height': V_height,'tfid': V_tfid}
-    pickle.dump(V_all,open('vects_test.pkl','wb'))
+    pickle.dump(V_all,open(path_to_save+'vects.pkl','wb'))
     
     #Y = vectorizer.inverse_transform(V_bin)
 
 
 
-    #Kernels
+    print 'Kernels'
 
     ## tree kernels
     max_depth = 15
-    #T_p = [ctree.prune(t,max_depth) for t in T]
-    #K_tree = kernels.compute_gram(T_p,T_p,kernels.tree_kernel)
-    #pickle.dump(K_tree,open('tree_kernel_test.pkl'))
+    T_p = [ctree.prune(t,max_depth) for t in T]
+    K_tree = kernels.compute_gram(T_p,T_p,kernels.tree_kernel)
+    pickle.dump(K_tree,open(path_to_save+'tree_kernel.pkl'))
 
-    ## vector kernels
-    ###linear
+    print 'vector kernels'
+    print 'linear'
     K_bin_lin = pairwise.linear_kernel(V_bin)
     K_count_lin = pairwise.linear_kernel(V_count)
     K_norm_lin = pairwise.linear_kernel(V_norm)
     K_height_lin = pairwise.linear_kernel(V_height)
     K_tfid_lin = pairwise.linear_kernel(V_tfid)
     K_all_lin = {'bin':K_bin_lin, 'count':K_count_lin, 'norm':K_norm_lin, 'height':K_height_lin, 'tfid':K_tfid_lin}
-    ### rbf
+    print 'rbf'
     K_bin_rbf = pairwise.rbf_kernel(V_bin)
     K_count_rbf = pairwise.rbf_kernel(V_count)
     K_norm_rbf = pairwise.rbf_kernel(V_norm)
     K_height_rbf = pairwise.rbf_kernel(V_height)
     K_tfid_rbf = pairwise.rbf_kernel(V_tfid)
     K_all_rbf = {'bin':K_bin_rbf, 'count':K_count_rbf, 'norm':K_norm_rbf, 'height':K_height_rbf, 'tfid':K_tfid_rbf}
-    ### cosine sim
+    print 'cosine sim'
     K_bin_cos_sim = pairwise.cosine_similarity(V_bin)
     K_count_cos_sim = pairwise.cosine_similarity(V_count)
     K_norm_cos_sim = pairwise.cosine_similarity(V_norm)
     K_height_cos_sim = pairwise.cosine_similarity(V_height)
     K_tfid_cos_sim = pairwise.cosine_similarity(V_tfid)
     K_all_cos_sim = {'bin':K_bin_cos_sim, 'count':K_count_cos_sim, 'norm':K_norm_cos_sim, 'height':K_height_cos_sim, 'tfid':K_tfid_cos_sim}
-    #euclidean distance
+    print 'euclidean distance'
     K_bin_eucl_dist = pairwise.pairwise_distances(V_bin,metric='euclidean')
     K_count_eucl_dist = pairwise.pairwise_distances(V_count,metric='euclidean')
     K_norm_eucl_dist = pairwise.pairwise_distances(V_norm,metric='euclidean')
     K_height_eucl_dist = pairwise.pairwise_distances(V_height,metric='euclidean')
     K_tfid_eucl_dist = pairwise.pairwise_distances(V_tfid,metric='euclidean')
     K_all_eucl_dist = {'bin':K_bin_eucl_dist, 'count':K_count_eucl_dist, 'norm':K_norm_eucl_dist, 'height':K_height_eucl_dist, 'tfid':K_tfid_eucl_dist}
-    #minkowski distance
+    print 'minkowski distance'
     K_bin_mink_dist = pairwise.pairwise_distances(V_bin,metric='minkowski')
     K_count_mink_dist = pairwise.pairwise_distances(V_count,metric='minkowski')
     K_norm_mink_dist = pairwise.pairwise_distances(V_norm,metric='minkowski')
@@ -201,7 +192,7 @@ def build_all_test():
 
 
     K_all = {'lin':K_all_lin, 'rbf':K_all_rbf, 'cos_sim':K_all_cos_sim,'eucl_dist':K_all_eucl_dist,'mink_dist':K_all_mink_dist}
-    pickle.dump(K_all,open('vect_kernels_test.pkl','wb'))
+    pickle.dump(K_all,open(path_to_save+'vect_kernels.pkl','wb'))
     print "done"
 
 def build_all():
@@ -279,4 +270,5 @@ def build_all():
     K_all = {'eucl_dist':K_all_eucl_dist}
     pickle.dump(K_all,open(path_to_save+'kernels_test.pkl','wb'))
 
-build_all_test()
+build_all_2()
+

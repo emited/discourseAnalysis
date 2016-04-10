@@ -2,12 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.bracket*
-*.conll*
+#*.bracket*
+
 tme5*
 # C extensions
 *.so
-*.txt.*
+
 *.txt~
 *.~
 DPLP/*

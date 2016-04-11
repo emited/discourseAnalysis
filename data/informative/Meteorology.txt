@@ -1,5 +1,15 @@
-Not to be confused with Metrology. For other uses of the root word "meteor", see Meteor (disambiguation). For the work by Aristotle, see Meteorology (Aristotle).
-Meteorology is the interdisciplinary scientific study of the atmosphere. The study of meteorology dates back millennia, though significant progress in meteorology did not occur until the 18th century. The 19th century saw modest progress in the field after weather observation networks were formed across broad regions. Prior attempts at prediction of weather depended on historical data. It wasn't until after the elucidation of the laws of physics and, more particularly, the development of the computer, allowing for the automated solution of the great many equations that model the weather, in the latter half of the 20th century that significant breakthroughs in weather forecasting were achieved.
-Meteorological phenomena are observable weather events that are explained by the science of meteorology. Meteorological phenomena are described and quantified by the variables of Earth's atmosphere: temperature, air pressure, water vapor, mass flow, and the variations and interactions of those, and how they change over time. Different spatial scales are used to describe and predict weather on local, regional, and global levels.
-Meteorology, climatology, atmospheric physics, and atmospheric chemistry are sub-disciplines of the atmospheric sciences. Meteorology and hydrology compose the interdisciplinary field of hydrometeorology. The interactions between Earth's atmosphere and its oceans are part of a coupled ocean-atmosphere system. Meteorology has application in many diverse fields such as the military, energy production, transport, agriculture, and construction.
-The word "meteorology" is from Greek μετέωρος metéōros "lofty; high (in the sky)" (from μετα- meta- "above" and ἀείρω aeiro "I lift up") and -λογία -logia "-(o)logy", i.e. "the study of things in the air".
+Not to be confused with Metrology.
+For other uses of the root word "meteor", see Meteor (disambiguation). For the work by Aristotle, see Meteorology (Aristotle).
+Meteorology is the interdisciplinary scientific study of the atmosphere.
+The study of meteorology dates back millennia, though significant progress in meteorology did not occur until the 18th century.
+The 19th century saw modest progress in the field after weather observation networks were formed across broad regions.
+Prior attempts at prediction of weather depended on historical data.
+It wasn't until after the elucidation of the laws of physics and, more particularly, the development of the computer, allowing for the automated solution of the great many equations that model the weather, in the latter half of the 20th century that significant breakthroughs in weather forecasting were achieved.
+Meteorological phenomena are observable weather events that are explained by the science of meteorology.
+Meteorological phenomena are described and quantified by the variables of Earth's atmosphere: temperature, air pressure, water vapor, mass flow, and the variations and interactions of those, and how they change over time.
+Different spatial scales are used to describe and predict weather on local, regional, and global levels.
+Meteorology, climatology, atmospheric physics, and atmospheric chemistry are sub-disciplines of the atmospheric sciences.
+Meteorology and hydrology compose the interdisciplinary field of hydrometeorology.
+The interactions between Earth's atmosphere and its oceans are part of a coupled ocean-atmosphere system.
+Meteorology has application in many diverse fields such as the military, energy production, transport, agriculture, and construction.
+The word "meteorology" is from Greek  metros "lofty; high (in the sky)" (from - meta- "above" and  aeiro "I lift up") and - -logia "-(o)logy", i.e. "the study of things in the air".

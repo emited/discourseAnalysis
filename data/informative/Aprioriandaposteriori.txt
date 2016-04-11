@@ -1,7 +1,11 @@
-The Latin phrases a priori (lit. "from the earlier") and a posteriori (lit. "from the latter") are philosophical terms of art popularized by Immanuel Kant's Critique of Pure Reason (first published in 1781, second edition in 1787), one of the most influential works in the history of philosophy. However, in their Latin forms they appear in Latin translations of Euclid's Elements, of about 300 BC, a work widely considered during the early European modern period as the model for precise thinking.
+The Latin phrases a priori (lit.
+"from the earlier") and a posteriori (lit.
+"from the latter") are philosophical terms of art popularized by Immanuel Kant's Critique of Pure Reason (first published in 1781, second edition in 1787), one of the most influential works in the history of philosophy.
+However, in their Latin forms they appear in Latin translations of Euclid's Elements, of about 300 BC, a work widely considered during the early European modern period as the model for precise thinking.
 These terms are used with respect to reasoning (epistemology) to distinguish necessary conclusions from first premises (i.e., what must come before sense observation) from conclusions based on sense observation (which must follow it). Thus, the two kinds of knowledge, justification, or argument may be glossed:
 A priori knowledge or justification is independent of experience, as with mathematics (3+2=5), tautologies ("All bachelors are unmarried"), and deduction from pure reason (e.g., ontological proofs).
 A posteriori knowledge or justification is dependent on experience or empirical evidence, as with most aspects of science and personal knowledge.
 There are many points of view on these two types of knowledge, and their relationship is one of the oldest problems in modern philosophy.
 The terms a priori and a posteriori are primarily used as adjectives to modify the noun "knowledge" (for example, "a priori knowledge"). However, "a priori" is sometimes used to modify other nouns, such as "truth". Philosophers also may use "apriority" and "aprioricity" as nouns to refer (approximately) to the quality of being "a priori".
-Although definitions and use of the terms have varied in the history of philosophy, they have consistently labeled two separate epistemological notions. See also the related distinctions: deductive/inductive, analytic/synthetic, necessary/contingent.
+Although definitions and use of the terms have varied in the history of philosophy, they have consistently labeled two separate epistemological notions.
+See also the related distinctions: deductive/inductive, analytic/synthetic, necessary/contingent.

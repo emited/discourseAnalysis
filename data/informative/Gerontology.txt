@@ -1,4 +1,6 @@
-Gerontology (from the Greek γέρων, geron, "old man" and -λογία, -logia, "study of"; coined by Ilya Ilyich Mechnikov in 1903) is the study of the social, psychological, cognitive, and biological aspects of aging. It is distinguished from geriatrics, which is the branch of medicine that specializes in the treatment of existing disease in older adults. Gerontologists include researchers and practitioners in the fields of biology, nursing, medicine, criminology, dentistry, social work, physical and occupational therapy, psychology, psychiatry, sociology, economics, political science, architecture, geography, pharmacy, public health, housing, and anthropology.
+Gerontology (from the Greek , geron, "old man" and -, -logia, "study of"; coined by Ilya Ilyich Mechnikov in 1903) is the study of the social, psychological, cognitive, and biological aspects of aging.
+It is distinguished from geriatrics, which is the branch of medicine that specializes in the treatment of existing disease in older adults.
+Gerontologists include researchers and practitioners in the fields of biology, nursing, medicine, criminology, dentistry, social work, physical and occupational therapy, psychology, psychiatry, sociology, economics, political science, architecture, geography, pharmacy, public health, housing, and anthropology.
 Gerontology encompasses the following:
 studying physical, mental, and social changes in people as they age
 investigating the biological aging process itself (biogerontology)
@@ -7,4 +9,9 @@ investigating the psychological effects on aging (psychogerontology)
 investigating the interface of biological aging with aging-associated disease (geroscience)
 investigating the effects of an ageing population on society
 applying this knowledge to policies and programs, including the macroscopic (for example, government planning) and microscopic (for example, running a nursing home) perspectives.
-The multidisciplinary nature of gerontology means that there are a number of subfields, as well as associated fields such as psychology and sociology that overlap with gerontology. Gerontologists view aging in terms of four distinct processes: chronological aging, biological aging, psychological aging, and social aging. Chronological aging is the definition of aging based on a person's years lived from birth. Biological aging refers to the physical changes that reduce the efficiency of organ systems. Psychological aging includes the changes that occur in sensory and perceptual processes, cognitive abilities, adaptive capacity, and personality. Social aging refers to an individual's changing roles and relationships with family, friends, and other informal supports, productive roles and within organizations.
+The multidisciplinary nature of gerontology means that there are a number of subfields, as well as associated fields such as psychology and sociology that overlap with gerontology.
+Gerontologists view aging in terms of four distinct processes: chronological aging, biological aging, psychological aging, and social aging.
+Chronological aging is the definition of aging based on a person's years lived from birth.
+Biological aging refers to the physical changes that reduce the efficiency of organ systems.
+Psychological aging includes the changes that occur in sensory and perceptual processes, cognitive abilities, adaptive capacity, and personality.
+Social aging refers to an individual's changing roles and relationships with family, friends, and other informal supports, productive roles and within organizations.

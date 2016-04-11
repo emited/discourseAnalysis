@@ -1,7 +1,17 @@
 "Four causes" refers to an influential principle in Aristotelian thought whereby explanations of change or movement are classified into four fundamental types of answer to the question "why?" Aristotle wrote that "we do not have knowledge of a thing until we have grasped its why, that is to say, its explanation." While there are cases where classifying an explanation is difficult, or in which classes of explanation might merge, Aristotle was convinced that his four classes of explanation provided an analytical scheme of general applicability.
-Aitia, from Greek αἰτία was the word that Aristotle used to refer to the concept of explanation. Traditionally in academic philosophy it has been translated as cause, but this tradition uses the word 'cause' in a peculiar way that is obsolete, or highly specialized and technical in philosophy, not in its most usual current ordinary language usage. The translation of Aristotle's αἰτία that is nearest to current ordinary language is 'explanation'.
+Aitia, from Greek  was the word that Aristotle used to refer to the concept of explanation.
+Traditionally in academic philosophy it has been translated as cause, but this tradition uses the word 'cause' in a peculiar way that is obsolete, or highly specialized and technical in philosophy, not in its most usual current ordinary language usage.
+The translation of Aristotle's  that is nearest to current ordinary language is 'explanation'.
 Aristotle held that there were four kinds of answers to 'why' questions (in Physics II, 3, and Metaphysics V, 2): In this article, the peculiar philosophical usage of the word 'cause' will be exercised, for tradition's sake, but the reader should not be misled by confusing this peculiar usage with current ordinary language.
-A change or movement's material explanation is the aspect of the change or movement which is determined by the material that composes the moving or changing things. For a table, that might be wood; for a statue, that might be bronze or marble.
-A change or movement's formal explanation is a change or movement caused by the arrangement, shape or appearance of the thing changing or moving. Aristotle says for example that the ratio 2:1, and number in general, is the explanation of the octave.
-A change or movement's efficient or moving explanation consists of things apart from the thing being changed or moved, which interact so as to be an agency within the change or movement. For example, the efficient explanation of a table is a carpenter, or a person working as one, and according to Aristotle the efficient explanation of a boy is a father.
-An event's final explanation is the end toward which it directs. That for the sake of which a thing is what it is. For a seed, it might be an adult plant. For a sailboat, it might be sailing. For a ball at the top of a ramp, it might be coming to rest at the bottom. For a person's action, it is the goal.
+A change or movement's material explanation is the aspect of the change or movement which is determined by the material that composes the moving or changing things.
+For a table, that might be wood; for a statue, that might be bronze or marble.
+A change or movement's formal explanation is a change or movement caused by the arrangement, shape or appearance of the thing changing or moving.
+Aristotle says for example that the ratio 2:1, and number in general, is the explanation of the octave.
+A change or movement's efficient or moving explanation consists of things apart from the thing being changed or moved, which interact so as to be an agency within the change or movement.
+For example, the efficient explanation of a table is a carpenter, or a person working as one, and according to Aristotle the efficient explanation of a boy is a father.
+An event's final explanation is the end toward which it directs.
+That for the sake of which a thing is what it is.
+For a seed, it might be an adult plant.
+For a sailboat, it might be sailing.
+For a ball at the top of a ramp, it might be coming to rest at the bottom.
+For a person's action, it is the goal.

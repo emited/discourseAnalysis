@@ -458,190 +458,171 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": true
+   },
+   "source": [
+    "## Extraction des POS-TAGS"
+   ]
+  },
+  {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 95,
    "metadata": {
     "collapsed": false
    },
    "outputs": [],
    "source": [
-    "from os import listdir\n",
-    "from os.path import join as joinpath"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 2,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": [
-    "path0 = 'data/narrative/'\n",
-    "path1 = 'data/argumentative/'\n",
-    "path2 = 'data/informative/'\n",
-    "doclist0 = [joinpath(path0, fname) for fname in listdir(path0) if fname.endswith('.xml')]\n",
-    "doclist1 = [joinpath(path1, fname) for fname in listdir(path1) if fname.endswith('.xml')]\n",
-    "doclist2 = [joinpath(path2, fname) for fname in listdir(path2) if fname.endswith('.xml')]"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 3,
-   "metadata": {
-    "collapsed": false
-   },
-   "outputs": [],
-   "source": [
-    "def get_docs(doclist):\n",
-    "    docs = []\n",
-    "    for f in doclist:\n",
-    "        doc = open(f, 'r')\n",
-    "        content = doc.read()\n",
-    "        docs.append((content,f))\n",
-    "    return docs"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 4,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": [
-    "docs0 = get_docs(doclist0)\n",
-    "docs1 = get_docs(doclist1)\n",
-    "docs2 = get_docs(doclist2)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 37,
-   "metadata": {
-    "collapsed": false,
-    "scrolled": true
-   },
-   "outputs": [],
-   "source": [
-    "import BeautifulSoup as BeautifulSoup\n",
-    "import copy\n",
+    "from bs4 import BeautifulSoup\n",
     "import numpy as np\n",
+    "with open('../xmls/data/narrative/A.I.ArtificialIntelligence.txt.xml')as f:\n",
+    "    s=f.read()\n",
+    "soup = BeautifulSoup(open('../xmls/data/narrative/A.I.ArtificialIntelligence.txt.xml'),'lxml')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 92,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "pos = soup.findAll('pos')\n",
     "\n",
-    "def build_count_tags_vect(doc):\n",
-    "    soup = BeautifulSoup.BeautifulSoup(doc)\n",
+    "def get_pos_count(xmlfile,pos_list):\n",
+    "    return np.array([len(soup.findAll('pos',text=pos)) for pos in pos_list])\n",
+    "    \n",
+    "def get_pos_norm(xmlfile,pos_list):\n",
+    "    total_pos = len(soup.findAll('pos'))\n",
+    "    count = get_pos_count(xmlfile,pos_list)\n",
+    "    return np.array([float(c)/total_pos for c in count])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 112,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "def get_pos_dict(soup):\n",
+    "    d={}\n",
     "    tags = soup.findAll('pos')\n",
-    "    dico = {}\n",
-    "    for t in tags:\n",
-    "        if t.text not in dico.keys():           \n",
-    "            dico[t.text] = 1\n",
-    "        else:\n",
-    "            dico[t.text] += 1\n",
-    "    return dico\n",
-    "\n",
-    "def build_norm_tags_vects(count_vect):\n",
-    "    c_ve = copy.deepcopy(count_vect)\n",
-    "    print 'deepcopied'\n",
-    "    for i in range(len(c_ve)):\n",
-    "        total = np.sum(c_ve[i][0].values())\n",
-    "        for j in c_ve[i][0].keys():\n",
-    "            c_ve[i][0][j] = float(c_ve[i][0][j])/total        \n",
-    "    return c_ve\n",
-    "\n",
-    "def build_count_tags_vects(docs):\n",
-    "    return [(build_count_tags_vect(doc[0]),doc[1]) for doc in docs]"
+    "    for t in t\n",
+    "    print tags[4:-5]\n",
+    "    #d[tags[4:-5]]=1\n",
+    "    print tags\n",
+    "    \n",
+    "    #d[tags]"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 113,
    "metadata": {
     "collapsed": false
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "ename": "TypeError",
+     "evalue": "unhashable type: 'list'",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mTypeError\u001b[0m                                 Traceback (most recent call last)",
+      "\u001b[1;32m<ipython-input-113-ca45007cdd66>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m()\u001b[0m\n\u001b[1;32m----> 1\u001b[1;33m \u001b[0mget_pos_dict\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0msoup\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[1;32m<ipython-input-112-4eeeda331b2b>\u001b[0m in \u001b[0;36mget_pos_dict\u001b[1;34m(soup)\u001b[0m\n\u001b[0;32m      2\u001b[0m     \u001b[0md\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;33m{\u001b[0m\u001b[1;33m}\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m      3\u001b[0m     \u001b[0mtags\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0msoup\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mfindAll\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;34m'pos'\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m----> 4\u001b[1;33m     \u001b[0md\u001b[0m\u001b[1;33m[\u001b[0m\u001b[0mtags\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;36m4\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m-\u001b[0m\u001b[1;36m5\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m=\u001b[0m\u001b[1;36m1\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m      5\u001b[0m     \u001b[1;32mprint\u001b[0m \u001b[0mtags\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m      6\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n",
+      "\u001b[1;31mTypeError\u001b[0m: unhashable type: 'list'"
+     ]
+    }
+   ],
    "source": [
-    "narr = build_count_tags_vects(docs0)\n",
-    "arg = build_count_tags_vects(docs1)\n",
-    "inf = build_count_tags_vects(docs2)"
+    "get_pos_dict(soup)"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": [
-    "y_nar = [0 for t in narr]\n",
-    "y_arg = [1 for t in arg]\n",
-    "y_inf = [2 for t in inf]"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 43,
+   "execution_count": 93,
    "metadata": {
     "collapsed": false
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "array([ 0.04531722,  0.03121853])"
+      ]
+     },
+     "execution_count": 93,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "docs = narr + arg + inf\n",
-    "y = y_nar + y_arg + y_inf\n",
-    "import cPickle as pickle\n",
-    "pickle.dump(docs,open('pos_count_dicts.pkl','w'))\n",
-    "pickle.dump(y,open('y_pos_count_dicts.pkl','w'))"
+    "get_pos_count(s,['PRP','RB'])\n",
+    "get_pos_norm(s,['PRP','RB'])"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 44,
+   "execution_count": 89,
    "metadata": {
     "collapsed": false,
     "scrolled": true
    },
    "outputs": [
     {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "deepcopied\n"
-     ]
+     "data": {
+      "text/plain": [
+       "array([ 0.04128902,  0.00805639,  0.08660624,  0.00100705,  0.        ,\n",
+       "        0.11581067,  0.06042296,  0.0020141 ,  0.00100705,  0.        ,\n",
+       "        0.00503525,  0.15206445,  0.02618328,  0.13494461,  0.        ,\n",
+       "        0.        ,  0.        ,  0.04531722,  0.02517623,  0.03121853,\n",
+       "        0.        ,  0.        ,  0.00704935,  0.        ,  0.03726083,\n",
+       "        0.        ,  0.04330312,  0.00805639,  0.02316213,  0.04128902,\n",
+       "        0.01711984,  0.0694864 ,  0.00805639,  0.00503525,  0.        ,\n",
+       "        0.0040282 ])"
+      ]
+     },
+     "execution_count": 89,
+     "metadata": {},
+     "output_type": "execute_result"
     }
    ],
    "source": [
-    "norm = build_norm_tags_vects(docs)\n",
-    "pickle.dump(norm,open('pos_norm_dicts.pkl','w'))"
+    "import cPickle as pickle\n",
+    "tags = pickle.load(open('tags.pkl','r'))\n",
+    "get_pos_norm(s,tags)"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 46,
+   "execution_count": 84,
    "metadata": {
     "collapsed": false
    },
-   "outputs": [],
-   "source": [
-    "from sklearn import feature_extraction\n",
-    "import code.vectorizers as vectorizers\n",
-    "count_dict = [d[0] for d in docs]\n",
-    "norm_dict = [d[0] for d in norm]\n",
-    "vectorizer = feature_extraction.DictVectorizer(sparse=False)\n",
-    "count_vect = vectorizer.fit_transform(count_dict)\n",
-    "norm_vect = vectorizer.fit_transform(norm_dict)"
-   ]
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[]\n"
+     ]
+    }
+   ],
+   "source": []
   },
   {
    "cell_type": "code",
-   "execution_count": 57,
+   "execution_count": null,
    "metadata": {
-    "collapsed": false
+    "collapsed": true
    },
    "outputs": [],
-   "source": [
-    "pickle.dump(count_vect,open('pos_count_vects.pkl','w'))\n",
-    "pickle.dump(norm_vect,open('pos_norm_vects.pkl','w'))"
-   ]
+   "source": []
   }
  ],
  "metadata": {

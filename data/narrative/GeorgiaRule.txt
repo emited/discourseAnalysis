@@ -1,7 +1,12 @@
 Rebellious teenager Rachel screams, swears and drinks; she is, in a word, uncontrollable.
 With her latest car crash, Rachel has broken the final rule in her mother Lily's San Francisco home.
+<<<<<<< HEAD
 With nowhere else to take the impulsive and rambunctious girl, Lily hauls her daughter to the one place she swore she'd never returnher own mother's house in Idaho.
 Matriarch Georgia lives her life by a number of unbreakable rulesGod comes first, and hard work comes a very close secondand wants that anyone who shares her home do the same.
+=======
+With nowhere else to take the impulsive and rambunctious girl, Lily hauls her daughter to the one place she swore she'd never return—her own mother's house in Idaho.
+Matriarch Georgia lives her life by a number of unbreakable rules—God comes first, and hard work comes a very close second—and wants that anyone who shares her home do the same.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Now saddled with raising the young woman, it requires each patient breath she takes to understand Rachel's fury.
 Georgia arranges a job for Rachel as the office girl of Dr.
 Simon Ward, the local veterinarian, who also unofficially treats people.

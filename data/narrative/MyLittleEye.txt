@@ -6,7 +6,11 @@ Despite claiming to be an internet programmer, he claims to not recognise any of
 Later that night, Travis has sex with Charlie, and then secretly talks directly into a camera, to communicate with whoever is watching them.
 The next morning, Travis leaves and Danny discovers his backpack outside covered in blood and shredded to pieces.
 The contestants assume he was attacked by an animal but Rex believes Travis works for the people running their show and that it is all a trick to make them leave the house and forfeit the prize money.
+<<<<<<< HEAD
 Emma discovers her underwear among Dannys belongings and confronts him, unaware that Travis planted them there the previous night.
+=======
+Emma discovers her underwear among Danny’s belongings and confronts him, unaware that Travis planted them there the previous night.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Danny denies it and attempts to make peace by giving her a crudely carved wooden cat, which Emma and Charlie ridicule, while Danny overhears.
 The next morning, the group finds Danny has committed suicide by hanging himself from the staircase balcony with a rope.
 The guests finally decide to leave, but after being unable to contact anyone via radio, decide to wait until the next morning.

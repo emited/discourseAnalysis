@@ -1,5 +1,9 @@
 While oceanographer Steve Zissou is working on his latest documentary at sea, his best friend Esteban du Plantier is eaten by a creature Zissou describes as a "Jaguar shark." For his next project, Zissou is determined to document the shark's destruction.
+<<<<<<< HEAD
 The crew aboard Zissou's aging research vessel Belafonte includes his estranged wife Eleanor, chief strategist and financial backer; Pel dos Santos, a safety expert and Brazilian guitarist who sings David Bowie songs in Portuguese; and Klaus Daimler, the German first mate who views Zissou and Esteban as father figures.
+=======
+The crew aboard Zissou's aging research vessel Belafonte includes his estranged wife Eleanor, chief strategist and financial backer; Pelé dos Santos, a safety expert and Brazilian guitarist who sings David Bowie songs in Portuguese; and Klaus Daimler, the German first mate who views Zissou and Esteban as father figures.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Minor crew members include Vikram Ray, cameraman; Bobby Ogata, frogman; Vladimir Wolodarsky, physicist and soundtrack composer; Renzo Pietro, sound man; and Anne-Marie Sakowitz, script girl.
 Also included is a recent group of unpaid interns from the (fictional) University of North Alaska.
 The "Team Zissou" venture has hit a decline, however; having not released a successful documentary in nine years.
@@ -19,4 +23,8 @@ Ned dies from his injuries and is buried at sea.
 Prior to Ned's death, Eleanor revealed to Jane that Zissou is actually sterile, therefore Ned could not have been his son.
 Zissou finally tracks down the shark in a submersible but he decides not to kill it, both because of its beauty and not having any dynamite.
 At the premiere of the finished documentary (which is dedicated to Ned), Zissou receives a grand ovation.
+<<<<<<< HEAD
 The crew returns triumphantly to the ship the next day, and the film ends with Pel singing on stage as the credits roll.
+=======
+The crew returns triumphantly to the ship the next day, and the film ends with Pelé singing on stage as the credits roll.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

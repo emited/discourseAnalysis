@@ -5,7 +5,11 @@ Suddenly, a pirate ship approaches.
 Everyone escapes except Athena, who is crushed by the ship when she tries to save the music box.
 Devastated by the death of his wife, Triton throws the music box away and bans music from the kingdom.
 Ten years later, Ariel and her six older sisters live under a strict routine maintained by their governess, Marina Del Rey and her assistant, Benjamin.
+<<<<<<< HEAD
 Marina hates being the girls' governess and longs to be Triton's attach, a job currently filled by Sebastian the crab.
+=======
+Marina hates being the girls' governess and longs to be Triton's attaché, a job currently filled by Sebastian the crab.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Ariel hates their current lifestyle, which brings her into arguments with her father.
 One day, Ariel encounters Flounder, a young fish whom she later follows to an underground music club.
 She is overjoyed by the presence of music, and is shocked when she sees Sebastian performing there.

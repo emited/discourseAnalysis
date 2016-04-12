@@ -2,7 +2,11 @@ In 2003, while digging up remains at a Korean War battlefield to set up a memori
 Decades earlier, in June 1950, in the South Korean capital of Seoul, the Lee family go about their lives.
 Jin-tae Lee owns a shoeshine stand to pay for his younger brother Jin-seok's education.
 Jin-tae also bought a silver pen for Jin-seok.
+<<<<<<< HEAD
 Jin-tae's fiance Young-shin works with the Lee's noodle shop.
+=======
+Jin-tae's fiancée Young-shin works with the Lee's noodle shop.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 On June 25, 1950, North Korea invades South Korea.
 Both brothers are forcibly conscripted.
 They then become a part of the 1st Infantry Division, fighting at the Pusan Perimeter and then advancing north.

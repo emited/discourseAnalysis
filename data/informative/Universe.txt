@@ -17,7 +17,11 @@ The Big Bang theory is the prevailing cosmological model describing the developm
 Space and time were created in the Big Bang, and these were imbued with a fixed amount of energy and matter; as space expands, the density of that matter and energy decreases.
 After the initial expansion, the Universe cooled sufficiently to allow the formation first of subatomic particles and later of simple atoms.
 Giant clouds of these primordial elements later coalesced through gravity to form stars.
+<<<<<<< HEAD
 Assuming that the prevailing model is correct, the age of the Universe is measured to be 700113799000000000013.7990.021 billion years.
+=======
+Assuming that the prevailing model is correct, the age of the Universe is measured to be 7001137990000000000♠13.799±0.021 billion years.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 There are many competing hypotheses about the ultimate fate of the Universe.
 Physicists and philosophers remain unsure about what, if anything, preceded the Big Bang.
 Many refuse to speculate, doubting that any information from any such prior state could ever be accessible.

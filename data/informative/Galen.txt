@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Aelius Galenus or Claudius Galenus (/lins/; Greek:  ; September 129 AD  c.200/c.216), often Anglicized as Galen and better known as Galen of Pergamon (/eln/), was a prominent Greek physician, surgeon and philosopher in the Roman empire.
+=======
+Aelius Galenus or Claudius Galenus (/ɡəˈliːnəs/; Greek: Κλαύδιος Γαληνός; September 129 AD – c. 200/c. 216), often Anglicized as Galen and better known as Galen of Pergamon (/ˈɡeɪlən/), was a prominent Greek physician, surgeon and philosopher in the Roman empire.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Arguably the most accomplished of all medical researchers of antiquity, Galen influenced the development of various scientific disciplines, including anatomy, physiology, pathology, pharmacology, and neurology, as well as philosophy and logic.
 The son of Aelius Nicon, a wealthy architect with scholarly interests, Galen received a comprehensive education that prepared him for a successful career as a physician and philosopher.
 Born in Pergamon (present-day Bergama, Turkey), Galen traveled extensively, exposing himself to a wide variety of medical theories and discoveries before settling in Rome, where he served prominent members of Roman society and eventually was given the position of personal physician to several emperors.

@@ -10,4 +10,8 @@ Historical biogeography describes the long-term, evolutionary periods of time fo
 Early scientists, beginning with Carl Linnaeus, contributed theories to the contributions of the development of biogeography as a science.
 Beginning in the mid-18th century, Europeans explored the world and discovered the biodiversity of life.
 Linnaeus initiated the ways to classify organisms through his exploration of undiscovered territories.
+<<<<<<< HEAD
 The scientific theory of biogeography grows out of the work of Alexander von Humboldt (17691859), Hewett Cottrell Watson (18041881), Alphonse de Candolle (18061893), Alfred Russel Wallace (18231913), Philip Lutley Sclater (18291913) and other biologists and explorers.
+=======
+The scientific theory of biogeography grows out of the work of Alexander von Humboldt (1769–1859), Hewett Cottrell Watson (1804–1881), Alphonse de Candolle (1806–1893), Alfred Russel Wallace (1823–1913), Philip Lutley Sclater (1829–1913) and other biologists and explorers.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

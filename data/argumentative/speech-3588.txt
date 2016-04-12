@@ -37,7 +37,11 @@ The United States will continue to recognize the Government of the Republic of V
 We shall continue to aid South Vietnam within the terms of the agreement, and we shall support efforts by the people of South Vietnam to settle their problems peacefully among themselves.
 
 We must recognize that ending the war is only the first step toward building the peace.
+<<<<<<< HEAD
 All parties must now see to it that this is a peace that lasts, and also a peace that healsand a peace that not only ends the war in Southeast Asia but contributes to the prospects of peace in the whole world.
+=======
+All parties must now see to it that this is a peace that lasts, and also a peace that heals—and a peace that not only ends the war in Southeast Asia but contributes to the prospects of peace in the whole world.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 This will mean that the terms of the agreement must be scrupulously adhered to.
 We shall do everything the agreement requires of us, and we shall expect the other parties to do everything it requires of them.
@@ -46,7 +50,11 @@ We shall also expect other interested nations to help insure that the agreement 
 As this long and very difficult war ends, I would like to address a few special words to each of those who have been parties in the conflict.
 
 First, to the people and Government of South Vietnam: By your courage, by your sacrifice, you have won the precious right to determine your own future, and you have developed the strength to defend that right.
+<<<<<<< HEAD
 We look forward to working with you in the futurefriends in peace as we have been allies in war.
+=======
+We look forward to working with you in the future—friends in peace as we have been allies in war.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 To the leaders of North Vietnam: As we have ended the war through negotiations, let us now build a peace of reconciliation.
 For our part, we are prepared to make a major effort to help achieve that goal.
@@ -59,14 +67,22 @@ I know that you would not have wanted that peace jeopardized.
 With our secret negotiations at the sensitive stage they were in during this recent period, for me to have discussed publicly our efforts to secure peace would not only have violated our understanding with North Vietnam, it would have seriously harmed and possibly destroyed the chances for peace.
 Therefore, I know that you now can understand why, during these past several weeks, I have not made any public statements about those efforts.
 
+<<<<<<< HEAD
 The important thing was not to talk about peace, but to get peaceand to get the right kind of peace.
+=======
+The important thing was not to talk about peace, but to get peace—and to get the right kind of peace.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 This we have done.
 
 Now that we have achieved an honorable agreement, let us be proud that America did not settle for a peace that would have betrayed our allies, that would have abandoned our prisoners of war, or that would have ended the war for us but would have continued the war for the 50 million people of Indochina.
 Let us be proud of the 2 1/2 million young Americans who served in Vietnam, who served with honor and distinction in one of the most selfless enterprises in the history of nations.
 And let us be proud of those who sacrificed, who gave their lives so that the people of South Vietnam might live in freedom and so that the world might live in peace.
 
+<<<<<<< HEAD
 In particular, I would like to say a word to some of the bravest people I have ever metthe wives, the children, the families of our prisoners of war and the missing in action.
+=======
+In particular, I would like to say a word to some of the bravest people I have ever met—the wives, the children, the families of our prisoners of war and the missing in action.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When others called on us to settle on any terms, you had the courage to stand for the right kind of peace so that those who died and those who suffered would not have died and suffered in vain, and so that where this generation knew war, the next generation would know peace.
 Nothing means more to me at this moment than the fact that your long vigil is coming to an end.
 

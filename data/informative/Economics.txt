@@ -1,5 +1,9 @@
 Economics is the social science that describes the factors that determine the production, distribution and consumption of goods and services.
+<<<<<<< HEAD
 The term economics comes from the Ancient Greek  from  (oikos, "house") and  (nomos, "custom" or "law"), hence "rules of the house (hold for good management)". 'Political economy' was the earlier name for the subject, but economists in the late 19th century suggested "economics" as a shorter term for "economic science" to establish itself as a separate discipline outside of political science and other social sciences.
+=======
+The term economics comes from the Ancient Greek οἰκονομία from οἶκος (oikos, "house") and νόμος (nomos, "custom" or "law"), hence "rules of the house (hold for good management)". 'Political economy' was the earlier name for the subject, but economists in the late 19th century suggested "economics" as a shorter term for "economic science" to establish itself as a separate discipline outside of political science and other social sciences.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Economics focuses on the behavior and interactions of economic agents and how economies work.
 Consistent with this focus, primary textbooks often distinguish between microeconomics and macroeconomics.
 Microeconomics examines the behavior of basic elements in the economy, including individual agents and markets, their interactions, and the outcomes of interactions.

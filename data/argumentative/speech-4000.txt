@@ -9,9 +9,15 @@ For this generation the choice must be our own.
 Even now, a rocket moves toward Mars.
 It reminds us that the world will not be the same for our children, or even for ourselves in a short span of years.
 The next man to stand here will look out on a scene that is different from our own.
+<<<<<<< HEAD
 Ours is a time of changerapid and fantastic changebearing the secrets of nature, multiplying the nations, placing in uncertain hands new weapons for mastery and destruction, shaking old values and uprooting old ways.
 Our destiny in the midst of change will rest on the unchanged character of our people and on their faith.
 They came herethe exile and the stranger, brave but frightenedto find a place where a man could be his own man.
+=======
+Ours is a time of change—rapid and fantastic change—bearing the secrets of nature, multiplying the nations, placing in uncertain hands new weapons for mastery and destruction, shaking old values and uprooting old ways.
+Our destiny in the midst of change will rest on the unchanged character of our people and on their faith.
+They came here—the exile and the stranger, brave but frightened—to find a place where a man could be his own man.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They made a covenant with this land.
 Conceived in justice, written in liberty, bound in union, it was meant one day to inspire the hopes of all mankind.
 And it binds us still.
@@ -60,17 +66,29 @@ To those who were small and few against the wilderness, the success of liberty d
 Two centuries of change have made this true again.
 No longer need capitalist and worker, farmer and clerk, city and countryside, struggle to divide our bounty.
 By working shoulder to shoulder together we can increase the bounty of all.
+<<<<<<< HEAD
 We have discovered that every child who learns, and every man who finds work, and every sick body that is made wholelike a candle added to an altarbrightens the hope of all the faithful.
+=======
+We have discovered that every child who learns, and every man who finds work, and every sick body that is made whole—like a candle added to an altar—brightens the hope of all the faithful.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 So let us reject any among us who seek to reopen old wounds and rekindle old hatreds.
 They stand in the way of a seeking nation.
 Let us now join reason to faith and action to experience, to transform our unity of interest into a unity of purpose.
 For the hour and the day and the time are here to achieve progress without strife, to achieve change without hatred; not without difference of opinion but without the deep and abiding divisions which scar the union for generations.
+<<<<<<< HEAD
 Under this covenant of justice, liberty, and union we have become a nationprosperous, great, and mighty.
+=======
+Under this covenant of justice, liberty, and union we have become a nation—prosperous, great, and mighty.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And we have kept our freedom.
 But we have no promise from God that our greatness will endure.
 We have been allowed by Him to seek greatness with the sweat of our hands and the strength of our spirit.
 I do not believe that the Great Society is the ordered, changeless, and sterile battalion of the ants.
+<<<<<<< HEAD
 It is the excitement of becomingalways becoming, trying, probing, falling, resting, and trying againbut always trying and always gaining.
+=======
+It is the excitement of becoming—always becoming, trying, probing, falling, resting, and trying again—but always trying and always gaining.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In each generation, with toil and tears, we have had to earn our heritage again.
 If we fail now then we will have forgotten in abundance what we learned in hardship: that democracy rests on faith, that freedom asks more than it gives, and the judgment of God is harshest on those who are most favored.
 If we succeed it will not be because of what we have, but it will be because of what we are; not because of what we own, but rather because of what we believe.

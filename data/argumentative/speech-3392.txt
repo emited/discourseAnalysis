@@ -4,7 +4,11 @@ Such a program was long overdue.
 We have become increasingly at the mercy of others for the fuel on which our entire economy runs.
 Here are the facts and figures that will not go away.
 The United States is dependent on foreign sources for about 37 percent of its present petroleum needs.
+<<<<<<< HEAD
 In ten years, if we do nothing, we will be importing more than half our oil at prices fixed by othersif they choose to sell to us at all.
+=======
+In ten years, if we do nothing, we will be importing more than half our oil at prices fixed by others—if they choose to sell to us at all.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In two-and-a-half years, we will be twice as vulnerable to a foreign oil embargo as we were two winters ago.
 We are now paying out $25 billion a year for foreign oil.
 Five years ago we paid out only $3 billion annually.
@@ -13,11 +17,19 @@ These are not just American dollars, these are American jobs.
 Four months ago, I sent the Congress this 167-page draft of detailed legislation, plus some additional tax proposals.
 My program was designed to conserve the energy we now have, while at the same time speeding up the development and production of new domestic energy.
 Although this would increase the cost of energy until new supplies were fully tapped, those dollars would remain in this country and would be returned to our own economy through tax cuts and rebates.
+<<<<<<< HEAD
 I asked the Congress in January to enact this urgent 10-year program for energy independence within 90 daysthat is, by mid-April.
 In the meantime, to get things going, I said I would use the standby Presidential authority granted by the Congress to reduce our use of foreign petroleum by raising import fees on each barrel of crude oil by $1 on February 1, another dollar on March 1, and a third on April 1.
 As soon as Congress acted on my comprehensive energy program, I promised to take off these import fees.
 I imposed the first dollar on oil imports February 1, making appropriate exemptions for hardship situations.
 Now, what did the Congress do in February about energy? Congress did nothingnothing, that is, except rush through legislation suspending for 90 days my authority to impose any import fees on foreign oil.
+=======
+I asked the Congress in January to enact this urgent 10-year program for energy independence within 90 days—that is, by mid-April.
+In the meantime, to get things going, I said I would use the standby Presidential authority granted by the Congress to reduce our use of foreign petroleum by raising import fees on each barrel of crude oil by $1 on February 1, another dollar on March 1, and a third on April 1.
+As soon as Congress acted on my comprehensive energy program, I promised to take off these import fees.
+I imposed the first dollar on oil imports February 1, making appropriate exemptions for hardship situations.
+Now, what did the Congress do in February about energy? Congress did nothing—nothing, that is, except rush through legislation suspending for 90 days my authority to impose any import fees on foreign oil.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Congress needed time, they said.
 At the end of February, the Democratic leaders of the House and Senate and other Members concerned with energy came to the White House.
 They gave me this pamphlet outlining energy goals similar to mine and promised to come up with a Congressional energy program better than mine by the end of April.
@@ -27,7 +39,11 @@ Their request stretched my original deadline by a couple of weeks.
 But I wanted to be reasonable; I wanted to be cooperative.
 So, in vetoing their bill to restrict the President's authority, I agreed to their request for a 60-day delay before taking the next step under my energy plan.
 What did the Congress do in March? What did the Congress do in April about energy? Congress did nothing.
+<<<<<<< HEAD
 In fairness, I must say there were diligent efforts by some MembersDemocrats as well as Republicansto fashion meaningful energy legislation in their subcommittees and committees.
+=======
+In fairness, I must say there were diligent efforts by some Members—Democrats as well as Republicans—to fashion meaningful energy legislation in their subcommittees and committees.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 My administration worked very hard with them to bring a real energy independence bill to a vote.
 At the end of April, the deadline set by the Congressional leaders themselves, I deferred for still another 30 days, the second $1 fee on imported oil.
 Even then, I still hoped for positive Congressional action.
@@ -55,14 +71,22 @@ We do have an energy problem, a very grave problem, but one we can still manage 
 Four months are already lost.
 The Congress has acted only negatively.
 I must now do what I can do as President.
+<<<<<<< HEAD
 First, I will impose an additional $1 import fee on foreign crude oil and 60 cents on refined products, effective June 1. I gave the Congress its 60 days plus an extra 30 days to do somethingbut nothing has been done since January.
+=======
+First, I will impose an additional $1 import fee on foreign crude oil and 60 cents on refined products, effective June 1. I gave the Congress its 60 days plus an extra 30 days to do something—but nothing has been done since January.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Higher fees will further discourage the consumption of imported fuel and may generate some constructive action when the Congress comes back.
 Second, as I directed on April 30, the Federal Energy Administration has completed public hearings on decontrol of old domestic oil.
 I will submit a decontrol plan to Congress shortly after it reconvenes.
 Along with it, I will urge the Congress to pass a windfall profits tax with a plowback provision.
 These two measures would prevent unfair gains by oil companies from decontrol prices, furnish a substantial incentive to increase domestic energy production, and encourage conservation.
 When I talk about energy, I am talking about jobs.
+<<<<<<< HEAD
 Our American economy runs on energyno energy, no jobs.
+=======
+Our American economy runs on energy—no energy, no jobs.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the long run, it is just that simple.
 The sudden fourfold increase in foreign oil prices and the 1973 embargo helped to throw us into this recession.
 We are on our way out of this recession.

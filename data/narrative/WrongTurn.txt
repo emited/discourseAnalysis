@@ -4,7 +4,11 @@ Someone then begins to yank Halley up the cliff so she cuts the rope and falls t
 As she rushes to the car, she trips over a piece of barbed wire and then gets pulled back into the woods.
 Weeks later, medical student Chris Flynn (Desmond Harrington) drives through the mountains of West Virginia on his way to a business meeting, but a chemical spill in the road ahead forces him to take a different route.
 After being distracted for a moment, he collides with another car that is stopped in the middle of the road since its tires have been punctured by a piece of barbed wire.
+<<<<<<< HEAD
 The car belongs to a group of friends on a camping trip: Jessie (Eliza Dushku), Carly (Emmanuelle Chriqui), her fianc Scott (Jeremy Sisto), and another couple, Evan (Kevin Zegers) and Francine (Lindy Booth).
+=======
+The car belongs to a group of friends on a camping trip: Jessie (Eliza Dushku), Carly (Emmanuelle Chriqui), her fiancé Scott (Jeremy Sisto), and another couple, Evan (Kevin Zegers) and Francine (Lindy Booth).
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Evan and Francine stay to watch the cars as the others go to find help.
 Soon after, Evan goes to the woods to investigate a strange noise, followed by Francine who goes to look for him.
 She finds only his sneaker and his severed ear before she is killed with a strip of barbed wire around the throat by Saw Tooth (Garry Robbins), the oldest of the cannibals living in the woods.

@@ -3,15 +3,26 @@ During its entry into the atmosphere, it almost wounds Rayquaza, a sky guardian 
 The meteorite crashes into a polar zone, revealing two egg-shaped objects.
 The purple egg regenerates into a Deoxys and picks up the green egg.
 Rayquaza descends from the ozone layer to fight the invader (believing it to be an enemy). A battle ensues, destroying a nearby research site and traumatizing a young boy, scared by a stampede of Spheal, Sealeo, and Walrein.
+<<<<<<< HEAD
 The purple Deoxys engages Rayquaza and the two take turns delivering devastating blows to each other, but the fight draws to a conclusion when Rayquaza surprises the alien Pokmon and fires a point blank Hyper Beam at it.
+=======
+The purple Deoxys engages Rayquaza and the two take turns delivering devastating blows to each other, but the fight draws to a conclusion when Rayquaza surprises the alien Pokémon and fires a point blank Hyper Beam at it.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Deoxys goes back to egg form and falls into the sea, while some researchers take the green egg with them.
 Beneath the sea, the injured Deoxys regenerates and waits.
 The green egg appears somewhere in Hoenn.
 Four years later, Ash, May, Brock, and Max travel to LaRousse City, where block robots patrol the area.
+<<<<<<< HEAD
 There they meet Tory (Tou'i), a boy who is afraid of Pokmon because of psychological trauma that had ensued from the stampede caused by the battle between Deoxys and Rayquaza.
 Tory is found to be a loner.
 Deoxys, which has fully healed, leaves to find the other green egg which Tory's parents are testing in a lab.
 In the Battle Tower, Ash mistakes Tory for a Pokmon trainer and they battle against Rafe and Sid, with Tory using Ash's Torkoal.
+=======
+There they meet Tory (Tou'i), a boy who is afraid of Pokémon because of psychological trauma that had ensued from the stampede caused by the battle between Deoxys and Rayquaza.
+Tory is found to be a loner.
+Deoxys, which has fully healed, leaves to find the other green egg which Tory's parents are testing in a lab.
+In the Battle Tower, Ash mistakes Tory for a Pokémon trainer and they battle against Rafe and Sid, with Tory using Ash's Torkoal.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, Tory does not know how to handle Ash's Torkoal and they lose.
 Tory runs away, stopping to save a Minun which was trapped in a trash can.
 Later, Ash meets Tory's parents and they have fun until they see a mysterious purple aurora, signaling the return of Deoxys.
@@ -24,9 +35,17 @@ As the fight continues, Deoxys tackles Rayquaza into the floor.
 It prepares to kill Rayquaza, but the green Deoxys arrives in perfect timing and quickly transforms into defense form saving Rayquaza from the attack.
 The city is filled with blocks of robots when the main robot becomes hostile, which overwhelm Rayquaza.
 The twin Deoxys form shields that protect Rayquaza.
+<<<<<<< HEAD
 Seeing that the two Pokmon are willing to protect it in face of this new threat, Rayquaza begins firing Hyper Beams upon the thousands of robots.
+=======
+Seeing that the two Pokémon are willing to protect it in face of this new threat, Rayquaza begins firing Hyper Beams upon the thousands of robots.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Ash and Tory work together and ultimately manage to shut off the malfunctioning robots by disabling the main robot, freeing the twin Deoxys and Rayquaza.
 Tory almost falls and dies, but he is saved by the green Deoxys.
 Rayquaza, recognizing that the Deoxys aren't enemies, flies away peacefully, and the Deoxys form green and purple auroras in the sky as a goodbye to their friends, leaving to an unknown destination.
 Ash states that wherever they are going, at least they would always have each other.
+<<<<<<< HEAD
 Tory, who has gotten over his fear of Pokmon, agrees and later bids Ash and the others farewell at the train station with his new friends, Plusle and Minun, on his shoulders.
+=======
+Tory, who has gotten over his fear of Pokémon, agrees and later bids Ash and the others farewell at the train station with his new friends, Plusle and Minun, on his shoulders.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

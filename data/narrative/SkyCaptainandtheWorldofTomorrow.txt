@@ -66,4 +66,8 @@ He jolts the robot with its electric weapon and then uses it on the controls, di
 They use the last pod to save themselves as the rocket safely explodes.
 Joe and Polly watch the animal pods splash down around their escape pod.
 Polly then uses the last shot on her camera to take a picture of Joe rather than the animal pods.
+<<<<<<< HEAD
 Joe grins and says: "Pollylens cap."
+=======
+Joe grins and says: "Polly—lens cap."
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

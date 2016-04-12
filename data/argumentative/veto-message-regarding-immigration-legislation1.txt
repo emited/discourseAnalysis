@@ -1,7 +1,11 @@
 My Fellow-Citizens:
 Everyone here to-day is distressingly conscious of the circumstances which have convened this meeting.
 It would be wholly superfluous for me to attempt to set before you more impressively than the newspapers have already done the horrors attending the calamity which has fallen upon the city of Johnstown and the neighboring hamlets in a large section of Pennsylvania situated on the Susquehanna River.
+<<<<<<< HEAD
 The grim pencil of Dor would be inadequate to portray the distress and horrors of this visitation.
+=======
+The grim pencil of Doré would be inadequate to portray the distress and horrors of this visitation.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In such meetings as we have to-day here in the national capital and other like gatherings that are taking place in all the cities of this land, we have the only relief to the distress and darkness of the picture.
 When such calamitous visitations fall upon any section of our country we can only put about the dark picture the golden border of love and charity.
 It is in such fires as this that the brotherhood of men is welded.
@@ -17,3 +21,7 @@ I suggest, thirdly, that, of your substantial business people, bankers, and othe
 Need I say, in conclusion, that as a temporary citizen of Washington it would give me great satisfaction if the national capital should so generously respond to this call of our distressed fellow-citizens as to be conspicuous among the cities of the land for its ample and generous answer.
 I feel, as I am calling for subscriptions, that I should say that on Saturday, on being first apprised of the need at Johnstown, I telegraphed to the mayor of that city my subscription.
 I do not care now or at any time to speak of anything that is so personal as this, but I felt it due to you, as I am placed here to-day to solicit and urge others to give, that I should say so much as that.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

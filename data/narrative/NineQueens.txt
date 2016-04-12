@@ -16,4 +16,8 @@ They buy the real stamps and go to Gandolfo's hotel, but he says he has changed 
 Valeria's price is that Marcos must confess to their younger brother how he cheated him out of an inheritance.
 Gandolfo pays for the stamps with a certified check, but the bank crashes the next day, making the check worthless.
 It appears that Juan and Marcos are both ruined, but the final scene is a surprise ending.
+<<<<<<< HEAD
 Juan goes to a warehouse, where he greets the motorcycle thieves, Sandler and his sister, Gandolfo, and Juan's fiance Valeria  revealing that the real scam was to swindle Marcos out of $200,000 as revenge for all the times he cheated his family and his partners.
+=======
+Juan goes to a warehouse, where he greets the motorcycle thieves, Sandler and his sister, Gandolfo, and Juan's fiancée Valeria — revealing that the real scam was to swindle Marcos out of $200,000 as revenge for all the times he cheated his family and his partners.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

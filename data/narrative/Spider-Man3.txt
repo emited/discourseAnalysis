@@ -7,7 +7,11 @@ During a festival honoring Spider-Man, Marko robs an armored car.
 NYPD Captain George Stacy tells Peter and Aunt May that Marko was Uncle Ben's killer, and the deceased Dennis Carradine was only Marko's accomplice.
 While a vengeance-obsessed Peter sleeps, the symbiote bonds with him.
 Peter wakes up hanging from a skyscraper and discovers his costume has changed and his powers have been enhanced, but the symbiote brings out Peter's dark side.
+<<<<<<< HEAD
 Wearing the new black suit, Spider-Man locates Marko  spiting his Daily Bugle competitor Eddie Brock by breaking his camera  and battles him in a subway tunnel.
+=======
+Wearing the new black suit, Spider-Man locates Marko — spiting his Daily Bugle competitor Eddie Brock by breaking his camera — and battles him in a subway tunnel.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He discovers water is Marko's weakness and breaks a water pipe to reduce the Sandman into mud, washing Marko away into the pipes, Spider-Man leaving him for dead.
 Peter's changed personality alienates Mary Jane, whose career is floundering, and she finds solace with Harry.
 Harry recovers from his amnesia and, urged by a hallucination of his dead father, compels Mary Jane to break up with Peter.

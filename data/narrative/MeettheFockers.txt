@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Gaylord "Greg" Focker (Ben Stiller) and his fiance Pam Byrnes (Polo) decide to introduce their parents to each other.
+=======
+Gaylord "Greg" Focker (Ben Stiller) and his fiancée Pam Byrnes (Polo) decide to introduce their parents to each other.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They first fly to Oyster Bay, New York, on Long Island, to pick up Pam's father, retired CIA operative Jack Byrnes (De Niro), her mother Dina (Danner) and one-year-old nephew Little Jack (the son of Bob and Debbie Banks). But rather than going to the airport as planned, Jack decides to drive the family to Miami to meet the Fockers in his new RV.
 Once they arrive, they are greeted by Greg's eccentric but fun-loving and amiable father, Bernie (Hoffman), and mother, Roz (Streisand), who is a sex therapist for elderly couples.
 Worried that Jack may be put off by the Fockers' lifestyle, Greg convinces Roz to pretend that she is a yoga instructor for the weekend.
@@ -27,7 +31,11 @@ Jack returns to defend them after being informed Greg is not Jorge's father (his
 In their cell, Greg, Jack and Bernie are released by the local judge, Ira (Shelley Berman), who is a client of Roz and close friend of the Focker family.
 Before they leave, Greg asks both Jack and Bernie to stop their feud.
 Jack admits that he made a mistake regarding Jorge and reveals his past career in the CIA to Bernie, before apologizing for his actions and making up with the two of them.
+<<<<<<< HEAD
 Greg and Pam are married that weekend by Pam's ex-fianc, Kevin (Owen Wilson), who is now an ordained interfaith minister.
+=======
+Greg and Pam are married that weekend by Pam's ex-fiancé, Kevin (Owen Wilson), who is now an ordained interfaith minister.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 During the party, Jack asks Roz for some sex tips and sneaks into the RV with Dina.
 During the credits, Jack watches hidden baby-cam footage of the Fockers giving attention to Little Jack over Jack's previous objections: Roz gives Little Jack chocolate, Bernie advises him to use his crying to disagree with everything Jack says, and Greg pretends to drunkenly tell Little Jack to keep it a secret that he left to smoke pot, not answer the phone, when he left Little Jack unattended and that Pam is not really pregnant and only said it so that Jack would let them get married.
 Greg then pretends to only just discover the camera but then after making mocking gestures at it, Greg reveals that he knew about it all along and none of the things he said before were true.

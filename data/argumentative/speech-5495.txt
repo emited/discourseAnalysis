@@ -12,24 +12,42 @@ We have all come, first of all, to see firsthand what it is you've been going th
 We have hardly ever seen such a remarkable demonstration of courage and commitment and cooperation and basic human strength, and we are very impressed and proud to be Americans when we see what you have done in the face of this terrible disaster.
 We know that this rebuilding is going to be a long-term prospect, and we also know that there are some very immediate and pressing human needs that many people have.
 Before I left this morning, I took some steps I wanted to tell you about.
+<<<<<<< HEAD
 First, I authorized James Lee Witt and the Federal Emergency Management Agency to provide 100 percent of the direct Federal assistance for all the emergency[inaudible]work going to be undertaken here.
+=======
+First, I authorized James Lee Witt and the Federal Emergency Management Agency to provide 100 percent of the direct Federal assistance for all the emergency—[inaudible]—work going to be undertaken here.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The second thing we did was to add to the counties already covered another 18 counties in Minnesota and 53 in South Dakota who need help.
 The third thing I did was to ask Congress to approve another $200 million in emergency funds for North Dakota, South Dakota, and Minnesota.
 These funds will be available for both short-term emergency response activities and for long-term efforts to help you rebuild.
 If approved, this action will bring to $488 million the total amount of disaster assistance that I have requested for the people of these three States.
+<<<<<<< HEAD
 Now, let me say there areI say again, I know there are short-term, immediate concerns, people who need a place to sleep, people who don't know where their next check is coming from, even people who don't have access to basic sanitary facilities except here on the air base.
+=======
+Now, let me say there are—I say again, I know there are short-term, immediate concerns, people who need a place to sleep, people who don't know where their next check is coming from, even people who don't have access to basic sanitary facilities except here on the air base.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We are working to restore those things with your local community folks.
 And we had some specific talks about what we could do to get proper housing available while you're rebuilding your communities.
 [At this point, there was a disturbance in the building.] That's up there.
 Anybody hurt?
+<<<<<<< HEAD
 Well, we've had a fire, a flood, a blizzard[laughter]I guess we can take a[applause].
 So anyway, we'll have our folks here, and there will be lots of them.
 And let me just say, this is going to bethese next few daysour FEMA Director, James Lee Witt, and I have been working on these things a long time.
+=======
+Well, we've had a fire, a flood, a blizzard—[laughter]—I guess we can take a—[applause].
+So anyway, we'll have our folks here, and there will be lots of them.
+And let me just say, this is going to be—these next few days—our FEMA Director, James Lee Witt, and I have been working on these things a long time.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He was my emergency director when I was Governor of Arkansas.
 I know what's going to happen.
 I've been through floods and tornadoes and terrible losses.
 The next few days are going to be very, very hard on a lot of people.
+<<<<<<< HEAD
 A lot of you who have been very, very brave and courageous, helped your friends and neighbors, are going toit's going to sink in on you what you have been through and what has been lost.
+=======
+A lot of you who have been very, very brave and courageous, helped your friends and neighbors, are going to—it's going to sink in on you what you have been through and what has been lost.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And I want to encourage all of you to really look out for each other in the next few days and be sensitive to the enormous emotional pressures that some of you will feel and also kind of be good to yourselves.
 Understand you don't have to be ashamed if you're heartbroken.
 But it's going to be tough in the next few days.

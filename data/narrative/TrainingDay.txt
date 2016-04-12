@@ -24,7 +24,11 @@ But Jake refuses to lie and, after being threatened, seizes Alonzo's shotgun.
 A Mexican standoff ensues.
 However, Alonzo calms his associates and claims that the LAPD will run a blood test on Jake (identifying the PCP from the marijuana), the result of which he can falsify in exchange for Jake's cooperation.
 Jake reluctantly agrees.
+<<<<<<< HEAD
 Alonzo drives Jake to the home of a Sureo named "Smiley", allegedly to run an errand.
+=======
+Alonzo drives Jake to the home of a Sureño named "Smiley", allegedly to run an errand.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He furtively abandons Jake as Jake reluctantly plays poker with Smiley and his fellow gang members.
 A tense conversation ensues in which Smiley reveals Alonzo's situation: by midnight, Alonzo must pay $1 million to the Russian mob for killing one of their couriers in Las Vegas or be killed himself.
 Jake realizes too late that Alonzo had paid Smiley to kill him and is subdued and dragged to the shower.

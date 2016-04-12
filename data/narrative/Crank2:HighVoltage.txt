@@ -11,7 +11,11 @@ While driving Chev crashes his car which destroys his external battery pack.
 After getting directions from a driver, Chelios has the driver use his jumper cables on him.
 At the club, Chev loses Vang but picks up a hooker named Ria (Bai Ling) who sends him to a strip club where Vang is hiding out.
 In the club, Chev finds Eve (Amy Smart), now a stripper (It is humorously revealed that the phone call Chev made to Eve while falling to his supposed death at the end of Crank was completely incomprehensible due to the wind rushing by, and the farewell he had left on her answering machine was merely how he imagined it would sound). A group of Mexican mobsters, led by Chico, show up looking for Chelios.
+<<<<<<< HEAD
 After a gunfight, Chev learns that a mobster named "El Hurn" ("The Ferret") wants to kill him, but he doesn't find out why.
+=======
+After a gunfight, Chev learns that a mobster named "El Hurón" ("The Ferret") wants to kill him, but he doesn't find out why.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Outside of the strip club, Chev commandeers a police cruiser with Eve and another stripper.
 The stripper tells Chev that he should look at the Hollywood Racetrack for Johnny Vang.
 Along the way, Chev meets Venus (Efren Ramirez), who reveals himself to be Kaylo's brother.

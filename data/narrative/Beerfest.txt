@@ -1,6 +1,10 @@
 At the funeral of their German-born grandfather Johann von Wolfhausen (Donald Sutherland), brothers Jan and Todd Wolfhouse (Paul Soter and Erik Stolhanske) discover that family tradition demands they travel to Munich during Oktoberfest to spread his ashes on the Theresienwiese.
 In Munich the brothers unintentionally start a brawl that takes down an entire Oktoberfest tent.
+<<<<<<< HEAD
 They participate in Beerfest, an underground drinking game tournament, run by Baron Wolfgang von Wolfhausen (Jrgen Prochnow), where they discover that the von Wolfhausens are related to the Wolfhouses.
+=======
+They participate in Beerfest, an underground drinking game tournament, run by Baron Wolfgang von Wolfhausen (Jürgen Prochnow), where they discover that the von Wolfhausens are related to the Wolfhouses.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The German team reveals that Johann was a stable boy who stole the recipe for "the greatest beer in all ze world" decades ago and ran away with his prostitute mother, Gam Gam.
 Swearing to get revenge on the Germans, Jan and Todd return to Colorado, where they recruit college drinking friends for an American Beerfest team.
 Among them are: Barry Badrinath who is good at drinking games like Beer Pong and has since become a male prostitute, Steve "Fink" Finklestein who has a PhD in Chemistry, and Phil "Landfill" Krundle who has been known to drink copious amounts of beer.

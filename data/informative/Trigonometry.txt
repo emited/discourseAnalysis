@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Trigonometry (from Greek trignon, "triangle" and metron, "measure") is a branch of mathematics that studies relationships involving lengths and angles of triangles.
+=======
+Trigonometry (from Greek trigōnon, "triangle" and metron, "measure") is a branch of mathematics that studies relationships involving lengths and angles of triangles.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The field emerged in the Hellenistic world during the 3rd century BC from applications of geometry to astronomical studies.
 The 3rd-century astronomers first noted that the lengths of the sides of a right-angle triangle and the angles between those sides have fixed relationships: that is, if at least the length of one side and the value of one angle is known, then all other angles and lengths can be determined algorithmically.
 These calculations soon came to be defined as the trigonometric functions and today are pervasive in both pure and applied mathematics: fundamental methods of analysis such as the Fourier transform, for example, or the wave equation, use trigonometric functions to understand cyclical phenomena across many applications in fields as diverse as physics, mechanical and electrical engineering, music and acoustics, astronomy, ecology, and biology.

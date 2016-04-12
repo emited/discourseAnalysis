@@ -3,7 +3,11 @@ The car passes by an elderly man who is carrying apples and razor blades.
 Judy and her boyfriend, Jay, pick up their friends, Max and Frannie, for the party.
 Sal Romero, another teen, also comes and crashes the party.
 The house is rumored to be cursed with evil spirits.
+<<<<<<< HEAD
 When Angela holds a sance as a party game, Helen sees a demon's face in the mirror, which causes the mirror to shatter.
+=======
+When Angela holds a séance as a party game, Helen sees a demon's face in the mirror, which causes the mirror to shatter.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 This prompts a demon to come out of the crematorium furnace and possess Suzanne.
 Helen and Roger want to leave and so are given Angela's car keys.
 The possessed Suzanne kisses Angela, passing the demon to her.

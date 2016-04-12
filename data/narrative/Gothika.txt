@@ -7,7 +7,11 @@ Miranda next wakes up in the very hospital she works for, but as a patient treat
 Pete Graham (Robert Downey, Jr.). Drugged and confused, she remembers nothing of what happened after the car accident.
 To her horror, she learns that her husband Douglas (Charles S. Dutton) was brutally murdered and that she is the primary suspect.
 While Miranda copes with her new life in the hospital, the ghost uses her body to carry out messages (most noticeably, she carves the words "Not Alone" into Miranda's arm), which leads her former colleagues to believe Miranda is suicidal and is inflicting the wounds on herself.
+<<<<<<< HEAD
 Meanwhile, Miranda bonds with fellow inmate and former patient, Chloe Sava (Penlope Cruz). Several times in sessions, Chloe had claimed that she'd been raped while in the hospital, but Miranda had always attributed these stories to mental illness.
+=======
+Meanwhile, Miranda bonds with fellow inmate and former patient, Chloe Sava (Penélope Cruz). Several times in sessions, Chloe had claimed that she'd been raped while in the hospital, but Miranda had always attributed these stories to mental illness.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 One night, the door to Miranda's room in the hospital is opened by the ghost that has been haunting her.
 When she passes Chloe's room in the hospital, she can hear the rape occurring and momentarily sees a man's chest pressed against the window.
 The man's chest bears a tattoo of an Anima Sola.

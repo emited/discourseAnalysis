@@ -13,7 +13,11 @@ Accompanied by three fairy guides, Ofelia then completes the second task of retr
 Although she was warned not to consume anything, she eats two grapes, awakening the Pale Man.
 He eats two of the fairies and chases Ofelia, but she manages to escape.
 Infuriated at her disobedience, the faun refuses to give Ofelia the third task.
+<<<<<<< HEAD
 Vidal tortures a captive rebel, and then kills Doctor Ferreirowho is also a rebel collaboratorafter he euthanizes the prisoner.
+=======
+Vidal tortures a captive rebel, and then kills Doctor Ferreiro—who is also a rebel collaborator—after he euthanizes the prisoner.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Shortly afterwards, Vidal catches Ofelia tending to the mandrake root.
 Carmen throws it into the fire, where it writhes and screams in agony.
 Carmen immediately develops painful contractions and dies giving birth to a son.

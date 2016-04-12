@@ -1,6 +1,11 @@
 Ethan Hunt has retired from field work for the IMF.
+<<<<<<< HEAD
 He instead trains new recruits while settling down with his fiance, Julia Meade, a nurse who is unaware of Ethan's true job.
 He is approached by fellow IMF agent John Musgrave about a mission to rescue one of Ethan's protgs, Lindsey Farris.
+=======
+He instead trains new recruits while settling down with his fiancée, Julia Meade, a nurse who is unaware of Ethan's true job.
+He is approached by fellow IMF agent John Musgrave about a mission to rescue one of Ethan's protégés, Lindsey Farris.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Lindsey was captured while investigating arms dealer Owen Davian.
 Musgrave has already prepared a team for Ethan: Declan Gormley, Zhen Lei, and his old partner Luther Stickell.
 The team rescues Lindsey and collects two damaged laptop computers.
@@ -13,7 +18,11 @@ Before leaving, he and Julia have an impromptu wedding at the hospital's chapel.
 The team successfully infiltrates Vatican City and captures Davian.
 On the flight back to the U.S., Ethan threatens to drop Davian from the plane as he interrogates him about Rabbit's foot, but Davian remains tightlipped.
 After landing, Ethan learns that the microdot contains a video of Lindsey warning that Brassel is working with Davian.
+<<<<<<< HEAD
 The convoy taking Davian across the Chesapeake Bay BridgeTunnel is attacked, and Davian escapes.
+=======
+The convoy taking Davian across the Chesapeake Bay Bridge–Tunnel is attacked, and Davian escapes.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Ethan races to Julia's workplace, only to find she has already been kidnapped.
 Davian gives Ethan 48 hours to recover the Rabbit's Foot in exchange for Julia's life, but Ethan is soon captured by the IMF.
 Musgrave takes part in Ethan's interrogation but discreetly mouths that the Rabbit's Foot is located in Shanghai, China, and provides Ethan with the means to escape.

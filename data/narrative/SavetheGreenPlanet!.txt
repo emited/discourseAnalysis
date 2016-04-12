@@ -8,8 +8,13 @@ After contacting a partner in the police force he is killed by Byeong-gu's bees,
 Byeong-gu then crucifies the executive and breaks his leg with the back of his axe, to punish him for his attempted escape.
 In a desperate move, the executive convinces Byeong-gu that the bottle of benzene in his car trunk is the antidote for his comatose mother.
 As Byeong-gu races to the hospital to deliver the antidote, the executive frees himself by pulling his hands through the nails.
+<<<<<<< HEAD
 He then travels deeper into his captors lair, finding evidence of his grim research.
 Photos of mutilated corpses are littered with blood scrawled notebooks, while hands and brains of past subjects reside in jars.
+=======
+He then travels deeper into his captor’s lair, finding evidence of his grim research.
+Photos of mutilated corpses are littered with blood scrawled notebooks, while hands and brains of past ‘subjects’ reside in jars.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Reading through the journals the executive discovers Byeong-gu's traumatic past: his father was a coal miner who lost one of his arms due to his dangerous work and was killed by his wife when he attempted to attack her and his son.
 The child was beaten in school and was a victim of the sadistic whims of his cruel teachers.
 He showed early signs of violence, such as stabbing a fellow school mate with a kitchen knife.

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In 1984 East Germany, legendary Stasi Hauptmann Gerd Wiesler (Ulrich Mhe), code name HGW XX/7, accepts an assignment from his superiors to spy on the playwright Georg Dreyman (Sebastian Koch), who has previously escaped state scrutiny due to his pro-Communist views and international recognition.
+=======
+In 1984 East Germany, legendary Stasi Hauptmann Gerd Wiesler (Ulrich Mühe), code name HGW XX/7, accepts an assignment from his superiors to spy on the playwright Georg Dreyman (Sebastian Koch), who has previously escaped state scrutiny due to his pro-Communist views and international recognition.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Wiesler and his team bug the apartment, set up surveillance equipment in an attic, and begin reporting Dreyman's activities.
 Shortly after his surveillance begins, Wiesler learns the real reason for why Dreyman has been put under surveillance: the Minister of Culture, Bruno Hempf (Thomas Thieme) covets Dreyman's girlfriend, actress Christa-Maria Sieland (Martina Gedeck), and is trying to eliminate Dreyman as a romantic rival.
 While Wiesler's superior, Lt.
@@ -25,7 +29,11 @@ Grubitz, suspicious that Wiesler has mentioned nothing unusual in his daily repo
 Wiesler resumes his role as Stasi interrogator and forces Sieland to tell him exactly where the typewriter is hidden.
 Grubitz and the Stasi return to Dreyman's apartment.
 Sieland panics when she realizes that Dreyman will know she betrayed him and flees the apartment.
+<<<<<<< HEAD
 When Grubitz removes the floor, however, the typewriter is goneWiesler having removed it before the search team got there.
+=======
+When Grubitz removes the floor, however, the typewriter is gone—Wiesler having removed it before the search team got there.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Unaware of this, Sieland runs to the street and commits suicide by stepping into the path of an oncoming truck.
 Grubitz offers a perfunctory claim of sympathy and informs Dreyman that the investigation is over.
 Wiesler drives Grubitz back to the Stasi and is told that his career is over, and that his remaining 20 years with the agency will be in Department M, a dead-end position for disgraced agents.

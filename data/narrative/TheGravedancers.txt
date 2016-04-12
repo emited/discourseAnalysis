@@ -11,8 +11,13 @@ Harris and his wife Allison (Clare Kramer) are frightened by unexpected visions 
 Then Kira is attacked by a demonic force.
 She is severely bitten and sexually assaulted, and her house is ransacked.
 Sid is plagued by unexpected fires.
+<<<<<<< HEAD
 They enlist a pair of paranormal investigators, Vincent Cochet (Tchky Karyo) and Frances Culpepper (Megahn Perry), who determine that the three friends inadvertently invoked a powerful curse by dancing on the graves.
 They are now being haunted by three wayward spiritsa passionate axe murderer, a child pyromaniac, and a serial killer and rapistwho will kill them at the next full moon.
+=======
+They enlist a pair of paranormal investigators, Vincent Cochet (Tchéky Karyo) and Frances Culpepper (Megahn Perry), who determine that the three friends inadvertently invoked a powerful curse by dancing on the graves.
+They are now being haunted by three wayward spirits—a passionate axe murderer, a child pyromaniac, and a serial killer and rapist—who will kill them at the next full moon.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As the full moon approaches, they return to the cemetery to disinter the remains of their tormenters, hoping to bury them anew and put the curse to rest.
 Not all of the critical parts make it back into the ground, however, and on the final night the three friends experience renewed attacks, more powerful and furious than any previously.
 They are trapped together with the investigators by the malevolent spirits.

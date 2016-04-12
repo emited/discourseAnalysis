@@ -5,7 +5,11 @@ Unlike Bozz, Paxton volunteered for the Army.
 Upon reaching their post, the company commanding officer Captain Saunders makes it clear that every soldier who passes through Fort Polk and Tigerland will be sent to Vietnam.
 He also states that any political views on the war are irrelevant at this point.
 As the film progresses, another side of Bozz is shown.
+<<<<<<< HEAD
 Having "x-ray vision for loopholes," Bozz finds ways for soldiers to get out of the army  one because he not only has children but also a handicapped wife; another soldier, Miter (Clifton Collins Jr.), who joined to prove his manhood but finds himself way over his head.
+=======
+Having "x-ray vision for loopholes," Bozz finds ways for soldiers to get out of the army — one because he not only has children but also a handicapped wife; another soldier, Miter (Clifton Collins Jr.), who joined to prove his manhood but finds himself way over his head.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At one point, another soldier approaches Bozz while on leave and asks for help getting out, saying "I was told if you don't wanna go to 'Nam, you either pray to Jesus, or go see Roland Bozz." Bozz also shows his reasoning behind being opposed to the war: his human compassion.
 Eventually Bozz's natural leadership and ability earns him the title of squad leader (sometimes called acting Jack). Another private, Wilson (Shea Whigham), a racial bigot and instigator, continuously demeans Miter and Bozz.
 Bozz is the only one that retaliates, which results in a fight between the two.

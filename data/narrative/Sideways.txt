@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Miles Raymond is an aspiring  but unsuccessful  writer, a wine aficionado and a divorced, depressed, borderline alcoholic middle-aged English teacher living in San Diego, who takes his soon-to-be-married actor friend and college roommate, Jack Cole, on a road trip through Santa Ynez Valley wine country.
+=======
+Miles Raymond is an aspiring – but unsuccessful – writer, a wine aficionado and a divorced, depressed, borderline alcoholic middle-aged English teacher living in San Diego, who takes his soon-to-be-married actor friend and college roommate, Jack Cole, on a road trip through Santa Ynez Valley wine country.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Though still recognized on occasion, Jack's acting career appears to have peaked years ago, when he co-starred in a popular TV soap but now does commercial voice-overs and plans to enter his future father-in-law's successful real estate business after he's married.
 Miles wants to spend the week relaxing, golfing, enjoying good food and wine; however, much to Miles' consternation, Jack is on the prowl and wants one last sexual fling before settling into domestic life.
 In the wine country, the pair visit Miles' favorite restaurant, The Hitching Post II, and meet Maya, an attractive waitress with whom Miles is casually acquainted.
@@ -14,6 +18,7 @@ The next day, Miles lets it slip that Jack is to be married.
 Disgusted with the dishonesty, Maya dumps Miles and tells Stephanie who, furious and devastated to learn she's been used, breaks Jack's nose using her motorcycle helmet.
 On finding out his manuscript has been rejected again, Miles causes a scene during a wine tasting and ends up trying to drink from the spit bucket.
 That night, with Stephanie gone, Jack hooks up with another waitress named Cammi, who has recognized him from his acting career.
+<<<<<<< HEAD
 Hours later, Jack shows up back at the motel room he shares with Miles  naked and confessing that Cammi's husband came home early while she and Jack were having sex.
 Jack explains he was forced to flee without his clothes and wallet (which contains a pair of irreplaceable wedding rings). Jack convinces Miles to drive him back to Cammi's house and sneak inside, where he discovers Cammi and her husband having sex.
 Miles spies Jack's wallet, grabs it and runs from the house, barely escaping Cammi's irate husband, who pursues him in the nude.
@@ -22,5 +27,15 @@ The pair return to the home of Jack's fiance, where he is welcomed with open arm
 Following the wedding ceremony, Miles runs into his ex-wife Vicki and meets her new husband.
 After learning that she is also pregnant, Miles accepts that he will never get Vicki back.
 Alone, he drinks his prized wine, a 1961 Chteau Cheval Blanc, from a disposable coffee cup at a fast-food restaurant and falls into an even deeper depression.
+=======
+Hours later, Jack shows up back at the motel room he shares with Miles – naked and confessing that Cammi's husband came home early while she and Jack were having sex.
+Jack explains he was forced to flee without his clothes and wallet (which contains a pair of irreplaceable wedding rings). Jack convinces Miles to drive him back to Cammi's house and sneak inside, where he discovers Cammi and her husband having sex.
+Miles spies Jack's wallet, grabs it and runs from the house, barely escaping Cammi's irate husband, who pursues him in the nude.
+To explain the broken nose and cover up the infidelity to his fiancée, Jack runs Miles' convertible into a tree, giving the appearance they had been in an accident.
+The pair return to the home of Jack's fiancée, where he is welcomed with open arms, and Miles drives away in his battered car.
+Following the wedding ceremony, Miles runs into his ex-wife Vicki and meets her new husband.
+After learning that she is also pregnant, Miles accepts that he will never get Vicki back.
+Alone, he drinks his prized wine, a 1961 Château Cheval Blanc, from a disposable coffee cup at a fast-food restaurant and falls into an even deeper depression.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After some time passes, Miles returns to the routine of teaching school; coming home one afternoon, he receives a voice-mail from Maya, who says she enjoyed his manuscript and invites him to visit.
 Ultimately, Miles is seen driving back to Santa Ynez and knocking on Maya's door.

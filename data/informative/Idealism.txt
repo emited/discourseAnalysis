@@ -1,11 +1,19 @@
 In philosophy, idealism is the group of philosophies which assert that reality, or reality as we can know it, is fundamentally mental, mentally constructed, or otherwise immaterial.
 Epistemologically, idealism manifests as a skepticism about the possibility of knowing any mind-independent thing.
+<<<<<<< HEAD
 In a sociological sense, idealism emphasizes how human ideasespecially beliefs and valuesshape society.
+=======
+In a sociological sense, idealism emphasizes how human ideas—especially beliefs and values—shape society.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As an ontological doctrine, idealism goes further, asserting that all entities are composed of mind or spirit.
 Idealism thus rejects physicalist and dualist theories that fail to ascribe priority to the mind.
 The earliest extant arguments that the world of experience is grounded in the mental derive from India and Greece.
 The Hindu idealists in India and the Greek Neoplatonists gave panentheistic arguments for an all-pervading consciousness as the ground or true nature of reality.
+<<<<<<< HEAD
 In contrast, the Yogcra school, which arose within Mahayana Buddhism in India in the 4th century CE, based its "mind-only" idealism to a greater extent on phenomenological analyses of personal experience.
+=======
+In contrast, the Yogācāra school, which arose within Mahayana Buddhism in India in the 4th century CE, based its "mind-only" idealism to a greater extent on phenomenological analyses of personal experience.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 This turn toward the subjective anticipated empiricists such as George Berkeley, who revived idealism in 18th-century Europe by employing skeptical arguments against materialism.
 Beginning with Immanuel Kant, German idealists such as G. W. F. Hegel, Johann Gottlieb Fichte, Friedrich Wilhelm Joseph Schelling, and Arthur Schopenhauer dominated 19th-century philosophy.
 This tradition, which emphasized the mental or "ideal" character of all phenomena, gave birth to idealistic and subjectivist schools ranging from British idealism to phenomenalism to existentialism.

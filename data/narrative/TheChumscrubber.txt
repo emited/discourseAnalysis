@@ -3,7 +3,11 @@ Troy's best friend Dean Stiffle (Jamie Bell), is prescribed more antidepressants
 When Dean returns to school, he is antagonized by drug dealers Billy (Justin Chatwin) and Lee (Lou Taylor Pucci), who were supplied by Troy.
 Their friend, Crystal Falls (Camilla Belle), flirts with Dean, but he soon realizes that her true intentions are for Dean to retrieve the remaining drugs in Troy's home and refuses to cooperate.
 To force Dean to procure the drugs, Billy and Lee plan to kidnap Dean's brother, Charlie (Rory Culkin), as a ransom, but they end up kidnapping another boy named Charlie Bratley (Thomas Curtis) instead.
+<<<<<<< HEAD
 The kidnappers hold Charlie Bratley  whose parents are unaware that he is missing  overnight at Crystal's home.
+=======
+The kidnappers hold Charlie Bratley – whose parents are unaware that he is missing – overnight at Crystal's home.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Dean eventually agrees to go to Troy's house to find the drugs.
 Upon delivery, Billy discovers that the bag doesn't contain the prescription drugs and starts a fight with Dean, leading to Dean's arrest.
 While trying to explain everything to Officer Lou Bratley (John Heard), Charlie's father, Dean reveals that his brother Charlie replaced the drugs with a bag of the vitamins that their mother Allie (Allison Janney) sells.

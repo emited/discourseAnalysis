@@ -5,7 +5,11 @@ He soon receives an information package with a photo of his foster child, a smal
 Schmidt visits his young successor to offer his help, but the offer is politely declined.
 As he leaves the building, Schmidt sees the contents and files of his office, the sum of his entire career, set out for garbage collectors.
 He describes to Ndugu his longtime alienation from Helen, his wife, who suddenly dies from a blood clot in her brain just after their purchase of a Winnebago Adventurer motor home.
+<<<<<<< HEAD
 Jeannie, his only daughter, and her fianc Randall Hertzel arrive from Denver.
+=======
+Jeannie, his only daughter, and her fiancé Randall Hertzel arrive from Denver.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They console him at the funeral, but Jeannie later berates him for taking his wife for granted, such as by refusing to fully pay for the Winnebago (he wanted the cheaper Mini Winni) and burying her in a cheap casket.
 He asks her to move back to take care of him, but she refuses.
 Meanwhile, Randall tries to entice him into a pyramid scheme.

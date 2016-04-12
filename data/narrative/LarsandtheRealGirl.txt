@@ -28,7 +28,11 @@ She invites Lars to go bowling, which he initially declines before reconsidering
 The two spend a pleasant evening together along with some other townsfolk.
 Lars is quick to remind Margo he could never cheat on Bianca.
 Although obviously disappointed, Margo replies that the thought never crossed her mind.
+<<<<<<< HEAD
 As they part, Lars takes his glove off to shake Margo's hand  a significant advance in his ability to interact with others; he earlier explained to the doctor that others' touch felt like "burning".
+=======
+As they part, Lars takes his glove off to shake Margo's hand – a significant advance in his ability to interact with others; he earlier explained to the doctor that others' touch felt like "burning".
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 One morning soon after, Lars announces that Bianca is unresponsive, and an ambulance rushes her to the hospital.
 Once there, he tells his family that her prognosis is not good and that Bianca would like to be brought home.
 The news spreads through town, and everyone whose life has been touched by Bianca sends flowers or sits with Lars at the Lindstrom home.

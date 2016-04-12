@@ -8,6 +8,10 @@ One of the most successful molecular targeted therapeutic is Gleevec, which is a
 Although employed in other indications, Gleevec is most effective targeting BCR-Abl.
 Other examples of molecular targeted therapeutics targeting mutated oncogenes, include PLX27892 which targets mutant B-raf in melanoma.
 There are targeted therapies for breast cancer, multiple myeloma, lymphoma, prostate cancer, melanoma and other cancers.
+<<<<<<< HEAD
 The definitive experiments that showed that targeted therapy would reverse the malignant phenotype of tumor cells involved treating Her2/neu transformed cells with monoclonal antibodies in vitro and in vivo by Mark Greenes laboratory and reported from 1985.
+=======
+The definitive experiments that showed that targeted therapy would reverse the malignant phenotype of tumor cells involved treating Her2/neu transformed cells with monoclonal antibodies in vitro and in vivo by Mark Greene’s laboratory and reported from 1985.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Some have challenged the use of the term, stating that drugs usually associated with the term are insufficiently selective.
 The phrase occasionally appears in scare quotes: "targeted therapy". Targeted therapies may also be described as "chemotherapy" or "non-cytotoxic chemotherapy", as "chemotherapy" strictly means only "treatment by chemicals". But in typical medical and general usage "chemotherapy" is now mostly used specifically for "traditional" cytotoxic chemotherapy.

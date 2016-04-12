@@ -8,7 +8,11 @@ Federal Bureau of Prisons head Frank Hubbard (Stephen J. Cannell) and Supreme Co
 But she's not the only one interested in Lester.
 A small but well equipped team of terrorists who call themselves the "49ers" have parachuted onto the Alcatraz island, and gained control of it.
 Led by 49er One, a.k.a. Hubbard's assistant Donny Johnson (Morris Chestnut), and 49er Six (Nia Peeples), the team finds Lester, and they want him to give up the location of his hidden stash of gold.
+<<<<<<< HEAD
 When Lester will not tell them, Donny shoots a nearby priest (Eva-Maria Schnecker), and threatens to kill others if the information is not delivered.
+=======
+When Lester will not tell them, Donny shoots a nearby priest (Eva-Maria Schönecker), and threatens to kill others if the information is not delivered.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Donny's plan is disrupted, however, when Sascha decides to step in and fight back.
 It turns out that Sasha is actually an undercover FBI agent who has been trying to use Nick to get to Sonny Eckvall.
 When Sasha rescues Lester, the 49ers strap June to the electric chair and threaten to kill her, all while Ellen and her team prepare a rescue plan from the mainland.

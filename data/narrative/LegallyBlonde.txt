@@ -2,7 +2,11 @@ The film opens with sorority President Elle Woods on a date with her boyfriend W
 During the date, Elle expects a marriage proposal but instead her boyfriend breaks up with her.
 Desperate to win Warner back, she prepares and takes the Law School Admission Test and gets into Harvard Law School.
 At the school she is ridiculed because of her feminine dress sense and naive behavior.
+<<<<<<< HEAD
 She also meets Warner's fiance, Vivian Kensington.
+=======
+She also meets Warner's fianceé, Vivian Kensington.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, In her first class, Elle is ejected for being unprepared.
 Determined to succeed, Elle studies hard and impresses everyone, also winning her an internship with the respected Professor Callahan to assist in the defence of Brooke Taylor-Windham, a fitness instructor accused of murdering her billionaire husband.
 Elle knows of Brooke as she's used her fitness course and is convinced that she is innocent.

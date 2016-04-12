@@ -1,7 +1,11 @@
 Condensed matter physics is a branch of physics that deals with the physical properties of condensed phases of matter.
 Condensed matter physicists seek to understand the behavior of these phases by using physical laws.
 In particular, they include the laws of quantum mechanics, electromagnetism and statistical mechanics.
+<<<<<<< HEAD
 The most familiar condensed phases are solids and liquids while more exotic condensed phases include the superconducting phase exhibited by certain materials at low temperature, the ferromagnetic and antiferromagnetic phases of spins on atomic lattices, and the BoseEinstein condensate found in cold atomic systems.
+=======
+The most familiar condensed phases are solids and liquids while more exotic condensed phases include the superconducting phase exhibited by certain materials at low temperature, the ferromagnetic and antiferromagnetic phases of spins on atomic lattices, and the Bose–Einstein condensate found in cold atomic systems.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The study of condensed matter physics involves measuring various material properties via experimental probes along with using techniques of theoretical physics to develop mathematical models that help in understanding physical behavior.
 The diversity of systems and phenomena available for study makes condensed matter physics the most active field of contemporary physics: one third of all American physicists identify themselves as condensed matter physicists, and the Division of Condensed Matter Physics is the largest division at the American Physical Society.
 The field overlaps with chemistry, materials science, and nanotechnology, and relates closely to atomic physics and biophysics.

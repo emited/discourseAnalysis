@@ -39,3 +39,7 @@ It is as much the duty of the Government to construct good harbors, without refe
 These great inland seas are visited by destructive storms, and the annual loss of ships and cargoes, and consequently of revenue to the Government, is immense.
 If, then, there be any work embraced by that act which is not required in order to afford shelter and security to the shipping against the tempests which so often sweep over those great inland seas, but has, on the contrary, originated more in a spirit of speculation and local interest than in one of the character alluded to, the House of Representatives will regard my approval of the bill more as the result of misinformation than any design to abandon or modify the principles laid down in this message.
 Every system is liable to run into abuse, and none more so than that under consideration; and measures can not be too soon taken by Congress to guard against this evil.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

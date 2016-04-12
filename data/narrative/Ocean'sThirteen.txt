@@ -16,7 +16,11 @@ Basher distracts Bank long enough to allow Virgil and Turk Malloy to change the 
 Linus Caldwell seduces Bank's assistant to gain access to the display and switch the diamonds with fakes.
 He is interrupted by the lead FBI agent, who explains the diamond theft to Bank's assistant.
 Linus is arrested, but as they exit in the elevator, the lead agent is revealed to be his father, Robert 'Bobby' Caldwell, who is in on Ocean's plan.
+<<<<<<< HEAD
 As they exit to the roof of the hotel for extraction via helicopter, they are caught by Franois "The Night Fox" Toulour, whom Benedict had ordered to intercept the diamonds.
+=======
+As they exit to the roof of the hotel for extraction via helicopter, they are caught by François "The Night Fox" Toulour, whom Benedict had ordered to intercept the diamonds.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Linus gives the diamonds to Toulour, who escapes by parachuting off the hotel.
 However, upon Toulour's exit, Linus, Bobby, and Basher extract the entire display case of the real diamonds from the hotel via the helicopter as Ocean had already been aware of Toulour's presence in the hotel.
 The plan continues as expected.

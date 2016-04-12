@@ -20,7 +20,11 @@ Ted returns to Miami.
 Thunder Jack adds Demon as lead dog of his team for the Arctic Challenge.
 Jack has finished last in the last three Challenges, "winning" the "Arctic Flame" award as last "musher" to cross the finish line.
 The other mushers all camp at a checkpoint to wait out a bad storm, but Jack presses on.
+<<<<<<< HEAD
 (He is annoyed by the pretensions of defending champion Olivier (Jean Michel Par), who is dining on crab legs in an elaborate tent.)
+=======
+(He is annoyed by the pretensions of defending champion Olivier (Jean Michel Paré), who is dining on crab legs in an elaborate tent.)
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In Miami, Ted recounts his experiences to his mother, who accidentally breaks a frame holding a picture of Lucy and Demon.
 This reveals a snapshot of Lucy and Jack with a baby.
 Ted is infuriated that Jack lied to him, and rushes back to Alaska.
@@ -40,4 +44,8 @@ Ted introduces Thunder Jack to Amelia, and Brooks and Thunder Jack decide to sha
 Sometime later, Ted and Barb are married.
 In an epilogue, Ted has moved his dental practice to Tolkeetna.
 Barb has become his receptionist and is pregnant, and Nana and Demon have four puppies named Avalanche, Little Aleutia, Chinook, & Demon Jr..
+<<<<<<< HEAD
 Back in Miami, Ted's cousin Rupert (Sisq), also a dentist, is the new celebrity dentist, with his face on every city bus.
+=======
+Back in Miami, Ted's cousin Rupert (Sisqó), also a dentist, is the new celebrity dentist, with his face on every city bus.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

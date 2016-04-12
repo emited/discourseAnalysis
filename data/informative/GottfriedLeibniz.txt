@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 Gottfried Wilhelm (von) Leibniz (/labnts/; German: [tfit vlhlm fn labnts] or [lapnts]; French: Godefroi Guillaume Leibnitz; July 1, 1646  November 14, 1716) was a German polymath and philosopher who occupies a prominent place in the history of mathematics and the history of philosophy.
+=======
+Gottfried Wilhelm (von) Leibniz (/ˈlaɪbnɪts/; German: [ˈɡɔtfʁiːt ˈvɪlhɛlm fɔn ˈlaɪbnɪts] or [ˈlaɪpnɪts]; French: Godefroi Guillaume Leibnitz; July 1, 1646 – November 14, 1716) was a German polymath and philosopher who occupies a prominent place in the history of mathematics and the history of philosophy.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Scholars including Bertrand Russell believe Leibniz developed calculus independently of Isaac Newton, and Leibniz's notation has been widely used ever since it was published.
 It was only in the 20th century that his Law of Continuity and Transcendental Law of Homogeneity found mathematical implementation (by means of non-standard analysis). He became one of the most prolific inventors in the field of mechanical calculators.
 While working on adding automatic multiplication and division to Pascal's calculator, he was the first to describe a pinwheel calculator in 1685 and invented the Leibniz wheel, used in the arithmometer, the first mass-produced mechanical calculator.
 He also refined the binary number system, which is the foundation of virtually all digital computers.
 In philosophy, Leibniz is most noted for his optimism, i.e. his conclusion that our Universe is, in a restricted sense, the best possible one that God could have created, an idea that was often lampooned by others such as Voltaire.
+<<<<<<< HEAD
 Leibniz, along with Ren Descartes and Baruch Spinoza, was one of the three great 17th-century advocates of rationalism.
+=======
+Leibniz, along with René Descartes and Baruch Spinoza, was one of the three great 17th-century advocates of rationalism.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The work of Leibniz anticipated modern logic and analytic philosophy, but his philosophy also looks back to the scholastic tradition, in which conclusions are produced by applying reason of first principles or prior definitions rather than to empirical evidence.
 Leibniz made major contributions to physics and technology, and anticipated notions that surfaced much later in philosophy, probability theory, biology, medicine, geology, psychology, linguistics, and computer science.
 He wrote works on philosophy, politics, law, ethics, theology, history, and philology.

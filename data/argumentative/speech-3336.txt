@@ -2,13 +2,20 @@ Mr. Chief Justice, Mr.
 Vice President, my friends:
 You will understand and, I believe, agree with my wish that the form of this inauguration be simple and its words brief.
 We Americans of today, together with our allies, are passing through a period of supreme test.
+<<<<<<< HEAD
 It is a test of our courageof our resolveof our wisdomof our essential democracy.
 If we meet that testsuccessfully and honorablywe shall perform a service of historic importance which men and women and children will honor throughout all time.
 As I stand here today, having taken the solemn oath of office in the presence of my fellow countrymenin the presence of our GodI know that it
+=======
+It is a test of our courage—of our resolve—of our wisdom—of our essential democracy.
+If we meet that test—successfully and honorably—we shall perform a service of historic importance which men and women and children will honor throughout all time.
+As I stand here today, having taken the solemn oath of office in the presence of my fellow countrymen—in the presence of our God—I know that it
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 is America's purpose that we shall not fail.
 In the days and the years that are to come, we shall work for ajust and honorable peace, a durable peace, as today we work and fight for total victory in war.
 We can and we will achieve such a peace.
 We shall strive for perfection.
+<<<<<<< HEAD
 We shall not achieve it immediatelybut we still shall strive.
 We may make mistakesbut they must never be mistakes which result from faintness of heart or abandonment of moral
 principle.
@@ -19,6 +26,18 @@ The great fact to remember is that the trend of civilization itself is forever u
 Our Constitution of 1787 was not a perfect instrument; it is not perfect yet.
 But it provided a firm base upon which all manner of men, of all races and colors and creeds, could build our solid structure of democracy.
 Today, in this year of war, 1945, we have learned lessonsat a fearful costand we shall profit by them.
+=======
+We shall not achieve it immediately—but we still shall strive.
+We may make mistakes—but they must never be mistakes which result from faintness of heart or abandonment of moral
+principle.
+I remember that my old schoolmaster, Dr.
+Peabody, said in days that seemed to us then to be secure and untroubled, "Things in life will not always run smoothly.
+Sometimes we will be rising toward the heights—then all will seem to reverse itself and start downward.
+The great fact to remember is that the trend of civilization itself is forever upward; that a line drawn through the middle of the peaks and the valleys of the centuries always has an upward trend."
+Our Constitution of 1787 was not a perfect instrument; it is not perfect yet.
+But it provided a firm base upon which all manner of men, of all races and colors and creeds, could build our solid structure of democracy.
+Today, in this year of war, 1945, we have learned lessons—at a fearful cost—and we shall profit by them.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We have learned that we cannot live alone, at peace; that our own well-being is dependent on the well-being of other Nations, far away.
 We have learned that we must live as men and not as ostriches, nor as dogs in the manger.
 We have learned to be citizens of the world, members of the human community.
@@ -28,4 +47,8 @@ We can gain it only if we proceed with the understanding and the confidence and 
 The Almighty God has blessed our land in many ways.
 He has given our people stout hearts and strong arms with which to strike mighty blows for freedom and truth.
 He has given to our country a faith which has become the hope of all peoples in an anguished world.
+<<<<<<< HEAD
 So we pray to Him now for the vision to see our way clearly to see the way that leads to a better life for ourselves and for all our fellow menand to the achievement of His will to peace on earth.
+=======
+So we pray to Him now for the vision to see our way clearly to see the way that leads to a better life for ourselves and for all our fellow men—and to the achievement of His will to peace on earth.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

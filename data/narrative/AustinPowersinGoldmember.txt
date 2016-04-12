@@ -45,4 +45,8 @@ Austin, Foxxy, Dr.
 Evil, Mini-Me and Nigel are in the audience of a Hollywood theater watching the film.
 Upon exiting the theater they run into Fat Bastard, now thinner but flabby, thanks to the Subway diet.
 As Austin and Foxxy kiss, in Dr.
+<<<<<<< HEAD
 Evil's Hollywood lair, Scott  now completely bald, dressed like and laughing in a manner similar to his fatherdeclares he will get his revenge on Austin and begins dancing like Michael Jackson.
+=======
+Evil's Hollywood lair, Scott – now completely bald, dressed like and laughing in a manner similar to his father—declares he will get his revenge on Austin and begins dancing like Michael Jackson.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

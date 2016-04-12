@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Technology ("science of craft", from Greek , techne, "art, skill, cunning of hand"; and -, -logia) is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation.
+=======
+Technology ("science of craft", from Greek τέχνη, techne, "art, skill, cunning of hand"; and -λογία, -logia) is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Technology can be the knowledge of techniques, processes, etc.
 or it can be embedded in machines, computers, devices and factories, which can be operated by individuals without detailed knowledge of the workings of such things.
 The human species' use of technology began with the conversion of natural resources into simple tools.

@@ -13,7 +13,11 @@ He is caught by Fogarty, who, with Jack as his hostage, goes with his men to the
 After the gangsters release Jack, Tom is slow to join them in their car, so they attempt to force him to cooperate.
 Tom kills the two henchmen with the same precision he used against the robbers, but Fogarty shoots Tom as Tom is aiming at him.
 As Fogarty is standing over Tom, preparing to kill him, Tom finally admits he is indeed Joey.
+<<<<<<< HEAD
 However, before Fogarty can deliver a coup de grce, Jack kills Fogarty with a shotgun.
+=======
+However, before Fogarty can deliver a coup de grâce, Jack kills Fogarty with a shotgun.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At the hospital, Edie confronts Tom, claiming that while he was attacking Fogarty's men, she saw "the real Joey" that Fogarty was talking about.
 Tom shocks Edie by admitting that he is actually Joey Cusack, and that he has killed for both money and pleasure.
 He tells Edie that he ran away from Philadelphia to escape his violent criminal past.

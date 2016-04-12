@@ -3,7 +3,11 @@ An exotic spider farmer named Joshua (Tom Noonan) has been making regular visits
 Joshua shows Mike (Scott Terra), a local boy, his collection, which include Jumping spiders, Tarantulas, Trapdoor spiders, and orb-weavers spiders, including a female orb-weaver named Consuela.
 After Mike leaves, Joshua is bitten by an escaped tarantula and accidentally knocks down the spider cages, causing him to be killed by the spiders.
 After devouring him, the spiders grow to even bigger proportions.
+<<<<<<< HEAD
 On his way home, Mike is accosted by his mother, Sheriff Sam Parker (Kari Whrer) and Deputy Pete Williams (Rick Overton) pulling the toxic barrel out of the pond.
+=======
+On his way home, Mike is accosted by his mother, Sheriff Sam Parker (Kari Wührer) and Deputy Pete Williams (Rick Overton) pulling the toxic barrel out of the pond.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Wade (Leon Rippy), the Mayor of Prosperity, is holding a town meeting in the mall about whether they should sell the mines and relocate.
 Chris McCormick (David Arquette), whose father owned the mines before he died ten years ago, shows up and stands against Wade's proposition.
 Chris also sparks a romance with Sam.

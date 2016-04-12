@@ -16,7 +16,11 @@ Lifting against gravity performs mechanical work on the object and stores gravit
 If the object falls to the ground, gravity does mechanical work on the object which transforms the potential energy in the gravitational field to the kinetic energy released as heat on impact with the ground.
 Our Sun transforms nuclear potential energy to other forms of energy; its total mass does not decrease due to that in itself (since it still contains the same total energy even if in different forms), but its mass does decrease when the energy escapes out to its surroundings, largely as radiant energy.
 Mass and energy are closely related.
+<<<<<<< HEAD
 According to the theory of massenergy equivalence, any object that has mass when stationary in a frame of reference (called rest mass) also has an equivalent amount of energy whose form is called rest energy in that frame, and any additional energy acquired by the object above that rest energy will increase an object's mass.
+=======
+According to the theory of mass–energy equivalence, any object that has mass when stationary in a frame of reference (called rest mass) also has an equivalent amount of energy whose form is called rest energy in that frame, and any additional energy acquired by the object above that rest energy will increase an object's mass.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 For example, if you had a sensitive enough scale, you could measure an increase in mass after heating an object.
 Living organisms require available energy to stay alive, such as the energy humans get from food.
 Civilisation gets the energy it needs from energy resources such as fossil fuels, nuclear fuel, or renewable energy.

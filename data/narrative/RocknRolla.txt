@@ -1,7 +1,11 @@
 In London, the British mob boss Lenny Cole (Tom Wilkinson) rules the growing real estate business using a corrupt Councillor (Jimi Mistry) for the bureaucratic services and his henchman Archy (Mark Strong) for the dirty work.
 A billionaire Russian businessman, Uri Omovich (Karel Roden), plans a crooked land deal, and London's crooks all want a piece of it.
 Other key players include the underhand accountant Stella (Thandie Newton) and ambitious small-time crook One-Two (Gerard Butler) leading a group called the "Wild Bunch" which includes Mumbles (Idris Elba) and Handsome Bob (Tom Hardy).
+<<<<<<< HEAD
 Lenny charges Uri 7,000,000 for the crooked deal; Uri has his accountant Stella find funds.
+=======
+Lenny charges Uri €7,000,000 for the crooked deal; Uri has his accountant Stella find funds.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Uri lends his lucky painting to Lenny as a sign of friendship.
 Stella, however, double-crosses Uri and tips off the Wild Bunch to steal the money, while the painting is stolen from Lenny's wall by his junkie rocker stepson Johnny Quid (Toby Kebbell), who disappears.
 Lenny and Archy coerce his former managers Mickey (Chris "Ludacris" Bridges) and Roman (Jeremy Piven) into tracking down Johnny.

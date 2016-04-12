@@ -6,7 +6,11 @@ She attempts to escape, but the way by which they came has since become submerge
 Frightened and alone, she observes as the world she ventured into reveals itself as a luxurious retreat for spirits to revitalize themselves.
 Haku finds Chihiro and advises her to demand a job from the bathhouse's boiler-man, Kamaji, a spider-like being who prepares requested treatments for guests.
 Kamaji and Lin, one of the employees there, send Chihiro to Yubaba, the cruel and tyrannical owner of the bathhouse.
+<<<<<<< HEAD
 While she initially refuses Chihiro's service, Yubaba reluctantly hires her in exchange for her identity, renaming her Sen (). Haku takes Sen to visit her parents' pigpen and returns her clothes.
+=======
+While she initially refuses Chihiro's service, Yubaba reluctantly hires her in exchange for her identity, renaming her Sen (千). Haku takes Sen to visit her parents' pigpen and returns her clothes.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Within, Sen finds a goodbye card from a friend with her real name written on it.
 Haku tells her that Yubaba controls people by taking their names and that she will become trapped in the spirit world if she forgets her name, as he has.
 While working, Sen invites a silent, masked creature named No-Face inside the bathhouse, believing him to be a customer.

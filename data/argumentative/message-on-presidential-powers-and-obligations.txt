@@ -18,3 +18,7 @@ It needs and it desires peace and quiet and harmony between all parties and all 
 Its industries are arrested, labor unemployed, capital idle, and enterprise paralyzed by reason of the doubt and anxiety attending the uncertainty of a double claim to the Chief Magistracy of the nation.
 It wants to be assured that the result of the election will be accepted without resistance from the supporters of the disappointed candidate, and that its highest officer shall not hold his place with a questioned title of right.
 Believing that the bill will secure these ends, I give it my signature.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

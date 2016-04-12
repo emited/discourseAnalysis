@@ -12,7 +12,11 @@ Dora (Frances Conroy) is a realtor.
 Once a "flower child" of the 1960s, she has reversed to the opposite extreme is now apparently resigned to a very uptight existence in her otherwise happy marriage to Ron (Christopher McDonald).
 Carmen Markowski (Jessica Lange) works as an "animal communicator." Don recalls how she was formerly so passionate about becoming a lawyer.
 But "passion is a funny thing," she says.
+<<<<<<< HEAD
 She is cold to Don and has an odd relationship with her secretary (Chlo Sevigny).
+=======
+She is cold to Don and has an odd relationship with her secretary (Chloë Sevigny).
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Penny (Tilda Swinton) lives in a rural area amongst bikers.
 She still holds a grudge against Don, and apparent rage overall.
 When Don asks her whether she has a son, she becomes furious, which results in one of her biker friends punching Don out.

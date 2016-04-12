@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nine years before, Jesse and Cline had met and had a brief encounter in Vienna.
 Jesse's new novel, This Time, was inspired by that night, and becomes a bestseller.
 He does a book tour in Europe, including Paris.
@@ -27,3 +28,34 @@ Her song is about their earlier brief encounter.
 Jesse puts a Nina Simone CD on the stereo system.
 Cline dances to the song, "Just in Time," as Jesse watches her.
 Cline imitates Simone, saying, "Baby ... you are gonna miss that plane." Jesse smiles and says, "I know."
+=======
+Nine years before, Jesse and Céline had met and had a brief encounter in Vienna.
+Jesse's new novel, This Time, was inspired by that night, and becomes a bestseller.
+He does a book tour in Europe, including Paris.
+He does a reading at the noted bookstore, Shakespeare and Company.
+Flashbacks express elements of his time with Céline in Vienna.
+Three journalists attend the reading to interview Jesse: one is convinced the book's main characters meet again, another that they do not, and a third who wants them to but is doubtful that will occur.
+As Jesse speaks with the audience, his eyes wander and he sees Céline there, smiling at him.
+After the presentation, the bookstore manager reminds Jesse of his need to leave for the airport in about an hour for his plane.
+Céline and Jesse's time together is again constrained.
+They make the best of it, and their conversations become deeply personal.
+They begin with themes of work and politics and, with increasing passion, approach their earlier feelings for each other.
+They touch on their failure to have met as planned six months after their first encounter.
+Jesse returned to Vienna but Céline did not, because her grandmother had died suddenly.
+Since the pair had never exchanged addresses, they had no way to contact each other at the time.
+Their talk reveals their life changes.
+Jesse, now a writer, is married and has a son.
+Céline has become an advocate for the environment, and has a photojournalist boyfriend.
+They each express some dissatisfaction with their lives.
+They talk as they walk in Paris, with scenes showing a café, garden, bateau mouche, and Jesse's hired car.
+Their former feelings are slowly rekindled, as their one night together looms large in memory, unmarred by ordinary trials.
+Jesse says his book was inspired by his hope of seeing Céline again.
+She says that it brought back painful memories.
+They begin to approach each other tentatively but pull back.
+In the concluding scene, Céline and Jesse arrive at her apartment.
+Jesse persuades her to play a waltz on her guitar.
+Her song is about their earlier brief encounter.
+Jesse puts a Nina Simone CD on the stereo system.
+Céline dances to the song, "Just in Time," as Jesse watches her.
+Céline imitates Simone, saying, "Baby ... you are gonna miss that plane." Jesse smiles and says, "I know."
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

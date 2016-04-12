@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Investigative reporter Amy Klein (Kari Wuhrer) is sent to Bucharest at the behest of Charles (Simon Kunz), her boss, to investigate the origins of a video tape depicting the ritualistic murderand subsequent resurrectionof a member of a cult calling themselves "The Deaders". In Bucharest, Amy tracks down the return address of the VHS and discovers the corpse of a girl, named Marla, who had sent the tape holding a puzzle box, the Lament Configuration.
+=======
+Investigative reporter Amy Klein (Kari Wuhrer) is sent to Bucharest at the behest of Charles (Simon Kunz), her boss, to investigate the origins of a video tape depicting the ritualistic murder—and subsequent resurrection—of a member of a cult calling themselves "The Deaders". In Bucharest, Amy tracks down the return address of the VHS and discovers the corpse of a girl, named Marla, who had sent the tape holding a puzzle box, the Lament Configuration.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Amy returns to her hotel and opens the box which summons Pinhead (Doug Bradley), although this is apparently all a dream.
 She visits some of the Bucharest subculture on a train where she meets Joey, who warns her about her the Deaders and notices that Amy has a 'self destructive thing'.
 Amy pursues leads, ultimately tracking down Winter LeMarchand (Paul Rhys), the leader of the cult.

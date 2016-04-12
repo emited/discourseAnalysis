@@ -33,7 +33,11 @@ Mary is tried for high treason.
 She is beheaded, ascending the block in a blood-red dress, red being the Catholic liturgical color for martyrs.
 Walsingham sees that this was part of the Jesuits' plan all along.
 Philip had never intended Mary to become queen, but since the Pope and other Catholic leaders regarded Mary as the true Queen of England, Philip uses Mary's death to obtain papal approval for war.
+<<<<<<< HEAD
 The "murder" of the last legitimate Catholic in the line of succession gives Philip the pretext he needs to invade England and place his daughter on the throne as a puppet monarch, and he oversees the departure of the Armada from Cdiz.
+=======
+The "murder" of the last legitimate Catholic in the line of succession gives Philip the pretext he needs to invade England and place his daughter on the throne as a puppet monarch, and he oversees the departure of the Armada from Cádiz.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In England, Raleigh asks to leave for the New World, which Elizabeth forbids, instead knighting him and making him Captain of the Royal Guard.
 Bess discovers she is pregnant with Raleigh's child, and after telling him the news, she pleads with him to leave.
 He chooses not to, and the couple marry in secret.

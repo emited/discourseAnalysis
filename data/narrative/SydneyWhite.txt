@@ -14,7 +14,11 @@ Sydney finds Lenny (Jack Carpenter), one of the seven dorks who live in a run-do
 Sydney is then picked by Rachel to ditch her date, which ended in Lenny paying.
 Sydney fails to become a member of Kappa when Rachel humiliates her in the pledge gala and insists she has disobeyed the rules: lying about her background and cheating on a Kappa quiz.
 Sydney leaves that night in the rain, unintentionally sitting in front of the Vortex.
+<<<<<<< HEAD
 She is welcomed by the seven dorks: Lenny, the one with high maintenance health; Terrence (Jeremy Howard), the genius one; Jeremy (Adam Hendershott), the shy one who only uses his puppet to talk; Gurkin (Danny Strong), the hot-tempered blogger; Spanky (Samm Levine), the one who has no experience with girls; George (Arnie Pantoja), the childlike one who still believes in Santa Claus and doesn't know how to tie a knot; and Embelakbo Akapaktumbe also known as "Embele" (Dont Bonner), a Nigerian interchange student who is highly intelligent but has sleep disorder due to being un-adapted to a different time zone.
+=======
+She is welcomed by the seven dorks: Lenny, the one with high maintenance health; Terrence (Jeremy Howard), the genius one; Jeremy (Adam Hendershott), the shy one who only uses his puppet to talk; Gurkin (Danny Strong), the hot-tempered blogger; Spanky (Samm Levine), the one who has no experience with girls; George (Arnie Pantoja), the childlike one who still believes in Santa Claus and doesn't know how to tie a knot; and Embelakbo Akapaktumbe– also known as "Embele"– (Donté Bonner), a Nigerian interchange student who is highly intelligent but has sleep disorder due to being un-adapted to a different time zone.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The Vortex is coincidentally the target of Rachel's plan to open a luxury center that will benefit only the top Greek sororities and fraternities.
 She plans to subject it to a planned demolition, which is something Tyler is opposed to after he gets to know Sydney and her housemates better.
 Sydney, together with the seven dorks, tries to bring Rachel down from her student council position by running Terrence for president.

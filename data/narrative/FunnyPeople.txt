@@ -7,7 +7,11 @@ Leo is a rising comedy star and guest star or a recurring role on Mark's tv show
 George meets Ira at a small comedy club and hires him as his assistant.
 Ira becomes one of George's only close relationships.
 The two travel around the country, George hires Ira as his personal assistant and joke writer and opens for him in the big comedy clubs, often meeting with real life comedians who play themselves and talk about the business of comedy.
+<<<<<<< HEAD
 George reconnects with his ex-fiance, Laura (Leslie Mann) who is currently married to Clarke (Eric Bana). Georges physician tells him that the leukemia is in remission.
+=======
+George reconnects with his ex-fiancée, Laura (Leslie Mann) who is currently married to Clarke (Eric Bana). George′s physician tells him that the leukemia is in remission.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 George decides he wants Laura back.
 Laura invites George and Ira to her house in Marin County while her husband is away on business.
 George and Ira spend quality time with Laura and her two young daughters.

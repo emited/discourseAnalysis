@@ -1,6 +1,10 @@
 Set in Manhattan during the Wall Street boom of the late 1980s, American Psycho follows the life of wealthy young investment banker Patrick Bateman.
 Bateman, in his late 20s when the story begins, narrates his everyday activities, from his recreational life among the Wall Street elite of New York to his forays into murder by night.
+<<<<<<< HEAD
 Through present tense stream-of-consciousness narrative, Bateman describes his daily life, ranging from a series of Friday nights spent at nightclubs with his colleagues  where they snort cocaine, critique fellow club-goers' clothing, trade fashion advice, and question one another on proper etiquette  to his loveless engagement to fellow yuppie Evelyn and his contentious relationship with his brother and senile mother.
+=======
+Through present tense stream-of-consciousness narrative, Bateman describes his daily life, ranging from a series of Friday nights spent at nightclubs with his colleagues — where they snort cocaine, critique fellow club-goers' clothing, trade fashion advice, and question one another on proper etiquette — to his loveless engagement to fellow yuppie Evelyn and his contentious relationship with his brother and senile mother.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Bateman's stream of consciousness is occasionally broken up by chapters in which he directly addresses the reader in order to critique the work of 1980s pop music artists.
 The novel maintains a high level of ambiguity through mistaken identity and contradictions that introduce the possibility that Bateman is an unreliable narrator.
 Characters are consistently introduced as people other than themselves, and people argue over the identities of others they can see in restaurants or at parties.
@@ -8,7 +12,11 @@ The question of whether any of the crimes depicted in the novel actually happene
 After killing Paul Owen, one of his colleagues, Bateman appropriates his apartment as a place to host and kill more victims.
 Bateman's control over his violent urges deteriorates.
 His murders become increasingly sadistic and complex, progressing from simple stabbings to drawn-out sequences of rape, torture, mutilation, cannibalism, and necrophilia, and his grasp on sanity begins to slip.
+<<<<<<< HEAD
 He introduces stories about serial killers into casual conversations and on several occasions openly confesses his murderous activities to his coworkers, who never take him seriously, do not hear what he says, or misunderstand him completelyfor example, hearing the words "murders and executions" as "mergers and acquisitions." Bateman begins to experience bizarre hallucinations such as seeing a Cheerio interviewed on a talk show, being stalked by an anthropomorphic park bench, and finding a bone in his Dove Bar.
+=======
+He introduces stories about serial killers into casual conversations and on several occasions openly confesses his murderous activities to his coworkers, who never take him seriously, do not hear what he says, or misunderstand him completely—for example, hearing the words "murders and executions" as "mergers and acquisitions." Bateman begins to experience bizarre hallucinations such as seeing a Cheerio interviewed on a talk show, being stalked by an anthropomorphic park bench, and finding a bone in his Dove Bar.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 These incidents culminate in a shooting spree during which he kills several random people in the street, resulting in a SWAT team being dispatched in a helicopter.
 This narrative episode sees the first-person perspective shift to third-person and the subsequent events are, although not for the first time in the novel, described in terms pertaining to cinematic portrayal.
 Bateman flees on foot and hides in his office, where he phones his attorney, Harold Carnes, and confesses all his crimes to the answering machine.

@@ -11,12 +11,21 @@ She has won two tours and just needs to win one more to be set free.
 Dawn is eight months pregnant and hopes to win the game for her baby.
 The show hosts a lottery, with Contenders chosen by whichever social security number appears.
 The five contenders selected are:
+<<<<<<< HEAD
 Connie Trabucco (Marylouise Burke)  57 years old, single, emergency room nurse.
 Jeffrey Norman (Glenn Fitzgerald)  33 years old, married, artist.
 He is dying of testicular cancer and is Dawn's former love.
 Anthony Reilly (Michael Kaycheck)  39 years old, married, unemployed asbestos remover.
 Franklin James (Richard Venture)  72 years old, retired.
 Lindsay Berns (Merritt Wever)  18 years old, student.
+=======
+Connie Trabucco (Marylouise Burke) – 57 years old, single, emergency room nurse.
+Jeffrey Norman (Glenn Fitzgerald) – 33 years old, married, artist.
+He is dying of testicular cancer and is Dawn's former love.
+Anthony Reilly (Michael Kaycheck) – 39 years old, married, unemployed asbestos remover.
+Franklin James (Richard Venture) – 72 years old, retired.
+Lindsay Berns (Merritt Wever) – 18 years old, student.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Series 7 begins with a recap of the end of Series 6: the opening scene shows the heavily pregnant Dawn enter a convenience store and fatally shoot a man in a seemingly random act.
 The show credits then roll, its rules are explained in voice-over narration, and the contenders are introduced.
 Interview segments interspersed with several of the contenders' early attempts to attack each other offer insight and background on the contenders.

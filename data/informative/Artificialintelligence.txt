@@ -12,6 +12,10 @@ General intelligence is still among the field's long-term goals.
 Currently popular approaches include statistical methods, computational intelligence and traditional symbolic AI.
 There are a large number of tools used in AI, including versions of search and mathematical optimization, logic, methods based on probability and economics, and many others.
 The AI field is interdisciplinary, in which a number of sciences and professions converge, including computer science, mathematics, psychology, linguistics, philosophy and neuroscience, as well as other specialized fields such as artificial psychology.
+<<<<<<< HEAD
 The field was founded on the claim that a central property of humans, human intelligencethe sapience of Homo sapiens sapiens"can be so precisely described that a machine can be made to simulate it." This raises philosophical arguments about the nature of the mind and the ethics of creating artificial beings endowed with human-like intelligence, issues which have been explored by myth, fiction and philosophy since antiquity.
+=======
+The field was founded on the claim that a central property of humans, human intelligence—the sapience of Homo sapiens sapiens—"can be so precisely described that a machine can be made to simulate it." This raises philosophical arguments about the nature of the mind and the ethics of creating artificial beings endowed with human-like intelligence, issues which have been explored by myth, fiction and philosophy since antiquity.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Artificial intelligence has been the subject of tremendous optimism but has also suffered stunning setbacks.
 Today AI techniques have become an essential part of the technology industry, providing the heavy lifting for many of the most challenging problems in computer science.

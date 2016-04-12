@@ -6,7 +6,11 @@ During her working day as a house cleaner, Vera performs constant small acts of 
 She is a kindly person who is eager to help others.
 Unknown to her family, she also works secretly, providing young women abortions.
 She receives no money for providing this service because she believes that her help is an act of charity to women in trouble.
+<<<<<<< HEAD
 However, her partner Lily (Ruth Sheen), who also carries on a black-market trade in scarce postwar foodstuffs, charges two guineas (two pounds and two shillings: equivalent to 62 in 2015) for arranging the abortions, without Vera's knowledge.
+=======
+However, her partner Lily (Ruth Sheen), who also carries on a black-market trade in scarce postwar foodstuffs, charges two guineas (two pounds and two shillings: equivalent to £62 in 2015) for arranging the abortions, without Vera's knowledge.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The film also contains a subplot about an upper-class young woman, Susan (Sally Hawkins), the daughter of one of Vera's employers.
 Susan is raped by a suitor, becomes pregnant, and asks a friend to put her in contact with a doctor, through whom she can obtain an abortion.
 The doctor refers her to a psychiatrist, who prompts her to answer questions in a certain way, so that he can legally recommend an abortion on therapeutic psychiatric grounds: that she has a family history of mental illness and that she may commit suicide if not allowed to terminate the pregnancy.

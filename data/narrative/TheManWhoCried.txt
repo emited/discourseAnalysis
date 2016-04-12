@@ -1,6 +1,10 @@
 Fegele Abramovich (Christina Ricci), a Russian Jew is separated from her father (Oleg Yankovsky) as a child in 1927.
 Her father has travelled to America to seek his fortune and plans to send for Fegele and her grandmother.
+<<<<<<< HEAD
 Before leaving, he sings "Je Crois Entendre Encore" from the Bizet opera Les pcheurs de perles to her.
+=======
+Before leaving, he sings "Je Crois Entendre Encore" from the Bizet opera Les pêcheurs de perles to her.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After her father leaves, the village is attacked and burned in a pogrom.
 Fegele escapes with the help of neighbours; after many obstacles, she is crowded onto a boat headed for Britain, with only a photo of her father and a coin given to her by her grandmother.
 Upon arrival, an English official renames her "Susan" and places her with foster parents.

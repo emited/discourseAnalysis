@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In mathematics, a theorem is a statement that has been proven on the basis of previously established statements, such as other theoremsand generally accepted statements, such as axioms.
+=======
+In mathematics, a theorem is a statement that has been proven on the basis of previously established statements, such as other theorems—and generally accepted statements, such as axioms.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A theorem is a logical consequence of the axioms.
 The proof of a mathematical theorem is a logical argument for the theorem statement given in accord with the rules of a deductive system.
 The proof of a theorem is often interpreted as justification of the truth of the theorem statement.
@@ -9,7 +13,11 @@ In light of the interpretation of proof as justification of truth, the conclusio
 However, the conditional could be interpreted differently in certain deductive systems, depending on the meanings assigned to the derivation rules and the conditional symbol.
 Although they can be written in a completely symbolic form, for example, within the propositional calculus, theorems are often expressed in a natural language such as English.
 The same is true of proofs, which are often expressed as logically organized and clearly worded informal arguments, intended to convince readers of the truth of the statement of the theorem beyond any doubt, and from which a formal symbolic proof can in principle be constructed.
+<<<<<<< HEAD
 Such arguments are typically easier to check than purely symbolic onesindeed, many mathematicians would express a preference for a proof that not only demonstrates the validity of a theorem, but also explains in some way why it is obviously true.
+=======
+Such arguments are typically easier to check than purely symbolic ones—indeed, many mathematicians would express a preference for a proof that not only demonstrates the validity of a theorem, but also explains in some way why it is obviously true.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In some cases, a picture alone may be sufficient to prove a theorem.
 Because theorems lie at the core of mathematics, they are also central to its aesthetics.
 Theorems are often described as being "trivial", or "difficult", or "deep", or even "beautiful". These subjective judgments vary not only from person to person, but also with time: for example, as a proof is simplified or better understood, a theorem that was once difficult may become trivial.

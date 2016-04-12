@@ -1,14 +1,25 @@
 At his son's wedding party, Edward Bloom (Albert Finney) tells the same tall tale he's told many times over the years: on the day Will (Billy Crudup) was born, he was out catching an enormous uncatchable fish, using his wedding ring as a lure.
+<<<<<<< HEAD
 Will is annoyed, explaining to his wife Josphine (Marion Cotillard) that because his father lives in a fantasy world and has never told the straight truth about anything, he felt unable to trust him.
 He is troubled to think that he might have a similarly difficult relationship with his future children.
 Will's relationship with his father becomes so strained that they do not talk for three years.
 But when his father's health starts to fail from cancer, Will and the now pregnant Josphine return to his hometown in Alabama to visit.
+=======
+Will is annoyed, explaining to his wife Joséphine (Marion Cotillard) that because his father lives in a fantasy world and has never told the straight truth about anything, he felt unable to trust him.
+He is troubled to think that he might have a similarly difficult relationship with his future children.
+Will's relationship with his father becomes so strained that they do not talk for three years.
+But when his father's health starts to fail from cancer, Will and the now pregnant Joséphine return to his hometown in Alabama to visit.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 On the plane, Will recalls his father's tale of how he braved a swamp as a child after he was dared by a few other children.
 He meets a witch (Helena Bonham Carter). She shows Don Price and another boy how they were going to die.
 They run away, frightened.
 When the witch shows Edward his death in her glass eye, he accepts it without fear.
 With this knowledge, Edward knew there were no odds he could not face.
+<<<<<<< HEAD
 Will and Josphine have a warm welcome at his childhood home from his mother and Edward's wife Sandra (Jessica Lange) who informs them that Edward's cancer is advanced and he is not expected to live very much longer.
+=======
+Will and Joséphine have a warm welcome at his childhood home from his mother and Edward's wife Sandra (Jessica Lange) who informs them that Edward's cancer is advanced and he is not expected to live very much longer.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As Will sits by his dying father's bedside, Edward continues telling tall tales, claiming he spent three years confined to a bed as a child because his body was growing too fast.
 While in high school, Edward became a successful athlete, but found the town of Ashton too small for his ambition, and set off with the misunderstood giant Karl (Matthew McGrory). The witch with the glass eye is seen bidding him farewell.
 While traveling, Edward and Karl see two separate roads out of Ashton.
@@ -57,6 +68,10 @@ Since Edward can no longer tell stories, he asks Will to tell him the story of h
 Beat and deciding to play along, Will tells his own tall tale about helping Edward escape from the hospital and they go to the river where everyone in Edward's life appears to bid him goodbye.
 Will carries his father into the river where he becomes what he always had been: a very big fish.
 Edward then dies, knowing his son finally understands his love of storytelling.
+<<<<<<< HEAD
 At Edward's funeral, Will is astonished when all of the characters from Edward's stories appear to pay their condolences to his father; Amos, Karl, Norther Winslow, Jenny, Ping and Jing all arrive, though each one is a slightly less fantastical version of themselves than in Edward's storiesthe sisters, for example, are not conjoined but are merely identical twins.
+=======
+At Edward's funeral, Will is astonished when all of the characters from Edward's stories appear to pay their condolences to his father; Amos, Karl, Norther Winslow, Jenny, Ping and Jing all arrive, though each one is a slightly less fantastical version of themselves than in Edward's stories—the sisters, for example, are not conjoined but are merely identical twins.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Will finally realizes the truth of his father's life for which his stories were embellishments.
 When his own son is born, Will passes on his father's tall tale stories, remarking that his father became his stories, allowing him to live forever.

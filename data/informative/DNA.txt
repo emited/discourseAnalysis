@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Deoxyribonucleic acid (/diksirabonjklik, -klek/; DNA) is a molecule that carries most of the genetic instructions used in the development, functioning and reproduction of all known living organisms and many viruses.
 DNA (along with RNA) is a nucleic acid; alongside proteins and carbohydrates, nucleic acids compose the three major macromolecules essential for all known forms of life.
 Most DNA molecules consist of two biopolymer strands coiled around each other to form a double helix.
 The two DNA strands are known as polynucleotides since they are composed of simpler units called nucleotides.
 Each nucleotide is composed of a nitrogen-containing nucleobaseeither cytosine (C), guanine (G), adenine (A), or thymine (T)as well as a monosaccharide sugar called deoxyribose and a phosphate group.
+=======
+Deoxyribonucleic acid (/diˈɒksiˌraɪboʊnjʊˌkliːɪk, -ˌkleɪɪk/; DNA) is a molecule that carries most of the genetic instructions used in the development, functioning and reproduction of all known living organisms and many viruses.
+DNA (along with RNA) is a nucleic acid; alongside proteins and carbohydrates, nucleic acids compose the three major macromolecules essential for all known forms of life.
+Most DNA molecules consist of two biopolymer strands coiled around each other to form a double helix.
+The two DNA strands are known as polynucleotides since they are composed of simpler units called nucleotides.
+Each nucleotide is composed of a nitrogen-containing nucleobase—either cytosine (C), guanine (G), adenine (A), or thymine (T)—as well as a monosaccharide sugar called deoxyribose and a phosphate group.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The nucleotides are joined to one another in a chain by covalent bonds between the sugar of one nucleotide and the phosphate of the next, resulting in an alternating sugar-phosphate backbone.
 According to base pairing rules (A with T, and C with G), hydrogen bonds bind the nitrogenous bases of the two separate polynucleotide strands to make double-stranded DNA.
 The total amount of related DNA base pairs on Earth is estimated at 5.0 x 1037, and weighs 50 billion tonnes.

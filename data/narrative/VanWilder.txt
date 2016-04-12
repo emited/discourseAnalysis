@@ -3,7 +3,11 @@ For the past Seven semesters he has made some effort to graduate, instead spendi
 However, when Van's father (Tim Matheson) discovers that Van is still in college, he decides to stop paying Van's tuition.
 Meanwhile, Gwen Pearson (Tara Reid), a star reporter for the student newspaper, is asked to do an article on Van.
 The article proves to be so popular that she is asked to write a follow-up for the front page of the graduation issue.
+<<<<<<< HEAD
 Although that would be a big win, she is rather put off when Van interprets her attempts to schedule interviews as romantic advanceswhen she already has a boyfriend, Richard "Dick" Bagg (Daniel Cosgrove). Van and Richard dislike each other immediately and perform increasingly disgusting pranks on each other.
+=======
+Although that would be a big win, she is rather put off when Van interprets her attempts to schedule interviews as romantic advances—when she already has a boyfriend, Richard "Dick" Bagg (Daniel Cosgrove). Van and Richard dislike each other immediately and perform increasingly disgusting pranks on each other.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In one infamous scene Van and his friends replace the cream inside some pastries with semen from Van's pet bulldog, Colossus, and send them to Richard's fraternity, where the frat brothers do not realize what they are eating until it is too late.
 At one point Richard has sex with another woman from a sister sorority, which is the final straw for Gwen later on.
 Richard also sets up Van at one of his own parties in which there are some underage drinkers and reports it to the police, which leads to Van almost being expelled.

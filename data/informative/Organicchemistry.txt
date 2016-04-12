@@ -9,6 +9,10 @@ Metalloids (e.g., boron and silicon) or other metals (e.g., aluminium and tin)
 In addition, much modern research focuses on organic chemistry involving further organometallics, including the lanthanides, but especially the transition metals; (e.g., zinc, copper, palladium, nickel, cobalt, titanium and chromium)
 
 Finally, organic compounds form the basis of all earthly life and constitute a significant part of human endeavors in chemistry.
+<<<<<<< HEAD
 The bonding patterns open to carbon, with its valence of fourformal single, double, and triple bonds, as well as various structures with delocalized electronsmake the array of organic compounds structurally diverse, and their range of applications enormous.
+=======
+The bonding patterns open to carbon, with its valence of four—formal single, double, and triple bonds, as well as various structures with delocalized electrons—make the array of organic compounds structurally diverse, and their range of applications enormous.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They either form the basis of, or are important constituents of, many commercial products including pharmaceuticals; petrochemicals and products made from them (including lubricants, solvents, etc.); plastics; fuels and explosives; etc.
 As indicated, the study of organic chemistry overlaps with organometallic chemistry and biochemistry, but also with medicinal chemistry, polymer chemistry, as well as many aspects of materials science.

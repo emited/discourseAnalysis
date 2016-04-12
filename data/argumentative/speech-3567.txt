@@ -47,3 +47,7 @@ I venture to suggest, also, to all advertising agencies that they would perhaps 
 And I hope that clergymen will not think the theme of it an unworthy or inappropriate subject of comment and homily from their pulpits.
 The supreme test of the nation has come.
 We must all speak, act, and serve together!
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

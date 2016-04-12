@@ -39,7 +39,11 @@ Jamie tearfully accepts, and they get married in the church in which her decease
 Jamie and Landon spend their last summer together, filled with a deep love like no other.
 Jamie dies when summer ends.
 Four years later, Landon has finished college and been accepted into medical school.
+<<<<<<< HEAD
 Landon visits Reverend Sullivan to return to him Jamies precious book that belonged to her mother.
+=======
+Landon visits Reverend Sullivan to return to him Jamie’s precious book that belonged to her mother.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Landon apologizes to the Reverend that Jamie did not witness a miracle (an ambition she expressed in the class yearbook). The Reverend disagrees saying that in fact she did and that her miracle was Landon.
 He is shown to have completely changed his original opinion of Landon in the beginning of the film, where he completely detested Landon and did not hide it.
 Landon visits the docks contemplating the belief that although Jamie is dead, that she is with him.

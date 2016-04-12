@@ -1,7 +1,11 @@
 Norbit Albert Rice (Eddie Murphy) and Kate Thomas (Thandie Newton) are best friends as children at a combination Chinese restaurant and orphanage owned by their father figure, Mr.
 Wong (Eddie Murphy), but are separated when Kate gets adopted.
 While being bullied by twins on a playground one day, Norbit is saved by a tough, overweight girl named Rasputia Latimore (Eddie Murphy) who scares him into being her boyfriend.
+<<<<<<< HEAD
 Though at first she genuinely likes Norbit and cares about him, going as far as intimidating other kids into letting Norbit play with them  Rasputia's kindness deteriorates as she grows up to be an ignorant, arrogant, vindictive, and mean-spirited woman.
+=======
+Though at first she genuinely likes Norbit and cares about him, going as far as intimidating other kids into letting Norbit play with them – Rasputia's kindness deteriorates as she grows up to be an ignorant, arrogant, vindictive, and mean-spirited woman.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 She eventually pressures Norbit into marrying her, and bullies, insults, and controls him to make sure that she keeps him all to herself.
 Norbit is also belittled by Rasputia's older brothers, Big Black Jack (Terry Crews), Blue (Lester 'Rasta' Speight), and Earl (Clifton Powell), working as a bookkeeper at their local construction company.
 The Latimore brothers also run a "security business" and instill fear in everyone in the town except Mr.

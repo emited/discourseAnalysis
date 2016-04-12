@@ -1,7 +1,11 @@
 From a prison cell where he has been charged for murder, David Aames (Tom Cruise), in a prosthetic mask, tells his life story to court psychologist, Dr.
 Curtis McCabe (Kurt Russell).
 In flashback, David is shown to be the wealthy owner of a large publishing firm in New York City which he inherited from his father, leaving its regular duties to his father's trusted associates.
+<<<<<<< HEAD
 As David enjoys the bachelor lifestyle, he is introduced to Sofia Serrano (Penlope Cruz) by his best friend, author Brian Shelby (Jason Lee) at a party.
+=======
+As David enjoys the bachelor lifestyle, he is introduced to Sofia Serrano (Penélope Cruz) by his best friend, author Brian Shelby (Jason Lee) at a party.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 David and Sofia spend a night together talking and fall in love.
 When David's former lover, Julianna "Julie" Gianni (Cameron Diaz), hears of Sofia, she attempts to kill herself and David in a car crash.
 Julie dies but David survives, his face grotesquely disfigured, leading him to wear a mask to hide the injuries.

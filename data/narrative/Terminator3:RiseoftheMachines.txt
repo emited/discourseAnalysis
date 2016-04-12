@@ -8,7 +8,11 @@ After killing several other targets, the T-X locates Kate and John at an animal 
 The Terminator takes John and Kate to a mausoleum where John's mother, Sarah Connor, is supposedly interred.
 Inside her vault, they find a weapons cache that was left at Sarah's request in case Judgment Day was not averted.
 Police arrive and a gun battle ensues, but John and the Terminator escape with Kate in a hearse.
+<<<<<<< HEAD
 The T-X also arrives, after killing Kate's fianc Scott (Mark Famiglietti), and chases the Terminator and the others; but they manage to escape.
+=======
+The T-X also arrives, after killing Kate's fiancé Scott (Mark Famiglietti), and chases the Terminator and the others; but they manage to escape.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The Terminator then reveals his plan to drive John and Kate to Mexico to escape the fallout when Judgment Day begins.
 After learning that Judgment Day is scheduled to begin at 6:18 p.m. that day, John orders the Terminator to take him and Kate to see Kate's father, a Lt.
 General (David Andrews) who is supervising the building of Skynet after Cyberdyne Systems went defunct, and threatens to kill himself if he does not.

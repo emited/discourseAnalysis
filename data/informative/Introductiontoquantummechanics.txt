@@ -9,8 +9,16 @@ For a more complete history of the subject, see History of quantum mechanics.
 In this sense, the word quantum means the minimum amount of any physical entity involved in an interaction.
 Certain characteristics of matter can take only discrete values.
 Light behaves in some respects like particles and in other respects like waves.
+<<<<<<< HEAD
 Matterparticles such as electrons and atomsexhibits wavelike behaviour too.
 Some light sources, including neon lights, give off only certain discrete frequencies of light.
 Quantum mechanics shows that light, along with all other forms of electromagnetic radiation, comes in discrete units, called photons, and predicts its energies, colours, and spectral intensities.
 Some aspects of quantum mechanics can seem counterintuitive or even paradoxical, because they describe behaviour quite different from that seen at larger length scales.
 In the words of Richard Feynman, quantum mechanics deals with "nature as She is  absurd". For example, the uncertainty principle of quantum mechanics means that the more closely one pins down one measurement (such as the position of a particle), the less precise another measurement pertaining to the same particle (such as its momentum) must become.
+=======
+Matter—particles such as electrons and atoms—exhibits wavelike behaviour too.
+Some light sources, including neon lights, give off only certain discrete frequencies of light.
+Quantum mechanics shows that light, along with all other forms of electromagnetic radiation, comes in discrete units, called photons, and predicts its energies, colours, and spectral intensities.
+Some aspects of quantum mechanics can seem counterintuitive or even paradoxical, because they describe behaviour quite different from that seen at larger length scales.
+In the words of Richard Feynman, quantum mechanics deals with "nature as She is – absurd". For example, the uncertainty principle of quantum mechanics means that the more closely one pins down one measurement (such as the position of a particle), the less precise another measurement pertaining to the same particle (such as its momentum) must become.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

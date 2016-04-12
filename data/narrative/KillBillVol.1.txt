@@ -13,7 +13,11 @@ In the present, the Bride awakens from her four-year coma and is horrified to fi
 She kills a hospital worker who has been raping her while she was comatose, takes his truck, and teaches herself to walk again.
 Resolving to kill Bill and all four members of the Deadly Viper Assassination Squad, she picks her first target: O-Ren Ishii, now the leader of the Tokyo yakuza.
 O-Ren's parents were murdered by the yakuza when she was a child; she took vengeance on the yakuza boss and replaced him after training as an elite assassin.
+<<<<<<< HEAD
 The Bride travels to Okinawa, Japan, to obtain a sword from legendary swordsmith Hattori Hanz, who has sworn never to forge a sword again.
+=======
+The Bride travels to Okinawa, Japan, to obtain a sword from legendary swordsmith Hattori Hanzō, who has sworn never to forge a sword again.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After learning that her target is Bill, his former student, he forges his finest sword for her.
 The Bride tracks down O-Ren at a Tokyo restaurant, the House of Blue Leaves, and defeats her yakuza army, including the elite Crazy 88 and O-Ren's bodyguard, schoolgirl Gogo Yubari.
 She duels with O-Ren in the restaurant's Japanese garden and slices her scalp off with a sword stroke.

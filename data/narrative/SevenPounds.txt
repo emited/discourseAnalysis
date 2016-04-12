@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Tim Thomas (Will Smith), while carelessly sending a text message while driving, veers across the center line into oncoming traffic and causes a multi-car crash in which seven people die: six strangers and his fiance, Sarah Jenson (Robinne Lee).
+=======
+Tim Thomas (Will Smith), while carelessly sending a text message while driving, veers across the center line into oncoming traffic and causes a multi-car crash in which seven people die: six strangers and his fiancée, Sarah Jenson (Robinne Lee).
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Two years later, in a bid for atonement, Tim sets out to save the lives of seven good people by donating his own vital organs, a process that will be completed after his planned suicide.
 A year after the crash, having quit his job as an aeronautical engineer, Tim donates a lung lobe to his brother Ben (Michael Ealy), an IRS field agent.
 He steals his brother's federal IRS identification badge and credentials, puts his picture over Ben's, identifies himself by his brother's name, and uses Ben's privileges to check out the financial backgrounds of further potential candidates for his donations.
@@ -13,7 +17,11 @@ Two weeks before he dies, he contacts Holly and asks if she knows anyone "in the
 Holly suggests Connie Tepos (Elpidia Carrillo), who lives with her two kids and an abusive boyfriend, but can't afford to leave.
 When "Ben" arrives to "interview" her under the guise of dealing with the IRS, Connie is embarrassed and humiliated that he knows what's been going on.
 She defends her boyfriend, is offended by Tim's suggestion that she should leave with her kids, and kicks him out of her house.
+<<<<<<< HEAD
 In the meantime, Tim moves out of his house and into a local motel, taking with him his pet box jellyfishdecidedly the most venomous creature on earth, with its sting causing death in three to five minutes.
+=======
+In the meantime, Tim moves out of his house and into a local motel, taking with him his pet box jellyfish—decidedly the most venomous creature on earth, with its sting causing death in three to five minutes.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 That night, after being beaten by her boyfriend again, Connie contacts Tim.
 He meets her, tells her not to be weak, and gives her the keys and directions to his beach house.
 She takes her two children and they move into the house.
@@ -23,7 +31,11 @@ Tim calls Ezra and harassed him at work weeks earlier, to see if he was quick to
 Tim then contacts Emily Posa (Rosario Dawson), a wedding announcement/greeting card printer who has a congenital heart condition and rare blood type that has left her with only weeks to live.
 Tim "interviews" her at her home, again under the guise of an IRS investigation, and more or less stalks her at the hospital.
 But then he starts to spend time with her, walking her Great Dane called Duke, weeding her garden, and fixing her rare Heidelberg Windmill press.
+<<<<<<< HEAD
 He visibly fights his affections for her, again seeking atonement for the death of his fiance, but he slowly falls in love with her.
+=======
+He visibly fights his affections for her, again seeking atonement for the death of his fiancée, but he slowly falls in love with her.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Ben finally tracks Tim down at Emily's house, saying that he will return his IRS credentials.
 After a passionate sexual interlude with Emily, and with Ben waiting outside her house, Tim disappears out the back door, leaving her sleeping.
 He returns on foot to the motel, first stopping by the hospital to ask the doctor if there is any chance that Emily will improve.

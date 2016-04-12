@@ -30,6 +30,13 @@ We do not desire any hostile conflict with the Imperial German Government.
 We are the sincere friends of the German people and earnestly desire to remain at peace with the Government which speaks for them.
 We shall not believe that they are hostile to us unless and until we are obliged to believe it; and we purpose nothing more than the reasonable defense of the undoubted rights of our people.
 We wish to serve no selfish ends.
+<<<<<<< HEAD
 We seek merely to stand true alike in thought and in action to the immemorial principles of our people which I sought to express in my address to the Senate only two weeks ago,seek merely to vindicate our right to liberty and justice and an unmolested life.
 These are the bases of peace, not war.
 God grant we may not be challenged to defend them by acts of wilful injustice on the part of the Government of Germany!
+=======
+We seek merely to stand true alike in thought and in action to the immemorial principles of our people which I sought to express in my address to the Senate only two weeks ago,—seek merely to vindicate our right to liberty and justice and an unmolested life.
+These are the bases of peace, not war.
+God grant we may not be challenged to defend them by acts of wilful injustice on the part of the Government of Germany!
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

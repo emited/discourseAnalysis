@@ -9,7 +9,11 @@ NMR spectra are unique, well-resolved, analytically tractable and often highly p
 Thus, in organic chemistry practice, NMR analysis is used to confirm the identity of a substance.
 Different functional groups are obviously distinguishable, and identical functional groups with differing neighboring substituents still give distinguishable signals.
 NMR has largely replaced traditional wet chemistry tests such as color reagents for identification.
+<<<<<<< HEAD
 A disadvantage is that a relatively large amount, 250 mg, of a purified substance is required, although it may be recovered.
+=======
+A disadvantage is that a relatively large amount, 2–50 mg, of a purified substance is required, although it may be recovered.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Preferably, the sample should be dissolved in a solvent, because NMR analysis of solids requires a dedicated MAS machine and may not give equally well-resolved spectra.
 The timescale of NMR is relatively long, and thus it is not suitable for observing fast phenomena, producing only an averaged spectrum.
 Although large amounts of impurities do show on an NMR spectrum, better methods exist for detecting impurities, as NMR is inherently not very sensitive.

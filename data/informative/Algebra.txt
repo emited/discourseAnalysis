@@ -4,7 +4,11 @@ As such, it includes everything from elementary equation solving to the study of
 The more basic parts of algebra are called elementary algebra, the more abstract parts are called abstract algebra or modern algebra.
 Elementary algebra is generally considered to be essential for any study of mathematics, science, or engineering, as well as such applications as medicine and economics.
 Abstract algebra is a major area in advanced mathematics, studied primarily by professional mathematicians.
+<<<<<<< HEAD
 Much early work in algebra, as the Arabic origin of its name suggests, was done in the Middle East, by mathematicians such as al-Khwrizm (780  850) and Omar Khayyam (10481131).
+=======
+Much early work in algebra, as the Arabic origin of its name suggests, was done in the Middle East, by mathematicians such as al-Khwārizmī (780 – 850) and Omar Khayyam (1048–1131).
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Elementary algebra differs from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values.
 For example, in  the letter  is unknown, but the law of inverses can be used to discover its value: . In E = mc2, the letters  and  are variables, and the letter  is a constant, the speed of light in a vacuum.
 Algebra gives methods for solving equations and expressing formulas that are much easier (for those who know how to use them) than the older method of writing everything out in words.

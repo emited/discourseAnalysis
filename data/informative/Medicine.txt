@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Medicine (British English /mdsn/; American English /mdsn/) is the science and practice of the diagnosis, treatment, and prevention of disease.
+=======
+Medicine (British English /ˈmɛdsᵻn/; American English /ˈmɛdᵻsᵻn/) is the science and practice of the diagnosis, treatment, and prevention of disease.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The word medicine is derived from Latin medicus, meaning "a physician". Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.
 Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through pharmaceuticals or surgery, but also through therapies as diverse as psychotherapy, external splints and traction, medical devices, biologics, and ionizing radiation, amongst others.
 Medicine has existed for thousands of years, during most of which it was an art (an area of skill and knowledge) frequently having connections to the religious and philosophical beliefs of local culture.

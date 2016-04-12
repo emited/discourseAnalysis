@@ -1,12 +1,20 @@
 In present-day Scotland, an American tourist couple go into a bar where they meet an old man who tells them a story about the Loch Ness Monster.
 In 1942 Scotland, a boy named Angus MacMorrow lives in the large manor house of Lord Killin on the shores of Loch Ness with his mother Anne MacMorrow (the housekeeper), his sister, a cook, a maid and an old gamekeeper.
 Later, they are joined by Lewis Mowbray, who comes to work as a handyman in the manor.
+<<<<<<< HEAD
 Angus' father Charlie Killin's former handyman is now a sailor in the Royal Navy and has been missing since his ship was sunk in the war a year ago; Angus is unable to accept that it is unlikely he will ever come home.
+=======
+Angus' father Charlie —Killin's former handyman— is now a sailor in the Royal Navy and has been missing since his ship was sunk in the war a year ago; Angus is unable to accept that it is unlikely he will ever come home.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 One day, while collecting seashells, he discovers what appears to be a large mysterious egg in the sand, which he leaves it in his father's shed.
 When he returns later, an unknown creature hatches (which he calls 'Crusoe' after Robinson Crusoe) that becomes the fabled Loch Ness Monster.
 Angus keeps the creature a secret, but eventually tells his sister and (reluctantly) Lewis about it.
 Lewis explains to Angus that it is a genderless "Water Horse" that lays one egg, then dies before it hatches.
+<<<<<<< HEAD
 The next day troops of the 12th Medium Regiment Royal Artillery arrive at the house, commanded by Captain Thomas Hamilton  a friend of Lord Killin, who is serving with the Royal Air Force.
+=======
+The next day troops of the 12th Medium Regiment Royal Artillery arrive at the house, commanded by Captain Thomas Hamilton — a friend of Lord Killin, who is serving with the Royal Air Force.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 An artillery battery is set up near the lake as defence against possible attacking or hiding German U-boats and the troops set up camp on the grounds of the house.
 An anti-submarine net is also raised at the mouth of the lake to prevent the possible entrance of German U-boats into the lake.
 One night, when the men are invited into the house for dinner, Crusoe breaks free, and roams the house, running into the cook's bulldog "Churchill" which chases him into the dining room.

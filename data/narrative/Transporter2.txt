@@ -3,7 +3,11 @@ As a favor, he becomes a temporary chauffeur for the wealthy Billings family.
 The marriage of Jefferson (Matthew Modine) and Audrey Billings (Amber Valletta) is under great strain due to the demands of his high-profile government job.
 Frank bonds with their son, Jack (Hunter Clary), whom he drives to and from elementary school in his new Audi A8 W12.
 Later, a somewhat drunk Audrey shows up at Frank's home and tries to seduce him, but he tactfully sends her home.
+<<<<<<< HEAD
 Frank prepares for the arrival of Inspector Tarconi (Franois Berland), his detective friend from France, who has come to spend his holiday in Florida with Frank.
+=======
+Frank prepares for the arrival of Inspector Tarconi (François Berléand), his detective friend from France, who has come to spend his holiday in Florida with Frank.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When Frank takes Jack for a medical checkup, he realizes barely in time that impostors have killed and replaced the doctor and receptionist.
 A lengthy fight erupts between villains, led by Lola (Kate Nauta), and the unarmed Frank; which results in the death of one of the doctors.
 Frank escapes with Jack.

@@ -2,8 +2,13 @@ Mercury is the smallest planet in the Solar System and the one closest to the Su
 Seen from Earth, it appears to move around its orbit in about 116 days.
 It has no known natural satellites.
 It is named after the Roman deity Mercury, the messenger to the gods.
+<<<<<<< HEAD
 Partly because it has almost no atmosphere to retain heat, Mercury's surface temperature varies diurnally more than any other planet in the Solar System, ranging from 100 K (173 C; 280 F) at night to 700 K (427 C; 800 F) during the day in some equatorial regions.
 The poles are constantly below 180 K (93 C; 136 F). Mercury's axis has the smallest tilt of any of the Solar System's planets (about 130 of a degree). However, Mercury's orbital eccentricity is the largest of all known planets in the Solar System.
+=======
+Partly because it has almost no atmosphere to retain heat, Mercury's surface temperature varies diurnally more than any other planet in the Solar System, ranging from 100 K (−173 °C; −280 °F) at night to 700 K (427 °C; 800 °F) during the day in some equatorial regions.
+The poles are constantly below 180 K (−93 °C; −136 °F). Mercury's axis has the smallest tilt of any of the Solar System's planets (about 1⁄30 of a degree). However, Mercury's orbital eccentricity is the largest of all known planets in the Solar System.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At aphelion, Mercury is about 1.5 times as far from the Sun as it is at perihelion.
 Mercury's surface is heavily cratered and similar in appearance to the Moon, indicating that it has been geologically inactive for billions of years.
 Mercury is tidally or gravitationally locked with the Sun in a 3:2 resonance, and rotates in a way that is unique in the Solar System.

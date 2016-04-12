@@ -9,7 +9,11 @@ He then drowned his young son Toshio in the bathtub to cover his tracks, along w
 Takeo hid the bodies in the attic and closet, before Kayako's ghost murdered him by hanging him with her hair in Toshio's bedroom.
 Peter came to the Saeki house to speak to Kayako after receiving a letter from her, only to find her corpse.
 Shocked, he fled the house, killing himself the next day by falling over the balcony of a building in front of his wife.
+<<<<<<< HEAD
 The family rose again as ghosts due to their rage and sorrow, notably Kayako, who appears as an onry ghost, leaving the curse on the house.
+=======
+The family rose again as ghosts due to their rage and sorrow, notably Kayako, who appears as an onryō ghost, leaving the curse on the house.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A few years later, the Williams family move in from America.
 While husband Matt is thrilled with the house, his wife Jennifer and dementia-ridden mother Emma feel uncomfortable.
 Jennifer is quickly consumed by the curse.

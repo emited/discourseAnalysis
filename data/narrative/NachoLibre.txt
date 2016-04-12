@@ -1,7 +1,11 @@
 Ignacio was the son of a Scandinavian Lutheran missionary and a Mexican deacon, who both died while Ignacio was young.
 Now a cook for the Oaxaca, Mexico monastery orphanage where he was raised, Ignacio dreams of becoming a luchador, but wrestling is strictly forbidden by the monastery.
 Ignacio cares deeply for the orphans, but his food is terrible due to being unable to obtain quality ingredients, which he cannot afford.
+<<<<<<< HEAD
 Ignacio feels unfulfilled due to his desire to wrestle and his disdain for most of his orphanage duties, and struggles over his feelings for Sister Encarnacin, a nun who teaches at the orphanage.
+=======
+Ignacio feels unfulfilled due to his desire to wrestle and his disdain for most of his orphanage duties, and struggles over his feelings for Sister Encarnación, a nun who teaches at the orphanage.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 One night, while collecting donated tortilla chips for the orphans, Ignacio is robbed of the chips by a street thief named Steven.
 After a fight ensues between the two, Ignacio decides to disregard the monastery's rules and become a luchador in order to make money.
 He convinces Steven to join him with the promise of remuneration if they win, and the two join a local competition as tag partners.
@@ -15,6 +19,7 @@ Ignacio's secret is finally exposed to the entire monastery when his robe catche
 He admits that he is Nacho and tells them that he intends to fight at a battle royale between eight luchadores for the right to take on Ramses, and for a cash prize, which he will use to improve life for the orphans.
 But the wrestler Silencio wins the match; Nacho comes in second place.
 Feeling shunned at the monastery, Ignacio leaves to wander in the nearby wilderness.
+<<<<<<< HEAD
 The next morning, Steven comes to tell him that Silencio has been injured (Steven ran over his foot) and cannot fight, meaning that Nachoas the second-place finisherreceives the right to fight Ramses.
 Ignacio and Steven agree to team up again.
 That night, Ignacio sends a message via Steven to Encarnacin, explaining his plan and confessing his love to her (as a sister).
@@ -24,3 +29,14 @@ Nacho is nearly defeatedindeed, unmaskedby Ramses, when Encarnacin enters the st
 Elated and inspired, Nacho rallies himself and defeats Ramses.
 Ignacio becomes a professional wrestler and uses his prize money to buy a bus for field trips for the children.
 The film closes with Ignacio, Steven and Sister Encarnacin taking the children to see the city of Monte Albn.
+=======
+The next morning, Steven comes to tell him that Silencio has been injured (Steven ran over his foot) and cannot fight, meaning that Nacho—as the second-place finisher—receives the right to fight Ramses.
+Ignacio and Steven agree to team up again.
+That night, Ignacio sends a message via Steven to Encarnación, explaining his plan and confessing his love to her (as a sister).
+Despite initial difficulty, Nacho does well in the match.
+When the crowd begins to support Ignacio, Ramses resorts to cheating.
+Nacho is nearly defeated—indeed, unmasked—by Ramses, when Encarnación enters the stadium with the orphans.
+Elated and inspired, Nacho rallies himself and defeats Ramses.
+Ignacio becomes a professional wrestler and uses his prize money to buy a bus for field trips for the children.
+The film closes with Ignacio, Steven and Sister Encarnación taking the children to see the city of Monte Albán.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

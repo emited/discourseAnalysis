@@ -1,12 +1,20 @@
 Gravity or gravitation is a natural phenomenon by which all things with energy are brought toward (or gravitate toward) one another, including stars, planets, galaxies and even light and sub-atomic particles.
+<<<<<<< HEAD
 Gravity is responsible for many of the structures in the Universe, by creating spheres of hydrogen  where hydrogen fuses under pressure to form stars  and grouping them into galaxies.
+=======
+Gravity is responsible for many of the structures in the Universe, by creating spheres of hydrogen — where hydrogen fuses under pressure to form stars — and grouping them into galaxies.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 On Earth, gravity gives weight to physical objects and causes the tides.
 Gravity has an infinite range, although its effects become increasingly weaker on farther objects.
 Gravity is most accurately described by the general theory of relativity (proposed by Albert Einstein in 1915) which describes gravity not as a force but as a consequence of the curvature of spacetime caused by the uneven distribution of mass/energy; and resulting in gravitational time dilation, where time lapses more slowly in lower (stronger) gravitational potential.
 However, for most applications, gravity is well approximated by Newton's law of universal gravitation, which postulates that gravity causes a force where two bodies of mass are directly drawn (or 'attracted') to each other according to a mathematical relationship, where the attractive force is proportional to the product of their masses and inversely proportional to the square of the distance between them.
 This is considered to occur over an infinite range, such that all bodies (with mass) in the universe are drawn to each other no matter how far they are apart.
 Gravity is the weakest of the four fundamental interactions of nature.
+<<<<<<< HEAD
 The gravitational attraction is approximately 1038 times the strength of the strong force (i.e. gravity is 38 orders of magnitude weaker), 1036 times the strength of the electromagnetic force, and 1029 times the strength of the weak force.
+=======
+The gravitational attraction is approximately 10−38 times the strength of the strong force (i.e. gravity is 38 orders of magnitude weaker), 10−36 times the strength of the electromagnetic force, and 10−29 times the strength of the weak force.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As a consequence, gravity has a negligible influence on the behavior of sub-atomic particles, and plays no role in determining the internal properties of everyday matter (but see quantum gravity). On the other hand, gravity is the dominant interaction at the macroscopic scale, and is the cause of the formation, shape, and trajectory (orbit) of astronomical bodies.
 It is responsible for various phenomena observed on Earth and throughout the universe; for example, it causes the Earth and the other planets to orbit the Sun, the Moon to orbit the Earth, the formation of tides, and the formation and evolution of galaxies, stars and the Solar System.
 In pursuit of a theory of everything, the merging of general relativity and quantum mechanics (or quantum field theory) into a more general theory of quantum gravity has become an area of research.

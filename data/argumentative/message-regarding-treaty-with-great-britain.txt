@@ -24,3 +24,7 @@ Demonstrations of a character hostile to the United States continue to be made i
 In doing this many of the regular military posts have been reduced to a small force inadequate to their defense should an emergency arise.
 In view of these "circumstances," it is my "judgment" that "an increase of our naval and military force is at this time required" to place the country in a suitable state of defense.
 At the same time, it is my settled purpose to pursue such a course of policy as may be best calculated to preserve both with Great Britain and Mexico an honorable peace, which nothing will so effectually promote as unanimity in our councils and a firm maintenance of all our just rights.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

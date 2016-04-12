@@ -2,8 +2,13 @@ This film's story occurs sometime after Fast & Furious 6 with a scene that was l
 In Arizona, 17-year-old high school students Sean Boswell (Lucas Black) and Clay (Zachery Ty Bryan) race their cars to win the affections of Clay's girlfriend Cindy (Nikki Griffin). When Sean cuts through a structure and catches up to Clay, Clay hits Sean's car repeatedly until they reach a high-speed turn, which causes both cars to crash; Sean's car is totaled.
 Clay's wealthy family helps him escape punishment, but Sean is sent to live in Tokyo, Japan, with his father, a U.S. Navy officer, in order to avoid juvie or even jail.
 While in school, Sean befriends Twinkie (Bow Wow), a "military brat" who introduces him to the world of drift racing in Japan.
+<<<<<<< HEAD
 Sean has a confrontation with Takashi (Brian Tee)aka D.K. (Drift King)over Sean talking to D.K.'s girlfriend Neela (Nathalie Kelley). Though forbidden to drive, Sean decides to race against Takashi, who has ties to the Yakuza.
 He borrows a Nissan Silvia from Han Seoul-Oh (Sung Kang), now a business partner to Takashi, and loses, totaling the car because of his lack of knowledge of drifting  racing that involves dangerous hairpin turns.
+=======
+Sean has a confrontation with Takashi (Brian Tee)—aka D.K. (Drift King)—over Sean talking to D.K.'s girlfriend Neela (Nathalie Kelley). Though forbidden to drive, Sean decides to race against Takashi, who has ties to the Yakuza.
+He borrows a Nissan Silvia from Han Seoul-Oh (Sung Kang), now a business partner to Takashi, and loses, totaling the car because of his lack of knowledge of drifting — racing that involves dangerous hairpin turns.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 To repay his debt for the car he destroyed, Sean must work for Han.
 Later on, Han becomes friends with Sean and teaches the young racer how to drift.
 He also loans him another car for future races.

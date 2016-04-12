@@ -13,7 +13,11 @@ Now knowing that the pendant is important to Markus, Michael and Selene set out 
 Selene recalls that she saw it as a child, but does not know its significance.
 They travel to the hideout of the exiled vampire historian Andreas Tanis who reveals that Markus was the first vampire; one of the three sons of Alexander Corvinus, the first immortal.
 Markus was bitten by a bat and became a vampire, while his twin brother William was bitten by a wolf and became a werewolf.
+<<<<<<< HEAD
 The third son remained human and gave rise to a line of mortal descendants including Michael who became the first LycanVampire hybrid.
+=======
+The third son remained human and gave rise to a line of mortal descendants including Michael who became the first Lycan–Vampire hybrid.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The first werewolves created by William were entirely animal and unable to assume human form.
 Due to William's destructiveness, Markus approached Viktor, who was a dying mortal warlord at the time, and offered to turn him and his army into immortal vampires in exchange for tracking down and stopping William, and in destroying those he had infected.
 Viktor did not kill the brothers because he was deceived by Markus into believing that doing so would result in the immediate extinction of all other vampires and his Lycan slaves.

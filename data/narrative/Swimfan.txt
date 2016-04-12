@@ -14,7 +14,11 @@ However, both agree to remain friends and agree not to discuss their steamy enco
 The next night, Ben goes to a party at Amy's house.
 Amy introduces Ben to her new friend, who turns out to be Madison.
 The two pretend to have not met one another yet.
+<<<<<<< HEAD
 Shortly after, Madison begins to obsess over Benshe stops by his house to meet his mom and bombards Ben with e-mails and instant messages.
+=======
+Shortly after, Madison begins to obsess over Ben—she stops by his house to meet his mom and bombards Ben with e-mails and instant messages.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Ben realizes her unhealthy behavior and furiously demands that she leave him alone.
 Ben's lying begins to eat at him, and he decides he will confess his infidelity to Amy, but Madison tells Amy first.
 Madison begins dating Ben's rival teammate, Josh.

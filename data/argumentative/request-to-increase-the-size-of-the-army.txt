@@ -17,3 +17,7 @@ If the treaty shall be ratified as proposed to be amended, the cessions of terri
 I communicate herewith a copy of the instructions given to Mr.
 Slidell in November, 1845, as envoy extraordinary and minister plenipotentiary to Mexico; a copy of the instructions given to Mr.
 Trist in April last, and such of the correspondence of the latter with the Department of State, not heretofore communicated to Congress, as will enable the Senate to understand the action which has been had with a view to the adjustment of our difficulties with Mexico.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

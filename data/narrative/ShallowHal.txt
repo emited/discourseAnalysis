@@ -7,7 +7,11 @@ He hypnotizes Hal into only seeing a person's inner beauty.
 Hal does not realize he's been hypnotized and later meets Rosemary (Gwyneth Paltrow), daughter of the president of the company where he is employed.
 Rosemary is morbidly obese, but Hal sees a slender and beautiful trophy blonde.
 His boss is not certain about Hal dating his daughter, thinking that Hal may be trying to climb to the top of the corporate ladder.
+<<<<<<< HEAD
 Used to being overlooked due to her appearance, Rosemary initially interprets Hals interest as mocking, but begins to realize his feelings for her are sincere.
+=======
+Used to being overlooked due to her appearance, Rosemary initially interprets Hal’s interest as mocking, but begins to realize his feelings for her are sincere.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Mauricio, worried about Hal's new taste in women, convinces Robbins to give him the trigger phrase to undo the hypnosis.
 Mauricio phones Hal, who is on a date with Rosemary, and says the trigger phrase, which serves to break Hal's hypnosis.
 Mauricio confesses to Hal the truth about Robbins' hypnotherapy, but Hal does not believe until he runs into a woman who initially appeared beautiful to him but whom Hal now sees in her true, unattractive state.
@@ -18,9 +22,15 @@ Hal realizes his true feelings for Rosemary who has, coincidentally, arrived at 
 Assuming the worst, Rosemary leaves in tears.
 Not recognizing Rosemary, Hal walks right by her on his way to the pay phone to, ironically, reassure her of his feelings.
 Confused and distraught, Rosemary calls Hal a "psycho" over the phone and effectively breaks up with him.
+<<<<<<< HEAD
 Five days later Steve informs Hal that Rosemarys Peace Corps partner, Ralph, wants to be in a relationship with her again.
 Hal attempts to find Rosemary, but instead encounters a young patient named Cadence at the hospital where Rosemary volunteers.
 Previously, due to Robbins hypnosis, Hal saw Cadence as a perfect little girl; he now sees that there are severe burns all over Cadences face.
+=======
+Five days later Steve informs Hal that Rosemary’s Peace Corps partner, Ralph, wants to be in a relationship with her again.
+Hal attempts to find Rosemary, but instead encounters a young patient named Cadence at the hospital where Rosemary volunteers.
+Previously, due to Robbins’ hypnosis, Hal saw Cadence as a perfect little girl; he now sees that there are severe burns all over Cadence’s face.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Hal changes his views on the outer appearances of people in general.
 Rosemary decides to leave the country to rejoin the Peace Corps.
 Hal, during his search for Rosemary, finds that Mauricio had his own reason for stopping Hal's hypnosis: He has a vestigial tail, which has prevented him from ever getting close to a woman.
@@ -33,5 +43,9 @@ Rosemary initially rebuffs Hal's presence, but then accepts his apology when Hal
 Rosemary informs Hal she is still leaving on her Peace Corps mission.
 Hal says he is coming, too, having just been sworn into the Peace Corps.
 Hal and Rosemary reconcile, cheered by the crowd as they kiss.
+<<<<<<< HEAD
 He tries to carry her bridal-style to the car, but finds he cant lift her, so she carries him instead.
+=======
+He tries to carry her bridal-style to the car, but finds he can’t lift her, so she carries him instead.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As they drive off, Mauricio meets a woman who loves dogs and the two walk off together as he wags his "tail."

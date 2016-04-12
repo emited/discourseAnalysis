@@ -2,10 +2,17 @@ The film opens with a bloodied and terrified priest slowly making his way across
 There are many crows and hyenas roving around the bodies.
 The priest reaches the dead body of another priest and tries take a small demon idol of the head of Pazuzu from his hand, but, suddenly, the dead priest briefly comes back to life and stops the living priest from taking it.
 The camera pulls back to reveal that the entire valley is littered with dead soldiers, many have been crucified upside down.
+<<<<<<< HEAD
 The film then cuts to Cairo, Egypt in 1949, where the young Father Lankester Merrin (played by Skarsgrd, who played the same part in Dominion: Prequel to the Exorcist) has taken a sabbatical from the Church and devoted himself to history and archaeology as he struggles with his shattered faith.
 He is haunted especially by an incident in a small village in the occupied Netherlands during World War II, where he served as parish priest: near the end of the war, a sadistic Nazi SS commander, in retaliation for the murder of a German trooper, forces Merrin to participate in arbitrary executions in order to save a full village from slaughter.
 After World War II, Merrin is an archaeologist in Cairo, when he is approached by a collector of antiquities named Semelier who asks him to come to a British excavation in a valley called Derati the Turkana region of Kenya.
 This dig is excavating a Christian Byzantine church built circa 500 A.D.  long before Christianity had reached that region of Africa.
+=======
+The film then cuts to Cairo, Egypt in 1949, where the young Father Lankester Merrin (played by Skarsgård, who played the same part in Dominion: Prequel to the Exorcist) has taken a sabbatical from the Church and devoted himself to history and archaeology as he struggles with his shattered faith.
+He is haunted especially by an incident in a small village in the occupied Netherlands during World War II, where he served as parish priest: near the end of the war, a sadistic Nazi SS commander, in retaliation for the murder of a German trooper, forces Merrin to participate in arbitrary executions in order to save a full village from slaughter.
+After World War II, Merrin is an archaeologist in Cairo, when he is approached by a collector of antiquities named Semelier who asks him to come to a British excavation in a valley called Derati the Turkana region of Kenya.
+This dig is excavating a Christian Byzantine church built circa 500 A.D. — long before Christianity had reached that region of Africa.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Semelier asks Merrin to recover an ancient relic of a demon, thought to be in the church, before the British can find it.
 The relic is the small head of the Pazuzu idol.
 Merrin agrees and travels to the dig site.

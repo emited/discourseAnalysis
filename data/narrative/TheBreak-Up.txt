@@ -1,13 +1,21 @@
 Gary Grobowski (Vince Vaughn) and Brooke Meyers (Jennifer Aniston) meet at Wrigley Field during a Chicago Cubs game and begin dating, eventually buying a condominium together.
 Gary works as a tour guide in a family business with his brothers, Lupus (Cole Hauser) and Dennis (Vincent D'Onofrio). Brooke manages an art gallery owned by eccentric artist Marilyn Dean (Judy Davis). Their relationship comes to a head after the latest in an escalating series of, "Why can't you do this one little thing for me?!" arguments.
 Brooke, feeling unappreciated, criticizes Gary's perceived immaturity and unwillingness to work on improving their relationship.
+<<<<<<< HEAD
 Gary is frustrated by Brookes perceived controlling, perfectionistic attitude, and expresses his desire to have a little more independence (particularly when arriving home from work, wanting to unwind). Brooke becomes irate when Gary fails to offer to help her clean up after a big dinner party at their home; and, still frustrated from their earlier, unresolved argument, breaks up with him (despite still being in love with him). Brooke seeks relationship advice from her friend Addie (Joey Lauren Adams), while Gary goes to tell his side of things to friend Johnny Ostrofski (Jon Favreau).
+=======
+Gary is frustrated by Brooke’s perceived controlling, perfectionistic attitude, and expresses his desire to have a little more independence (particularly when arriving home from work, wanting to unwind). Brooke becomes irate when Gary fails to offer to help her clean up after a big dinner party at their home; and, still frustrated from their earlier, unresolved argument, breaks up with him (despite still being in love with him). Brooke seeks relationship advice from her friend Addie (Joey Lauren Adams), while Gary goes to tell his side of things to friend Johnny Ostrofski (Jon Favreau).
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Since neither is willing to move out of their condo, they compromise by living as roommates; but, each begins acting out to provoke the other in increasingly elaborate ways.
 Gary buys a pool table, litters the condo with food and trash, and even has a strip poker party with Lupus and a few women.
 Meanwhile, Brooke has Gary kicked off their "couples-only" bowling team, and starts dating other men in an attempt to make Gary jealous.
 When their friend and realtor Mark Riggleman (Jason Bateman) sells the condo, Gary and Brooke are given two weeks' notice to move out.
 Brooke invites Gary to an Old 97's concert, hoping that he will figure out that the gesture is meant to be her last-ditch attempt to salvage their relationship.
+<<<<<<< HEAD
 Gary agrees to meet her there, but misses the hidden agenda, and misses the concertunwittingly breaking Brooke's heart.
+=======
+Gary agrees to meet her there, but misses the hidden agenda, and misses the concert—unwittingly breaking Brooke's heart.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When Gary goes out for a drink with Johnny, his friend points out that Gary has always had his guard up, has been guilty of a lot of selfishness, and never gave Brooke a chance, emotional intimacy-wise.
 Afterwards, Brooke quits her job in order to spend time traveling Europe.
 When she brings a customer from the art gallery home one evening, Brooke finds the condo cleaned and Gary preparing a fancy dinner to win her back.

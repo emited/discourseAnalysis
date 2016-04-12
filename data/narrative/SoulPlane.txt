@@ -7,7 +7,11 @@ Meanwhile, his cousin Muggsey (Method Man), sets up a miniature casino and strip
 Meanwhile, the Hunkee family, the only caucasian passengers on board, must also deal with their own problems; Elvis Hunkee's (Tom Arnold) daughter is turning eighteen and plans to use her newfound freedom by drinking and having sex, his son has transformed from an exact duplicate of him to a stereotypical wigger, and his wife has found a new interest in black men after viewing pictures in a pornographic magazine.
 The pilot seemingly dies after eating mushrooms that the co-pilot, First Officer Gaemon (Godfrey), uses to soothe his genital crabs.
 Nashawn attempts to contact Gaemon, who is incapacitated after slipping near a hot tub, forcing Nashawn to attempt to land the plane himself.
+<<<<<<< HEAD
 Nashawn lands the plane safely, using the airplane stewardess' (Sofa Vergara) flight knowledge which she learned while having sex in the cockpit with the pilot on another plane.
+=======
+Nashawn lands the plane safely, using the airplane stewardess' (Sofía Vergara) flight knowledge which she learned while having sex in the cockpit with the pilot on another plane.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The plane lands in the middle of Central Park instead of John F. Kennedy International Airport, and the spinners are stolen from the plane.
 Nashawn reconciles with his ex-girlfriend after earlier revealing to her that he only broke up with her so she would not give up her college opportunities for him.
 The movie ends with Nashawn telling the audience the fate of his crew.

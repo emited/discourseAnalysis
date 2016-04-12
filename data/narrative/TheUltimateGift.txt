@@ -6,7 +6,11 @@ Throughout his trials and tribulations, the family attorney, Mr.
 Hamilton (Bill Cobbs), and his secretary Miss Hastings (Lee Meriwether) attempt to guide Jason along the path his grandfather wishes him to travel.
 But this is a hard task for the guides, because Jason is a spoiled underachiever who has never had to genuinely work.
 For instance, to carry out the first task he has to fly to Texas, and naturally assumes he has a first-class seat, and is annoyed when he discovers he has a coach class seat, complaining to the steward "Don't you know who I am?"
+<<<<<<< HEAD
 On his return after completing the first task in Texas, everything he values is suddenly taken away from him  luxury apartment, his restored muscle car, and all his money  and he is left homeless.
+=======
+On his return after completing the first task in Texas, everything he values is suddenly taken away from him – luxury apartment, his restored muscle car, and all his money – and he is left homeless.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 His trendy girlfriend, Caitlin (Mircea Monroe), ditches him when his credit card is rejected at a fancy restaurant, and she is mortified when he asks her if she could pay the bill.
 After his mother (Donna Cherry) tells her son she cannot help him as part of the agreement, he miserably wanders the city, for the first time truly alone.
 While sleeping in a park that he encounters a woman, Alexia (Ali Hillis), and her outspoken daughter Emily (Abigail Breslin). Jason befriends the two, but then tells them that he needs them to come to the attorney's office and confirm themselves as his "true friends" in order to pass the "gift of friends" assignment.

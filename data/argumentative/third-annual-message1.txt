@@ -32,3 +32,7 @@ It is to be expected that in the residue of the territory ceded to us by Mexico 
 No material inconvenience will result from the want for a short period of a government established by Congress over that part of the territory which lies eastward of the new State of California; and the reasons for my opinion that New Mexico will at no very distant period ask for admission into the Union are rounded on unofficial information which, I suppose, is common to all who have cared to make inquiries on that subject.
 Seeing, then, that the question which now excites such painful sensations in the country will in the end certainly be settled by the silent effect of causes independent of the action of Congress, I again submit to your wisdom the policy recommended in my annual message of awaiting the salutary operation of those causes, believing that we shall thus avoid the creation of geographical parties and secure the harmony of feeling so necessary to the beneficial action of our political system.
 Connected, as the Union is, with the remembrance of past happiness, the sense of present blessings, and the hope of future peace and prosperity, every dictate of wisdom, every feeling of duty, and every emotion of patriotism tend to inspire fidelity and devotion to it and admonish us cautiously to avoid any unnecessary controversy which can either endanger it or impair its strength, the chief element of which is to be found in the regard and affection of the people for each other.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

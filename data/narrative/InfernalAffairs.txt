@@ -10,7 +10,11 @@ Wong and his team interrupt a deal between Hon Sam and a Thai cocaine dealer aft
 However, Lau alerts Hon, giving him enough time to order his minions to dispose of the cocaine, eliminating solid evidence of the drug deal.
 After the incident, Wong and Hon are both aware that they each have a mole within their respective organisations, placing them in a race against time to root out the other mole.
 Later, Chan sees Hon conversing with Lau at a cinema but does not see Lau's face clearly; he ultimately fails to capture Lau.
+<<<<<<< HEAD
 By this time, both Chan and Lau are struggling with their double identities  Chan starts losing faith in himself as a cop after being a gangster for ten years; Lau becomes more accustomed to the life of a police officer and he wants to erase his criminal background.
+=======
+By this time, both Chan and Lau are struggling with their double identities – Chan starts losing faith in himself as a cop after being a gangster for ten years; Lau becomes more accustomed to the life of a police officer and he wants to erase his criminal background.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At their next meeting, Wong intends to pull Chan out of undercover work for fear of his safety.
 They are unaware that Lau has his subordinate, CIB Inspector B, tracking him.
 Meanwhile, Hon sends "Crazy" Keung and other henchmen to confront them after receiving intel from Lau.
@@ -22,7 +26,11 @@ Keung drives Chan away from the scene, but later dies from a mortal gunshot woun
 It is reported on the news that Keung himself was an undercover cop; Hon assumes that he was the mole and that Chan killed him to protect the triad.
 Lau retrieves Wong's cell phone and contacts Chan, with both of them agreeing to foil a drug deal by Hon.
 The plan succeeds and many of Hon's men are arrested, while Lau betrays Hon and kills him.
+<<<<<<< HEAD
 Everything seems to have returned to normal  Chan can revert to his true identity as a cop, while Lau has erased his criminal connections by eliminating Hon's triad.
+=======
+Everything seems to have returned to normal – Chan can revert to his true identity as a cop, while Lau has erased his criminal connections by eliminating Hon's triad.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, back at police headquarters, Chan discovers that Lau was the mole and leaves immediately.
 Lau, realising what has happened, erases Chan's file from the police database.
 Chan spends an evening with his therapist, Dr.

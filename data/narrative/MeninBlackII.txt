@@ -25,5 +25,9 @@ J and K finally realize that Laura is the Light as the daughter of Laurana; K re
 J and Laura are hesitant to let her go but K convinces them it is for the good of the planet.
 As the ship starts to take off, Serleena, now occupying the form of Jeff, attempts to snatch the ship, but J and K kill her in time, and the ship departs.
 Because of the publicity of their activities, K initiates a neuralyzer hidden in the torch of the Statue of Liberty to wipe memories across the city.
+<<<<<<< HEAD
 Later, K and MIB Chief Zed (Rip Torn) try to console J by moving the tiny locker-dwelling alien societywhich now worships Jinto J's MIB locker.
+=======
+Later, K and MIB Chief Zed (Rip Torn) try to console J by moving the tiny locker-dwelling alien society—which now worships J—into J's MIB locker.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When J suggests showing the miniature creatures that their world is bigger than a locker, K shows J that the human universe is itself a locker within an immense alien train station.

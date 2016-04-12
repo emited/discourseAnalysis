@@ -9,7 +9,11 @@ This delights Kevin, who tries to talk Maggie into racing again.
 However, Ray Sr., who has forbidden her from racing since she was hospitalized after a street racing accident years ago, is concerned.
 It also infuriates Murphy, who becomes obsessed with Herbie.
 Murphy organizes a local street-racing competition to lure Herbie back for a rematch, which Maggie and Kevin enter.
+<<<<<<< HEAD
 Herbie easily defeats the other cars and qualifies for the final match with Murphy, but when Murphy talks Maggie into racing for pinks (where the winner takes possession of the opponent's car), Herbie becomes alarmed over Maggie's desire to win Murphy's stock carincorrectly assuming that Maggie will have him scrapped if she wins the other car, and also unaware that Murphy only agreed to the match so that he could have Herbie scrapped if he got possession of himand intentionally loses the race against Murphy's Corvette C6 Z06.
+=======
+Herbie easily defeats the other cars and qualifies for the final match with Murphy, but when Murphy talks Maggie into racing for pinks (where the winner takes possession of the opponent's car), Herbie becomes alarmed over Maggie's desire to win Murphy's stock car—incorrectly assuming that Maggie will have him scrapped if she wins the other car, and also unaware that Murphy only agreed to the match so that he could have Herbie scrapped if he got possession of him—and intentionally loses the race against Murphy's Corvette C6 Z06.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Maggie is humiliated, Herbie is towed away, and Ray Sr.
 lectures Maggie for racing without his permission.
 However, encouraged by her friend Charisma, Maggie decides to race professionally.

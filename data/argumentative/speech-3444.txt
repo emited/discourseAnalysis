@@ -40,7 +40,11 @@ Democracy is spreading.
 Business is growing.
 Trade and investment are rising.
 Ghana has the only African-owned company today on our New York Stock Exchange.
+<<<<<<< HEAD
 You have worked hard to preserve the peace in Africa and around the worldfrom Liberia to Lebanon, from Croatia to Cambodia.
+=======
+You have worked hard to preserve the peace in Africa and around the world—from Liberia to Lebanon, from Croatia to Cambodia.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And you have given the world a statesman and peacemaker in Kofi Annan to lead the United Nations.
 The world admires your success.
 The United States admires your success.

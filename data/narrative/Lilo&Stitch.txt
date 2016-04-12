@@ -4,8 +4,13 @@ It is decided that the creature will be exiled to an isolated, desolate asteroid
 The extremely clever and calculating Experiment 626, after studying the behaviour of the automatic guns watching him inside his restraint mechanism, tricks them into shooting each other (and thus freeing himself as a result) using his saliva.
 He subsequently manages to escape in a spaceship and activates the hyperdrive, causing its guidance systems to malfunction and randomly set a course for Earth.
 The Grand Councilwoman (in consultation with Jumba) is relieved to find that 626's course will crash him in the middle of the Pacific Ocean, which due to his body composition will drown him (water being the creature's main weakness). The relief quickly passes when it is realized that 626's extremely-unlikely course will instead cause him to land on the tiny island chain of Hawai'i. The Grand Councilwoman, after learning that Earth is the home of the endangered mosquito, decides to dispatches Jumba and Earth-expert Agent Pleakley to recover Experiment 626 before he destroys the planet.
+<<<<<<< HEAD
 After Experiment 626 lands on the small and not-very-populated northwestern Hawaiian island of Kauai, but is knocked unconscious by a passing truck and taken to an animal shelter.
 On Kauai, Nani has been struggling to take care of her rambunctious younger sister, Lilo.
+=======
+After Experiment 626 lands on the small and not-very-populated northwestern Hawaiian island of Kauaʻi, but is knocked unconscious by a passing truck and taken to an animal shelter.
+On Kauaʻi, Nani has been struggling to take care of her rambunctious younger sister, Lilo.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A social worker named Cobra Bubbles expresses increasing concern that Nani has not been able to take adequate care of Lilo.
 Seeking a change, Nani decides that she will allow Lilo to adopt a dog and they go to the animal shelter, where Lilo immediately takes a keen interest in Experiment 626, who is impersonating a dog in order to escape.
 Lilo names 626 "Stitch" and shows him around the island.

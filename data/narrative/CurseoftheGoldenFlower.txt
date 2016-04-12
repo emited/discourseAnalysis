@@ -13,7 +13,11 @@ The Emperor decides not to punish her and she reunites with her husband and daug
 The Emperor also decides to promote the doctor to governor of the nearby province of Suzhou, so the doctor and his family pack their things and set out.
 Crown Prince Wan is sad that the doctor's daughter is leaving.
 He runs after their convoy and speaks to her, and learns that the Empress has woven ten thousands of scarves adorned with chrysanthemum motifs, sending them to a general of the imperial army afterwards.
+<<<<<<< HEAD
 Fearing that this might mark the beginning of some conspiracy, Wan hurries back to the palace and confronts the Empress, who confesses that she is planning a coup d'tat.
+=======
+Fearing that this might mark the beginning of some conspiracy, Wan hurries back to the palace and confronts the Empress, who confesses that she is planning a coup d'état.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Out of shock and anguish, Crown Prince Wan stabs himself with a dagger and is placed under care.
 The doctor's family is betrayed and attacked by the Emperor's assassins.
 His servants and soldiers loyally try to fight them, but the doctor is killed.

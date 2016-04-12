@@ -5,7 +5,11 @@ Psychologists attempt to understand the role of mental functions in individual a
 Psychologists explore concepts such as perception, cognition, attention, emotion, intelligence, phenomenology, motivation, brain functioning, personality, behavior, and interpersonal relationships, including psychological resilience, family resilience, and other areas.
 Psychologists of diverse orientations also consider the unconscious mind.
 Psychologists employ empirical methods to infer causal and correlational relationships between psychosocial variables.
+<<<<<<< HEAD
 In addition, or in opposition, to employing empirical and deductive methods, someespecially clinical and counseling psychologistsat times rely upon symbolic interpretation and other inductive techniques.
+=======
+In addition, or in opposition, to employing empirical and deductive methods, some—especially clinical and counseling psychologists—at times rely upon symbolic interpretation and other inductive techniques.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Psychology has been described as a "hub science", with psychological findings linking to research and perspectives from the social sciences, natural sciences, medicine, humanities, and philosophy.
 While psychological knowledge is often applied to the assessment and treatment of mental health problems, it is also directed towards understanding and solving problems in several spheres of human activity.
 By many accounts psychology ultimately aims to benefit society.

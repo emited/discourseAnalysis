@@ -2,7 +2,11 @@ Albert Markovski (Jason Schwartzman) is a young man who heads the local chapter 
 Albert is a rival of Brad Stand (Jude Law), a shallow power executive at Huckabees.
 Brad infiltrates Open Spaces and charismatically displaces Albert as the leader.
 Dawn Campbell (Naomi Watts) is Brad's live-in girlfriend and the face and voice of Huckabees; she appears in all of the store's commercials.
+<<<<<<< HEAD
 After seeing the same conspicuous stranger three times, Albert contacts two existential detectives, Bernard (Dustin Hoffman) and Vivian Jaffe (Lily Tomlin). The detectives offer Albert their optimistic brand of existentialismthey name it universal interconnectivity (which has some tenets of romantic and transcendentalist philosophies)and spy on him, ostensibly to help him solve the coincidence.
+=======
+After seeing the same conspicuous stranger three times, Albert contacts two existential detectives, Bernard (Dustin Hoffman) and Vivian Jaffe (Lily Tomlin). The detectives offer Albert their optimistic brand of existentialism—they name it universal interconnectivity (which has some tenets of romantic and transcendentalist philosophies)—and spy on him, ostensibly to help him solve the coincidence.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Bernard and Vivian introduce Albert to Tommy Corn (Mark Wahlberg), an obsessively anti-petroleum firefighter.
 Tommy is assigned to Albert as his Other.
 Tommy grows dissatisfied with the Jaffes, feeling that they are not helping him.

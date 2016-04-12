@@ -15,5 +15,9 @@ The group arrives at the trap and believes the Gobloon is trapped, unaware that 
 Roo wishes to have his friend Lumpy back.
 Hearing Roo's voice, Lumpy calls for him, but a loud thunder blocks it, prompting him to break his way out of the trap.
 The group finally goes trick-or-treating, and Kanga, who was in reality the mysterious figure that Tigger mistook for the Gobloon, throws a Halloween party for the friends, complete with Jack-o'-lanterns she'd carved in everyone's likenesses.
+<<<<<<< HEAD
 She explains that she must have accidentally dropped Lumpy's Jack-o'-lanterna mistake that sparked the entire adventure.
+=======
+She explains that she must have accidentally dropped Lumpy's Jack-o'-lantern—a mistake that sparked the entire adventure.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 With Lumpy's first Halloween being successful, everyone from the Hundred Acre Wood enjoys the Halloween party.

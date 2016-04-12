@@ -1,6 +1,10 @@
 CERN director Maximilian Kohler discovers one of the facility's physicists, Leonardo Vetra, murdered.
 His chest is branded with an ambigram of the word "Illuminati". Kohler contacts Robert Langdon, an expert on the Illuminati, who determines that the ambigram is authentic.
+<<<<<<< HEAD
 Kohler calls Vetra's adopted daughter Vittoria to the scene, and it is ascertained that the Illuminati have stolen a canister containing antimattera substance with destructive potential comparable to a nuclear weapon.
+=======
+Kohler calls Vetra's adopted daughter Vittoria to the scene, and it is ascertained that the Illuminati have stolen a canister containing antimatter—a substance with destructive potential comparable to a nuclear weapon.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When at CERN the canister is stored in a unique electrical charger which ensures the antimatter's stability but when removed its back-up battery provides power for 24 hours after which the anti-matter will self-destruct.
 The canister is somewhere in Vatican City, with a security camera in front of it, as its digital clock counts down to the explosion.
 Langdon and Vittoria make their way to Vatican City, where the Pope has recently died.
@@ -61,4 +65,8 @@ Peter's Square.
 His ashes are recovered by Mortati, who places them in an urn inside his father's sarcophagus.
 It is revealed that the Cardinals' endorsing of him would in fact have made him Pope by acclamation.
 Mortati is elected his successor by the conclave, and Langdon and Vittoria reunite at Hotel Bernini where they share an extensive meal before making love.
+<<<<<<< HEAD
 The last brand, the long-lost "Illuminati Diamond", is delivered by a Swiss Guard to Langdon on an indefinite loan, provided he would return it to the other Illuminati brandslong-since owned by the Vaticanthrough his final will.
+=======
+The last brand, the long-lost "Illuminati Diamond", is delivered by a Swiss Guard to Langdon on an indefinite loan, provided he would return it to the other Illuminati brands—long-since owned by the Vatican—through his final will.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

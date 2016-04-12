@@ -33,4 +33,8 @@ As she falls off a building, he flies in and catches her, then removes a bullet 
 Back in the real world, Sentinels destroy the Nebuchadnezzar.
 Neo displays a new ability to disable the machines with his thoughts, but falls into a coma from the effort.
 The crew are picked up by another ship, the Hammer.
+<<<<<<< HEAD
 Its captain, Roland, reveals the other ships were wiped out by the machines after someone activated an EMP too early, and that they found only one survivor afterwardsrevealed to be Bane.
+=======
+Its captain, Roland, reveals the other ships were wiped out by the machines after someone activated an EMP too early, and that they found only one survivor afterwards—revealed to be Bane.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

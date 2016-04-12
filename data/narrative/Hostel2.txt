@@ -1,6 +1,10 @@
 Shortly after the events of Hostel, Paxton (Jay Hernandez) is suffering from nightmares and lives in seclusion with his girlfriend Stephanie (Jordan Ladd). The two get into an argument where Stephanie denounces Paxton's paranoia as exaggerated and insufferable.
 She wakes up the next morning to find Paxton decapitated.
+<<<<<<< HEAD
 An unmarked box (presumably containing Paxton's severed head) is then delivered to Elite Hunting boss Sasha (Milan Kako), as he relaxes at an outdoor cafe.
+=======
+An unmarked box (presumably containing Paxton's severed head) is then delivered to Elite Hunting boss Sasha (Milan Kňažko), as he relaxes at an outdoor cafe.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In Italy, three art students, Beth (Lauren German), Whitney (Bijou Phillips), and Lorna (Heather Matarazzo) are convinced by Axelle (Vera Jordanova), a nude model they are sketching, to join her on a luxurious spa vacation, redirecting them from Prague.
 The four travel to a small Slovakian village and check into the local hostel, where the desk clerk uploads their passport photos to an auction website.
 American businessman Todd (Richard Burgi) submits the winning bids on Whitney and Beth for himself and his passive best friend Stuart (Roger Bart).

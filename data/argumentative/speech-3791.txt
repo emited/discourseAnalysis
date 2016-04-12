@@ -26,3 +26,7 @@ The matter is too fundamental to be settled otherwise.
 I have no pride of opinion in this question.
 I am not foolish enough to profess to know the wishes and ideals of America better than the body of her chosen representatives know them.
 I only want instruction direct from those whose fortunes, with ours and all men's, are involved.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

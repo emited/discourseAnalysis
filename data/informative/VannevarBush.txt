@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Vannevar Bush (/vnivr/ van-NEE-var; March 11, 1890  June 28, 1974) was an American engineer, inventor and science administrator, who during World War II headed the U.S. Office of Scientific Research and Development (OSRD), through which almost all wartime military R&D was carried out, including initiation and early administration of the Manhattan Project.
+=======
+Vannevar Bush (/væˈniːvɑːr/ van-NEE-var; March 11, 1890 – June 28, 1974) was an American engineer, inventor and science administrator, who during World War II headed the U.S. Office of Scientific Research and Development (OSRD), through which almost all wartime military R&D was carried out, including initiation and early administration of the Manhattan Project.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He is also known in engineering for his work on analog computers, for founding Raytheon, and for the memex, a hypothetical adjustable microfilm viewer with a structure analogous to that of hypertext.
 In 1945, Bush published the essay "As We May Think" in which he predicted that "wholly new forms of encyclopedias will appear, ready made with a mesh of associative trails running through them, ready to be dropped into the memex and there amplified". The memex influenced generations of computer scientists, who drew inspiration from its vision of the future.
 He was chiefly responsible for the movement that led to the creation of the National Science Foundation.

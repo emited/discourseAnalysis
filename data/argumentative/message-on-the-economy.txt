@@ -19,3 +19,7 @@ So that I am trying to get this problem across by action in different industries
 I want the action to speak for itself.
 These conclusions are not a statement from me.
 That is the conclusion of those men who were present.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

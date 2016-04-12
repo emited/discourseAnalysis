@@ -1,6 +1,10 @@
 Following release from prison, Daniel "Danny" Ocean (George Clooney) violates his parole by traveling to California to meet his partner-in-crime and friend Rusty Ryan (Brad Pitt) to propose a caper.
 The two go to Las Vegas to pitch the plan to wealthy friend and former casino owner Reuben Tishkoff (Elliott Gould). The plan consists of simultaneously robbing the Bellagio, The Mirage, and the MGM Grand casinos.
+<<<<<<< HEAD
 Reuben's familiarity with casino security makes him very reluctant to get involved, but when he starts to think of it as a good way to get back at his rival, Terry Benedict (Andy Garca), who owns all three casinos, Reuben agrees to finance the operation.
+=======
+Reuben's familiarity with casino security makes him very reluctant to get involved, but when he starts to think of it as a good way to get back at his rival, Terry Benedict (Andy García), who owns all three casinos, Reuben agrees to finance the operation.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Because the casinos are required by the Nevada Gaming Commission to have enough cash on hand to cover all their patrons' bets, the three predict that, on the upcoming night of a highly anticipated boxing match, the Bellagio vault will contain more than $150,000,000.
 Danny and Rusty recruit eight former colleagues and criminal specialists: Linus Caldwell (Matt Damon), a young and talented pickpocket; Frank Catton (Bernie Mac), a casino worker and con man; Virgil (Casey Affleck) and Turk Malloy (Scott Caan), a pair of gifted mechanics; Livingston Dell (Eddie Jemison), an electronics and surveillance expert; Basher Tarr (Don Cheadle), an explosives expert; Saul Bloom (Carl Reiner), an elderly con man; and "The Amazing" Yen (Shaobo Qin), an accomplished acrobat.
 Several of the team members carry out reconnaissance at the Bellagio to learn as much as possible about the security, the routines and behaviors of the casino staff, and the building itself.

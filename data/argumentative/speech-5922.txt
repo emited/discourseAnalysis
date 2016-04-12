@@ -2,7 +2,11 @@ Members of the Congress, Members of the Cabinet, distinguished Americans, and gu
 On an April afternoon in the year 1966, I asked a distinguished group of citizens who were interested in human rights to meet me in the Cabinet Room in the White House.
 In their presence that afternoon, I signed a message to the Congress.
 That message called for the enactment of "the first effective federal law against discrimination in the sale and the rental of housing" in the United States of America.
+<<<<<<< HEAD
 Few in the Nationand the record will show that very few in that room that afternoonbelieved that fair housing wouldin our timebecome the unchallenged law of this land.
+=======
+Few in the Nation—and the record will show that very few in that room that afternoon—believed that fair housing would—in our time—become the unchallenged law of this land.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And indeed, this bill has had a long and stormy trip.
 We did not get it in 1966.
 We pleaded for it again in 1967.
@@ -13,10 +17,17 @@ I do not exaggerate when I say that the proudest moments of my Presidency have b
 I shall never forget that it was more than 100 years ago when Abraham Lincoln issued the Emancipation Proclamationbut it was a proclamation; it was not a fact.
 In the Civil Rights Act of 1964, we affirmed through law that men equal under God are also equal when they seek a job, when they go to get a meal in a restaurant, or when they seek lodging for the night in any State in the Union.
 Now the Negro families no longer suffer the humiliation of being turned away because of their race.
+<<<<<<< HEAD
 In the Civil Rights Act of 1965, we affirmed through law for every citizen in this land the most basic right of democracythe right of a citizen to vote in an election in his country.
 In the five States where the Act had its greater impact, Negro voter registration has already more than doubled.
 Now, with this bill, the voice of justice speaks again.
 It proclaims that fair housing for allall human beings who live in this countryis now a part of the American way of life.
+=======
+In the Civil Rights Act of 1965, we affirmed through law for every citizen in this land the most basic right of democracy—the right of a citizen to vote in an election in his country.
+In the five States where the Act had its greater impact, Negro voter registration has already more than doubled.
+Now, with this bill, the voice of justice speaks again.
+It proclaims that fair housing for all—all human beings who live in this country—is now a part of the American way of life.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We all know that the roots of injustice run deep.
 But violence cannot redress a solitary wrong, or remedy a single unfairness.
 Of course, all America is outraged at the assassination of an outstanding Negro leader who was at that meeting that afternoon in the White House in 1966.

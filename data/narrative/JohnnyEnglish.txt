@@ -1,5 +1,9 @@
 Johnny English is an inept MI7 agent with dreams of being their most trusted employee.
+<<<<<<< HEAD
 After Agent One dies in a submarine accident (courtesy of English making a mistake on checking the submarine hatch code), the remaining agents are assassinated via a bombing at Agent Ones funeral (again courtesy of English's incompetence at security), leaving English as the lone survivor.
+=======
+After Agent One dies in a submarine accident (courtesy of English making a mistake on checking the submarine hatch code), the remaining agents are assassinated via a bombing at Agent One’s funeral (again courtesy of English's incompetence at security), leaving English as the lone survivor.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 English is assigned to follow a plot to steal the Crown Jewels, which are on display at the Tower of London.
 At the display, English is head of security, and meets the mysterious Lorna Campbell.
 The power is cut, and the jewels are stolen.
@@ -13,6 +17,7 @@ Pegasus, head of MI7, finds the claims of his involvement absurd and warns Engli
 In the car park, English and Bough are attacked by Vendetta, but are unharmed beyond Bough getting a nose bleed (courtesy of English mistaking him for Vendetta and covering up for himself by saying that there could have been other thieves and adamantly insisting that Bough drop the issue and move on).
 English again encounters Lorna Campbell in a sushi restaurant as he recognized her motorcycle.
 During their meeting English is suspicious of her since he has seen her at two of their crime scenes and her records cannot be found on any government computer.
+<<<<<<< HEAD
 English and Bough decide to break into Sauvages headquarters via parachutes, but English lands on the other twin tower containing the City Hospital by mistake taking hospital employees hostage until he sees the "SAUVAGE" sign from the building with Bough inside.
 He then covers for himself by telling the employees that the holdup was just a test of their emergency response systems while telling Bough that he merely did a precautionary sweep of the immediate environment.
 Going to the correct building, the two learn Sauvage, who is a descendant of Bonnie Prince Charlie, plans on making himself king, using an impostor to impersonate the Archbishop of Canterbury.
@@ -28,6 +33,23 @@ English crashes the coronation and discovers the Archbishop is the genuine artic
 Undeterred, English orders Bough to play the DVD, only to find it is camera footage of himself dancing in his bathroom in his underclothes to Does Your Mother Know by ABBA, Sauvage having bugged Englishs flat beforehand, much to Pegasus' disgust.
 English sneaks away but swings in on a wire to steal St.
 Edwards Crown from Sauvage.
+=======
+English and Bough decide to break into Sauvage’s headquarters via parachutes, but English lands on the other twin tower containing the City Hospital by mistake taking hospital employees hostage until he sees the "SAUVAGE" sign from the building with Bough inside.
+He then covers for himself by telling the employees that the holdup was just a test of their emergency response systems while telling Bough that he merely did a precautionary sweep of the immediate environment.
+Going to the correct building, the two learn Sauvage, who is a descendant of Bonnie Prince Charlie, plans on making himself king, using an impostor to impersonate the Archbishop of Canterbury.
+Lorna arrives, revealed to be an Interpol agent tracking Sauvage.
+With evidence of Sauvage’s involvement, English crashes a reception hosted by Sauvage but he is suspended from work by Pegasus for breaking into Sauvage's office, assaulting his staff and insulting the foreign secretary.
+With English knowing their plans, Sauvage scraps the fake Archbishop and instead sends his minions to force Queen Elizabeth II to abdicate by threatening her corgis, causing the entire line of succession to be swept clean for Sauvage to become king.
+Lorna, now in charge of the assignment by Pegasus, visits the depressed English and convinces him to travel with her to Sauvage’s French chateau to spy on him.
+Eavesdropping on Sauvage’s meeting with renowned criminals, English and Lorna learn Sauvage plans to turn the United Kingdom into the world’s biggest prison when he becomes king.
+English and Lorna are exposed when the former accidentally activates a microphone, and they are taken prisoners.
+English tries to steal the DVD of Sauvage’s plan, but accidentally drops it onto a tray of identical discs and takes the wrong one.
+Bough rescues the two and they race to stop Sauvage’s coronation.
+English crashes the coronation and discovers the Archbishop is the genuine article.
+Undeterred, English orders Bough to play the DVD, only to find it is camera footage of himself dancing in his bathroom in his underclothes to “Does Your Mother Know” by ABBA, Sauvage having bugged English’s flat beforehand, much to Pegasus' disgust.
+English sneaks away but swings in on a wire to steal St.
+Edward’s Crown from Sauvage.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Sauvage angrily shoots at English with a pistol, causing him to drop the crown.
 Moments before Sauvage is crowned king, English drops from the wire after being shot, lands on the throne, and is crowned instead.
 In his singular act as king, English has Sauvage arrested and restores the Queen to the throne, requesting a knighthood as a reward.

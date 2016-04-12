@@ -21,3 +21,7 @@ I am one of those who will never despair of the Republic.
 I yet cherish the belief that the American people will perpetuate the Union of the States on some terms just and honorable for all sections of the country.
 I trust that the mediation of Virginia may be the destined means, under Providence, of accomplishing this inestimable benefit.
 Glorious as are the memories of her past history, such an achievement, both in relation to her own fame and the welfare of the whole country would surpass them all.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

@@ -1,5 +1,9 @@
 When a body is found hanging on top of the sign demarcating the Ontario-Quebec border, police officers from both Canadian provinces must join forces to solve the murder.
+<<<<<<< HEAD
 David Bouchard (Patrick Huard) is a rule-bending, francophone detective for the Sret du Qubec, while Martin Ward (Colm Feore) is a by-the-book anglophone Ontario Provincial Police detective.
+=======
+David Bouchard (Patrick Huard) is a rule-bending, francophone detective for the Sûreté du Québec, while Martin Ward (Colm Feore) is a by-the-book anglophone Ontario Provincial Police detective.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The bilingual detectives must resolve their professional and cultural differences as well as their bigotry and prejudices.
 The body is identified as Benoit Brisset, a hockey executive.
 The clues lead the pair to Luc Therrien (Sylvain Marcel) at a roadside bar.

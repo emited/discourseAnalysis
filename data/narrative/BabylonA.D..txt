@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In the near future, a mercenary named Toorop (Vin Diesel) accepts a contract from a Russian mobster, Gorsky (Grard Depardieu), who instructs him to bring a young woman known only as Aurora (Mlanie Thierry) to New York City.
+=======
+In the near future, a mercenary named Toorop (Vin Diesel) accepts a contract from a Russian mobster, Gorsky (Gérard Depardieu), who instructs him to bring a young woman known only as Aurora (Mélanie Thierry) to New York City.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In order to reach this goal, Gorsky gives Toorop a variety of weapons as well as a UN passport that has to be injected under the skin of the neck.
 Toorop, along with the girl and her guardian nun Sister Rebeka (Michelle Yeoh), travels from the Noelite Convent in Mongolia to reach New York via Russia.
 The towns and cities of Russia have been turned into dangerous, overpopulated slums by war and terrorist activity, forcing Toorop, Aurora, and Rebeka to face dangers of the human element, while fleeing from an unknown group of mercenaries claiming to have been sent by Aurora's supposedly dead father.

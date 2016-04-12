@@ -23,3 +23,7 @@ They sustain a greater injury in the demoralizing effect produced upon those who
 These objections could be removed and every constitutional purpose readily attained should Congress enact that one-half only of the aggregate amount provided for in the bill be appropriated for expenditure during the fiscal year, and that the sum so appropriated be expended only for such objects named in the bill as the Secretary of War, under the direction of the President, shall determine; provided that in no case shall the expenditure for any one purpose exceed the sum now designated by the bill for that purpose.
 I feel authorized to make this suggestion because of the duty imposed upon the President by the Constitution "to recommend to the consideration of Congress such measures as he shall judge necessary and expedient," and because it is my earnest desire that the public works which are in progress shall suffer no injury.
 Congress will also convene again in four months, when this whole subject will be open for their consideration.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

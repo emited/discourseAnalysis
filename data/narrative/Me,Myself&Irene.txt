@@ -3,7 +3,11 @@ We don't know if the three bi-racial triplets are Charlie's or Layla had an affa
 In the present, Charlie has raised the sons, Jamal, Lee Harvey, and Shonte Jr (Anthony Anderson, Jerod Mixon, Mongo Brownlee), as his own and they respect him as his father, but Charlie's kind personality continually is misused by others.
 As a result of years of such treatment, Charlie develops a split personality named Hank, who is rude and violent to friends and strangers alike.
 A psychiatrist prescribes medication to keep Charlie's Hank personality at bay.
+<<<<<<< HEAD
 Believing that Charlie needs a vacation, his commanding officer (Robert Forster) orders him to escort Irene Waters (Rene Zellweger) from Rhode Island to Massena, New York, because she reportedly committed a hit-and-run.
+=======
+Believing that Charlie needs a vacation, his commanding officer (Robert Forster) orders him to escort Irene Waters (Renée Zellweger) from Rhode Island to Massena, New York, because she reportedly committed a hit-and-run.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Irene insists the hit-and-run accusation was created by Dickie (Daniel Greene), her mob-connected ex-boyfriend, and by corrupt police officers in his employ, as to assure she does not speak of Dickie's illegal activities to the proper authorities.
 In Massena, Charlie prepares to turn over Irene to two United States Environmental Protection Agency (EPA) agents, when a hitman with a contract on Irene's life attempts to assassinate her, instead killing one of the EPA agents.
 Charlie helps Irene to safety and they flee the area, but Charlie accidentally leaves his medication behind, allowing the Hank personality to appear randomly.

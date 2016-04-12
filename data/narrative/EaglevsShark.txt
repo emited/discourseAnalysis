@@ -24,7 +24,11 @@ Jarrod spends his time alternating between trying to win his dad's affection and
 It becomes clear his father loved his other son Gordon much more than Jarrod.
 Gordon was very successful, winning many ribbons, especially in running.
 When Lily asks how Gordon died, Jarrod says that he died saving a kid from a fire at the school.
+<<<<<<< HEAD
 Lily meets with MasonJarrod's best friend and computer geekto find out that Eric will return from Samoa the next day.
+=======
+Lily meets with Mason—Jarrod's best friend and computer geek—to find out that Eric will return from Samoa the next day.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The three then creep up to Eric's house to drop off Jarrod's invitation to the fight between the two of them.
 Gordon's fiancee, Tracy, comes over.
 She seems to be a person of similar success to Gordon and Jarrod's father even loves her more than Jarrod.
@@ -56,6 +60,10 @@ That afternoon, Jarrod, with his family and friends watching, confronts Eric and
 Eric apologizes for how he bullied him in high school, but Jarrod attacks him anyway with a set of nunchucks.
 Despite his condition, Eric is able to easily wrestle Jarrod to the ground and only relents in his attacks when Jarrod's father tells him to leave him alone.
 Jarrod is depressed about his fight with Eric but Lily finds him and attempts to cheer him up.
+<<<<<<< HEAD
 Lily tells him she is leaving for home on the following daybut that could change.
+=======
+Lily tells him she is leaving for home on the following day—but that could change.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At the bus stop, Jarrod is waiting for her, presenting her with a bouquet of lilies.
 They reconcile and journey back on a bus together.

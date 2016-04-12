@@ -13,11 +13,19 @@ The board nearly complies with Nelson's demands, but, as they are tired of him a
 They get him a poor defense lawyer for the trial.
 Nelson is found guilty and sentenced to three to five years.
 John, not satisfied with Nelson merely going to prison, decides to join him in prison by committing a crime.
+<<<<<<< HEAD
 At his trial before the same judge Nelson had, John pleads guilty and asks for the same sentence (35 years) at the same prison that Nelson is in.
 He manages to become Nelsons cellmate, pretends to be his friend, and gives Nelson wrong advice on surviving life in prison.
 Nelson gets himself out of the many jams John's misinformation creates.
 He meets gang leader Barry (Chi McBride), a hulking, burly gay fellow who engages Nelson in a relationship.
 Despite his fearsome appearance, Barry is a romantic  he likes smooth jazz, he plies potential romantic partners with his finest toilet-made Merlot, and he has transformed his prison cell into a candle-lit, rose-bedecked passion parlor.
+=======
+At his trial before the same judge Nelson had, John pleads guilty and asks for the same sentence (3–5 years) at the same prison that Nelson is in.
+He manages to become Nelson’s cellmate, pretends to be his friend, and gives Nelson wrong advice on surviving life in prison.
+Nelson gets himself out of the many jams John's misinformation creates.
+He meets gang leader Barry (Chi McBride), a hulking, burly gay fellow who engages Nelson in a relationship.
+Despite his fearsome appearance, Barry is a romantic – he likes smooth jazz, he plies potential romantic partners with his finest toilet-made Merlot, and he has transformed his prison cell into a candle-lit, rose-bedecked passion parlor.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Nelson first submits to being his partner out of fear, but then he genuinely grows fond of Barry and enjoys the relationship.
 Nelson reaches his one-year parole hearing not only relatively unscathed, but the "top dog" in the prison hierarchy.
 However, John will not allow his target to escape prison so easily.

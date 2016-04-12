@@ -8,7 +8,11 @@ Giving Sherry the pretext of attending a safety conference in Phoenix, Arizona, 
 Malcolm reprises his disguise as Big Momma from the original film and showing up at Fuller's house as Mrs.
 Fuller (Emily Procter) is interviewing several other candidates.
 Big Momma eliminates the three other applicants for the nanny position by pointing out the sexually attractive qualities of the first, the drug use of the second, and the concealed firearm of the third.
+<<<<<<< HEAD
 Big Momma meets the three Fuller children: Molly (Kat Dennings), Carrie (Chlo Grace Moretz), and Andrew.
+=======
+Big Momma meets the three Fuller children: Molly (Kat Dennings), Carrie (Chloë Grace Moretz), and Andrew.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After failing to perform the housekeeping tasks assigned to her, Big Momma is fired, and works all night cleaning up and makes a large breakfast.
 Upon seeing it the next day, Mrs.
 Fuller changes her mind when the family awakes to find this.

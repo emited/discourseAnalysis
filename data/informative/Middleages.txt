@@ -4,14 +4,22 @@ The Middle Ages is the middle period of the three traditional divisions of Weste
 The Medieval period is itself subdivided into the Early, High, and Late Middle Ages.
 Depopulation, deurbanization, invasion, and movement of peoples, which had begun in Late Antiquity, continued in the Early Middle Ages.
 The barbarian invaders, including various Germanic peoples, formed new kingdoms in what remained of the Western Roman Empire.
+<<<<<<< HEAD
 In the 7th century, North Africa and the Middle Eastonce part of the Eastern Roman Empirecame under the rule of the Umayyad Caliphate, an Islamic empire, after conquest by Muhammad's successors.
+=======
+In the 7th century, North Africa and the Middle East—once part of the Eastern Roman Empire—came under the rule of the Umayyad Caliphate, an Islamic empire, after conquest by Muhammad's successors.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Although there were substantial changes in society and political structures, the break with Antiquity was not complete.
 The still-sizeable Byzantine Empire survived in the east and remained a major power.
 The empire's law code, the Corpus Juris Civilis or "Code of Justinian", was rediscovered in Northern Italy in 1070 and became widely admired later in the Middle Ages.
 In the West, most kingdoms incorporated the few extant Roman institutions.
 Monasteries were founded as campaigns to Christianise pagan Europe continued.
 The Franks, under the Carolingian dynasty, briefly established the Carolingian Empire during the later 8th and early 9th century.
+<<<<<<< HEAD
 It covered much of Western Europe but later succumbed to the pressures of internal civil wars combined with external invasionsVikings from the north, Hungarians from the east, and Saracens from the south.
+=======
+It covered much of Western Europe but later succumbed to the pressures of internal civil wars combined with external invasions—Vikings from the north, Hungarians from the east, and Saracens from the south.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 During the High Middle Ages, which began after 1000, the population of Europe increased greatly as technological and agricultural innovations allowed trade to flourish and the Medieval Warm Period climate change allowed crop yields to increase.
 Manorialism, the organisation of peasants into villages that owed rent and labour services to the nobles, and feudalism, the political structure whereby knights and lower-status nobles owed military service to their overlords in return for the right to rent from lands and manors, were two of the ways society was organised in the High Middle Ages.
 The Crusades, first preached in 1095, were military attempts by Western European Christians to regain control of the Holy Land from Muslims.

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A group of vampires look for the hidden resting place of Drake, also known as Draculathe genetic "father" of their species.
+=======
+A group of vampires look for the hidden resting place of Drake, also known as Dracula—the genetic "father" of their species.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They find him in an Iraqi ziggurat tomb, although not before, in a moment of blood lust, he kills one of them.
 The vampires capitalize on Blade's reputation as a serial killer and frame him for the killing of a human familiar.
 During the ensuing manhunt, the FBI locate Blade's latest hideout, and, during the siege, Abraham Whistler dies.

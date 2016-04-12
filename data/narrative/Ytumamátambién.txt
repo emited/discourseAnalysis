@@ -1,10 +1,17 @@
 The film uses an omniscient narrator to provide information on the characters and their personal life, historical Mexican events, and the settings depicted in the film.
 The "footnotes" also reveal the economic and political issues in Mexico, particularly the impoverished lifestyle of people living in rural areas across the country.
 The story itself begins at the threshold of the protagonists' adulthood.
+<<<<<<< HEAD
 Julio (Gael Garca Bernal) comes from a leftist middle-class family and Tenoch's (Diego Luna) father is a high-ranking political official.
 The film opens with a scene of each boy having sex with his girlfriend one last time before the girls leave on a trip to Italy.
 Without their girlfriends around, the boys take the opportunity to live as bachelors.
 At a wedding, they meet Luisa (Maribel Verd), an older woman and the wife of Tenochs cousin Jano.
+=======
+Julio (Gael García Bernal) comes from a leftist middle-class family and Tenoch's (Diego Luna) father is a high-ranking political official.
+The film opens with a scene of each boy having sex with his girlfriend one last time before the girls leave on a trip to Italy.
+Without their girlfriends around, the boys take the opportunity to live as bachelors.
+At a wedding, they meet Luisa (Maribel Verdú), an older woman and the wife of Tenoch’s cousin Jano.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The boys attempt to impress her with talk of an invented, secluded beach called Boca del Cielo ("Heaven's Mouth"), but she initially declines their invitation to accompany them there.
 Later, Luisa visits the doctor for some test results (the details of which the audience does not learn). After her appointment, she receives a phone call from Jano in which he tearfully confesses that he has been cheating on her.
 The next day, Luisa calls Tenoch and asks if their offer to accompany them to the beach is still open.
@@ -22,7 +29,11 @@ By chance, they turn onto an isolated beach whilst driving along the coastal roa
 They begin to relax and enjoy the ocean along with the company of a local family.
 In the nearby village, Luisa makes a final phone call to Jano, bidding him an affectionate but final farewell.
 That evening, the three drink excessively and joke recklessly about their sexual transgressions, revealing that each boy has frequently had sex with the other's girlfriend.
+<<<<<<< HEAD
 In light of their shocking confessions, Julio tells Tenoch that he had sex with Tenoch's mother as well by saying: "Y tu mam tambin!" ("And your mama, too!"). All three are drunk and they laugh about it instead of the revelation making them uncomfortable.
+=======
+In light of their shocking confessions, Julio tells Tenoch that he had sex with Tenoch's mother as well by saying: "Y tu mamá también!" ("And your mama, too!"). All three are drunk and they laugh about it instead of the revelation making them uncomfortable.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The three dance together sensually and then retire to their room.
 They begin to undress and grope drunkenly.
 As Luisa kneels and stimulates them both, the boys embrace and kiss each other passionately, indicative of some repressed sexual feelings between them.

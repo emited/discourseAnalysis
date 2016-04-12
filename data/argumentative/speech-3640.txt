@@ -6,3 +6,7 @@ Nor do I claim for the Executive any right to the possession or disposition of t
 Nor do I claim the right in any manner to supervise or interfere with the person intrusted with such property or treasure, unless he be an officer whose appointment, under the Constitution and laws, is devolved upon the President alone or in conjunction with the Senate, and for whose conduct he is constitutionally responsible.
 As the message and protest referred to may appear on the Journal of the Senate and remain among the recorded documents of the nation, I am unwilling that opinions should be imputed to me, even through misconstruction, which are not entertained, and more particularly am I solicitous that I may not be supposed to claim for myself or my successors any power or authority not clearly granted by the Constitution and laws to the President.
 I have therefore respectfully to request that this communication may be considered a part of that message and that it may be entered therewith on the journals of the Senate.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

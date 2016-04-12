@@ -3,10 +3,17 @@ Aubrey Fleming (Lindsay Lohan), a pianist and aspiring writer, appears to be his
 She is later seen bound and gagged on an operating table as her hands are exposed to dry ice.
 As the days tick by, the special FBI Task Force convened to track the killer begins to lose hope of finding him before it's too late.
 Late one night, a driver discovers a young woman by the side of a deserted road, disheveled and critically injured.
+<<<<<<< HEAD
 The girl is rushed to the hospital, where Aubreys distraught parents, Susan (Julia Ormond) and Daniel (Neal McDonough), wait by her side as she slips in and out of consciousness.
 When she is finally able to speak, she shocks everyone by claiming to be a down-on-her luck stripper named Dakota Moss, who has never heard of Aubrey Fleming.
 Convinced Aubrey is suffering from post traumatic stress disorder, her doctors, parents, and law enforcement officials can only wait for rest and therapy to restore her memory.
 But after returning to her parents suburban home, she continues to insist she is not who they think she is, despite bearing bizarre wounds identical to those of the serial killer's previous victims, which include her hand and half of her leg cut off.
+=======
+The girl is rushed to the hospital, where Aubrey’s distraught parents, Susan (Julia Ormond) and Daniel (Neal McDonough), wait by her side as she slips in and out of consciousness.
+When she is finally able to speak, she shocks everyone by claiming to be a down-on-her luck stripper named Dakota Moss, who has never heard of Aubrey Fleming.
+Convinced Aubrey is suffering from post traumatic stress disorder, her doctors, parents, and law enforcement officials can only wait for rest and therapy to restore her memory.
+But after returning to her parents’ suburban home, she continues to insist she is not who they think she is, despite bearing bizarre wounds identical to those of the serial killer's previous victims, which include her hand and half of her leg cut off.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 An FBI psychologist believes Dakota to be a delusional persona of Aubrey, and the agents speculate the persona is to distance and protect Aubrey from the events that happened.
 Examining Aubrey's laptop, they discover a short story about a girl with an alter ego named Dakota.
 In addition, a DNA test confirms that Dakota is Aubrey.

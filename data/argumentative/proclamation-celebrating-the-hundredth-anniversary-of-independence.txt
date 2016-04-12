@@ -12,3 +12,7 @@ Duties have been mine; consequences are God's. This has been the foundation of m
 In conclusion, gentlemen, let me say that I want your encouragement and countenance.
 I shall ask and rely upon you and others in carrying the Government through its present perils.
 I feel in making this request that it will be heartily responded to by you and all other patriots and lovers of the rights and interests of a free people.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

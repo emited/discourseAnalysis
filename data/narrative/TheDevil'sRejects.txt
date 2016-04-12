@@ -14,7 +14,11 @@ Wendy runs out of the motel, but is caught by Captain Spaulding, who knocks her 
 Otis returns, and all three leave the motel together in the band's van.
 The motel maid comes to clean the room, and discovers the murder scene.
 The maid enters the bathroom, where she sees "The Devil's Rejects" written on the wall in blood, and is startled by Wendy, who is accidentally killed when she runs out to the highway to seek help.
+<<<<<<< HEAD
 Wydell calls a pair of amoral bounty hunters  the "Unholy Two"  Rondo and Billy Ray, to help him find the Fireflys.
+=======
+Wydell calls a pair of amoral bounty hunters — the "Unholy Two" — Rondo and Billy Ray, to help him find the Fireflys.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While investigating, they discover an associate of Spaulding's named Charlie Altamont.
 Wydell begins to lose sanity when Mother Firefly reveals that she murdered his brother.
 After having a dream in which his brother asks him to avenge his death, Wydell stabs Mother Firefly to death.

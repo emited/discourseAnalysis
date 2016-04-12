@@ -20,7 +20,11 @@ Overnight, he and Tyrone flee the city and decide to travel to Miami to buy whol
 After the traumatizing hallucination, Sara immediately flees her apartment and takes a subway to a television studio in Manhattan to confirm when she will be on the show with Tappy Tibbons, yet she is told there is a very long waiting list.
 Concerned about Sara's barely stable psychotic state, the staff and the secretary at the studio calls for paramedic assistance, and Sara is involuntarily committed to a psychiatric ward where she undergoes unsuccessful medication treatment.
 As a last resort, she is given electroconvulsive therapy, which is also unsuccessful, completely losing her sanity in the process.
+<<<<<<< HEAD
 On the way to Miami, Harrys increasingly infected left arm from his daily heroin injections forces them to visit a hospital in Georgia.
+=======
+On the way to Miami, Harry’s increasingly infected left arm from his daily heroin injections forces them to visit a hospital in Georgia.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A doctor notices the symptoms of drug abuse and Harry and Tyrone are arrested for drug possession.
 Tyrone must deal with hard labor, racist prison guards, and drug withdrawal.
 Harry is transferred from prison to a hospital to have his arm amputated.

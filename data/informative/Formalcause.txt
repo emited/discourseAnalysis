@@ -1,7 +1,13 @@
 "Four causes" refers to an influential principle in Aristotelian thought whereby explanations of change or movement are classified into four fundamental types of answer to the question "why?" Aristotle wrote that "we do not have knowledge of a thing until we have grasped its why, that is to say, its explanation." While there are cases where classifying an explanation is difficult, or in which classes of explanation might merge, Aristotle was convinced that his four classes of explanation provided an analytical scheme of general applicability.
+<<<<<<< HEAD
 Aitia, from Greek  was the word that Aristotle used to refer to the concept of explanation.
 Traditionally in academic philosophy it has been translated as cause, but this tradition uses the word 'cause' in a peculiar way that is obsolete, or highly specialized and technical in philosophy, not in its most usual current ordinary language usage.
 The translation of Aristotle's  that is nearest to current ordinary language is 'explanation'.
+=======
+Aitia, from Greek αἰτία was the word that Aristotle used to refer to the concept of explanation.
+Traditionally in academic philosophy it has been translated as cause, but this tradition uses the word 'cause' in a peculiar way that is obsolete, or highly specialized and technical in philosophy, not in its most usual current ordinary language usage.
+The translation of Aristotle's αἰτία that is nearest to current ordinary language is 'explanation'.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Aristotle held that there were four kinds of answers to 'why' questions (in Physics II, 3, and Metaphysics V, 2): In this article, the peculiar philosophical usage of the word 'cause' will be exercised, for tradition's sake, but the reader should not be misled by confusing this peculiar usage with current ordinary language.
 A change or movement's material explanation is the aspect of the change or movement which is determined by the material that composes the moving or changing things.
 For a table, that might be wood; for a statue, that might be bronze or marble.

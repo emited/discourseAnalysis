@@ -1,5 +1,9 @@
 The film is set in the heart of Transylvania and the story appears to take place sometime during the mid-19th Century.
+<<<<<<< HEAD
 Professor Abronsius, formerly of the University of Knigsberg and his apprentice Alfred are on the hunt for vampires.
+=======
+Professor Abronsius, formerly of the University of Königsberg and his apprentice Alfred are on the hunt for vampires.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Abronsius (played by Jack MacGowran, Samuel Beckett's favourite male interpreter of his work) is old and withering and barely able to survive the cold ride through the wintry forests, while Alfred is bumbling and introverted.
 The two hunters come to a small Eastern European town seemingly at the end of a long search for signs of vampires.
 The two stay at a local inn full of angst-ridden townspeople who perform strange rituals to fend off an unseen evil.

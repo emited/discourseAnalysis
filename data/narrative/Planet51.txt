@@ -18,7 +18,11 @@ Realizing this alien is no threat, Lem decides to help Chuck, hiding him in his 
 Rover finds Chuck, who is very happy to see it.
 As the General and his men search Lem's room, the group sneaks back into the planetarium with Chuck, who tells Lem he has "the right stuff". Chuck also shows Lem the star that Earth orbits and how the universe is much bigger than Lem had thought.
 The next morning, the Army takes Chuck's module to a secret location.
+<<<<<<< HEAD
 The next night is the premire of a new Humaniacs movie, and Lem, Skiff and Chuck attend in costumes as fans.
+=======
+The next night is the première of a new Humaniacs movie, and Lem, Skiff and Chuck attend in costumes as fans.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Chuck introduces some new music as part of the contest and teaches Lem to dance.
 Things go well until Rover arrives: chaos ensues.
 General Grawl arrives and points out Chuck's United States Flag insignia is a dead giveaway that he isn't a local.
@@ -31,7 +35,11 @@ General Grawl thinks Chuck is resisting his demands and allows Professor Kipple 
 Lem gets his job back at the planetarium and is permitted to speak about the incident on TV, but he cannot truly accept the honor.
 He feels terrible about Chuck and decides to do the right thing.
 While he's hot-wiring a car, Neera, Skiff and Eckle join him to go off to rescue Chuck.
+<<<<<<< HEAD
 The teens know luck is on their side when Rover shows up on the edge of townhe unscrewed the bolts holding together the armored vehicle in which he was imprisoned.
+=======
+The teens know luck is on their side when Rover shows up on the edge of town—he unscrewed the bolts holding together the armored vehicle in which he was imprisoned.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Rover sniffs out Chuck's trail and leads them to an abandoned gas station in the desert.
 They look around, and Skiff sees a soda bottle in an old refrigerator.
 When he tries to take it, it opens up the entrance to Base 9. Lem has Glar distract the soldiers guarding the base with his protest group while the rest of them sneak into the base.

@@ -13,7 +13,11 @@ After escaping, he befriends a group of Adelie penguins called "the Amigos", who
 After seeing a hidden human excavator in an avalanche, they opt to ask Lovelace, a rockhopper penguin, about its origin.
 Lovelace has the plastic rings of a six pack entangled around his neck, which he claims to have been bestowed upon him by mystic beings.
 For the emperor penguins, it is mating season and Gloria is the center of attention.
+<<<<<<< HEAD
 Ramn, one of the Amigos, attempts to help Mumble win her affection by singing a Spanish version of "My Way", with Mumble lip syncing, but the plan fails.
+=======
+Ramón, one of the Amigos, attempts to help Mumble win her affection by singing a Spanish version of "My Way", with Mumble lip syncing, but the plan fails.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In desperation, Mumble begins tap dancing in synch with her song.
 She falls for him and the youthful penguins join in for singing and dancing to "Boogie Wonderland". The elders are appalled by Mumble's conduct, which they see as the reason for their lean fishing season.
 Memphis begs Mumble to stop dancing, for his own sake, but when Mumble refuses, he is exiled.

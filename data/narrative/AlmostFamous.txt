@@ -4,7 +4,11 @@ Shunned by older classmates because of his young age, William, who loves rock mu
 Rock journalist Lester Bangs, impressed with William's writing, gives William a $35 assignment to write a review of a Black Sabbath concert.
 William is unable to get in backstage but the band Stillwater arrives and brings William inside with them after he praises their music.
 Lead guitarist Russell Hammond takes a liking to William, partly because of William's new friendship with a rock groupie, Penny Lane, to whom Russell is attracted.
+<<<<<<< HEAD
 William accompanies Penny to the Riot House  the Hyatt Hotel on Sunset Boulevard - to meet with Stillwater.
+=======
+William accompanies Penny to the Riot House – the Hyatt Hotel on Sunset Boulevard - to meet with Stillwater.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Penny, feigning retirement from her rock groupie glory days, acts as William's chauffeur, but only to get close to Russell, for whom she has genuine feelings.
 William is contacted by Ben Fong-Torres, editor of Rolling Stone, and, believing William is older, hires him to write a story.
 William convinces Ben to let him write about upcoming band Stillwater, and he is instructed to go on the road with them.

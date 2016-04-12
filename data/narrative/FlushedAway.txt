@@ -16,7 +16,11 @@ During Roddy's stay, he overhears a conversation that causes him to think that R
 When Rita catches up to him, she is able to clear up the misunderstanding.
 The pair evade Spike and Whitey pursuing in a remote-controlled toy boat, with Thimblenose Ted and others on eggbeater jet skis.
 During this scene, Roddy and Rita share a quick love moment.
+<<<<<<< HEAD
 Incensed at his minions repeated failures, The Toad sends for his French cousin; an infamous, if somewhat laid back, mercenary known as Le Frog (Jean Reno). During this scene, it is revealed that The Toad was once Prince Charles' pet, but was replaced by a pet rat, and subsequently flushed down a toilet.
+=======
+Incensed at his minions’ repeated failures, The Toad sends for his French cousin; an infamous, if somewhat laid back, mercenary known as Le Frog (Jean Reno). During this scene, it is revealed that The Toad was once Prince Charles' pet, but was replaced by a pet rat, and subsequently flushed down a toilet.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Le Frog and his subordinates intercept the duo and retrieve the cable, but Roddy and Rita use a plastic bag to lift themselves out of the sewer (snatching away the cable during the ascent) and get Roddy home, though the Jammy Dodger is destroyed.
 Back home, Roddy pays Rita the promised ruby and an emerald, then proceeds to show her around his house.
 She at first believes he has family in the home, but noticing his cage, she realises he's a pet.

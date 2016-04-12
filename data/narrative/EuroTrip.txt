@@ -16,7 +16,11 @@ Scott's German is poor and even though the driver mentions Berlin in his reply n
 The group ultimately end up in Bratislava, where they are horrified by the desolation of Eastern Europe in the aftermath of the Cold War.
 Having realised that there is a great exchange rate for the U.S. dollar, they decide to have some fun and the group goes to a nightclub.
 Drunk on absinthe, Jenny and Jamie French-kiss and make out with each other, witnessed by Scotty and Cooper, and are horrified when they realize what they are doing.
+<<<<<<< HEAD
 The next day, an American-obsessed Slovak man named Tibor (Rade erbedija) finally drives them to Berlin.
+=======
+The next day, an American-obsessed Slovak man named Tibor (Rade Šerbedžija) finally drives them to Berlin.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Scott and Cooper soon find out that Mieke has gone with a tour group for the summer and will likely be reachable in Rome for only a short time.
 In order to afford plane tickets to Rome to search for Mieke, Jamie sells his precious Leica M7 camera.
 In Rome, the four friends head to the Vatican City, where Mieke is touring before leaving for her summer at sea.

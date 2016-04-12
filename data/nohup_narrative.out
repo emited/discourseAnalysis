@@ -1,0 +1,21 @@
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/TheLandBeforeTimeVII:TheStoneofColdFire.txt.xml
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/Spirit:StallionoftheCimarron.txt.xml
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/Monstersvs.Aliens.txt.xml
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/HighSchoolMusical2.txt.xml
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/Futurama:Bender'sBigScore.txt.xml
+Traceback (most recent call last):
+  File "convert.py", line 27, in <module>
+    main(rpath=sys.argv[1])
+  File "convert.py", line 21, in main
+    extract(fxml)
+  File "convert.py", line 14, in extract
+    writer(sentlist, fconll)
+  File "/tmp/DPLP-master/preprocess/xmlreader.py", line 168, in writer
+    line = str(sent.idx) + '\t' + str(token.idx) + '\t' + token.word + '\t' + token.lemma + '\t' + str(token.pos) + '\t' + str(token.deptype) + '\t' + str(token.headidx) + '\t' + str(token.nertype) + '\t' + str(token.partialparse) + '\n'
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u201c' in position 10: ordinal not in range(128)
+Load model from: discoseg/pretrained/model.pickle.gz
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/Futurama:Bender'sBigScore.txt.conll
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/TheLandBeforeTimeVII:TheStoneofColdFire.txt.conll
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/HighSchoolMusical2.txt.conll
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/Monstersvs.Aliens.txt.conll
+Processing file: /users/Etu2/3502282/Documents/s2/tal/discourseAnalysis/data/narrative/Spirit:StallionoftheCimarron.txt.conll

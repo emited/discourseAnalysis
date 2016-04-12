@@ -7,7 +7,11 @@ Ducky is about to take one, but Littlefoot quickly tells her to stop and reminds
 Just then, Cera's father emerges and states very clearly how every dinosaur in the valley has waited a long time to taste the treesweets.
 As Cera, too, appears before them, she reminds them that she is the one who is supposed to get the first treesweet because she was the one who found the treesweet-tree in the first place, although it was indeed Littlefoot who did it.
 Cera also teases Littlefoot for being too little to actually reach the treesweets.
+<<<<<<< HEAD
 Meanwhile, Cera's father is visited by an old frienda female threehorn named Tria  whom, it seems, he used to have a crush on.
+=======
+Meanwhile, Cera's father is visited by an old friend—a female threehorn named Tria – whom, it seems, he used to have a crush on.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 She also reveals his name to be Topsy (although it may simply be a nickname). After speaking a while with her, he promises Tria that she will get the first treesweet of the season; which Cera, who appears just in time to hear him say this, becomes very upset about.
 From that moment on, Cera refuses to make friends with Tria and simply shrugs her off whenever she tries to talk to her.
 In addition, Cera will turn violent towards her friends should they make any references involving Tria (be it Tria herself or Cera's father's nickname).

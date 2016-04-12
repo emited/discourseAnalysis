@@ -25,3 +25,7 @@ No official notice of such ratification has been received by the Executive or fi
 The right of each House under the Constitution to judge of the elections, returns, and qualifications of its own members is undoubted, and my approval or disapproval of the resolution could not in the slightest degree increase or diminish the authority in this respect conferred upon the two branches of Congress.
 In conclusion I can not too earnestly repeat my recommendation for the admission of Tennessee, and all other States, to a fair and equal participation in national legislation when they present themselves in the persons of loyal Senators and Representatives who can comply with all the requirements of the Constitution and the laws.
 By this means harmony and reconciliation will be effected, the practical relations of all the States to the Federal Government reestablished, and the work of restoration, inaugurated upon the termination of the war, successfully completed.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

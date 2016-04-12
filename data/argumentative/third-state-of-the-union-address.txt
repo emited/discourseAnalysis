@@ -40,3 +40,7 @@ The maintenance of the American system of individual initiative and individual a
 "This program will affect favorably every man, woman and child-not a special class or any group.
 One of its purposes is to start the flow of credit now impeded by fear and uncertainty, to the detriment of every manufacturer, business man and farmer.
 To reestablish normal functioning is the need of the hour."
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

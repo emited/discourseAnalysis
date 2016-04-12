@@ -1,7 +1,11 @@
 Carter Webb (Adam Brody) is a young, soft-core porn writer living in Los Angeles whose young, starlet girlfriend Sofia (Elena Anaya) breaks up with him.
 Carter pleads with her to stay, but she leaves.
 When Carter goes to his mother's home in order to reclaim an item, he sees his mother crying in the living room.
+<<<<<<< HEAD
 She explains that her mentally unstable mother, Phyllis (Olympia Dukakis), claims that she is dying  though her doctor cannot find anything fatal.
+=======
+She explains that her mentally unstable mother, Phyllis (Olympia Dukakis), claims that she is dying – though her doctor cannot find anything fatal.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Carter's mother tells him that she will be leaving for Michigan to take care of Phyllis.
 Carter offers to take his mother's place as caregiver for his grandmother, explaining that he wanted to get out of the life he was currently living and write a biographical story he has been working on for the past eleven years.
 Though his mother objects to this decision, he ignores her and flies to Michigan.
@@ -41,7 +45,11 @@ Carter tells her to ask her parents if they would allow her to take him out on a
 Lucy, confused, agrees, and goes back inside.
 Shortly thereafter, Sarah invites Carter on another walk.
 This time, she leads him into a small patch of forest.
+<<<<<<< HEAD
 She admits that her husband is having an affair and that she does not love him  at least not the way Carter loved Sofia.
+=======
+She admits that her husband is having an affair and that she does not love him – at least not the way Carter loved Sofia.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They hug and leave to run errands together.
 They share an awkward moment of both having something to say to the other; Carter begins with the declaration that Sarah's husband is "out of his mind". Sarah smiles, and dismisses what she has to say.
 Eventually, the two deepen their friendship and later, when she tells him she is sick, they kiss each other.

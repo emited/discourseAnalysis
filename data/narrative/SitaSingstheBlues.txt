@@ -1,7 +1,11 @@
 
 
 === The Ramayana ===
+<<<<<<< HEAD
 The film uses a pared-down adaptation of the legend that retains many of its finer details while adopting a perspective sympathetic towards Sita; in the director's words, the film is "a tale of truth, justice and a womans cry for equal treatment."
+=======
+The film uses a pared-down adaptation of the legend that retains many of its finer details while adopting a perspective sympathetic towards Sita; in the director's words, the film is "a tale of truth, justice and a woman’s cry for equal treatment."
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The plot joins the legend at the exile of prince Rama from his father's court, at the behest of his father's favorite queen, Kaikeyi.
 Having earned the right to any single favor by saving the king's life, Kaikeyi attempts to secure her own son's inheritance over the eldest and favorite, Rama, by ordering him banished from the court.
 Sita, Rama's wife, determines to accompany her beloved husband, although the woods are dangerous and overrun with demons and evil spirits.

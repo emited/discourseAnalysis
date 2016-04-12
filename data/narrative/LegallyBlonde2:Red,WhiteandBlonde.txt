@@ -1,6 +1,10 @@
 Elle Woods (Reese Witherspoon) wants her Chihuahua, Bruiser, to reunite with his mother, because she would like Bruiser's mom to attend Elle and Emmett's wedding.
 Elle hires a detective to find Bruiser's mother, only to discover that the owner of her dog's mother is a cosmetics company that uses Bruiser's mother for "testing". She finds out that her law firm represents the C'est Magnifique Corporation.
+<<<<<<< HEAD
 Elle decides to leave Boston, where she and Bruiser have settled with her fianc Emmett, and go to Washington, D.C., to work on Bruiser's Bill.
+=======
+Elle decides to leave Boston, where she and Bruiser have settled with her fiancé Emmett, and go to Washington, D.C., to work on Bruiser's Bill.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Elle is upset that her dog's mother is in a make-up testing laboratory, and decides to take it upon herself to be the "voice for those who can't speak" and to outlaw animal testing.
 While working for Congresswoman Victoria Rudd (Sally Field), Elle is met with skepticism and other barriers common to Washington politics.
 Rudd's member of staff, Timothy, sarcastically calls her "Capitol Barbie". (There has even been a Barbie doll based on Elle Woods.) After a variety of ups and downs including a failed attempt to improve her work environment by having her co-workers write compliments about one another and place them in the "snap cup", Elle starts to lose her faith in Washington politics.

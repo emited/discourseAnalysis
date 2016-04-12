@@ -1,5 +1,9 @@
 Library science (often termed library studies, library and information science, bibliothecography) is an interdisciplinary or multidisciplinary field that applies the practices, perspectives, and tools of management, information technology, education, and other areas to libraries; the collection, organization, preservation, and dissemination of information resources; and the political economy of information.
+<<<<<<< HEAD
 Martin Schrettinger, a Bavarian librarian, coined the discipline within his work (1808-1828) Versuch eines vollstndigen Lehrbuchs der Bibliothek-Wissenschaft oder Anleitung zur vollkommenen Geschftsfhrung eines Bibliothekars.
+=======
+Martin Schrettinger, a Bavarian librarian, coined the discipline within his work (1808-1828) Versuch eines vollständigen Lehrbuchs der Bibliothek-Wissenschaft oder Anleitung zur vollkommenen Geschäftsführung eines Bibliothekars.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Rather than classifying information based on nature-oriented elements, as was previously done in his Bavarian library, Schrettinger organized books in alphabetical order.
 The first American school for library science was founded by Melvil Dewey at Columbia University in 1887.
 It is an aspect of the broader field of librarianship.

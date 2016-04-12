@@ -21,7 +21,11 @@ Just prior to the kill screen, Kuh is seen gathering a large crowd to witness Wi
 Wiebe reaches the kill screen and also achieves a new world record of 985,600 points.
 Mitchell immediately sends a low-quality VHS to Funspot, depicting himself achieving a higher score of 1,047,200 points, a move that proves to be a stark contrast to his and his followers' own opinions throughout the film, in which he repeatedly asserts that live scores are the only credible ones, and is indeed contradictory to the very criteria Twin Galaxies held Wiebe's previous score to.
 Despite Wiebe's protests that his own first score was disqualified for being submitted via unsupervised videotape, Twin Galaxies accepts Mitchell's score over Wiebe's and proclaims that Mitchell's new score makes Mitchell the record holder once again.
+<<<<<<< HEAD
 Nine months later, Wiebe learns that Guinness World Records wants to publish several of Twin Galaxies' records  including Mitchell's latest score.
+=======
+Nine months later, Wiebe learns that Guinness World Records wants to publish several of Twin Galaxies' records — including Mitchell's latest score.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Wiebe and his family travel to Hollywood, Florida, near Mitchell's home, to challenge him in a public competition, but Mitchell refuses to accept the challenge, and Wiebe fails to surpass a million points.
 Nevertheless, Day, on behalf of Twin Galaxies, finally acknowledges Wiebe's integrity and credibility and apologizes for how Wiebe was treated.
 In a coda to the film, Wiebe achieves the world record of 1,049,100 in his garage.

@@ -15,7 +15,11 @@ Reaching Mom's mine, the trio discovers the heart of the operation: thousands of
 Igner spots them, having earlier overheard Mom telling his brothers a secret about him, and helps them reach Mom's office.
 Farnsworth tries to bring his and Mom's crystals together, but swallows his in order to keep it out of Mom's hands.
 In the robot asylum, Bender is diagnosed with insanity and is due for a "Robotomy" in order to remove his imagination processor.
+<<<<<<< HEAD
 The closeness of the two dark matter crystals triggers a resonance in all dark matterincluding a stockpile Bender has stored within his bodyand catapults all the characters into Cornwood, the realm Bender imagines himself to be from.
+=======
+The closeness of the two dark matter crystals triggers a resonance in all dark matter—including a stockpile Bender has stored within his body—and catapults all the characters into Cornwood, the realm Bender imagines himself to be from.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The other members of the Planet Express crew (Hermes, Zoidberg, and Amy) are transported as well.
 "Frydo" (Fry) and "Leegola" (Leela, now a centaur) emerge first and encounter Titanius (Bender); no one in Cornwood has any memory of their real-world lives, except for Fry and Leela.
 The three are attacked by "Waltazar" (Walt), "Larius" (Larry) and "Ignus" (Igner), who are trying to recover the anti-backwards crystal.

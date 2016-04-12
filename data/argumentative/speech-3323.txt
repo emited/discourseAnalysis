@@ -1,6 +1,10 @@
 Mr. Vice President, and Mr.
 Speaker, and Members of the Senate and House of Representatives:
+<<<<<<< HEAD
 Yesterday, December 7, 1941a date which will live in infamythe United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.
+=======
+Yesterday, December 7, 1941—a date which will live in infamy—the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The United States was at peace with that Nation and, at the solicitation of Japan, was still in conversation with its Government and its Emperor looking toward the maintenance of peace in the Pacific.
 Indeed, one hour after Japanese air squadrons had commenced bombing in the American Island of Oahu, the Japanese Ambassador to the United States and his colleague delivered to our Secretary of State a formal reply to a recent American message.
 And while this reply stated that it seemed useless to continue the existing diplomatic negotiations, it contained no threat or hint of war or of armed attack.
@@ -24,5 +28,9 @@ No matter how long it may take us to overcome this premeditated invasion, the Am
 I believe that I interpret the will of the Congress and of the people when I assert that we will not only defend ourselves to the uttermost but will make it very certain that this form of treachery shall never again endanger us.
 Hostilities exist.
 There is no blinking at the fact that our people, our territory, and our interests are in grave danger.
+<<<<<<< HEAD
 With confidence in our armed forceswith the unbounding determination of our peoplewe will gain the inevitable triumph, so help us God.
+=======
+With confidence in our armed forces—with the unbounding determination of our people—we will gain the inevitable triumph, so help us God.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I ask that the Congress declare that since the unprovoked and dastardly attack by Japan on Sunday, December 7, 1941, a state of war has existed between the United States and the Japanese Empire.

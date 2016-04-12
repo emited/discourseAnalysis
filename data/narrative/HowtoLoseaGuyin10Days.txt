@@ -19,7 +19,11 @@ Andie tries to explain to boss Lana (Bebe Neuwirth) that she cannot continue wri
 Around the same time, Andie and Ben go to the company ball together where Ben's boss, Phillip (Robert Klein), meets Andie and tells Ben that he "met her, she loves you, you win". Seeing Ben's good news, Judy and Judy are instantly envious and set about to ruin it for their co-worker.
 They tell his close colleagues, Tony (Adam Goldberg) and Thayer (Thomas Lennon), Andie knew about the bet all along and was playing along to help Ben win.
 Almost instantly, Tony and Thayer rush to Andie's side and beg her to keep quiet, when they do not realize she is still blissfully unaware.
+<<<<<<< HEAD
 Almost simultaneously, Lanawho is unaware of Ben's role in Andie's "How To" articlereveals Andie's true intentions to Ben.
+=======
+Almost simultaneously, Lana—who is unaware of Ben's role in Andie's "How To" article—reveals Andie's true intentions to Ben.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Upon learning of Ben's bet, Andie attempts to humiliate Ben by getting on stage and telling all he has prepared a "special treat": to sing a song.
 In an attempt to leave, Ben reveals they have prepared a "duet" and instructs his friends not to let her leave the room.
 They go on to sing a poor version of Carly Simon's "You're So Vain", which they describe as "one of their personal favourites".

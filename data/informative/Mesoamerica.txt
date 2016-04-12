@@ -9,12 +9,21 @@ Among the earliest complex civilizations was the Olmec culture, which inhabited 
 Frequent contact and cultural interchange between the early Olmec and other cultures in Chiapas, Guatemala and Oaxaca laid the basis for the Mesoamerican cultural area.
 All this was facilitated by considerable regional communications in ancient Mesoamerica, especially along the Pacific coast.
 This Formative period saw the spread of distinct religious and symbolic traditions, as well as artistic and architectural complexes.
+<<<<<<< HEAD
 In the subsequent Preclassic period, complex urban polities began to develop among the Maya, with the rise of centers such as El Mirador, Calakmul and Tikal, and the Zapotec at Monte Albn. During this period, the first true Mesoamerican writing systems were developed in the Epi-Olmec and the Zapotec cultures, and the Mesoamerican writing tradition reached its height in the Classic Maya hieroglyphic script.
 Mesoamerica is one of only five regions of the world where writing was independently developed.
 In Central Mexico, the height of the Classic period saw the ascendancy of the city of Teotihuacan, which formed a military and commercial empire whose political influence stretched south into the Maya area and northward.
 Upon the collapse of Teotihuacn around AD 600, competition between several important political centers in central Mexico, such as Xochicalco and Cholula, ensued.
 At this time during the Epi-Classic period, the Nahua peoples began moving south into Mesoamerica from the North, and became politically and culturally dominant in central Mexico, as they displaced speakers of Oto-Manguean languages.
 During the early post-Classic period, Central Mexico was dominated by the Toltec culture, Oaxaca by the Mixtec, and the lowland Maya area had important centers at Chichn Itz and Mayapn. Towards the end of the post-Classic period, the Aztecs of Central Mexico built a tributary empire covering most of central Mesoamerica.
+=======
+In the subsequent Preclassic period, complex urban polities began to develop among the Maya, with the rise of centers such as El Mirador, Calakmul and Tikal, and the Zapotec at Monte Albán. During this period, the first true Mesoamerican writing systems were developed in the Epi-Olmec and the Zapotec cultures, and the Mesoamerican writing tradition reached its height in the Classic Maya hieroglyphic script.
+Mesoamerica is one of only five regions of the world where writing was independently developed.
+In Central Mexico, the height of the Classic period saw the ascendancy of the city of Teotihuacan, which formed a military and commercial empire whose political influence stretched south into the Maya area and northward.
+Upon the collapse of Teotihuacán around AD 600, competition between several important political centers in central Mexico, such as Xochicalco and Cholula, ensued.
+At this time during the Epi-Classic period, the Nahua peoples began moving south into Mesoamerica from the North, and became politically and culturally dominant in central Mexico, as they displaced speakers of Oto-Manguean languages.
+During the early post-Classic period, Central Mexico was dominated by the Toltec culture, Oaxaca by the Mixtec, and the lowland Maya area had important centers at Chichén Itzá and Mayapán. Towards the end of the post-Classic period, the Aztecs of Central Mexico built a tributary empire covering most of central Mesoamerica.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The distinct Mesoamerican cultural tradition ended with the Spanish conquest in the 16th century.
 Over the next centuries, Mesoamerican indigenous cultures were gradually subjected to Spanish colonial rule.
 Aspects of the Mesoamerican cultural heritage still survive among the indigenous peoples who inhabit Mesoamerica, many of whom continue to speak their ancestral languages, and maintain many practices harking back to their Mesoamerican roots.

@@ -1,5 +1,9 @@
 Walter (Kevin Bacon), a convicted child molester, returns home to Philadelphia after serving 12 years in prison.
+<<<<<<< HEAD
 His friends and family have abandoned him, with the exception of his brother-in-law, Carlos (Benjamin Bratt). Walter's apartment is just across the street from an elementary schoolan obvious source of temptation.
+=======
+His friends and family have abandoned him, with the exception of his brother-in-law, Carlos (Benjamin Bratt). Walter's apartment is just across the street from an elementary school—an obvious source of temptation.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He gets a job at a local lumber mill and meets Vicki (Kyra Sedgwick), one of the few women working there.
 After sleeping with Vicki, Walter reveals his history of molesting little girls.
 Vicki is clearly shocked and disturbed by this new information, but before she can consider how to respond to it, Walter tells her to leave his apartment.

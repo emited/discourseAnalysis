@@ -33,7 +33,11 @@ And let all know we will extend no special privilege and impose no persecution.
 We will carry on the fight against poverty and misery, and disease and ignorance, in other lands and in our own.
 
 We will serve all the Nation, not one section or one sector, or one group, but all Americans.
+<<<<<<< HEAD
 These are the United Statesa united people with a united purpose.
+=======
+These are the United States—a united people with a united purpose.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 Our American unity does not depend upon unanimity.
 We have differences; but now, as in the past, we can derive from those differences strength, not weakness, wisdom, not despair.
@@ -54,7 +58,11 @@ But," he said, "let us begin."
 
 Today, in this moment of new resolve, I would say to all my fellow Americans, let us continue.
 
+<<<<<<< HEAD
 This is our challengenot to hesitate, not to pause, not to turn about and linger over this evil moment, but to continue on our course so that we may fulfill the destiny that history has set for us.
+=======
+This is our challenge—not to hesitate, not to pause, not to turn about and linger over this evil moment, but to continue on our course so that we may fulfill the destiny that history has set for us.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Our most immediate tasks are here on this Hill.
 
 First, no memorial oration or eulogy could more eloquently honor President Kennedy's memory than the earliest possible passage of the civil rights bill for which he fought so long.
@@ -70,7 +78,11 @@ This is a bill designed to increase our national income and Federal revenues, an
 That bill, if passed without delay, means more security for those now working, more jobs for those now without them, and more incentive for our economy.
 
 In short, this is no time for delay.
+<<<<<<< HEAD
 It is a time for actionstrong, forward-looking action on the pending education bills to help bring the light of learning to every home and hamlet in Americastrong, forward-looking action on youth employment opportunities; strong, forward-looking action on the pending foreign aid bill, making clear that we are not forfeiting our responsibilities to this hemisphere or to the world, nor erasing Executive flexibility in the conduct of our foreign affairsand strong, prompt, and forward-looking action on the remaining appropriation bills.
+=======
+It is a time for action—strong, forward-looking action on the pending education bills to help bring the light of learning to every home and hamlet in America—strong, forward-looking action on youth employment opportunities; strong, forward-looking action on the pending foreign aid bill, making clear that we are not forfeiting our responsibilities to this hemisphere or to the world, nor erasing Executive flexibility in the conduct of our foreign affairs—and strong, prompt, and forward-looking action on the remaining appropriation bills.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 In this new spirit of action, the Congress can expect the full cooperation and support of the executive branch.
 And in particular, I pledge that the expenditures of your Government will be administered with the utmost thrift and frugality.
@@ -82,7 +94,11 @@ We will do both.
 As one who has long served in both Houses of the Congress, I firmly believe in the independence and the integrity of the legislative branch.
 And I promise you that I shall always respect this.
 It is deep in the marrow of my bones.
+<<<<<<< HEAD
 With equal firmness, I believe in the capacity and I believe in the ability of the Congress, despite the divisions of opinions which characterize our Nation, to actto act wisely, to act vigorously, to act speedily when the need arises.
+=======
+With equal firmness, I believe in the capacity and I believe in the ability of the Congress, despite the divisions of opinions which characterize our Nation, to act—to act wisely, to act vigorously, to act speedily when the need arises.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 The need is here.
 The need is now.
@@ -90,13 +106,21 @@ I ask your help.
 
 We meet in grief, but let us also meet in renewed dedication and renewed vigor.
 Let us meet in action, in tolerance, and in mutual understanding.
+<<<<<<< HEAD
 John Kennedy's death commands what his life conveyedthat America must move forward.
+=======
+John Kennedy's death commands what his life conveyed—that America must move forward.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The time has come for Americans of all races and creeds and political beliefs to understand and to respect one another.
 So let us put an end to the teaching and the preaching of hate and evil and violence.
 Let us turn away from the fanatics of the far left and the far right, from the apostles of bitterness and bigotry, from those defiant of law, and those who pour venom into our Nation's bloodstream.
 
 I profoundly hope that the tragedy and the torment of these terrible days will bind us together in new fellowship, making us one people in our hour of sorrow.
+<<<<<<< HEAD
 So let us here highly resolve that John Fitzgerald Kennedy did not liveor diein vain.
+=======
+So let us here highly resolve that John Fitzgerald Kennedy did not live—or die—in vain.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And on this Thanksgiving eve, as we gather together to ask the Lord's blessing, and give Him our thanks, let us unite in those familiar and cherished words:
 
 America, America,

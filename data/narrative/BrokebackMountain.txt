@@ -2,7 +2,11 @@ In 1963, Ennis Del Mar (Heath Ledger) and Jack Twist (Jake Gyllenhaal) are hired
 After a night of heavy drinking, Jack makes a pass at Ennis, who is initially reluctant but eventually responds to Jack's advances.
 Though he informs Jack that it was a one-time incident, they develop a sexual and emotional relationship.
 Shortly after learning their summer together is being cut short, they briefly fight and each is bloodied.
+<<<<<<< HEAD
 After Jack and Ennis part ways, Ennis marries his longtime fiance Alma Beers (Michelle Williams) and has two daughters with her.
+=======
+After Jack and Ennis part ways, Ennis marries his longtime fiancée Alma Beers (Michelle Williams) and has two daughters with her.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Jack returns the next summer seeking work, but Aguirre, who witnessed Jack and Ennis on the mountain, does not rehire him.
 Jack moves to Texas, where he meets, marries, and has a son with rodeo rider Lureen Newsome (Anne Hathaway). After four years, Jack visits Ennis.
 Upon meeting, the two kiss passionately, which Alma accidentally witnesses.
@@ -36,5 +40,9 @@ Jack's mother lets him keep the shirts.
 Later, 19-year-old Alma Jr.
 (Kate Mara) arrives at Ennis' trailer to tell her father she is engaged.
 She asks for his blessing and invites him to the wedding.
+<<<<<<< HEAD
 Ennis asks her if her fianc really loves her and she replies "yes". After Alma leaves, Ennis goes to his closet, where his and Jack's shirts hang together, with a postcard of Brokeback Mountain tacked above.
+=======
+Ennis asks her if her fiancé really loves her and she replies "yes". After Alma leaves, Ennis goes to his closet, where his and Jack's shirts hang together, with a postcard of Brokeback Mountain tacked above.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He stares at the ensemble for a moment, tears in his eyes, and murmurs, "Jack, I swear..."

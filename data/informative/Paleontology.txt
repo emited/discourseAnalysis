@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Paleontology or palaeontology (/pelntldi/, /pelntldi/ or /plntldi/, /plntldi/) is the scientific study of life existent prior to, and sometimes including, the start of the Holocene Epoch roughly 11,700 years before present.
 It includes the study of fossils to determine organisms' evolution and interactions with each other and their environments (their paleoecology). Paleontological observations have been documented as far back as the 5th century BC.
 The science became established in the 18th century as a result of Georges Cuvier's work on comparative anatomy, and developed rapidly in the 19th century.
 The term itself originates from Greek , palaios, i.e. "old, ancient", , on (gen.
 ontos), i.e. "being, creature" and , logos, i.e. "speech, thought, study".
+=======
+Paleontology or palaeontology (/ˌpeɪlɪɒnˈtɒlədʒi/, /ˌpeɪlɪənˈtɒlədʒi/ or /ˌpælɪɒnˈtɒlədʒi/, /ˌpælɪənˈtɒlədʒi/) is the scientific study of life existent prior to, and sometimes including, the start of the Holocene Epoch roughly 11,700 years before present.
+It includes the study of fossils to determine organisms' evolution and interactions with each other and their environments (their paleoecology). Paleontological observations have been documented as far back as the 5th century BC.
+The science became established in the 18th century as a result of Georges Cuvier's work on comparative anatomy, and developed rapidly in the 19th century.
+The term itself originates from Greek παλαιός, palaios, i.e. "old, ancient", ὄν, on (gen.
+ontos), i.e. "being, creature" and λόγος, logos, i.e. "speech, thought, study".
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Paleontology lies on the border between biology and geology, but differs from archaeology in that it excludes the study of anatomically modern humans.
 It now uses techniques drawn from a wide range of sciences, including biochemistry, mathematics and engineering.
 Use of all these techniques has enabled paleontologists to discover much of the evolutionary history of life, almost all the way back to when Earth became capable of supporting life, about 3,800 million years ago.

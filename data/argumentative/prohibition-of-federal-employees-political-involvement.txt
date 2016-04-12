@@ -29,3 +29,7 @@ The obligation of the public faith transcends all questions of profit or public 
 Its unquestionable maintenance is the dictate as well of the highest expediency as of the most necessary duty, and should ever be carefully guarded by the Executive, by Congress, and by the people.
 It is my firm conviction that if the country is to be benefited by a silver coinage it can be done only by the issue of silver dollars of full value, which will defraud no man.
 A currency worth less than it purports to be worth will in the end defraud not only creditors, but all who are engaged in legitimate business, and none more surely than those who are dependent on their daily labor for their daily bread.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

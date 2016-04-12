@@ -22,7 +22,11 @@ Rose decides that she really is taken with Simon, and Cassandra and Topaz scheme
 Simon falls in love with Rose and proposes to her.
 Rose and Topaz go to London with Mrs Cotton to purchase Rose's wedding trousseau.
 While everyone else is away Cassandra and Simon spend the evening together, which leads to their kissing.
+<<<<<<< HEAD
 Cassandra becomes obsessed with Simon, but suffers feelings of guilt since he is Rose's fianc. Cassandra concludes that she must tactfully deflect Stephen's offer of love, and encourage him in his emerging career as a model and a film actor; join forces with Thomas to help their father overcome his writer's block by the drastic expedient of imprisoning him in a medieval tower; cope with her own increasing attraction to Simon; and record everything in her journal.
+=======
+Cassandra becomes obsessed with Simon, but suffers feelings of guilt since he is Rose's fiancé. Cassandra concludes that she must tactfully deflect Stephen's offer of love, and encourage him in his emerging career as a model and a film actor; join forces with Thomas to help their father overcome his writer's block by the drastic expedient of imprisoning him in a medieval tower; cope with her own increasing attraction to Simon; and record everything in her journal.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Meanwhile, unnoticed by anyone but Stephen, Rose and Neil have been falling in love.
 To conceal their budding romance they pretend to hate each other.
 When they eventually elope together Simon is left heartbroken, but Cassandra becomes hopeful.

@@ -14,12 +14,20 @@ For no man about to enter high office in this country can ever be unmindful of t
 
 Its leaders have shaped our destiny long before the great republic was born.
 Its principles have guided our footsteps in times of crisis as well as in times of calm.
+<<<<<<< HEAD
 Its democratic institutionsincluding this historic bodyhave served as beacon lights for other nations as well as our sister states.
+=======
+Its democratic institutions—including this historic body—have served as beacon lights for other nations as well as our sister states.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 For what Pericles said to the Athenians has long been true of this commonwealth: "We do not imitatefor we are a model to others."
 
 And so it is that I carry with me from this state to that high and lonely office to which I now succeed more than fond memories of firm friendships.
+<<<<<<< HEAD
 The enduring qualities of Massachusettsthe common threads woven by the Pilgrim and the Puritan, the fisherman and the farmer, the Yankee and the immigrantwill not be and could not be forgotten in this nation's executive mansion.
+=======
+The enduring qualities of Massachusetts—the common threads woven by the Pilgrim and the Puritan, the fisherman and the farmer, the Yankee and the immigrant—will not be and could not be forgotten in this nation's executive mansion.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 They are an indelible part of my life, my convictions, my view of the past, and my hopes for the future.
 
@@ -37,11 +45,19 @@ Today the eyes of all people are truly upon usand our governments, in every bran
 For we are setting out upon a voyage in 1961 no less hazardous than that undertaken by the Arabella in 1630.
 We are committing ourselves to tasks of statecraft no less awesome than that of governing the Massachusetts Bay Colony, beset as it was then by terror without and disorder within.
 
+<<<<<<< HEAD
 History will not judge our endeavorsand a government cannot be selectedmerely on the basis of color or creed or even party affiliation.
 Neither will competence and loyalty and stature, while essential to the utmost, suffice in times such as these.
 
 For of those to whom much is given, much is required.
 And when at some future date the high court of history sits in judgment on each one of usrecording whether in our brief span of service we fulfilled our responsibilities to the stateour success or failure, in whatever office we may hold, will be measured by the answers to four questions:
+=======
+History will not judge our endeavors—and a government cannot be selected—merely on the basis of color or creed or even party affiliation.
+Neither will competence and loyalty and stature, while essential to the utmost, suffice in times such as these.
+
+For of those to whom much is given, much is required.
+And when at some future date the high court of history sits in judgment on each one of us—recording whether in our brief span of service we fulfilled our responsibilities to the state—our success or failure, in whatever office we may hold, will be measured by the answers to four questions:
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 First, were we truly men of couragewith the courage to stand up to one's enemiesand the courage to stand up, when necessary, to one's associatesthe courage to resist public pressure, as well as private greed?
 
@@ -55,5 +71,9 @@ Couragejudgmentintegritydedicationthese are the historic qualities of the Bay Co
 
 And these are the qualities which, with God's help, this son of Massachusetts hopes will characterize our government's conduct in the four stormy years that lie ahead.
 
+<<<<<<< HEAD
 Humbly I ask His help in that undertakingbut aware that on earth His will is worked by men.
+=======
+Humbly I ask His help in that undertaking—but aware that on earth His will is worked by men.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I ask for your help and your prayers, as I embark on this new and solemn journey.

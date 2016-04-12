@@ -1,8 +1,14 @@
 Genetics is the study of genes, genetic variation, and heredity in living organisms.
 It is generally considered a field of biology, but it intersects frequently with many of the life sciences and is strongly linked with the study of information systems.
+<<<<<<< HEAD
 The modern science of genetics, seeking to understand this process, began with the work of Imre Festetics, a Hungarian noble, who lived in Brno (Brnn) before Gregor Mendel.
 Imre Festetics was the first who used the word "genetics", more than 80 years earlier than William Bateson.
 He described several rules of genetic inheritance in his work The genetic law of the Nature (Die genetische Gestze der Natur, 1819). His second law is the same as what Mendel published.
+=======
+The modern science of genetics, seeking to understand this process, began with the work of Imre Festetics, a Hungarian noble, who lived in Brno (Brünn) before Gregor Mendel.
+Imre Festetics was the first who used the word "genetics", more than 80 years earlier than William Bateson.
+He described several rules of genetic inheritance in his work The genetic law of the Nature (Die genetische Gesätze der Natur, 1819). His second law is the same as what Mendel published.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In his third law, he developed the basic principles of mutation (he can be considered a forerunner of Hugo de Vries.
 The father of genetics is Gregor Mendel, a late 19th-century scientist and Augustinian friar.
 Mendel studied 'trait inheritance', patterns in the way traits were handed down from parents to offspring.

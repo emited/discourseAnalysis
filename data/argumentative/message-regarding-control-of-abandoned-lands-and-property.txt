@@ -12,3 +12,7 @@ The report of Carl Schurz is herewith transmitted, as requested by the Senate.
 No reports from the Hon.
 John Coyode have been received by the President.
 The attention of the Senate is invited to the accompanying report from Lieutenant-General Grant, who recently made a tour of inspection through several of the States whose inhabitants participated in the rebellion.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

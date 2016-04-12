@@ -1,5 +1,9 @@
 An alien spaceship crashes near Searchlight, Nevada, outside Las Vegas.
+<<<<<<< HEAD
 Project Moon Dust, a secret Defense Department unit led by Henry Burke (Ciarn Hinds), arrives in black helicopters.
+=======
+Project Moon Dust, a secret Defense Department unit led by Henry Burke (Ciarán Hinds), arrives in black helicopters.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Men in Black seize the ship and search for its passengers.
 Jack Bruno (Dwayne Johnson) is a former mob get-away driver who drives a cab to avoid returning to jail.
 One of his passengers is Dr.

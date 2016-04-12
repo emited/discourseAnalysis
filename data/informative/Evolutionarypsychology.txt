@@ -1,5 +1,9 @@
 Evolutionary psychology (EP) is a theoretical approach in the social and natural sciences that examines psychological structure from a modern evolutionary perspective.
+<<<<<<< HEAD
 It seeks to identify which human psychological traits are evolved adaptations  that is, the functional products of natural selection or sexual selection in human evolution.
+=======
+It seeks to identify which human psychological traits are evolved adaptations – that is, the functional products of natural selection or sexual selection in human evolution.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Adaptationist thinking about physiological mechanisms, such as the heart, lungs, and immune system, is common in evolutionary biology.
 Some evolutionary psychologists apply the same thinking to psychology, arguing that the modularity of mind is similar to that of the body and with different modular adaptations serving different functions.
 Evolutionary psychologists argue that much of human behavior is the output of psychological adaptations that evolved to solve recurrent problems in human ancestral environments.

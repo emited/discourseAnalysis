@@ -12,4 +12,8 @@ Meteorology, climatology, atmospheric physics, and atmospheric chemistry are sub
 Meteorology and hydrology compose the interdisciplinary field of hydrometeorology.
 The interactions between Earth's atmosphere and its oceans are part of a coupled ocean-atmosphere system.
 Meteorology has application in many diverse fields such as the military, energy production, transport, agriculture, and construction.
+<<<<<<< HEAD
 The word "meteorology" is from Greek  metros "lofty; high (in the sky)" (from - meta- "above" and  aeiro "I lift up") and - -logia "-(o)logy", i.e. "the study of things in the air".
+=======
+The word "meteorology" is from Greek μετέωρος metéōros "lofty; high (in the sky)" (from μετα- meta- "above" and ἀείρω aeiro "I lift up") and -λογία -logia "-(o)logy", i.e. "the study of things in the air".
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

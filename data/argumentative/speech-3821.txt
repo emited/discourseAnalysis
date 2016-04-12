@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The thoughts and hopes of all Americaindeed of all the civilized worldare centered tonight on the battleship Missouri.
 There on that small piece of American soil anchored in Tokyo Harbor the Japanese have just officially laid down their arms.
 They have signed terms of unconditional surrender.
@@ -5,6 +6,15 @@ They have signed terms of unconditional surrender.
 Four years ago, the thoughts and fears of the whole civilized world were centered on another piece of American soilPearl Harbor.
 The mighty threat to civilization which began there is now laid at rest.
 It was a long road to Tokyoand a bloody one.
+=======
+The thoughts and hopes of all America—indeed of all the civilized world—are centered tonight on the battleship Missouri.
+There on that small piece of American soil anchored in Tokyo Harbor the Japanese have just officially laid down their arms.
+They have signed terms of unconditional surrender.
+
+Four years ago, the thoughts and fears of the whole civilized world were centered on another piece of American soil—Pearl Harbor.
+The mighty threat to civilization which began there is now laid at rest.
+It was a long road to Tokyo—and a bloody one.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 We shall not forget Pearl Harbor.
 
@@ -18,7 +28,11 @@ To all of us there comes first a sense of gratitude to Almighty God who sustaine
 
 God grant that in our pride of the hour, we may not forget the hard tasks that are still before us; that we may approach these with the same courage, zeal, and patience with which we faced the trials and problems of the past four years.
 
+<<<<<<< HEAD
 Our first thoughts, of coursethoughts of gratefulness and deep obligationgo out to those of our loved ones who have been killed or maimed in this terrible war.
+=======
+Our first thoughts, of course—thoughts of gratefulness and deep obligation—go out to those of our loved ones who have been killed or maimed in this terrible war.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 On land and sea and in the air, American men and women have given their lives so that this day of ultimate victory might come and assure the survival of a civilized world.
 No victory can make good their loss.
 
@@ -26,7 +40,11 @@ We think of those whom death in this war has hurt, taking from them fathers, hus
 No victory can bring back the faces they longed to see.
 
 Only the knowledge that the victory, which these sacrifices have made possible, will be wisely used, can give them any comfort.
+<<<<<<< HEAD
 It is our responsibilityours, the livingto see to it that this victory shall be a monument worthy of the dead who died to win it.
+=======
+It is our responsibility—ours, the living—to see to it that this victory shall be a monument worthy of the dead who died to win it.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 We think of all the millions of men and women in our armed forces and merchant marine all over the world who, after years of sacrifice and hardship and peril, have been spared by Providence from harm.
 
@@ -69,9 +87,15 @@ But we face the future and all its dangers with great confidence and great hope.
 America can build for itself a future of employment and security.
 Together with the United Nations, it can build a world of peace rounded on justice, fair dealing, and tolerance.
 
+<<<<<<< HEAD
 As President of the United States, I proclaim Sunday, September the second, 1945, to be V-J Daythe day of formal surrender by Japan.
 It is not yet the day for the formal proclamation of the end of the war nor of the cessation of hostilities.
 But it is a day which we Americans shall always remember as a day of retributionas we remember that other day, the day of infamy.
+=======
+As President of the United States, I proclaim Sunday, September the second, 1945, to be V-J Day—the day of formal surrender by Japan.
+It is not yet the day for the formal proclamation of the end of the war nor of the cessation of hostilities.
+But it is a day which we Americans shall always remember as a day of retribution—as we remember that other day, the day of infamy.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 From this day we move forward.
 We move toward a new era of security at home.

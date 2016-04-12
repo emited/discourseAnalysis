@@ -40,3 +40,7 @@ I ask that open-handed help, of a kind which a serf-respecting people can accept
 Our soldiers fought to give her freedom; and for three years our representatives, civil and military, have toiled unceasingly, facing disease of a peculiarly sinister and fatal type, with patient and uncomplaining fortitude, to teach her how to use aright her new freedom.
 Never in history has any alien country been thus administered, with such high integrity of purpose, such wise judgment, and such single-minded devotion to the country's interests.
 Now, I ask that the Cubans be given all possible chance to use to the best advantage the freedom of which Americans have such right to be proud, and for which so many American lives have been sacrificed.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

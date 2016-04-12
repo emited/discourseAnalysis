@@ -1,7 +1,13 @@
 Captain Roberto Nascimento (Wagner Moura) narrates the film, briefly explaining how the police and the drug lords of Rio de Janeiro cooperate with each other (policemen collect periodic bribes and drug lords are left free to operate) in the 90's.
+<<<<<<< HEAD
 In 1997, In medias res, officer Captain Oliveira (Marcelo Valle) and his colleagues are shown driving through Morro da Babilnia towards a baile funk.
 Nascimento and his other colleagues are also shown in their armored car.
 Meanwhile, novice police officers Andr Matias (Andr Ramiro) and Neto Gouveia (Caio Junqueira) are shown riding a motorcycle at the same favela, though not with the other officers.
+=======
+In 1997, In medias res, officer Captain Oliveira (Marcelo Valle) and his colleagues are shown driving through Morro da Babilônia towards a baile funk.
+Nascimento and his other colleagues are also shown in their armored car.
+Meanwhile, novice police officers André Matias (André Ramiro) and Neto Gouveia (Caio Junqueira) are shown riding a motorcycle at the same favela, though not with the other officers.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Once they make it to a vantage point, Neto uses the telescope of a sniper rifle to check on the police team as they talk to some drug traffickers.
 Neto shoots one of them and provokes a deadly gunfight between police and thugs, both sides unaware of where the bullet came from, forcing Mathias and Neto to flee the scene.
 Nascimento leads his colleagues from BOPE, Rio Special Police Department, heading to the shootout to interfere and save the officers.
@@ -16,15 +22,26 @@ Both share a small apartment in Rio and are long-time friends and flatmates.
 Besides working at the local police, Matias is a Law student at "the best new Law university of Rio", according to Nascimento, where his classmates are shown as well-off young adults that tend to see the police as a repressive unit, while several others are selling marijuana around the campus.
 He soon befriends Roberta (Fernanda de Freitas), Edu (Paulo Viela) and Maria (Fernanda Machado) (whom he later dates). All three work at an NGO that takes care of poor children from a local favela.
 Roberta dates Rodrigues, who helps Maria administrate the organization, besides representing a senator who sponsors the NGO.
+<<<<<<< HEAD
 All of them smoke marijuana regularly, with Edu being a salesman at his university for Baiano (Fbio Lago), the local drug lord of the Comando Vermelho gang, who allows the NGO to operate as long as it doesn't interfere with his business or bring police attention.
 None of the students or dealers are aware of Matias's police career as he keeps it a secret.
 Neto is soon tired of working at the mechanic, but fails to be transferred to another department.
 By riding with his superior Captain Fabio (Milhem Cortaz), he learns about corruption schemes adopted by police officers  commonly, owners of small establishments pay periodic bribes to the police in exchange for their presence in front of their places, so they are safer.
+=======
+All of them smoke marijuana regularly, with Edu being a salesman at his university for Baiano (Fábio Lago), the local drug lord of the Comando Vermelho gang, who allows the NGO to operate as long as it doesn't interfere with his business or bring police attention.
+None of the students or dealers are aware of Matias's police career as he keeps it a secret.
+Neto is soon tired of working at the mechanic, but fails to be transferred to another department.
+By riding with his superior Captain Fabio (Milhem Cortaz), he learns about corruption schemes adopted by police officers – commonly, owners of small establishments pay periodic bribes to the police in exchange for their presence in front of their places, so they are safer.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Another scheme, learned by Matias, is the relocation of dead bodies to other battalion's areas, so that one's criminal statistics will artificially decrease and leave less work to the department charged to the battalion, which Matias learns the hard way when his superiors rage at him for filling their department with files they are too lazy to solve.
 Also, because the local government had no budget to pay tow trucks, they decided to hire private tows and pay for every towed car - towing vehicles had since become a lucrative activity and corrupt officers are shown to own tow trucks.
 Wishing to raise some money to fix many police cars at once, Neto comes up with a plan to steal the bribes Oliveira collects periodically from the drug lords and asks Matias and Fabio to help him.
 Fabio declines, since he will not have a share in it.
+<<<<<<< HEAD
 The duo succeeds in stealing the money, but Oliveira believes Fabio ordered them to do it and drags him to a baile funk in Babilnia, where he plans to give him over to the gang so they can kill him.
+=======
+The duo succeeds in stealing the money, but Oliveira believes Fabio ordered them to do it and drags him to a baile funk in Babilônia, where he plans to give him over to the gang so they can kill him.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, while Neto and Matias (demoted to cooks at the kitchen for being suspects) confront him, he tells them about the funk party, hinting that he is going to be killed.
 Neto and Matias follow them and arrive at the vantage point to protect Fabio.
 When one of the dealers touches his gun, Neto opens fire, killing the dealer and provoking a gunfight between the police and dealers.
@@ -32,8 +49,13 @@ Fabio takes cover behind a bar and engages in a shootout with Olivera's men whil
 Meanwhile, Nascimento is confronted by a woman trying to locate the body of her son, a lookout for the drug lords.
 The mother believes her son was murdered after being brutally interrogated and then released by Nascimento.
 Feeling guilty and thinking of his upcoming child, Nascimento gathers some officers and goes into the slum to look for the boy's body.
+<<<<<<< HEAD
 During the search for the boy, Nascimento is informed of the situation at Babilnia and ordered to intercede.
 After rescuing the trapped officers at Babilnia, Nascimento meets Matias and Neto and orders them to help clean up the scene.
+=======
+During the search for the boy, Nascimento is informed of the situation at Babilônia and ordered to intercede.
+After rescuing the trapped officers at Babilônia, Nascimento meets Matias and Neto and orders them to help clean up the scene.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the process of lifting a body Matias is unwittingly photographed by the press.
 Soon after, the two friends, along with Fabio, apply for BOPE's training program.
 Matias and Neto are motivated by their desire to be good police, while Fabio joins due to his fear of retaliation from Oliveira for the shootout.

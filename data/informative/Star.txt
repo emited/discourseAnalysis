@@ -9,7 +9,11 @@ Near the end of its life, a star can also contain degenerate matter.
 Astronomers can determine the mass, age, metallicity (chemical composition), and many other properties of a star by observing its motion through space, luminosity, and spectrum respectively.
 The total mass of a star is the principal determinant of its evolution and eventual fate.
 Other characteristics of a star, including diameter and temperature, change over its life, while the star's environment affects its rotation and movement.
+<<<<<<< HEAD
 A plot of the temperature of many stars against their luminosities, known as a HertzsprungRussell diagram (HR diagram), allows the age and evolutionary state of a star to be determined.
+=======
+A plot of the temperature of many stars against their luminosities, known as a Hertzsprung–Russell diagram (H–R diagram), allows the age and evolutionary state of a star to be determined.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A star's life begins with the gravitational collapse of a gaseous nebula of material composed primarily of hydrogen, along with helium and trace amounts of heavier elements.
 When the stellar core is sufficiently dense, hydrogen becomes steadily converted into helium through nuclear fusion, releasing energy in the process.
 The remainder of the star's interior carries energy away from the core through a combination of radiative and convective processes.

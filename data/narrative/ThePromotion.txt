@@ -16,5 +16,9 @@ Days later, Doug gives an apology speech at a local community explaining his act
 After several attempts to eliminate each other as competitors, both Doug and Richard, along with another prospect, are summoned by the board of directors for a final interview.
 Richard's hopes are shattered when it is revealed that a drug test is required, as he has recently smoked marijuana.
 Shortly after the interview, Doug is given a call by Mitch and notified that he has landed the job, as Richard failed his drug test and the other candidate is too junior-grade for the position.
+<<<<<<< HEAD
 He celebrates by doing cartwheels and backflips while crossing the street  finally confirming the earlier rumor about himself.
+=======
+He celebrates by doing cartwheels and backflips while crossing the street – finally confirming the earlier rumor about himself.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Meanwhile, after reuniting with his wife, Richard and his family return to Canada to his old grocery store, where he is reported to have become the store manager after singlehandedly stopping an accidental fire (which is rumored to have been started by Richard himself).

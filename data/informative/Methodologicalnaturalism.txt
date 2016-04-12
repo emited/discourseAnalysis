@@ -7,7 +7,11 @@ Further, this sense of naturalism holds that spirits, deities, and ghosts are no
 Such an absolute belief in naturalism is commonly referred to as metaphysical naturalism.
 Assuming naturalism in working methods is the current paradigm, without the unfounded consideration of naturalism as an absolute truth with philosophical entailment, called methodological naturalism.
 The subject matter here is a philosophy of acquiring knowledge based on an assumed paradigm.
+<<<<<<< HEAD
 With the exception of pantheistswho believe that Nature and God are one and the same thingtheists challenge the idea that nature contains all of reality.
+=======
+With the exception of pantheists—who believe that Nature and God are one and the same thing—theists challenge the idea that nature contains all of reality.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 According to some theists, natural laws may be viewed as so-called secondary causes of god(s).
 In the 20th century, Willard Van Orman Quine, George Santayana, and other philosophers argued that the success of naturalism in science meant that scientific methods should also be used in philosophy.
 Science and philosophy are said to form a continuum, according to this view.

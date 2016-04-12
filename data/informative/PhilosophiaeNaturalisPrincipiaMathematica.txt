@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Philosophi Naturalis Principia Mathematica (Latin for "Mathematical Principles of Natural Philosophy"), often referred to as simply the Principia, is a work in three books by Isaac Newton, in Latin, first published 5 July 1687.
+=======
+Philosophiæ Naturalis Principia Mathematica (Latin for "Mathematical Principles of Natural Philosophy"), often referred to as simply the Principia, is a work in three books by Isaac Newton, in Latin, first published 5 July 1687.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After annotating and correcting his personal copy of the first edition, Newton also published two further editions, in 1713 and 1726.
 The Principia states Newton's laws of motion, forming the foundation of classical mechanics, also Newton's law of universal gravitation, and a derivation of Kepler's laws of planetary motion (which Kepler first obtained empirically). The Principia is "justly regarded as one of the most important works in the history of science".
 The French mathematical physicist Alexis Clairaut assessed it in 1747: "The famous book of mathematical Principles of natural Philosophy marked the epoch of a great revolution in physics.

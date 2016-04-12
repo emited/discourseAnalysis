@@ -3,7 +3,11 @@ Throughout the film, Herzog asserts the Loch Ness Monster is merely a creation o
 As the film continues, Herzog hosts a dinner party to kick off film production.
 In attendance are his wife (Lena Herzog), several Hollywood celebrities (Jeff Goldblum, Ricky Jay), and the film's crew.
 Difficulties begin to arise as the untested producer, Zak Penn, attempts to transform Herzog's film into a high-grossing blockbuster.
+<<<<<<< HEAD
 In this attempt, Penn commits several Hollywood clichs such as hiring a beautiful woman (Kitana Baker) for a dubious role as a sonar operator and a self-deluded cryptozoologist (Michael Karnow) for comic relief.
+=======
+In this attempt, Penn commits several Hollywood clichés such as hiring a beautiful woman (Kitana Baker) for a dubious role as a sonar operator and a self-deluded cryptozoologist (Michael Karnow) for comic relief.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As the shooting progresses, the tension between Herzog and Penn escalates with each revelation that Penn is acting in an underhanded manner.
 First, it becomes quite apparent the producer has commissioned a fake "Nessie" to be used.
 Then both Kitana and Karnow are revealed to be actors hired by Penn.

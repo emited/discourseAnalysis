@@ -22,3 +22,7 @@ This new State has come into the Union with manifestations not to be mistaken of
 Over the residue of the acquired territories regular Territorial governments are now established in the manner which has been most usual in the history of this Government.
 Various other acts of Congress may undoubtedly be requisite for the benefit as well as for the proper government of these so distant parts of the country.
 But the same legislative wisdom which has triumphed over the principal difficulties and accomplished the main end may safely be relied on for whatever measures may yet be found necessary to perfect its work, so that the acquisition of these vast regions to the United States may rather strengthen than weaken the Constitution, which is over us all, and the Union, which affords such ample daily proofs of its inestimable value.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

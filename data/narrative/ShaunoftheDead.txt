@@ -6,7 +6,11 @@ Because Shaun always brings Ed, Liz is always forced to bring her flatmates, Dav
 After a bad day at work, Shaun forgets to book a table at the restaurant he promised Liz they would go to, to (belatedly) celebrate their anniversary.
 When he suggests the Winchester for the date, an angry Liz breaks up with him.
 Shaun drowns his sorrows with Ed at the Winchester.
+<<<<<<< HEAD
 As the two play music at home, an enraged Pete  suffering from a bite wound on his way to work  confronts Shaun on his flaws, telling him to sort his life out.
+=======
+As the two play music at home, an enraged Pete — suffering from a bite wound on his way to work — confronts Shaun on his flaws, telling him to sort his life out.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The next morning, a zombie apocalypse has overwhelmed the city, but Shaun doesn't notice due to his hangover.
 He and Ed see a woman in their backyard, and quickly learn that she is a zombie.
 Another zombie makes its way into the garden, and Shaun and Ed run back inside.

@@ -23,7 +23,11 @@ You can help achieve that goal.
 By your votes, you can send a message to those with whom we are negotiating, and to the leaders of the world, that you back the President of the United States in his insistence that we in the United States seek peace with honor and never peace with surrender.
 
 I will not go into the other issues tonight, except to say that as we move to peace, we will open doors to progress on many fronts here at home.
+<<<<<<< HEAD
 It means that we can have something we haven't had since President Eisenhower was President 15 years agoprosperity without war and without inflation.
+=======
+It means that we can have something we haven't had since President Eisenhower was President 15 years ago—prosperity without war and without inflation.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 It means we can have progress toward better education, better healthin all the areas that I have presented to the American people over these past four years.
 

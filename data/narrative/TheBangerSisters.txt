@@ -1,6 +1,10 @@
 When Suzette (Hawn) is fired from her job as bartender at the Whisky A Go-Go in Los Angeles, she decides, on the spur of the moment, to travel all the way to Phoenix, Arizona to see her old friend Vinnie (Sarandon). Stranded at a service station without any money to buy some gasoline, she picks up Harry Plummer (Rush), a neurotic, middle-aged author who is on his way to Phoenix to once and for all come to grips with the negative influence his father has had over his life.
 On arriving in Phoenix, Suzette has a chance meeting with Vinnie's 17-year-old daughter Hannah (Erika Christensen) who, after some recreational drug use, starts puking in Harry's hotel room.
+<<<<<<< HEAD
 When she drives her back to her parents' elegant suburban home Suzette at first cannot believe what she sees: Vinnie, who now calls herself Lavinia Kingsley, leads the life of the perfect wife and mothera life which at one point prompts one of her daughters to ask Suzette, "Did she ever do anything wrong?" Raymond, Vinnie's lawyer husband and an aspiring politician, has no idea about his wife's past either.
+=======
+When she drives her back to her parents' elegant suburban home Suzette at first cannot believe what she sees: Vinnie, who now calls herself Lavinia Kingsley, leads the life of the perfect wife and mother—a life which at one point prompts one of her daughters to ask Suzette, "Did she ever do anything wrong?" Raymond, Vinnie's lawyer husband and an aspiring politician, has no idea about his wife's past either.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, Suzette's sudden appearance brings back all those memories for Lavinia.
 Down in the basement she retrieves some of the memorabilia of their previous life as groupies, including a collection of Polaroids of the penises of numerous "musicians and a few roadies". She cuts her hair and throws off her expensive but boring clothes and, just for one night, relives the old days by going dancing with Suzette.
 In the end, both her husband and her two daughters have understood that Lavinia is only human after all.

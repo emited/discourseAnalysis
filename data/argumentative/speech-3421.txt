@@ -36,7 +36,11 @@ And nevertheless, yesterday a dictator ruled Panama, and today constitutionally 
 I have today directed the Secretary of the Treasury and the Secretary of State to lift the economic sanctions with respect to the democratically elected government of Panama and, in cooperation with that government, to take steps to effect an orderly unblocking of Panamanian Government assets in the United States.
 I'm fully committed to implement the Panama Canal treaties and turn over the Canal to Panama in the year 2000.
 The actions we have taken and the cooperation of a new, democratic government in Panama will permit us to honor these commitments.
+<<<<<<< HEAD
 As soon as the new government recommends a qualified candidatePanamanianto be Administrator of the Canal, as called for in the treaties, I will submit this nominee to the Senate for expedited consideration.
+=======
+As soon as the new government recommends a qualified candidate—Panamanian—to be Administrator of the Canal, as called for in the treaties, I will submit this nominee to the Senate for expedited consideration.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 I am committed to strengthening our relationship with the democratic nations in this hemisphere.
 I will continue to seek solutions to the problems of this region through dialog and multilateral diplomacy.

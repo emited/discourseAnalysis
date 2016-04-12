@@ -1,5 +1,9 @@
 Roy Waller (Nicolas Cage) is a con artist residing in Los Angeles who has severe obsessive-compulsive disorder.
+<<<<<<< HEAD
 Alongside his partner and protg Frank Mercer (Sam Rockwell), Roy operates a fake lottery, selling overpriced water filtration systems to unsuspecting customers.
+=======
+Alongside his partner and protégé Frank Mercer (Sam Rockwell), Roy operates a fake lottery, selling overpriced water filtration systems to unsuspecting customers.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After Roy experiences a violent panic attack, Frank suggests he see a psychiatrist, Dr.
 Harris Klein (Bruce Altman).
 Klein provides Roy with medication, and in therapy has Roy recall his past relationship with his ex-wife, Heather (Melora Walters), who was pregnant during the time of the divorce.

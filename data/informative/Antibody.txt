@@ -10,14 +10,22 @@ In most cases, interaction of the B cell with a T helper cell is necessary to pr
 Soluble antibodies are released into the blood and tissue fluids, as well as many secretions to continue to survey for invading microorganisms.
 Antibodies are glycoproteins belonging to the immunoglobulin superfamily.
 They constitute most of the gamma globulin fraction of the blood proteins.
+<<<<<<< HEAD
 They are typically made of basic structural unitseach with two large heavy chains and two small light chains.
+=======
+They are typically made of basic structural units—each with two large heavy chains and two small light chains.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 There are several different types of antibody heavy chains based on five different types of crystallisable fragments (Fc) that may be attached to the antigen-binding fragments.
 The five different types of Fc regions allow antibodies to be grouped into five isotypes.
 Each Fc region of a particular antibody isotype is able to bind to its specific Fc Receptor (except for IgD, which is essentially the BCR), thus allowing the antigen-antibody complex to mediate different roles depending on which FcR it binds.
 The ability of an antibody to bind to its corresponding FcR is further modulated by the structure of the glycan(s) present at conserved sites within its Fc region.
 The ability of antibodies to bind to FcRs helps to direct the appropriate immune response for each different type of foreign object they encounter.
 For example, IgE is responsible for an allergic response consisting of mast cell degranulation and histamine release.
+<<<<<<< HEAD
 IgE's Fab paratope binds to allergic antigen, for example house dust mite particles, while its Fc region binds to Fc receptor . The allergen-IgE-FcR interaction mediates allergic signal transduction to induce conditions such as asthma.
+=======
+IgE's Fab paratope binds to allergic antigen, for example house dust mite particles, while its Fc region binds to Fc receptor ε. The allergen-IgE-FcRε interaction mediates allergic signal transduction to induce conditions such as asthma.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Though the general structure of all antibodies is very similar, a small region at the tip of the protein is extremely variable, allowing millions of antibodies with slightly different tip structures, or antigen-binding sites, to exist.
 This region is known as the hypervariable region.
 Each of these variants can bind to a different antigen.

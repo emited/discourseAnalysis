@@ -13,3 +13,7 @@ Our merely commercial interest in it is greater than that of all other countries
 No other great power would under similar circumstances fail to assert a rightful control over a work so closely and vitally affecting its interest and welfare.
 Without urging further the grounds of my opinion, I repeat, in conclusion, that it is the right and the duty of the United States to assert and maintain such supervision and authority over any interoceanic canal across the isthmus that connects North and South America as will protect our national interests.
 This, I am quite sure, will be found not only compatible with but promotive of the widest and most permanent advantage to commerce and civilization.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

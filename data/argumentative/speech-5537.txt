@@ -40,7 +40,11 @@ Tomorrow night, I will go before the Congress to explain these agreements more f
 For the moment, and in closing, I want to speak more personally about my admiration for all of those who have taken part in this process and my hope that the promise of this moment will be fulfilled.
 
 During the last two weeks, the members of all three delegations have spent endless hours, day and night, talking, negotiating, grappling with problems that have divided their people for 30 years.
+<<<<<<< HEAD
 Whenever there was a danger that human energy would fail, or patience would be exhausted or good will would run outand there were many such momentsthese two leaders and the able advisers in all delegations found the resources within them to keep the chances for peace alive.
+=======
+Whenever there was a danger that human energy would fail, or patience would be exhausted or good will would run out—and there were many such moments—these two leaders and the able advisers in all delegations found the resources within them to keep the chances for peace alive.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 Well, the long days at Camp David are over.
 But many months of difficult negotiations still lie ahead.

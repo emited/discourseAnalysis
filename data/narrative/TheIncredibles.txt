@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Public opinion turns against humans with superpowers  called "Supers"  and after facing several lawsuits over peripheral damage caused by their crime-fighting activities, the government forces them into civilian relocation programs.
 Fifteen years later, Bob and Helen Parr, formerly known as Mr.
 Incredible and Elastigirl, and their children Violet, Dash, and Jack-Jack live as a suburban family.
 Bob is dissatisfied with suburban life and his white-collar job and longs for the glory days.
 On some nights, Bob and his old friend Lucius Best  formerly known as Frozone  perform vigilante work, without their wives' knowledge.
+=======
+Public opinion turns against humans with superpowers – called "Supers" – and after facing several lawsuits over peripheral damage caused by their crime-fighting activities, the government forces them into civilian relocation programs.
+Fifteen years later, Bob and Helen Parr, formerly known as Mr.
+Incredible and Elastigirl, and their children Violet, Dash, and Jack-Jack live as a suburban family.
+Bob is dissatisfied with suburban life and his white-collar job and longs for the glory days.
+On some nights, Bob and his old friend Lucius Best – formerly known as Frozone – perform vigilante work, without their wives' knowledge.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 One day, Bob loses his temper when his supervisor refuses to let him stop a mugging, causing him to lose his job.
 Returning home, Bob finds a message from a mysterious woman named Mirage, who convinces him to become Mr.
 Incredible again and gives him a mission to destroy a savage tripod-like robot called the Omnidroid on the remote island of Nomanisan, promising a substantial reward.

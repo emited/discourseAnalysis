@@ -19,16 +19,27 @@ We can do something.
 In fact, we have started to do something.
 But we must act this week, when Congress will hold the first of two crucial up-or-down votes.
 These votes will be on a deficit reduction agreement worked out between the administration and the bipartisan leaders of Congress.
+<<<<<<< HEAD
 This budget agreement is the result of 8 months of blood, sweat, and fearsfears of the economic chaos that would follow if we fail to reduce the deficit.
+=======
+This budget agreement is the result of 8 months of blood, sweat, and fears—fears of the economic chaos that would follow if we fail to reduce the deficit.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 Of course, I cannot claim it's the best deficit reduction plan possible.
 It's not.
 Any one of us alone might have written a better plan.
 But it is the best agreement that can be legislated now.
+<<<<<<< HEAD
 It is the biggest deficit reduction agreement everhalf a trillion dollars.
 It's the toughest deficit reduction package ever, with new enforcement rules to make sure that what we fix now stays fixed.
 And it has the largest spending savings evermore than $300 billion.
 For the first time, a Republican President and leaders of a Democratic Congress have agreed to real cuts that will be enforced by law, not promisesno smoke, no mirrors, no magic act, but real and lasting spending cuts.
+=======
+It is the biggest deficit reduction agreement ever—half a trillion dollars.
+It's the toughest deficit reduction package ever, with new enforcement rules to make sure that what we fix now stays fixed.
+And it has the largest spending savings ever—more than $300 billion.
+For the first time, a Republican President and leaders of a Democratic Congress have agreed to real cuts that will be enforced by law, not promises—no smoke, no mirrors, no magic act, but real and lasting spending cuts.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 This agreement will also raise revenue.
 I'm not, and I know you're not, a fan of tax increases.
@@ -65,7 +76,11 @@ Tonight we ask you to help us move this agreement forward.
 The congressional leadership and I both have a job to do in getting it enacted.
 And tonight I ask for your help.
 
+<<<<<<< HEAD
 First, I ask you to understand how importantand for some, how difficultthis vote is for your Congressmen and Senators.
+=======
+First, I ask you to understand how important—and for some, how difficult—this vote is for your Congressmen and Senators.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Many worry about your reaction to one part or another.
 But I know you know the importance of the whole.
 And so, second, I ask you to take this initiative: Tell your Congressmen and Senators you support this deficit reduction agreement.

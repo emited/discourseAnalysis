@@ -3,13 +3,21 @@ Belief in and practice of magic has been present since the earliest human cultur
 Magic is sometimes practiced in isolation and secrecy and often viewed with suspicion by the wider community.
 In non-scientific societies, perceived magical attack is sometimes employed to explain personal or societal misfortune.
 The concept of magic, as distinct from religion was first widely recognized in Judaism, which defined the practices of pagan worship designed to appease and receive benefits from gods other than Yahweh as magic.
+<<<<<<< HEAD
 Wouter Hanegraaff argues that magic is in fact "a largely polemical concept that has been used by various religious interest groups either to describe their own religious beliefs and practices or  more frequently  to discredit those of others."
+=======
+Wouter Hanegraaff argues that magic is in fact "a largely polemical concept that has been used by various religious interest groups either to describe their own religious beliefs and practices or – more frequently – to discredit those of others."
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The foremost perspectives on magic in anthropology are functionalism, symbolism, and intellectualism.
 The term "magical thinking" in anthropology, psychology, and cognitive science refers to causal reasoning often involving associative thinking, such as the perceived ability of the mind to affect the physical world (see the philosophical problem of mental causation) or correlation mistaken for materialist causation.
 Psychological theories consider magic a personal phenomenon intended to meet individual needs as opposed to a social phenomenon serving a collective purpose.
 The belief that one can influence supernatural powers, by prayer, sacrifice or invocation dates back to prehistoric religions and it can be found in early records such as the Egyptian pyramid texts and the Indian Vedas.
 Magic and religion are categories of beliefs and systems of knowledge used within societies.
 Some forms of shamanic contact with the spirit world seem to be nearly universal in the early development of human communities.
+<<<<<<< HEAD
 They appear in various tribal peoples from Aboriginal Australia and Mori people of New Zealand to the Amazon, African savannah, and pagan Europe.
+=======
+They appear in various tribal peoples from Aboriginal Australia and Māori people of New Zealand to the Amazon, African savannah, and pagan Europe.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In general, the 20th century saw a sharp rise in public interest in various forms of magical practice and the foundation of traditions and organizations that can be regarded as religious or philosophies.
 Modern Western magicians generally state magic's primary purpose to be personal spiritual growth.

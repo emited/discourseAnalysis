@@ -1,6 +1,10 @@
 The film opens with Mr.
 Bean driving up to a church, where a fete is taking place.
+<<<<<<< HEAD
 Bean wins the first prize in a raffle  a holiday involving a train journey to Cannes, a video camera, and 200.
+=======
+Bean wins the first prize in a raffle – a holiday involving a train journey to Cannes, a video camera, and €200.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Following a misunderstanding involving a taxi at the Gare du Nord railway station in Paris, Bean is forced to make his way unorthodoxly towards the Gare de Lyon to board his next train towards Cannes.
 However, a vending machine prevents him from boarding, and he misses his train, giving him an hour to sample French seafood cuisine.
 Back on the platform, Bean asks Russian movie director Emil Duchevsky (Karel Roden) to use his camcorder to film him walking onto the train.

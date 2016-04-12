@@ -7,7 +7,11 @@ Two generations ago, no doubt Madam President will agree with me in saying, it w
 Now it is a great multitude of women who are fighting it.
 And there are some interesting historical connections which I would like to attempt to point out to you.
 One of the most striking facts about the history of the United States is that at the outset it was a lawyers' history.
+<<<<<<< HEAD
 Almost all of the questions to which America addressed itself, say a hundred years ago, were legal questions, were questions of method, not questions of what you were going to do with your Government, but questions of how you were going to constitute your Government,how you were going to balance the powers of the States and the Federal Government, how you were going to balance the claims of property against the processes of liberty, how you were going to make your governments up so as to balance the parts against each other so that the legislature would check the executive, and the executive the legislature, and the courts both of them put together.
+=======
+Almost all of the questions to which America addressed itself, say a hundred years ago, were legal questions, were questions of method, not questions of what you were going to do with your Government, but questions of how you were going to constitute your Government,—how you were going to balance the powers of the States and the Federal Government, how you were going to balance the claims of property against the processes of liberty, how you were going to make your governments up so as to balance the parts against each other so that the legislature would check the executive, and the executive the legislature, and the courts both of them put together.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The whole conception of government when the United States became a Nation was a mechanical conception of government, and the mechanical conception of government which underlay it was the Newtonian theory of the universe.
 If you pick up the Federalist, some parts of it read like a treatise on astronomy instead of a treatise on government.
 They speak of the centrifugal and the centripetal forces, and locate the President somewhere in a rotating system.
@@ -26,7 +30,11 @@ Davis has told to-night were uncommon in those simpler days.
 The pressure of low wages, the agony of obscure and unremunerated toil, did not exist in America in anything like the same proportions that they exist now.
 And as our life has unfolded and accumulated, as the contacts of it have become hot, as the populations have assembled in the cities, and the cool spaces of the country have been supplanted by the feverish urban areas, the whole nature of our political questions has been altered.
 They have ceased to be legal questions.
+<<<<<<< HEAD
 They have more and more become social questions, questions with regard to the relations of human beings to one another,not merely their legal relations, but their moral and spiritual relations to one another.
+=======
+They have more and more become social questions, questions with regard to the relations of human beings to one another,—not merely their legal relations, but their moral and spiritual relations to one another.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 This has been most characteristic of American life in the last few decades, and as these questions have assumed greater and greater prominence, the movement which this association represents has gathered cumulative force.
 So that, if anybody asks himself, "What does this gathering force mean," if he knows anything about the history of the country, he knows that it means something that has not only come to stay, but has come with conquering power.
 I get a little impatient sometimes about the discussion of the channels and methods by which it is to prevail.
@@ -44,3 +52,7 @@ Because, when you are working with masses of men and organized bodies of opinion
 The whole art and practice of government consists not in moving individuals, but in moving masses.
 It is all very well to run ahead and beckon, but, after all, you have got to wait for the body to follow.
 I have not come to ask you to be patient, because you have been, but I have come to congratulate you that there was a force behind you that will beyond any peradventure be triumphant, and for which you can afford a little while to wait.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

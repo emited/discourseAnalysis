@@ -22,12 +22,20 @@ No man, however casual and superficial his observation of the conditions now pre
 What will it profit us to be free if we are not to have the best and most accessible instrumentalities of commerce and enterprise? What will it profit us to be quit of one kind of monopoly if we are to remain in the grip of another and more effective kind? How are we to gain and keep the confidence of the business community unless we show that we know how both to aid and to protect it? What shall we say if we make fresh enterprise necessary and also make it very difficult by leaving all else except the tariff just as we found it? The tyrannies of business, big and little, lie within the field of credit.
 We know that.
 Shall we not act upon the knowledge? Do we not know how to act upon it? If a man cannot make his assets available at pleasure, his assets of capacity and character and resource, what satisfaction is it to him to see opportunity beckoning to him on every hand, when others have the keys of credit in their pockets and treat them as all but their own private possession? It is perfectly clear that it is our duty to supply the new banking and currency system the country needs, and it will need it immediately more than it has ever needed it before.
+<<<<<<< HEAD
 The only question is, When shall we supply itnow, or later, after the demands shall have become reproaches that we were so dull and so slow? Shall we hasten to change the tariff laws and then be laggards about making it possible and easy for the country to take advantage of the change? There can be only one answer to that question.
+=======
+The only question is, When shall we supply it—now, or later, after the demands shall have become reproaches that we were so dull and so slow? Shall we hasten to change the tariff laws and then be laggards about making it possible and easy for the country to take advantage of the change? There can be only one answer to that question.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We must act now, at whatever sacrifice to ourselves.
 It is a duty which the circumstances forbid us to postpone.
 I should be recreant to my deepest convictions of public obligation did I not press it upon you with solemn and urgent insistence.
 The principles upon which we should act are also clear.
+<<<<<<< HEAD
 The country has sought and seen its path in this matter within the last few yearssees it more clearly now than it ever saw it beforemuch more clearly than when the last legislative proposals on the subject were made.
+=======
+The country has sought and seen its path in this matter within the last few years—sees it more clearly now than it ever saw it before—much more clearly than when the last legislative proposals on the subject were made.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We must have a currency, not rigid as now, but readily, elastically responsive to sound credit, the expanding and contracting credits of everyday transactions, the normal ebb and flow of personal and corporate dealings.
 Our banking laws must mobilize reserves; must not permit the concentration anywhere in a few hands of the monetary resources of the country or their use for speculative purposes in such volume as to hinder or impede or stand in the way of other more legitimate, more fruitful uses.
 And the control of the system of banking and of issue which our new laws are to set up must be public, not private, must be vested in the Government itself, so that the banks may be the instruments, not the masters, of business and of individual enterprise and initiative.
@@ -39,3 +47,7 @@ I appeal to you with a deep conviction of duty.
 I believe that you share this conviction.
 I therefore appeal to you with confidence.
 I am at your service without reserve to play my part in any way you may call upon me to play it in this great enterprise of exigent reform which it will dignify and distinguish us to perform and discredit us to neglect.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

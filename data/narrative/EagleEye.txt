@@ -2,10 +2,17 @@ Jerry Shaw (Shia LaBeouf) is a Stanford University dropout who learns his identi
 Following the funeral, Jerry is surprised to find $750,000 in his bank account.
 Later he finds his Chicago apartment filled with weapons, ammonium nitrate, classified DOD documents, and forged passports.
 He receives a phone call from a woman (Julianne Moore) who warns that the FBI is about to arrest him and he needs to run.
+<<<<<<< HEAD
 Disbelieving, Jerry is caught by the FBI and interrogated by Supervising Agent Tom Morgan (Billy Bob Thornton). While Morgan confers with Air Force OSI Special Agent Zoe Prez (Rosario Dawson), the woman on the phone arranges for Jerry's escape and directs him to Rachel Holloman (Michelle Monaghan), a single mother.
 The woman on the phone is coercing Rachel by threatening her son Sam (Cameron Boyce), who is en route to the Kennedy Center in Washington, D.C. with his school band.
 The woman on the phone helps the two avoid the Chicago police and FBI, using an ability to control networked devices, including traffic lights, mobile phones, automated cranes, and even power lines.
 Meanwhile, the woman on the phone redirects a crystal of powerful DOD explosivehexamethyleneto a gemcutter, who cuts it and fixes it into a necklace.
+=======
+Disbelieving, Jerry is caught by the FBI and interrogated by Supervising Agent Tom Morgan (Billy Bob Thornton). While Morgan confers with Air Force OSI Special Agent Zoe Pérez (Rosario Dawson), the woman on the phone arranges for Jerry's escape and directs him to Rachel Holloman (Michelle Monaghan), a single mother.
+The woman on the phone is coercing Rachel by threatening her son Sam (Cameron Boyce), who is en route to the Kennedy Center in Washington, D.C. with his school band.
+The woman on the phone helps the two avoid the Chicago police and FBI, using an ability to control networked devices, including traffic lights, mobile phones, automated cranes, and even power lines.
+Meanwhile, the woman on the phone redirects a crystal of powerful DOD explosive—hexamethylene—to a gemcutter, who cuts it and fixes it into a necklace.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Another man (Anthony Azizi) steals Sam's trumpet in Chicago and fits the crystal's sonic trigger into the tubing, before forwarding it to Sam in Washington, D.C.
 Agent Perez is summoned by Secretary of Defense George Callister (Michael Chiklis) to be read into Ethan's job at the Pentagon.
 Ethan monitored the DOD's top secret intelligence-gathering supercomputer, the Autonomous Reconnaissance Intelligence Integration Analyst (ARIIA). Callister leaves Perez with Major William Bowman (Anthony Mackie) and ARIIA to investigate Ethan Shaw's death.

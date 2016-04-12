@@ -16,7 +16,11 @@ At this level, the resulting fundamental components are the stars, which are typ
 The great variety of stellar forms are determined almost entirely by the mass, composition and evolutionary state of these stars.
 Stars may be found in multi-star systems that orbit about each other in a hierarchical organization.
 A planetary system and various minor objects such as asteroids, comets and debris, can form in a hierarchical process of accretion from the protoplanetary disks that surrounds newly formed stars.
+<<<<<<< HEAD
 The various distinctive types of stars are shown by the HertzsprungRussell diagram (HR diagram)a plot of absolute stellar luminosity versus surface temperature.
+=======
+The various distinctive types of stars are shown by the Hertzsprung–Russell diagram (H–R diagram)—a plot of absolute stellar luminosity versus surface temperature.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Each star follows an evolutionary track across this diagram.
 If this track takes the star through a region containing an intrinsic variable type, then its physical properties can cause it to become a variable star.
 An example of this is the instability strip, a region of the H-R diagram that includes Delta Scuti, RR Lyrae and Cepheid variables.

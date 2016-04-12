@@ -54,3 +54,7 @@ All the insular governments should be placed in one bureau, either in the Depart
 It is a mistake not so to arrange our handling of these islands at Washington as to be able to take advantage of the experience gained in one when dealing with the problems that from time to time arise in another.
 In conclusion let me express my admiration for the work done by the Congress when it enacted the law under which the island is now being administered.
 After seeing the island personally, and after five years' experience in connection with its administration, it is but fair to those who devised this law to say that it would be well-nigh impossible to have devised any other which in the actual working would have accomplished better results.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

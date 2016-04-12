@@ -28,7 +28,11 @@ For what purpose? To help the big interests which they represented.
 They spent more money lobbying for special privilege in this "do-nothing" 80th Congress than has been spent in Washington in the whole history of the country.
 
 		Now, why did they do that? Because they wanted to take you to town.
+<<<<<<< HEAD
 I'll tell youyou're going to get taken to town if you don't use your privilege on election day.
+=======
+I'll tell you—you're going to get taken to town if you don't use your privilege on election day.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 		You stayed at home in 1946 and you got the 80th Congress, and you got just exactly what you deserved.
 You didn't exercise your God-given right to control this country.

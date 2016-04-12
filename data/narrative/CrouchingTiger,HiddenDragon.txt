@@ -10,7 +10,11 @@ Mu Bai makes the acquaintance of Inspector Tsai (Wang Deming), a police investig
 Fox challenges the pair and Sir Te's servant Master Bo (Gao Xi'an) to a showdown that night.
 Following a protracted battle, the group is on the verge of defeat when Mu Bai arrives and outmaneuvers Fox.
 Before Mu Bai can kill Fox, the masked thief reappears and partners with Fox to fight.
+<<<<<<< HEAD
 Fox resumes the fight and kills Tsai before fleeing with the thief (who is revealed to be Fox's protg, Jen). After seeing Jen fight Mu Bai, Fox realizes Jen had been secretly studying the Wudang manual and has surpassed her in combative skills.
+=======
+Fox resumes the fight and kills Tsai before fleeing with the thief (who is revealed to be Fox's protégé, Jen). After seeing Jen fight Mu Bai, Fox realizes Jen had been secretly studying the Wudang manual and has surpassed her in combative skills.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At night, a desert bandit named Lo (Chang Chen) breaks into Jen's bedroom and asks her to leave with him.
 A flashback reveals that in the past, when Governor Yu and his family were traveling in the western deserts, Lo and his bandits had raided Jen's caravan and Lo had stolen her comb.
 She chased after him, following him to his desert cave seemingly in a quest to get her comb back.

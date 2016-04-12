@@ -1,6 +1,10 @@
 Mr. Speaker, Mr.
 President, Gentlemen of the Congress:
+<<<<<<< HEAD
 I am very glad indeed to have this opportunity to address the two Houses directly and to verify for myself the impression that the President of the United States is a person, not a mere department of the Government hailing Congress from some isolated island of jealous power, sending messages, not speaking naturally and with his own voicethat he is a human being trying to cooperate with other human beings in a common service.
+=======
+I am very glad indeed to have this opportunity to address the two Houses directly and to verify for myself the impression that the President of the United States is a person, not a mere department of the Government hailing Congress from some isolated island of jealous power, sending messages, not speaking naturally and with his own voice—that he is a human being trying to cooperate with other human beings in a common service.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After this pleasant experience I shall feel quite normal in all our dealings with one another.
 I have called the Congress together in extraordinary session because a duty was laid upon the party now in power at the recent elections which it ought to perform promptly, in order that the burden carried by the people under existing law may be lightened as soon as possible and in order, also, that the business interests of the country may not be kept too long in suspense as to what the fiscal changes are to be to which they will be required to adjust themselves.
 It is clear to the whole country that the tariff duties must be altered.
@@ -8,10 +12,17 @@ They must be changed to meet the radical alteration in the conditions of our eco
 While the whole face and method of our industrial and commercial life were being changed beyond recognition the tariff schedules have remained what they were before the change began, or have moved in the direction they were given when no large circumstance of our industrial development was what it is to-day.
 Our task is to square them with the actual facts.
 The sooner that is done the sooner we shall escape from suffering from the facts and the sooner our men of business will be free to thrive by the law of nature (the nature of free business) instead of by the law of legislation and artificial arrangement.
+<<<<<<< HEAD
 We have seen tariff legislation wander very far afield in our dayvery far indeed from the field in which our prosperity might have had a normal growth and stimulation.
 No one who looks the facts squarely in the face or knows anything that lies beneath the surface of action can fail to perceive the principles upon which recent tariff legislation has been based.
 We long ago passed beyond the modest notion of "protecting" the industries of the country and moved boldly forward to the idea that they were entitled to the direct patronage of the Government.
 For a long timea time so long that the men now active in public policy hardly remember the conditions that preceded itwe have sought in our tariff schedules to give each group of manufacturers or producers what they themselves thought that they needed in order to maintain a practically exclusive market as against the rest of the world.
+=======
+We have seen tariff legislation wander very far afield in our day—very far indeed from the field in which our prosperity might have had a normal growth and stimulation.
+No one who looks the facts squarely in the face or knows anything that lies beneath the surface of action can fail to perceive the principles upon which recent tariff legislation has been based.
+We long ago passed beyond the modest notion of "protecting" the industries of the country and moved boldly forward to the idea that they were entitled to the direct patronage of the Government.
+For a long time—a time so long that the men now active in public policy hardly remember the conditions that preceded it—we have sought in our tariff schedules to give each group of manufacturers or producers what they themselves thought that they needed in order to maintain a practically exclusive market as against the rest of the world.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Consciously or unconsciously, we have built up a set of privileges and exemptions from competition behind which it was easy by any, even the crudest, forms of combination to organize monopoly; until at last nothing is normal, nothing is obliged to stand the tests of efficiency and economy, in our world of big business, but everything thrives by concerted arrangement.
 Only new principles of action will save us from a final hard crystallization of monopoly and a complete loss of the influences that quicken enterprise and keep independent energy alive.
 It is plain what those principles must be.
@@ -35,5 +46,9 @@ We are to deal with the facts of our own day, with the facts of no other, and to
 It is best, indeed it is necessary, to begin with the tariff.
 I will urge nothing upon you now at the opening of your session which can obscure that first object or divert our energies from that clearly defined duty.
 At a later time I may take the liberty of calling your attention to reforms which should press close upon the heels of the tariff changes, if not accompany them, of which the chief is the reform of our banking and currency laws; but just now I refrain.
+<<<<<<< HEAD
 For the present, I put these matters on one side and think only of this one thingof the changes in our fiscal system which may best serve to open once more the free channels of prosperity to a great people whom we would serve to the utmost and throughout both rank and file.
+=======
+For the present, I put these matters on one side and think only of this one thing—of the changes in our fiscal system which may best serve to open once more the free channels of prosperity to a great people whom we would serve to the utmost and throughout both rank and file.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I thank you for your courtesy.

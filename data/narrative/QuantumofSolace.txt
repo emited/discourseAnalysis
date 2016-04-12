@@ -4,13 +4,21 @@ After evading pursuers, Bond delivers White to M who interrogates him regarding 
 M's bodyguard Craig Mitchell (Glenn Foster), revealing himself as a double agent, attacks M, enabling White to escape.
 Bond chases Mitchell and kills him.
 Bond and M return to London and search Mitchell's flat, discovering through tagged banknotes that Mitchell had a contact in Haiti.
+<<<<<<< HEAD
 Bond tracks the contact, Edmund Slate (Neil Jackson), and learns that Slate is a hitman sent to kill Camille Montes (Olga Kurylenko) at the behest of her lover, environmentalist entrepreneur Dominic Greene (Mathieu Amalric). While observing her subsequent meeting with Greene, Bond learns that Greene is helping exiled Bolivian General Medrano (Joaquin Cosio)who murdered Camille's familyto overthrow his government and become the new president, in exchange for a seemingly barren piece of desert.
+=======
+Bond tracks the contact, Edmund Slate (Neil Jackson), and learns that Slate is a hitman sent to kill Camille Montes (Olga Kurylenko) at the behest of her lover, environmentalist entrepreneur Dominic Greene (Mathieu Amalric). While observing her subsequent meeting with Greene, Bond learns that Greene is helping exiled Bolivian General Medrano (Joaquin Cosio)—who murdered Camille's family—to overthrow his government and become the new president, in exchange for a seemingly barren piece of desert.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After rescuing Camille from Medrano, Bond follows Greene to a performance of Tosca in Bregenz, Austria.
 Meanwhile, the head of the CIA's South American section, Gregg Beam (David Harbour), strikes a non-interference deal with Greene to maintain access to putative stocks of Bolivian oil.
 Bond infiltrates Quantum's meeting at the opera, identifying members of Quantum's executive board, and a gunfight ensues.
 Greene's men kill a Special Branch bodyguard working for Quantum member Guy Haines (Paul Ritter), an adviser to the Prime Minister of the United Kingdom, after he fights with Bond.
 M assumes that Bond killed him and has his passports and credit cards revoked when he refuses to return home and debrief.
+<<<<<<< HEAD
 Bond heads to Italy and convinces his old ally Ren Mathis (Giancarlo Giannini) to accompany him to Bolivia.
+=======
+Bond heads to Italy and convinces his old ally René Mathis (Giancarlo Giannini) to accompany him to Bolivia.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At the La Paz airport, they are greeted by Strawberry Fields (Gemma Arterton), a consular employee who demands that Bond return to the UK immediately.
 Bond seduces her before they attend a fundraising party Greene holds that night.
 At the party, Bond again rescues Camille from Greene.
@@ -24,7 +32,11 @@ He risks capture by doubling back to tell M that Fields demonstrated bravery in 
 Bond meets CIA Agent Felix Leiter (Jeffrey Wright), who discloses that Greene and Medrano will meet in the Atacama Desert to finalise their agreement.
 Warned by Leiter, he evades the CIA's Special Activities Division when they attempt to kill him.
 At an eco hotel in the desert, Greene reveals his true plans to Medrano: now that he controls the majority of Bolivia's water supply, Greene forces Medrano to accept a new contract that makes Greene Planet Bolivia's sole water utility company at significantly higher rates.
+<<<<<<< HEAD
 Bond infiltrates the hotel, kills the Chief of Police (Fernando Guilln Cuervo) for betraying Mathis, and confronts Greene.
+=======
+Bond infiltrates the hotel, kills the Chief of Police (Fernando Guillén Cuervo) for betraying Mathis, and confronts Greene.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Meanwhile, Camille kills Medrano, avenging the murders of her parents and her sister.
 The struggle leaves the hotel destroyed by fire.
 Bond then captures Greene and interrogates him about Quantum, before leaving him stranded in the desert with only a can of engine oil.

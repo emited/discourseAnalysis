@@ -1,7 +1,11 @@
 Chris Wilton, a recently retired tennis professional, is taken on as an instructor at an upmarket club in London.
 He strikes up a friendship with a wealthy pupil, Tom Hewett, after discovering their common affinity for opera.
 Tom's older sister, Chloe, is smitten with Chris and the two begin dating.
+<<<<<<< HEAD
 During a family gathering, Chris meets Tom's American fiance, Nola Rice, and they are instantly attracted to each other.
+=======
+During a family gathering, Chris meets Tom's American fiancée, Nola Rice, and they are instantly attracted to each other.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Tom's mother, Eleanor, does not approve of her son's relationship with Nola, a struggling actress, which is a source of tension in the family.
 Chloe encourages her father, Alec, to give Chris a job as an executive in one of his companies; he begins to be accepted into the family and marriage is discussed.
 During a storm, after having her choice of profession attacked by Eleanor, Nola leaves the house to be alone.

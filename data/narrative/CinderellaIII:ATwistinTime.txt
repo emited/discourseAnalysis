@@ -16,7 +16,11 @@ The Prince embraces Cinderella and his true memories return.
 He asks her to marry him, and she accepts.
 The Prince brings Cinderella back to the palace and explains everything to the King and the Grand Duke.
 The King orders the Tremaines arrested, but they escape using the wand.
+<<<<<<< HEAD
 As Cinderella prepares for her wedding, Lady Tremaine emerges with Anastasia, who has been magically transformed into a doppelgnger of Cinderella.
+=======
+As Cinderella prepares for her wedding, Lady Tremaine emerges with Anastasia, who has been magically transformed into a doppelgänger of Cinderella.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Lady Tremaine then transports Cinderella, Jaq and Gus into the castle grounds, where they are to be taken to their deaths in a twisted pumpkin carriage with Lucifer as its human driver, but they manage to defeat Lucifer and escape, leaving Lucifer stranded in the woods.
 Cinderella races to the castle as the vows are about to be exchanged.
 At the last moment, Anastasia's conscience gets the better of her and she turns the Prince down.

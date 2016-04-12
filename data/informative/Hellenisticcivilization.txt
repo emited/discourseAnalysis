@@ -9,7 +9,11 @@ The religious sphere expanded to include new gods such as the Greco-Egyptian Ser
 After Alexander the Great's ventures in the Persian Empire, Hellenistic kingdoms were established throughout south-west Asia (Seleucid Empire, Kingdom of Pergamon), north-east Africa (Ptolemaic Kingdom) and South Asia (Greco-Bactrian Kingdom, Indo-Greek Kingdom). This resulted in the export of Greek culture and language to these new realms through Greco-Macedonian colonization, spanning as far as modern-day Pakistan.
 Equally, however, these new kingdoms were influenced by the indigenous cultures, adopting local practices where beneficial, necessary, or convenient.
 Hellenistic culture thus represents a fusion of the Ancient Greek world with that of the Near East, Middle East, and Southwest Asia, and a departure from earlier Greek attitudes towards "barbarian" cultures.
+<<<<<<< HEAD
 The Hellenistic period was characterized by a new wave of Greek colonization (as distinguished from that occurring in the 8th6th centuries BC) which established Greek cities and kingdoms in Asia and Africa.
+=======
+The Hellenistic period was characterized by a new wave of Greek colonization (as distinguished from that occurring in the 8th–6th centuries BC) which established Greek cities and kingdoms in Asia and Africa.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Those new cities were composed of Greek colonists who came from different parts of the Greek world, and not, as before, from a specific "mother city". The main cultural centers expanded from mainland Greece to Pergamon, Rhodes, and new Greek colonies such as Seleucia, Antioch, Alexandria and Ai-Khanoum.
 This mixture of Greek-speakers gave birth to a common Attic-based dialect, known as Koine Greek, which became the lingua franca through the Hellenistic world.
 Scholars and historians are divided as to what event signals the end of the Hellenistic era.

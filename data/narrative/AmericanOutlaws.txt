@@ -6,11 +6,19 @@ Things have changed when they get back to Missouri.
 The town is occupied by the Union Army, Jesse's childhood friend, Zee (Ali Larter), has grown up into a very attractive young woman, and there is a man hanging in the town square, ostensibly for treason against the North.
 In actuality, those farmers with large amounts of land are being pressured to sell their farms to the railroad company, who are pushing across North America.
 If they don't sell their land to the well-groomed, suit-wearing Thaddeus Rains, (Harris Yulin) and his secret-service organizer, Allan Pinkerton (Timothy Dalton) the farmers are burned out of their homes, or killed outright.
+<<<<<<< HEAD
 Frank James finds that the railroad doesn't even need their landthey're just buying it as cheap as they can get, to push the railroad through.
 The James and Younger brothers don't want to sell, and Cole Younger (Scott Caan) loses his temper when several 'railroad men' approach him about selling, and kills two of them.
 The army decides to hang him (since they were working for the government, he faces charges of treason), but his brothers Bob (Will McCormack) and Jim Younger (Gregory Smith), along with Jesse James and Frank James, decide to rescue him, with some help from Zee.
 During the rescue, Jesse is shot in the shoulder, and has to hide out at Zee's farm.
 A few weeks later, when Jesse has recovered, the railroad sets fire to the James' home, killing Jesse and Frank's mother (Kathy Bates). The James and Younger brothers ride out for revenge against the railroad menbut instead focus on the bank's payroll, reasoning that 'you could kill a hundred railroad men and they won't care', but if they steal the payroll and attack supply trains, the army will sit up and take notice.
+=======
+Frank James finds that the railroad doesn't even need their land—they're just buying it as cheap as they can get, to push the railroad through.
+The James and Younger brothers don't want to sell, and Cole Younger (Scott Caan) loses his temper when several 'railroad men' approach him about selling, and kills two of them.
+The army decides to hang him (since they were working for the government, he faces charges of treason), but his brothers Bob (Will McCormack) and Jim Younger (Gregory Smith), along with Jesse James and Frank James, decide to rescue him, with some help from Zee.
+During the rescue, Jesse is shot in the shoulder, and has to hide out at Zee's farm.
+A few weeks later, when Jesse has recovered, the railroad sets fire to the James' home, killing Jesse and Frank's mother (Kathy Bates). The James and Younger brothers ride out for revenge against the railroad men—but instead focus on the bank's payroll, reasoning that 'you could kill a hundred railroad men and they won't care', but if they steal the payroll and attack supply trains, the army will sit up and take notice.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Dubbing themselves the 'James-Younger' gang, they set out robbing banks, with Pinkerton and Rains struggling to stop them.
 The impact of the James gang is only increased when they commit the first daylight bank-robbery in history, turning themselves into folk heroes in the process.
 Eventually, the gang comes to blows over leadership, with Cole Younger feeling that Jesse is getting an overblown ego from the publicity of 'his' gang's activities.

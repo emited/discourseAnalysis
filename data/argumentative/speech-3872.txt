@@ -23,8 +23,13 @@ As he assumes that responsibility, he will deserve the help and the support of a
 As we look to the future, the first essential is to begin healing the wounds of this Nation, to put the bitterness and divisions of the recent past behind us and to rediscover those shared ideals that lie at the heart of our strength and unity as a great and as a free people.
 By taking this action, I hope that I will have hastened the start of that process of healing which is so desperately needed in America.
 I regret deeply any injuries that may have been done in the course of the events that led to this decision.
+<<<<<<< HEAD
 I would say only that if some of my judgments were wrong--and some were wrongthey were made in what I believed at the time to be the best interest of the Nation.
 To those who have stood with me during these past difficult monthsto my family, my friends, to many others who joined in supporting my cause because they believed it was rightI will be eternally grateful for your support.
+=======
+I would say only that if some of my judgments were wrong--and some were wrong—they were made in what I believed at the time to be the best interest of the Nation.
+To those who have stood with me during these past difficult months—to my family, my friends, to many others who joined in supporting my cause because they believed it was right—I will be eternally grateful for your support.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And to those who have not felt able to give me your support, let me say I leave with no bitterness toward those who have opposed me, because all of us, in the final analysis, have been concerned with the good of the country, however our judgments might differ.
 So, let us all now join together in affirming that common commitment and in helping our new President succeed for the benefit of all Americans.
 I shall leave this office with regret at not completing my term, but with gratitude for the privilege of serving as your President for the past 5 1/2 years.

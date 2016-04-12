@@ -17,7 +17,11 @@ Ben soon discovers his life becoming more and more out of control.
 As a member of the Academic Decathlon team with Daric, Virgil and Han, the practices at Daric's house devolve into drinking parties.
 Later, the group, now intoxicated, arrive at a party, where they are accosted by a football player who mocks them for their perfect image.
 A fight results in Daric pulling out a gun, stopping the fight.
+<<<<<<< HEAD
 At school the next day, news of the fight spreads around school and the fours notoriety increases.
+=======
+At school the next day, news of the fight spreads around school and the four’s notoriety increases.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Theories run rampant, including a possible link to the Chinese Mafia.
 They gradually expand into more and more dangerous scams, such as the theft of computer-parts from the school and eventually, drugs.
 They become users themselves, and Ben begins to develop a heavy cocaine habit.
@@ -47,11 +51,19 @@ Though Ben is reluctant to re-enter his previous activities, he gathers up the g
 The group is stunned when they are informed that Steve wants them to rob his parents' house.
 He refers to it as a wake-up call.
 Ben and Han are against the plan, but Daric convinces them to participate, saying that this would be the perfect opportunity to give Steve his wake-up call.
+<<<<<<< HEAD
 They agree Steves plan and practice constantly.
 They also agree to purchase a gun for Steve .
 On New Year's Eve, the four meet Steve at Jesus' house.
 With Ben acting as lookout, Han, Daric and Virgil begin attacking Steve.
 The lights go out as Virgils gun slips away from him.
+=======
+They agree Steve’s plan and practice constantly.
+They also agree to purchase a gun for Steve .
+On New Year's Eve, the four meet Steve at Jesus' house.
+With Ben acting as lookout, Han, Daric and Virgil begin attacking Steve.
+The lights go out as Virgil’s gun slips away from him.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Steve lunges for the weapon and the struggle for the automatic results in it going off.
 Ben hears the shot and rushes into the garage.
 Ben beats Steve nearly to death, stopping only when Han yells to him.

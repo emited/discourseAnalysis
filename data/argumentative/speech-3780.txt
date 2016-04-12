@@ -29,3 +29,7 @@ In raising revenue, duties should be so levied upon foreign products as to prese
 The necessity of the passage of a tariff law which shall provide ample revenue, need not be further urged.
 The imperative demand of the hour is the prompt enactment of such a measure, and to this object I earnestly recommend that Congress shall make every endeavor.
 Before other business is transacted, let us first provide sufficient revenue to faithfully administer the Government without the contracting of further debt, or the continued disturbance of our finances.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

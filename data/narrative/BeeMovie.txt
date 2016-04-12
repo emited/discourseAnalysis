@@ -1,7 +1,11 @@
 A honeybee named Barry B. Benson (Jerry Seinfeld) has recently graduated from college and is about to enter the hive's Honex Industries honey-making workforce alongside his best friend Adam Flayman (Matthew Broderick). Barry is initially excited to join the workforce, but his latent non-conformist attitude emerges upon discovering that his choice of job will never change once picked.
 Later, the two bees run into a group of Pollen Jocks, bees who collect pollen from flowers outside the hive.
 The Jocks offer to take Barry outside the hive to a flower patch, and he accepts.
+<<<<<<< HEAD
 While on his first pollen-gathering expedition, Barry gets caught in the rain, and ends up on the balcony of a human named Vanessa (Rene Zellweger). Upon noticing Barry, Vanessa's boyfriend Ken (Patrick Warburton) attempts to swat him, but Vanessa instead safely catches and releases Barry outside the window, saving his life.
+=======
+While on his first pollen-gathering expedition, Barry gets caught in the rain, and ends up on the balcony of a human named Vanessa (Renée Zellweger). Upon noticing Barry, Vanessa's boyfriend Ken (Patrick Warburton) attempts to swat him, but Vanessa instead safely catches and releases Barry outside the window, saving his life.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Barry later returns to express his gratitude to Vanessa, breaking the sacred rule that bees are not supposed to communicate with humans.
 Barry and Vanessa develop an instant bond, bordering on attraction, and spend time together frequently.
 Later, while Barry and Vanessa are walking through a grocery store, Barry is shocked to discover that the humans have been stealing and eating the bees' honey for centuries.

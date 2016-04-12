@@ -31,7 +31,11 @@ I am sure that they will understand the spirit in which I am now acting, the pur
 I am anxious that the people of the nations at war also should understand and not mistrust us.
 I hope that I need give no further proofs and assurances than I have already given throughout nearly three years of anxious patience that I am the friend of peace and mean to preserve it for America so long as I am able.
 I am not now proposing or contemplating war or any steps that need lead to it.
+<<<<<<< HEAD
 I merely request that you will accord me by your own vote and definite bestowal the means and the authority to safeguard in practice the right of a great people who are at peace and who are desirous of exercising none but the rights of peace to follow the pursuits of peace in quietness and good will,rights recognized time out of mind by all the civilized nations of the world.
+=======
+I merely request that you will accord me by your own vote and definite bestowal the means and the authority to safeguard in practice the right of a great people who are at peace and who are desirous of exercising none but the rights of peace to follow the pursuits of peace in quietness and good will,—rights recognized time out of mind by all the civilized nations of the world.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 No course of my choosing or of theirs will lead to war.
 War can come only by the wilful acts and aggressions of others.
 You will understand why I can make no definite proposals or forecasts of action now and must ask for your supporting authority in the most general terms.
@@ -46,3 +50,7 @@ I am thinking of those rights of humanity without which there is no civilization
 My theme is of those great principles of compassion and of protection which mankind has sought to throw about human lives, the lives of non-combatants, the lives of men who are peacefully at work keeping the industrial processes of the world quick and vital, the lives of women and children and of those who supply the labor which ministers to their sustenance.
 We are speaking of no selfish material rights but of rights which our hearts support and whose foundation is that righteous passion for justice upon which all law, all structures alike of family, of state, and of mankind must rest, as upon the ultimate base of our existence and our liberty.
 I cannot imagine any man with American principles at his heart hesitating to defend these things.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

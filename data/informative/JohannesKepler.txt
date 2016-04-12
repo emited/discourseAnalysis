@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Johannes Kepler (German: [kpl]; December 27, 1571  November 15, 1630) was a German mathematician, astronomer, and astrologer.
+=======
+Johannes Kepler (German: [ˈkɛplɐ]; December 27, 1571 – November 15, 1630) was a German mathematician, astronomer, and astrologer.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A key figure in the 17th century scientific revolution, he is best known for his laws of planetary motion, based on his works Astronomia nova, Harmonices Mundi, and Epitome of Copernican Astronomy.
 These works also provided one of the foundations for Isaac Newton's theory of universal gravitation.
 During his career, Kepler was a mathematics teacher at a seminary school in Graz, Austria, where he became an associate of Prince Hans Ulrich von Eggenberg.

@@ -15,6 +15,7 @@ He drives them to a Triad hideout.
 Once there, Lee is seduced by a mob assassin named Jasmine while Carter meets a beautiful woman at a casino table.
 Lee and Carter attempt an escape that George finds exhilarating, but are ultimately captured by Kenji's men.
 Kenji offers to let them live if the two leave Paris immediately.
+<<<<<<< HEAD
 While away from Lee, Carter spots and follows the woman he met earlier, learning that she is a stage performer named Genevive.
 Meanwhile, Reynard reveals to Lee that Shy Shen is not a person, but a list of the Triad leaders and that Genevive is Han's informant who has access to the list.
 After locating Genevive and saving her from an assassination attempt, the two flee to their hotel room where Carter gets intimate with Genevive.
@@ -24,11 +25,26 @@ The names of the thirteen Triad leaders have been tattooed on the back of her he
 When Lee and Carter bring Genevive to Reynard, they find out that he has been working with the Triads all along.
 Kenji calls and informs Lee that he has captured Soo-Yung and that he would like to exchange her for Genevive.
 Lee arrives at the exchange point, the Jules Verne Restaurant in the Eiffel Tower, with Carter disguised as Genevive.
+=======
+While away from Lee, Carter spots and follows the woman he met earlier, learning that she is a stage performer named Geneviève.
+Meanwhile, Reynard reveals to Lee that Shy Shen is not a person, but a list of the Triad leaders and that Geneviève is Han's informant who has access to the list.
+After locating Geneviève and saving her from an assassination attempt, the two flee to their hotel room where Carter gets intimate with Geneviève.
+They are attacked by Jasmine and decide to hide out with George who has by now developed a great appreciation for Americans.
+Lee and Carter then learn that Geneviève is the list.
+The names of the thirteen Triad leaders have been tattooed on the back of her head, as per tradition, and Geneviève explains that she will be decapitated and buried if the Triads capture her.
+When Lee and Carter bring Geneviève to Reynard, they find out that he has been working with the Triads all along.
+Kenji calls and informs Lee that he has captured Soo-Yung and that he would like to exchange her for Geneviève.
+Lee arrives at the exchange point, the Jules Verne Restaurant in the Eiffel Tower, with Carter disguised as Geneviève.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Kenji challenges Lee to a sword fight, during which the two fall off the tower and into a safety net.
 Kenji's sword cuts the safety net open, leaving both men hanging on for dear life.
 Not wanting them both to die, Kenji says goodbye to Lee and lets go, only to fall to his death.
 Meanwhile, Carter saves Soo-Young and defeats Jasmine.
+<<<<<<< HEAD
 After escaping, Carter and Lee are confronted by Reynard, holding Genevive hostage and threatening to kill her and frame them.
+=======
+After escaping, Carter and Lee are confronted by Reynard, holding Geneviéve hostage and threatening to kill her and frame them.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, George, who followed Lee and Carter, shoots Reynard from behind.
 The police arrive, with Commissioner Revi gloating and trying to get undeserved credit.
 After giving him a team punch to the face, Lee and Carter leave the scene dancing to the Edwin Starr song War.

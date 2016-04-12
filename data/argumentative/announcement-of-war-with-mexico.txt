@@ -9,3 +9,7 @@ It is of great importance to our country generally, and especially to our naviga
 Emigrants to that territory have many difficulties to encounter and privations to endure in their long and perilous journey, and by the time they reach their place of destination their pecuniary means are generally much reduced, if not altogether exhausted.
 Under these circumstances it is deemed but an act of justice that these emigrants, whilst most effectually advancing the interests and policy of the Government, should be aided by liberal grants of land.
 I would therefore recommend that such grants be made to actual settlers upon the terms and under the restrictions and limitations which Congress may think advisable.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

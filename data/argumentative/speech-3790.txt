@@ -23,7 +23,11 @@ Therefore this peculiar thing comes about, that we can stand here and praise the
 They set us the example of self-sacrifice, which if followed in peace will make it unnecessary that men should follow war any more.
 We are reputed to be somewhat careless in our discrimination between words in the use of the English language, and yet it is interesting to note that there are some words about which we are very careful.
 We bestow the adjective "great" somewhat indiscriminately.
+<<<<<<< HEAD
 A man who has made conquest of his fellow-men for his own gain may display such genius in war, such uncommon qualities of organization and leadership that we may call him "great," but there is a word which we reserve for men of another kind and about which we are very careful; that is the word "noble." We never call a man "noble" who serves only himself; and if you will look about through all the nations of the world upon the statues that men have erectedupon the inscribed tablets where they have wished to keep alive the memory of the citizens whom they desire most to honoryou will find that almost without exception they have erected the statue to those who had a splendid surplus of energy and devotion to spend upon their fellow-men.
+=======
+A man who has made conquest of his fellow-men for his own gain may display such genius in war, such uncommon qualities of organization and leadership that we may call him "great," but there is a word which we reserve for men of another kind and about which we are very careful; that is the word "noble." We never call a man "noble" who serves only himself; and if you will look about through all the nations of the world upon the statues that men have erected—upon the inscribed tablets where they have wished to keep alive the memory of the citizens whom they desire most to honor—you will find that almost without exception they have erected the statue to those who had a splendid surplus of energy and devotion to spend upon their fellow-men.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Nobility exists in America without patent.
 We have no House of Lords, but we have a house of fame to which we elevate those who are the noble men of our race, who, forgetful of themselves, study and serve the public interest, who have the courage to face any number and any kind of adversary, to speak what in their hearts they believe to be the truth.
 We admire physical courage, but we admire above all things else moral courage.
@@ -35,3 +39,7 @@ We are dedicated to freedom, and that freedom means the freedom of the human spi
 All free spirits ought to congregate on an occasion like this to do homage to the greatness of America as illustrated by the greatness of her sons.
 It has been a privilege, ladies and gentlemen, to come and say these simple words, which I am sure are merely putting your thought into language.
 I thank you for the opportunity to lay this little wreath of mine upon these consecrated graves.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

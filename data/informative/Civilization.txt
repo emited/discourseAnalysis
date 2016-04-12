@@ -6,7 +6,11 @@ As an uncountable noun, civilization also refers to the process of a society dev
 Civilizations are organized in densely populated settlements divided into hierarchical social classes with a ruling elite and subordinate urban and rural populations, which engage in intensive agriculture, mining, small-scale manufacture and trade.
 Civilization concentrates power, extending human control over the rest of nature, including over other human beings.
 The earliest emergence of civilizations is generally associated with the final stages of the Neolithic Revolution, culminating in the relatively rapid process of state formation, a political development associated with the appearance of a governing elite.
+<<<<<<< HEAD
 This neolithic technology and lifestyle was established first in the Middle East (for example at Gbekli Tepe, from about 9,130 BCE), and later in the Yangtze and Yellow river basins in China (for example the Pengtoushan culture from 7,500 BCE), and later spread.
+=======
+This neolithic technology and lifestyle was established first in the Middle East (for example at Göbekli Tepe, from about 9,130 BCE), and later in the Yangtze and Yellow river basins in China (for example the Pengtoushan culture from 7,500 BCE), and later spread.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 But similar "revolutions" also began independently from 7,000 BCE in such places as the Norte Chico civilization in Peru and Mesoamerica at the Balsas River.
 These were among the six civilizations worldwide that arose independently.
 Mesopotamia is the site of the earliest developments of the Neolithic Revolution from around 10,000 BC.

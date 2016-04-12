@@ -20,9 +20,15 @@ And now it's happening for the third time, and it's about time.
 A year ago tax relief was said to be a political impossibility.
 Six months ago it was supposed to be a political liability.
 Today it becomes reality.
+<<<<<<< HEAD
 It becomes reality because of the bipartisan leadership of the Members of the United States Congress, Members like Bill Thomas of California, Ralph Hall of Texas, Charles Grassley of Iowa, Max Baucus of Montana, Zell Miller of Georgia, John Breaux of Louisiana, Trent Lott of Mississippi and the entire leadership team in the Senate, and Denny Hastert of Illinois and the leadership team in the House of Representativessome Democrats, many Republicanswho worked tirelessly and effectively to produce this important result.
 I also want to pay tribute to the members of my administration who worked with Congress to bring about this day: Vice President Cheney, Secretary O'Neill, Director Daniels, and the team inside the White House of Andy Card and Larry Lindsey, Nick Calio, and their staffs.
 With us today are 15 of the many families I met as I toured our country making the case for tax reliefhard-working Americans.
+=======
+It becomes reality because of the bipartisan leadership of the Members of the United States Congress, Members like Bill Thomas of California, Ralph Hall of Texas, Charles Grassley of Iowa, Max Baucus of Montana, Zell Miller of Georgia, John Breaux of Louisiana, Trent Lott of Mississippi and the entire leadership team in the Senate, and Denny Hastert of Illinois and the leadership team in the House of Representatives—some Democrats, many Republicans—who worked tirelessly and effectively to produce this important result.
+I also want to pay tribute to the members of my administration who worked with Congress to bring about this day: Vice President Cheney, Secretary O'Neill, Director Daniels, and the team inside the White House of Andy Card and Larry Lindsey, Nick Calio, and their staffs.
+With us today are 15 of the many families I met as I toured our country making the case for tax relief—hard-working Americans.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I was able to talk about their stories and their struggles and their hopes, which made the case for tax relief much stronger than my words could possible convey.
 And I want to thank you all for coming.
 And here at the White House today are representatives of millions of Americans, including labor union members, small-busi-ness owners, and family farmers.

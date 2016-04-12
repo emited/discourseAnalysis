@@ -1,7 +1,11 @@
 In 1958, Katey Miller (Romola Garai), her parents (Sela Ward and John Slattery), and her younger sister Susie (Mika Boorem) arrive in Cuba during the Cuban revolution.
 A self-described bookworm, Katey is not very happy about having to move to a different country during her senior year of high school, as she had been planning to attend Radcliffe College, although the rest of her family seem extremely pleased to be in Cuba.
 Meeting several other rich American teenagers down by the pool, including James Phelps (Jonathan Jackson), the son of her father's boss, Katey becomes disgusted when one of the teenagers insults a local waiter when he accidentally knocks over some of their drinks.
+<<<<<<< HEAD
 Katey attempts to talk to the waiterJavier (Diego Luna), who works at the hotel to support his familybecause she feels awful about what had occurred but he is not interested.
+=======
+Katey attempts to talk to the waiter—Javier (Diego Luna), who works at the hotel to support his family—because she feels awful about what had occurred but he is not interested.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Katey watches a film of her mother and father dancing and wishes she could dance as well as they did.
 She and her father dance a bit.
 The next day in class, Katey is asked to read aloud from The Odyssey; it is a passage about love and passion.

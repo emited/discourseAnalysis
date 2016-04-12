@@ -4,7 +4,11 @@ The parasite takes over his body and absorbs his consciousness and memories.
 With the alien now in control of his body, 'Grant' begins to slowly change into a tentacled slug-like monster.
 Many pets soon disappear, but Grant is not suspected.
 However, his wife Starla begins to question his health; he explains the initial changes in his appearance as an allergic reaction to a bee sting, saying that a doctor has already given him something for it, but Starla soon learns this is a lie.
+<<<<<<< HEAD
 Starla contacts the police chief Bill Pardy  her childhood crush  who attempts to reassure and comfort her while not acting on his feelings.
+=======
+Starla contacts the police chief Bill Pardy – her childhood crush – who attempts to reassure and comfort her while not acting on his feelings.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Grant infects the lonely and neglected Brenda with hundreds of his offspring.
 He hides her in an isolated barn where she becomes massively obese to the point of inflating to the size of a wrecking ball as baby alien slugs grow inside her.
 Bill leads a small group of officers on a hunt for Grant; they find Brenda in time to see her explode, releasing hundreds of the alien slugs.

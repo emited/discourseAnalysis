@@ -4,7 +4,11 @@ I am about to sign into law the Civil Rights Act of 1964.
 I want to take this occasion to talk to you about what that law means to every American.
 
 One hundred and eighty-eight years ago this week a small band of valiant men began a long struggle for freedom.
+<<<<<<< HEAD
 They pledged their lives, their fortunes, and their sacred honor not only to found a nation, but to forge an ideal of freedomnot only for political independence, but for personal libertynot only to eliminate foreign rule, but to establish the rule of justice in the affairs of men.
+=======
+They pledged their lives, their fortunes, and their sacred honor not only to found a nation, but to forge an ideal of freedom—not only for political independence, but for personal liberty—not only to eliminate foreign rule, but to establish the rule of justice in the affairs of men.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 That struggle was a turning point in our history.
 Today in far corners of distant continents, the ideals of those American patriots still shape the struggles of men who hunger for freedom.
@@ -24,10 +28,17 @@ We believe that all men have certain unalienable rights.
 Yet many Americans do not enjoy those rights.
 
 We believe that all men are entitled to the blessings of liberty.
+<<<<<<< HEAD
 Yet millions are being deprived of those blessingsnot because of their own failures, but because of the color of their skin.
 
 The reasons are deeply imbedded in history and tradition and the nature of man.
 We can understandwithout rancor or hatredhow this all happened.
+=======
+Yet millions are being deprived of those blessings—not because of their own failures, but because of the color of their skin.
+
+The reasons are deeply imbedded in history and tradition and the nature of man.
+We can understand—without rancor or hatred—how this all happened.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 But it cannot continue.
 Our Constitution, the foundation of our Republic, forbids it.
@@ -68,7 +79,11 @@ Fifth, I am asking appropriate officials to meet with representative groups to p
 
 We must not approach the observance and enforcement of this law in a vengeful spirit.
 Its purpose is not to punish.
+<<<<<<< HEAD
 Its purpose is not to divide, but to end divisionsdivisions which have all lasted too long.
+=======
+Its purpose is not to divide, but to end divisions—divisions which have all lasted too long.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Its purpose is national, not regional.
 
 Its purpose is to promote a more abiding commitment to freedom, a more constant pursuit of justice, and a deeper respect for human dignity.

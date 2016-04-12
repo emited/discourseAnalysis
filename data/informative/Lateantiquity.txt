@@ -1,6 +1,10 @@
 Late Antiquity is a periodization used by historians to describe the time of transition from classical antiquity to the Middle Ages in mainland Europe, the Mediterranean world, and the Middle East.
 The development of the periodization has generally been accredited to historian Peter Brown, after the publication of his seminal work The World of Late Antiquity (1971). Precise boundaries for the period are a matter of debate, but Brown proposes a period between the 2nd and 8th centuries AD.
+<<<<<<< HEAD
 Generally, it can be thought of as from the end of the Roman Empire's Crisis of the Third Century (c. 235  284) to, in the East, the period of early Islam (7th  9th centuries), following the Muslim conquests in the mid-7th century.
+=======
+Generally, it can be thought of as from the end of the Roman Empire's Crisis of the Third Century (c. 235 – 284) to, in the East, the period of early Islam (7th – 9th centuries), following the Muslim conquests in the mid-7th century.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the West the end was earlier, with the start of the Early Medieval period typically placed in the 6th century, or earlier on the Western edges of the empire.
 The Roman Empire underwent considerable social, cultural and organizational changes starting with the reign of Diocletian, who began the custom of splitting the Empire into Eastern and Western halves ruled by multiple emperors.
 Beginning with Constantine the Great the Empire was Christianized, and a new capital founded at Constantinople.

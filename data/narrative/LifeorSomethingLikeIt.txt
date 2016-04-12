@@ -21,4 +21,8 @@ The network immediately offers her a position, but Lanie declines, realizing tha
 As she leaves the studio, a police officer gets into a conflict with a man, who shoots a bullet into the air.
 Pete tries to warn Lanie across the street, but she is shot in the crossfire.
 Luckily, Lanie survives, and Pete tells her in the hospital that he has loved her since the first time he saw her; Lanie says she loves him, too.
+<<<<<<< HEAD
 Later, Pete, Lanie and Tommy watch Cal's baseball game, where Lanie (in a voiceover) says that one part of her has diedthe part which didn't know how to live a life.
+=======
+Later, Pete, Lanie and Tommy watch Cal's baseball game, where Lanie (in a voiceover) says that one part of her has died—the part which didn't know how to live a life.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Baghdad (Arabic:  , Kurdish: Bexda, Iraqi pronunciation: [bdd]) is the capital of the Republic of Iraq.
+=======
+Baghdad (Arabic: بغداد‎ , Kurdish: Bexda‎, Iraqi pronunciation: [bɐʁˈd̪ɑːd̪]) is the capital of the Republic of Iraq.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The population of Baghdad, as of 2011, is approximately 7,216,040, making it the largest city in Iraq, the second largest city in the Arab world (after Cairo, Egypt), and the second largest city in Western Asia (after Tehran, Iran). According to the government, the population of the country has reached 35 million, with 9 million in the capital.
 Located along the Tigris River, the city was founded in the 8th century and became the capital of the Abbasid Caliphate.
 Within a short time of its inception, Baghdad evolved into a significant cultural, commercial, and intellectual center for the Islamic world.

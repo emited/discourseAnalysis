@@ -8,7 +8,11 @@ Another 10% is due to obesity, a poor diet, lack of physical activity, and consu
 Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants.
 In the developing world nearly 20% of cancers are due to infections such as hepatitis B, hepatitis C, and human papillomavirus (HPV). These factors act, at least partly, by changing the genes of a cell.
 Typically many such genetic changes are required before cancer develops.
+<<<<<<< HEAD
 Approximately 510% of cancers are due to genetic defects inherited from a person's parents.
+=======
+Approximately 5–10% of cancers are due to genetic defects inherited from a person's parents.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Cancer can be detected by certain signs and symptoms or screening tests.
 It is then typically further investigated by medical imaging and confirmed by biopsy.
 Many cancers can be prevented by not smoking, maintaining a healthy weight, not drinking too much alcohol, eating plenty of vegetables, fruits and whole grains, being vaccinated against certain infectious diseases, not eating too much processed and red meat, and avoiding too much exposure to sunlight.

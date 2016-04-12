@@ -9,11 +9,19 @@ The two travel to New York City so that he may paint the mural Man at the Crossr
 While in the United States, Kahlo suffers a miscarriage, and her mother dies in Mexico.
 Rivera refuses to compromise his Communist vision of the work to the needs of the patron, Nelson Rockefeller (Edward Norton); as a result, the mural is destroyed.
 The pair return to Mexico, with Rivera the more reluctant of the two.
+<<<<<<< HEAD
 Kahlo's sister Cristina moves in with the two at their San ngel studio home to work as Rivera's assistant.
 Soon afterward, Kahlo discovers that Rivera is having an affair with her sister.
 She leaves him, and subsequently sinks into alcoholism.
 The couple reunite when he asks her to welcome and house Leon Trotsky (Geoffrey Rush), who has been granted political asylum in Mexico.
 She and Trotsky begin an affair, which forces the married Trotsky to leave the safety of his Coyoacn home.
+=======
+Kahlo's sister Cristina moves in with the two at their San Ángel studio home to work as Rivera's assistant.
+Soon afterward, Kahlo discovers that Rivera is having an affair with her sister.
+She leaves him, and subsequently sinks into alcoholism.
+The couple reunite when he asks her to welcome and house Leon Trotsky (Geoffrey Rush), who has been granted political asylum in Mexico.
+She and Trotsky begin an affair, which forces the married Trotsky to leave the safety of his Coyoacán home.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Kahlo leaves for Paris after Diego realizes she was unfaithful to him with Trotsky; although Rivera had little problem with Kahlo's other affairs, Trotsky was too important to Rivera to be intimately involved with his wife.
 When she returns to Mexico, he asks for a divorce.
 Soon afterwards, Trotsky is murdered in Mexico City.

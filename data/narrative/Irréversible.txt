@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 Irrversible contains thirteen scenes presented in reverse chronological order.
+=======
+Irréversible contains thirteen scenes presented in reverse chronological order.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They are discussed here in the film's chronological order.
 A young Italian woman living in France named Alex (Monica Bellucci) is reading An Experiment with Time by John William Dunne in a park, surrounded by playing children.
 Beethoven's 7th Symphony is heard in the background.
 The camera spins around faster and faster until it blacks out into a strobe effect, accompanied by a pulsing, roaring sound.
 A rapidly spinning image of the cosmos can be dimly perceived.
+<<<<<<< HEAD
 A title card reads: "Le Temps Detruit Tout" ("Time destroys everything")  a phrase uttered in the film's first scene.
+=======
+A title card reads: "Le Temps Detruit Tout" ("Time destroys everything") – a phrase uttered in the film's first scene.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The film ends.
 Alex sits on the bed clothed, her hand on her belly.
 A poster for Stanley Kubrick's 1968 film 2001: A Space Odyssey, with the tagline "The Ultimate Trip," is above the headboard.
@@ -13,7 +21,11 @@ Alex reveals she might be pregnant, and Marcus is pleased with the possibility.
 They prepare to go to a party, and Marcus leaves to buy wine.
 Alex takes a shower, then uses a home pregnancy test that confirms she is pregnant.
 She is elated.
+<<<<<<< HEAD
 At a nearby Paris Mtro station and aboard a subway train, Alex, Marcus, and Pierre (Albert Dupontel) are on their way to a party.
+=======
+At a nearby Paris Métro station and aboard a subway train, Alex, Marcus, and Pierre (Albert Dupontel) are on their way to a party.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They discuss sex and Pierre refers to the fact that he and Alex were once dating, but are no longer in a relationship.
 He implies that Marcus stole Alex from him.
 Alex, Marcus, and Pierre have arrived at the party.
@@ -39,14 +51,22 @@ Marcus and Pierre go to The Rectum, but do not know what Le Tenia looks like.
 Marcus finds Le Tenia standing with another man.
 Thinking the other man is Le Tenia, he assaults him, but the man wrestles Marcus to the ground, breaks Marcus's arm, and attempts to rape Marcus on the club floor.
 Pierre defends Marcus by grabbing a fire extinguisher and using it brutally to crush the man's skull to a pulp, thus killing him.
+<<<<<<< HEAD
 Le Tenia  the source of all the havoc  stands there groggily, perhaps not believing he got away.
+=======
+Le Tenia – the source of all the havoc – stands there groggily, perhaps not believing he got away.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Police arrest Pierre and put him in handcuffs.
 An ambulance arrives, and Marcus is put on a stretcher and taken from the club.
 Outside, Mourad and Layde shout homophobic insults at Pierre and Marcus.
 The murdered man is revealed not to be Le Tenia after all.
 Rather, the man standing next to him in the club was the real Le Tenia.
 Across the street in a small apartment, two men are talking about sex.
+<<<<<<< HEAD
 One of them is "the Butcher," the protagonist of No's previous film, I Stand Alone.
+=======
+One of them is "the Butcher," the protagonist of Noé's previous film, I Stand Alone.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In a drunken monologue, the Butcher reveals that he was arrested for having sex with his own daughter.
 The subject of their discussion shifts to the commotion in the streets outside.
 Without looking out the window, they derisively attribute the commotion to the patrons of The Rectum.

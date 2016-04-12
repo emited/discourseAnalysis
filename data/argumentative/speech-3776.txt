@@ -32,3 +32,7 @@ The zeal, intelligence and efficient public service of the Isthmian Commission a
 I court the fullest, most exhaustive and most searching investigation of any act of theirs, and if any one of them is ever shown to have done wrong his punishment shall be exemplary.
 But I ask that they be decently paid and that their hands be upheld as long as they act decently.
 On any other conditions we shall not be able to get men of the right type to do the work, and this means that on any other condition we shall insure, if not failure, at least delay, scandal and inefficiency in the task of digging the giant canal.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

@@ -24,3 +24,7 @@ While a considerable part of this condition arises from the laws relating to int
 This is well indicated by the fact that less than one third of federal prisoners are due to prohibition.
 Our obedience to law, our law enforcement and judicial organization, our judicial procedure, our care and methods of handling prisoners, in relation to not only federal government but also to the state and municipal governments, are far from the standards that must be secured.
 These proposals, while they do not comprehend the whole which remains to be done in the nation, are a step toward lifting the federal standards which must have a general beneficial influence.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

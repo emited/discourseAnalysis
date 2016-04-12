@@ -4,7 +4,11 @@ And I'm grateful to Vice President Gore, to my Cabinet Secretaries, and to all t
 This has been a time of dramatic transformation, and you have risen to every new challenge.
 You have made our social fabric stronger, our families healthier and safer, our people more prosperous.
 You, the American people, have made our passage into the global information age an era of great American renewal.
+<<<<<<< HEAD
 In all the work I have done as Presidentevery decision I have made, every executive action I have taken, every bill I have proposed and signedI've tried to give all Americans the tools and conditions to build the future of our dreams in a good society with a strong economy, a cleaner environment, and a freer, safer, more prosperous world.
+=======
+In all the work I have done as President—every decision I have made, every executive action I have taken, every bill I have proposed and signed—I've tried to give all Americans the tools and conditions to build the future of our dreams in a good society with a strong economy, a cleaner environment, and a freer, safer, more prosperous world.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I have steered my course by our enduring values: opportunity for all, responsibility from all, a community of all Americans.
 I have sought to give America a new kind of Government, smaller, more modern, more effective, full of ideas and policies appropriate to this new time, always putting people first, always focusing on the future.
 Working together, America has done well.
@@ -24,7 +28,11 @@ America has been a force for peace and prosperity in every corner of the globe.
 I'm very grateful to be able to turn over the reins of leadership to a new President with America in such a strong position to meet the challenges of the future.
 Tonight I want to leave you with three thoughts about our future.
 First, America must maintain our record of fiscal responsibility.
+<<<<<<< HEAD
 Through our last four budgets we've turned record deficits to record surpluses, and we've been able to pay down $600 billion of our national debton track to be debt-free by the end of the decade for the first time since 1835.
+=======
+Through our last four budgets we've turned record deficits to record surpluses, and we've been able to pay down $600 billion of our national debt—on track to be debt-free by the end of the decade for the first time since 1835.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Staying on that course will bring lower interest rates, greater prosperity, and the opportunity to meet our big challenges.
 If we choose wisely, we can pay down the debt, deal with the retirement of the baby boomers, invest more in our future, and provide tax relief.
 Second, because the world is more connected every day, in every way, America's security and prosperity require us to continue to lead in the world.
@@ -44,7 +52,11 @@ We must embrace boldly and resolutely that duty to lead - to stand with our alli
 Third, we must remember that America cannot lead in the world unless here at home we weave the threads of our coat of many colors into the fabric of one America.
 As we become ever more diverse, we must work harder to unite around our common values and our common humanity.
 We must work harder to overcome our differences, in our hearts and in our laws.
+<<<<<<< HEAD
 We must treat all our people with fairness and dignity, regardless of their race, religion, gender, or sexual orientation, and regardless of when they arrived in our countryalways moving toward the more perfect Union of our Founders' dreams.
+=======
+We must treat all our people with fairness and dignity, regardless of their race, religion, gender, or sexual orientation, and regardless of when they arrived in our country—always moving toward the more perfect Union of our Founders' dreams.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Hillary, Chelsea, and I join all Americans in wishing our very best to the next President, George W. Bush, to his family and his administration, in meeting these challenges, and in leading freedom's march in this new century.
 As for me, I'll leave the Presidency more idealistic, more full of hope than the day I arrived, and more confident than ever that America's best days lie ahead.
 My days in this office are nearly through, but my days of service, I hope, are not.

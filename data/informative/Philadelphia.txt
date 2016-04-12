@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Philadelphia (/fldlfi/) is the largest city in the Commonwealth of Pennsylvania and the fifth-most populous in the United States, with an estimated population in 2014 of 1,560,297.
+=======
+Philadelphia (/ˌfɪləˈdɛlfiə/) is the largest city in the Commonwealth of Pennsylvania and the fifth-most populous in the United States, with an estimated population in 2014 of 1,560,297.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the Northeastern United States, at the confluence of the Delaware and Schuylkill rivers, Philadelphia is the economic and cultural anchor of the Delaware Valley, a metropolitan area home to 7.2 million people and the eighth-largest combined statistical area in the United States.
 In 1682, William Penn founded the city to serve as capital of the Pennsylvania Colony.
 Philadelphia played an instrumental role in the American Revolution as a meeting place for the Founding Fathers of the United States, who signed the Declaration of Independence in 1776 and the Constitution in 1787.

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Raimunda (Penlope Cruz) and Soledad (Lola Dueas) are sisters who grew up in Alcanfor de las Infantas, a small village in La Mancha, but now both live in Madrid.
+=======
+Raimunda (Penélope Cruz) and Soledad (Lola Dueñas) are sisters who grew up in Alcanfor de las Infantas, a small village in La Mancha, but now both live in Madrid.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Their parents died in a tragic fire three years prior to the beginning of the film.
 Sole returns to the village for the funeral of her elderly and dementia-stricken Aunt Paula (Chus Lampreave). Aunt Paula's neighbour Agustina (Blanca Portillo) confesses to Sole that she has heard Paula talking to the ghost of Sole's mother Irene (Carmen Maura). Sole encounters the ghost herself, and when she returns to Madrid, she discovers that the ghost has stowed away in the trunk of her car.
 Irene has brought luggage, intending to stay with her daughter for a while, and Sole, though frightened, agrees to let her mother stay with her: Sole operates a hair salon in her apartment, and Irene will assist her, posing as a Russian woman to hide her true identity.
@@ -14,7 +18,11 @@ Agustina is diagnosed with terminal cancer and must go to Madrid for medical tre
 Raimunda visits her in the hospital.
 Agustina asks Raimunda if she has seen her mother's ghost.
 Agustina hopes that the ghost will be able to tell her about the fate of her own mother, who disappeared three years ago without a trace.
+<<<<<<< HEAD
 Raimunda undertakes the task of disposing of Paco's remains: she leaves Paula with Sole, rents a van and transports the freezer to a convenient spot by the river Jcar, 180 kilometres away.
+=======
+Raimunda undertakes the task of disposing of Paco's remains: she leaves Paula with Sole, rents a van and transports the freezer to a convenient spot by the river Júcar, 180 kilometres away.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While staying in Sole's apartment, Paula meets her grandmother's ghost and grows close to her.
 The next night, Agustina comes to the restaurant to renew her request to Raimunda to ask her mother's ghost about her own mother's whereabouts.
 She reveals two startling secrets: that Raimunda's father and Agustina's mother were having an affair and that Agustina's mother disappeared on the same day that Raimunda's parents died.

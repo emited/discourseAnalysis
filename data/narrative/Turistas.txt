@@ -6,6 +6,7 @@ After spending the day on the beach, they are served drugged drinks and pass out
 The next morning, they awaken on the deserted beach, robbed of their luggage, money, and documents.
 Looking for help in the nearby village, they encounter conflict with locals as they see some of their belongings worn or lying around.
 Offering help, Kiko (Agles Steib), a local who speaks some English, volunteers to take them to an isolated cabin in the forest, where they can wait for help.
+<<<<<<< HEAD
 In a long walk through the wilderness, Kiko shows them a secret" cave beneath a waterfall, but, taking a bad dive into the river, Kiko hits the rocky bottom, and is rendered unconscious and begins bleeding profusely from a cut in his head.
 Proceeding to the cabin in the jungle, they find food, clothes, and a number of prescription drugs, as well as a drawer filled with other peoples passports.
 They manage to heal Kiko's wound and reluctantly decide to spend the night at the cabin.
@@ -14,11 +15,25 @@ A woman who arrives advises them to flee, but they are confused and try to fight
 Zamora proceeds to a makeshift operating room where he removes organs from a sedated Amy, while he explains to Finn, who is tied up, that organ theft for transplant from Brazilians by rich gringos is part of a pattern of exploitation of Brazilian "resources", and that it is time to "give back". Victims' usable organs are being harvested and sent to the Peoples Hospital in Rio de Janeiro and used for the benefit of the poor.
 After her liver and kidneys are removed, Amy dies on the operating table.
 Meanwhile, the rest of the group outside manages to break free from cages they have been contained in, and fight and kill one of Zamoras associates, with the aid of Kiko, who returned after being sent away by Zamora.
+=======
+In a long walk through the wilderness, Kiko shows them a “secret" cave beneath a waterfall, but, taking a bad dive into the river, Kiko hits the rocky bottom, and is rendered unconscious and begins bleeding profusely from a cut in his head.
+Proceeding to the cabin in the jungle, they find food, clothes, and a number of prescription drugs, as well as a drawer filled with other people’s passports.
+They manage to heal Kiko's wound and reluctantly decide to spend the night at the cabin.
+They are awakened in the middle of the night by a helicopter bringing Zamora (Miguel Lunardi), a physician, and a few associates and doctors, surrounded by armed henchmen.
+A woman who arrives advises them to flee, but they are confused and try to fight them, only to be beaten into submission.
+Zamora proceeds to a makeshift operating room where he removes organs from a sedated Amy, while he explains to Finn, who is tied up, that organ theft for transplant from Brazilians by rich gringos is part of a pattern of exploitation of Brazilian "resources", and that it is time to "give back". Victims' usable organs are being harvested and sent to the People’s Hospital in Rio de Janeiro and used for the benefit of the poor.
+After her liver and kidneys are removed, Amy dies on the operating table.
+Meanwhile, the rest of the group outside manages to break free from cages they have been contained in, and fight and kill one of Zamora’s associates, with the aid of Kiko, who returned after being sent away by Zamora.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While Bea and Pru flee into the jungle, Alex, Kiko and Liam attempt to raid the cabin.
 They successfully rescue Finn, who is unable to walk because he has been sedated, but while they are running away from the cabin, Finn is shot in the head.
 Alex realizes they have to resume their escape, but Liam decides to stay behind to fight back, only to be shot and taken away to be "salvaged" .
 Bea and Pru are separated in the jungle, and Alex and Kiko find Bea the next morning hiding near the river.
+<<<<<<< HEAD
 The three head to the flooded cave, eluding one of Zamoras associates who is trailing close behind, armed with a bow and arrows.
+=======
+The three head to the flooded cave, eluding one of Zamora’s associates who is trailing close behind, armed with a bow and arrows.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 For a time, they are able to put some distance between themselves and their pursuers.
 They enter the cave where they find Pru hiding.
 Diving and swimming to the cavern's secondary entrance, they find Zamora is also there, and he shoots them in the water, killing Kiko and injuring Alex.

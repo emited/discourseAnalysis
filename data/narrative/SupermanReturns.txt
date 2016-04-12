@@ -4,7 +4,11 @@ Having failed in his quest to find surviving Kryptonians, Superman returns to Ea
 He subsequently learns that Lois Lane (Kate Bosworth) has won a Pulitzer Prize for her article "Why the World Doesn't Need Superman". Meanwhile, Luthor travels to the Fortress of Solitude and steals Kryptonian crystals to use for an experiment that causes a mass power outage on the East Coast.
 The power loss interferes with the flight test of a space shuttle to be launched into space from its piggy-back mounting on an airliner, occupied by Lois Lane, who is covering the story.
 Clark flies into action as Superman and stops the plane from crashing onto a baseball stadium.
+<<<<<<< HEAD
 The world rejoices at Superman's return, but he has difficulty coping with Lois's fianc, Richard White (James Marsden), nephew of Daily Planet editor-in-chief Perry White (Frank Langella), and their 5-year-old son, Jason (Tristan Lake Leabu). With Superman distracted by an out-of-control vehicle, a diversion involving Lex's partner-in-crime, Kitty Kowalski (Parker Posey), Lex steals kryptonite from the Metropolis Museum of Natural History.
+=======
+The world rejoices at Superman's return, but he has difficulty coping with Lois's fiancé, Richard White (James Marsden), nephew of Daily Planet editor-in-chief Perry White (Frank Langella), and their 5-year-old son, Jason (Tristan Lake Leabu). With Superman distracted by an out-of-control vehicle, a diversion involving Lex's partner-in-crime, Kitty Kowalski (Parker Posey), Lex steals kryptonite from the Metropolis Museum of Natural History.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Perry then assigns Lois to interview Superman while Clark investigates the blackout.
 Lois and Jason inadvertently board Luthor's yacht and are captured after Lois decides to investigate the blackout story, which she connects to Luthor's experiment.
 He reveals to them his latest scheme to grab land and power.

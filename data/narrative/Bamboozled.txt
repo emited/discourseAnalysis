@@ -4,7 +4,11 @@ Not only does Dunwitty use AAVE, and use the word "nigger" repeatedly in convers
 Dunwitty frequently rejects Delacroix's scripts for television series that portray black people in positive, intelligent scenarios, dismissing them as "Cosby clones".
 In an effort to escape his contract through being fired, Delacroix develops a minstrel show with the help of his personal assistant Sloane Hopkins.
 Mantan: The New Millennium Minstrel Show features black actors in blackface, extremely racist jokes and puns, and offensively stereotyped CGI-animated cartoons that caricature the leading stars of the new show.
+<<<<<<< HEAD
 Delacroix and Hopkins recruit two impoverished street performers  Manray, named after American artist Man Ray, and Womack  to star in the show.
+=======
+Delacroix and Hopkins recruit two impoverished street performers – Manray, named after American artist Man Ray, and Womack – to star in the show.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While Womack is horrified when Delacroix tells him details about the show, Manray sees it as his big chance to become rich and famous for his tap-dancing skills.
 To Delacroix's horror, not only does Dunwitty enthusiastically endorse the show, it also becomes hugely successful.
 As soon as the show premieres, Manray and Womack become big stars, while Delacroix, contrary to his original stated intent, defends the show as being satirical.

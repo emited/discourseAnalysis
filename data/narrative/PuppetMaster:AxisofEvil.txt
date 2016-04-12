@@ -8,7 +8,11 @@ Two men dressed in black leaving Toulon's room push Danny aside, and as they lea
 He enters the room and finds Toulon dead with a gun in his hand.
 Danny, to whom Toulon showed his puppets, grabs them out of a wall panel and finds that all the puppets are still there, along with unanimated Six Shooter and another puppet, named Ninja.
 The next day, Danny goes to visit his mother, Elma (Erica Shaffer) and his brother Don (Taylor M. Graham). Don is being shipped off to war the following week.
+<<<<<<< HEAD
 Meanwhile, the two Nazi assassins, Klaus (Aaron Riber) and Max (Tom Sandoval), are heading to an Opera House in Chinatown, under orders from The Fhrer, where they meet a Japanese saboteur named Ozu (Ada Zhou Fang). She tells them that she's under orders from The Emperor, which are for her and the Nazis to work together to take out an American bomb manufacturing plant, destroying America's war efforts.
+=======
+Meanwhile, the two Nazi assassins, Klaus (Aaron Riber) and Max (Tom Sandoval), are heading to an Opera House in Chinatown, under orders from The Führer, where they meet a Japanese saboteur named Ozu (Ada Zhou Fang). She tells them that she's under orders from The Emperor, which are for her and the Nazis to work together to take out an American bomb manufacturing plant, destroying America's war efforts.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 To obtain this goal, it requires Max to go undercover and pretend to be of American descent and work at the plant, and to get close to the girl who runs the plant's office, Beth (Jenna Gallagher), who is coincidentally Danny's girlfriend.
 The next day, after bringing the puppets to life, Danny walks into the plant to show them to Beth, and sees Max there.
 Recognizing him as one of the assassins, he tries to warn Beth away from him, but she doesn't believe him.

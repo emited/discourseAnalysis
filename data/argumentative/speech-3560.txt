@@ -36,3 +36,7 @@ There are other points of objection of a minor character that might be presented
 The practical result of this law would be to subject all of the competing lines of large ocean steamers to great losses.
 By restricting their carrying accommodations it would also stay the current of emigration that it is our policy to encourage as well as to protect.
 A good bill, correctly phrased, and expressing and naming in plain, well-known technical terms the proper and usual places and decks where passengers are and ought to be placed and carried, will receive my prompt and immediate assent as a public necessity and blessing.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

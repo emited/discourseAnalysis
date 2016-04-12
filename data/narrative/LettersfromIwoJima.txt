@@ -33,7 +33,11 @@ That night, Kuribayashi launches the final surprise attack.
 Most of his men are killed, and Kuribayashi is critically wounded, but Kuribayashi's loyal aide Fujita drags him away.
 The next morning, Kuribayashi orders Fujita to behead him; however, Fujita is shot dead by a sniper before he can do so.
 Saigo appears, having buried some of the documents and letters instead of burning them all.
+<<<<<<< HEAD
 Kuribayashi asks Saigo to bury him, then draws his pistol, an American M1911  a gift Kuribayashi was given in the US before the war, and commits suicide.
+=======
+Kuribayashi asks Saigo to bury him, then draws his pistol, an American M1911 — a gift Kuribayashi was given in the US before the war, and commits suicide.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 A tearful Saigo then buries him.
 Later, a US patrol find Fujita's body.
 One Marine finds Kuribayashi's pistol and tucks it under his belt.

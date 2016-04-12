@@ -4,11 +4,19 @@ The party is interrupted by Morgana, sister of the deceased Ursula, who threaten
 Ariel and Eric work together to foil Morgana's plan.
 Fearing Morgana and remembering Ursula, Ariel decides to withhold all knowledge of the sea world from Melody.
 The locket is tossed into the ocean, and a massive wall is built to separate the royal castle from the sea.
+<<<<<<< HEAD
 Twelve years later, Melody remains unaware of her mothers mermaid heritage and is forbidden from ever going into the sea.
 However, she has been sneaking out of the castle regularly to swim and one day finds her locket.
 Seeing her name on the locket, Melody confronts her mother and, frustrated with her mother's refusal to answer her questions, Melody takes a boat and sails away from home.
 Her parents soon learn that she is gone, and Triton uses his magic to transform Ariel back into a mermaid to search for Melody.
 Melody is lured to Morganas lair by her minions, Cloak and Dagger the manta rays, and Undertow the tiger shark, and Morgana uses the remains of Ursula's magic to temporarily transform Melody into a mermaid.
+=======
+Twelve years later, Melody remains unaware of her mother’s mermaid heritage and is forbidden from ever going into the sea.
+However, she has been sneaking out of the castle regularly to swim and one day finds her locket.
+Seeing her name on the locket, Melody confronts her mother and, frustrated with her mother's refusal to answer her questions, Melody takes a boat and sails away from home.
+Her parents soon learn that she is gone, and Triton uses his magic to transform Ariel back into a mermaid to search for Melody.
+Melody is lured to Morgana’s lair by her minions, Cloak and Dagger the manta rays, and Undertow the tiger shark, and Morgana uses the remains of Ursula's magic to temporarily transform Melody into a mermaid.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Morgana says that the transformation will be permanent if Melody can get hold of the trident, which she claims was stolen by Triton.
 With the help of Tip the penguin and Dash the walrus, Melody successfully returns to Morgana with the trident.
 Ariel tries to stop Melody, but before she can explain that Morgana is evil, Melody gives the trident to Morgana.

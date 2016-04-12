@@ -6,7 +6,11 @@ Moving ahead to the present, the Battle City Finals have recently concluded, and
 Kaiba, determined to defeat Yugi, turns to Pegasus, the now retired creator of Duel Monsters, in order to obtain any new cards designed to defeat the Egyptian Gods.
 Pegasus tells Kaiba that he has the card he is looking for, but will only give it to Kaiba if he can beat him in a duel.
 Then the two duel with Kaiba winning the duel and taking two cards, although Pegasus claims he only created one.
+<<<<<<< HEAD
 Elsewhere, Yugi and Ta go to the local museum where Anubis' corpse and the Pyramid of Light are on display, meeting up with Yugi's grandpa, who reads a prophecy describing a clairvoyant eye which will prevent the world's destruction if blinded.
+=======
+Elsewhere, Yugi and Téa go to the local museum where Anubis' corpse and the Pyramid of Light are on display, meeting up with Yugi's grandpa, who reads a prophecy describing a clairvoyant eye which will prevent the world's destruction if blinded.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Anubis' spirit attacks the group with Yugi having a vision of Anubis himself manipulating Kaiba and him in a Shadow Game.
 He awakens to find Anubis and the Pyramid of Light missing.
 Kaiba's brother Mokuba arrives, and Yugi is taken to Kaiba's duel dome with his friends Joey and Tristan in pursuit.
@@ -17,8 +21,13 @@ Anubis reveals that his monsters will destroy the modern world.
 Yami Yugi and Kaiba continue their duel, each blow to their in-game Life Points actually draining away their physical energy.
 To make matters worse, Kaiba manages to eliminate half of Yami Yugi's deck through Deck Destruction Virus, leaving him with barely any cards.
 Kaiba uses the second new card, Blue-Eyes Shining Dragon, to destroy Yami's last monster and dropping his Life Points to 200.
+<<<<<<< HEAD
 Ta, Solomon, and Mokuba escape the collapsing dome in Pegasus' helicopter, Pegasus having figured out what is going on.
 Ta's soul is sent into the Millennium Puzzle to aid Yugi, Joey and Tristan.
+=======
+Téa, Solomon, and Mokuba escape the collapsing dome in Pegasus' helicopter, Pegasus having figured out what is going on.
+Téa's soul is sent into the Millennium Puzzle to aid Yugi, Joey and Tristan.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Yugi finds the Dagger of Fate within Anubis' tomb, and uses it to destroy the all-seeing eye in the tomb as predicted by the prophecy.
 Anubis materializes behind Kaiba as he tries to alter the duel's path, casting him aside and taking command of the duel.
 Yami, reunited with Yugi, destroys the Pyramid of Light card with Blue-Eyes Shining Dragon and then uses Kaiba's planned strategy to summon the Egyptian Gods and end the duel by destroying Anubis.

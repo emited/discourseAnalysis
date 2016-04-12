@@ -8,7 +8,11 @@ With help from Pyro, Magneto recruits Callisto, as well as several other mutants
 They attack the mobile prison holding Mystique to free her, also freeing Juggernaut and Multiple Man.
 Mystique saves Magneto, taking a shot from a round containing the mutant "cure", rendering her human.
 Hateful of humans, Magneto abandons Mystique, much to her shock.
+<<<<<<< HEAD
 Meanwhile, Cyclops, still distraught over the loss of his fiance Jean Grey, drives to her resting location at Alkali Lake.
+=======
+Meanwhile, Cyclops, still distraught over the loss of his fiancée Jean Grey, drives to her resting location at Alkali Lake.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Jean appears to Cyclops but, as the two kiss, Jean starts to disintegrate him.
 Sensing trouble, Xavier sends Wolverine and Storm to investigate.
 When they arrive, they find only telekinetically floating rocks, Cyclops' glasses, and an unconscious Jean.

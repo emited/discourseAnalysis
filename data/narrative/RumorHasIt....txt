@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In 1997, Sarah Huttinger (Jennifer Aniston), an obituary and wedding announcement writer for The New York Times, travels to Pasadena, California, for her sister Annie's (Mena Suvari) wedding, accompanied by her fianc Jeff Daly (Mark Ruffalo). At a pre-wedding party, Sarah learns from her grandmother Katharine (Shirley MacLaine) that her mother Jocelyn ran off to Cabo San Lucas to spend time with her prep school classmate Beau Burroughs (Kevin Costner) the week before her wedding to Sarah's father Earl (Richard Jenkins). Jeff points out Sarah's parents were married just short of nine months before her birth, leading her to wonder if Beau might really be her biological father.
+=======
+In 1997, Sarah Huttinger (Jennifer Aniston), an obituary and wedding announcement writer for The New York Times, travels to Pasadena, California, for her sister Annie's (Mena Suvari) wedding, accompanied by her fiancé Jeff Daly (Mark Ruffalo). At a pre-wedding party, Sarah learns from her grandmother Katharine (Shirley MacLaine) that her mother Jocelyn ran off to Cabo San Lucas to spend time with her prep school classmate Beau Burroughs (Kevin Costner) the week before her wedding to Sarah's father Earl (Richard Jenkins). Jeff points out Sarah's parents were married just short of nine months before her birth, leading her to wonder if Beau might really be her biological father.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Sarah also discovers her grandmother might have been the inspiration for Mrs.
 Robinson, an infamous character in the novel The Graduate.
 After the wedding, determined to find out more about Beau and her mother's past, Sarah decides to fly to San Francisco, where Beau, now a highly successful and very wealthy Silicon Valley Internet wizard, is addressing a seminar.
@@ -18,6 +22,10 @@ Earl reveals to Sarah he always knew about Jocelyn and Beau's affair.
 Despite Beau being a fling for her, Jocelyn returned to Earl because she loved him and he was someone with whom she could build a life.
 On the night she returned, Sarah was conceived.
 This explained the date difference between her birthday and her parents' wedding.
+<<<<<<< HEAD
 Determined to win Jeff back, Sarah returns to New York City and tells her fianc about her feelings.
+=======
+Determined to win Jeff back, Sarah returns to New York City and tells her fiancé about her feelings.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They reconcile on the condition, if they ever have a daughter, she would not be allowed anywhere near Beau.
 The film ends with Sarah and Jeff's wedding.

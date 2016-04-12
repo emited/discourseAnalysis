@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Gerontology (from the Greek , geron, "old man" and -, -logia, "study of"; coined by Ilya Ilyich Mechnikov in 1903) is the study of the social, psychological, cognitive, and biological aspects of aging.
+=======
+Gerontology (from the Greek γέρων, geron, "old man" and -λογία, -logia, "study of"; coined by Ilya Ilyich Mechnikov in 1903) is the study of the social, psychological, cognitive, and biological aspects of aging.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It is distinguished from geriatrics, which is the branch of medicine that specializes in the treatment of existing disease in older adults.
 Gerontologists include researchers and practitioners in the fields of biology, nursing, medicine, criminology, dentistry, social work, physical and occupational therapy, psychology, psychiatry, sociology, economics, political science, architecture, geography, pharmacy, public health, housing, and anthropology.
 Gerontology encompasses the following:

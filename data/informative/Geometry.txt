@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Geometry (from the Ancient Greek: ; geo- "earth", -metron "measurement") is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.
 A mathematician who works in the field of geometry is called a geometer.
 Geometry arose independently in a number of early cultures as a body of practical knowledge concerning lengths, areas, and volumes, with elements of formal mathematical science emerging in the West as early as Thales (6th century BC). By the 3rd century BC, geometry was put into an axiomatic form by Euclid, whose treatmentEuclidean geometryset a standard for many centuries to follow.
@@ -5,6 +6,15 @@ Archimedes developed ingenious techniques for calculating areas and volumes, in 
 The field of astronomy, especially as it relates to mapping the positions of stars and planets on the celestial sphere and describing the relationship between movements of celestial bodies, served as an important source of geometric problems during the next one and a half millennia.
 In the classical world, both geometry and astronomy were considered to be part of the Quadrivium, a subset of the seven liberal arts considered essential for a free citizen to master.
 The introduction of coordinates by Ren Descartes and the concurrent developments of algebra marked a new stage for geometry, since geometric figures such as plane curves could now be represented analytically in the form of functions and equations.
+=======
+Geometry (from the Ancient Greek: γεωμετρία; geo- "earth", -metron "measurement") is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.
+A mathematician who works in the field of geometry is called a geometer.
+Geometry arose independently in a number of early cultures as a body of practical knowledge concerning lengths, areas, and volumes, with elements of formal mathematical science emerging in the West as early as Thales (6th century BC). By the 3rd century BC, geometry was put into an axiomatic form by Euclid, whose treatment—Euclidean geometry—set a standard for many centuries to follow.
+Archimedes developed ingenious techniques for calculating areas and volumes, in many ways anticipating modern integral calculus.
+The field of astronomy, especially as it relates to mapping the positions of stars and planets on the celestial sphere and describing the relationship between movements of celestial bodies, served as an important source of geometric problems during the next one and a half millennia.
+In the classical world, both geometry and astronomy were considered to be part of the Quadrivium, a subset of the seven liberal arts considered essential for a free citizen to master.
+The introduction of coordinates by René Descartes and the concurrent developments of algebra marked a new stage for geometry, since geometric figures such as plane curves could now be represented analytically in the form of functions and equations.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 This played a key role in the emergence of infinitesimal calculus in the 17th century.
 Furthermore, the theory of perspective showed that there is more to geometry than just the metric properties of figures: perspective is the origin of projective geometry.
 The subject of geometry was further enriched by the study of the intrinsic structure of geometric objects that originated with Euler and Gauss and led to the creation of topology and differential geometry.

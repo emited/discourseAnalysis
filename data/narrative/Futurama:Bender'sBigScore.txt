@@ -39,7 +39,11 @@ The explosion singes off some of Lars' clothing, revealing the Bender tattoo.
 During Lars' funeral, the Planet Express crew learns that Lars was actually the time-paradox duplicate of Fry, who had survived Bender's attack in 2012; the fire and smoke changed his appearance and voice.
 The duplicate Fry froze himself to return to the future and be with Leela.
 However, when he learned that time travel paradoxes were doomed, he canceled the wedding to spare Leela the pain of his inevitable death.
+<<<<<<< HEAD
 Leela forgives Lars and reconciles with Fry.
+=======
+Leela forgives “Lars” and reconciles with Fry.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Bender removes Lars's tattoo and travels to 2000 to place it on Fry in the cryogenic tube so that the events that transpired "make any sense at all." Upon returning, Bender emerges with all the duplicates from his stealing sprees.
 Terrified of the paradoxical consequences, Nibbler urges everyone to evacuate the universe before swallowing himself.
 The Bender duplicates explode and cause a tear in the fabric of space.

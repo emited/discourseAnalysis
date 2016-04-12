@@ -15,7 +15,11 @@ Back at home, Shepard tries to secure a plane to return and save the dogs, but n
 Five months later, Shepard makes one last attempt to get back.
 McClaren realizes the magnitude of his ingratitude and uses the remaining balance of his grant money to finance a rescue mission.
 Shepard acknowledges that there is almost no chance that any of the dogs have survived this long, but he owes it to his team to go back for them.
+<<<<<<< HEAD
 After being left behind, the eight sled dogs  lead dog Maya, Old Jack, Shorty, Dewey, Truman, Shadow, Buck, and the young Max, wait in the freezing conditions for Shepard to return.
+=======
+After being left behind, the eight sled dogs – lead dog Maya, Old Jack, Shorty, Dewey, Truman, Shadow, Buck, and the young Max, wait in the freezing conditions for Shepard to return.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After two weeks with no food, Max snaps his collar and attempts to hunt seagulls.
 All the other dogs follow suit, except Old Jack, who is too tired and weak to follow, and remains tied to the chain.
 Some time later, Dewey slips and falls down an incline, where he is fatally injured.
@@ -32,5 +36,9 @@ They have been on their own for nearly six months.
 Shepard makes it back to base and is dismayed to find the body of Old Jack, still attached to the chain, and no sign of the other dogs.
 He hears the sound of barking and sees Max, Shorty, Truman, Shadow and Buck come over the horizon.
 After a joyous reunion, Shepard attempts to load the dogs into the snowmobile, but Max runs off, with Shepard in hot pursuit.
+<<<<<<< HEAD
 Max leads him to Maya, lying in the snow  weak, but alive.
+=======
+Max leads him to Maya, lying in the snow – weak, but alive.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 With six of his eight sled dogs in tow, Shepard heads back to civilization.

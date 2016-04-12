@@ -7,7 +7,11 @@ As his parents say goodbye and leave, however, a janitor rolls by with a radio p
 Justin now finds himself suddenly 32 years old, his parents bankrupt from overdue life support payments, and Jennifer (Maria Menounos), who has become a girls' dance instructor, engaged to Kip (Michael Rosenbaum). Kip is now an obnoxious promoter, and is set to host a breakdance contest broadcast on national television, with a grand prize of $100,000.
 Justin realizes that the money could help him repay his parents for what they've spent on his medical bills.
 Kip is sarcastic and still despises Justin, and schemes to keep him off the show and away from Jennifer.
+<<<<<<< HEAD
 Justin has a difficult time adjusting to both his deteriorated physical condition and the severe culture shock he encounters after 20 years, and is nearly arrested as a child predator before being recognized by a mall security guard, his old friend and Funky Fresh Boy, Darnell (Miguel A. Nez Jr.). Darnell, who is now both a toy store employee and a failed inventor frequently slapped around by his wife, explains much of what has changed in the past 20 years to Justin, before introducing him to the rest of the crew.
+=======
+Justin has a difficult time adjusting to both his deteriorated physical condition and the severe culture shock he encounters after 20 years, and is nearly arrested as a child predator before being recognized by a mall security guard, his old friend and Funky Fresh Boy, Darnell (Miguel A. Núñez Jr.). Darnell, who is now both a toy store employee and a failed inventor frequently slapped around by his wife, explains much of what has changed in the past 20 years to Justin, before introducing him to the rest of the crew.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Aki (Bobby Lee) is an accountant, and has lost his old stereotypical Asian accent thanks to English classes; he is also trying to woo a colleague who claims he might have a 2% chance of sleeping with her if he were a professional breakdancer.
 Hector (Aris Alvarado) is now a meter maid, and is even more overweight than he was in school.
 Despite their reluctance to return to the '80s lifestyle, they agree to try to retrain their faded breakdancing skills to help Justin.
@@ -27,5 +31,9 @@ Kip is outraged and has a huge tantrum leading to him challenging Justin to a la
 Kip is fired from the network, knocked out by a man from earlier in the film for using the word "retarded" and is urinated on by the homeless dancer.
 The Funky Fresh Boyz win the prize money, and Justin marries Jen.
 In the epilogue, she is currently teaching him how to use an iPod, though he is having trouble finding out where he puts the cassette tape in.
+<<<<<<< HEAD
 Darnell has invented the 98 store, but his wife is still rather abusive towards him.
+=======
+Darnell has invented the 98¢ store, but his wife is still rather abusive towards him.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Hector finds work as a Jennifer Lopez impersonator in Las Vegas, and Aki marries his co-worker Yu in a lavish Jewish ceremony, which has increased his chances of sleeping with her to 3%. Kip never recovered fully from being punched, is a judge on Dancing with the Stars.

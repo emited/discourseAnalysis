@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Bettie Page is an ambitious, nave, and devout young Christian woman who longs to leave Nashville, Tennessee, following a childhood of sexual abuse, a failed wartime marriage, and a gang rape.
+=======
+Bettie Page is an ambitious, naïve, and devout young Christian woman who longs to leave Nashville, Tennessee, following a childhood of sexual abuse, a failed wartime marriage, and a gang rape.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In 1949, she departs for New York City, where she enrolls in an acting class.
 Amateur photographer Jerry Tibbs discovers her walking on the beach at Coney Island and she agrees to model for him.
 He suggests she restyle her hair with the bangs that would become her trademark.

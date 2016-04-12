@@ -9,7 +9,11 @@ They are seen by the residents and Nick is shot.
 Patrick enters the house during the shootout and finds one of the residents dead.
 He retreats into the child molester's room, where he finds the boy's dead body; he then shoots the child molester in the back of the head in a fit of rage.
 Nick later dies of his wounds.
+<<<<<<< HEAD
 Trying to alleviate Patrick's guilt over the events at the house, Remy unthinkingly confides that he once planted evidence on someone with the help of "Skinny Ray"  whom he had initially told Patrick he didn't know.
+=======
+Trying to alleviate Patrick's guilt over the events at the house, Remy unthinkingly confides that he once planted evidence on someone with the help of "Skinny Ray" — whom he had initially told Patrick he didn't know.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After Nick's funeral, Patrick speaks to a police officer, who tells him that Remy had been asking about the drug lord's stolen money before the drug lord knew it was missing.
 Patrick then questions Beatrice's husband Lionel in a bar and pieces together that Lionel and Remy had conspired to stage a fake kidnapping in order to take the drug money for themselves and to save Amanda from her mother's neglectful parenting.
 At that point, Remy (trying to cover for his earlier mistake) enters the bar, while wearing a latex mask and holding a shotgun, and stages a robbery.
@@ -24,4 +28,8 @@ Patrick later visits Amanda as Helene is about to leave on a date with someone s
 Helene informs Patrick that Beatrice has been forbidden to visit and is upset about her husband's arrest.
 Helene has no babysitter for Amanda and when asked, she tells Patrick that Dottie (Helene's friend) will watch her, even though she has yet to ask Dottie herself.
 Patrick volunteers to watch Amanda, who is holding her old doll and watching television.
+<<<<<<< HEAD
 Patrick asks Amanda about Mirabelle, only to hear Amanda inform him that her doll's name is "Annabelle"  implying that Helene did not even know the name of her daughter's favorite toy.
+=======
+Patrick asks Amanda about Mirabelle, only to hear Amanda inform him that her doll's name is "Annabelle" — implying that Helene did not even know the name of her daughter's favorite toy.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

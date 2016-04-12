@@ -4,7 +4,11 @@ The situation worsens when Robert is diagnosed with lymphoma and given only a fe
 As he becomes more and more depressed, Dave takes up archery, finding the activity a way to build his focus and calm his nerves.
 To prove himself to his father and possibly reconcile with Noreen (Hope Davis), his estranged wife, Dave pursues a weatherman position with a national talk show called Hello America.
 The job would nearly quadruple his salary, but means relocating to New York City.
+<<<<<<< HEAD
 When Hello America invites him to New York, he takes his daughter, Shelly (Gemmenne de la Pea), with him and bonds with her by helping her shop for a more suitable wardrobe.
+=======
+When Hello America invites him to New York, he takes his daughter, Shelly (Gemmenne de la Peña), with him and bonds with her by helping her shop for a more suitable wardrobe.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While away, Dave learns that his son Mike (Nicholas Hoult) attacked his counselor, Don Bowden (Gil Bellows), claiming that the man wanted to perform oral sex on him.
 Despite this stress and an all-night drinking binge, Dave impresses the Hello America interviewers and is eventually offered the job.
 When he returns, Dave slaps Russ (Michael Rispoli), Noreen's boyfriend, when he finds him dealing with his son's predicament.

@@ -28,6 +28,10 @@ Father Jude arrives and asks if she would be willing to die in order to save Sea
 She agrees and he then asks her if she would be willing to live for him.
 Cassie says that she doesn't want to die.
 An episode follows in which Deathmask and Hideous Dancer strangle her with her protective medallion, from which Cassie wakes to find that everything she has experienced has been a sort of coma-dream: in the original accident, Cassie and Sean had survived, while Matt and Annabel were killed.
+<<<<<<< HEAD
 The occupants of the other car  Raven, Deathmask, and Hideous Dancer  were also fatally injured.
+=======
+The occupants of the other car — Raven, Deathmask, and Hideous Dancer — were also fatally injured.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Cassie has spent the course of the film in a half-dead, half-living state, wherein those who were killed in the accident attempt to keep her with them.
 Father Jude, and Cassie's visions of Sean were what brought her back to life.

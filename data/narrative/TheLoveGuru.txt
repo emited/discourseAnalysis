@@ -9,7 +9,11 @@ He has thousands of followers, including celebrities like Jessica Simpson, Val K
 Meanwhile, in Canada.
 Jane Bullard's father died and left her the Toronto Maple Leafs hockey team.
 They have not won a Stanley Cup since she took over so the city hates her.
+<<<<<<< HEAD
 Her star player, Darren Roanoke, the Tiger Woods of Hockey, has been playing poorly ever since his wife Prudence left him for a well endowed French Canadian, Jacques "L Cocq" Grand, who plays for the rival Los Angeles Kings.
+=======
+Her star player, Darren Roanoke, the Tiger Woods of Hockey, has been playing poorly ever since his wife Prudence left him for a well endowed French Canadian, Jacques "Lè Cocq" Grandè, who plays for the rival Los Angeles Kings.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He has a tattoo on his abdomen that reads "The Legend" with an arrow pointing down.
 When Pitka is introduced to Jane Bullard, he imagines a Bollywood musical fantasy with her in it.
 Jane is a big fan of Pitka's, having read all of his books.

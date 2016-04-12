@@ -13,7 +13,11 @@ Ricky makes Tom fix the satellite dish by himself but it is beyond repair.
 Investigating further, Tom and Jake (who unexpectedly shows up on the roof) discover the aliens.
 Ricky is captured and implanted with a mind control device.
 The aliens, called "Zirkonians", lay claim to the planet.
+<<<<<<< HEAD
 Like a puppet, Ricky grabs the boys  but Tom and Jake break free and get back in the house.
+=======
+Like a puppet, Ricky grabs the boys – but Tom and Jake break free and get back in the house.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It is not long before all five kids have seen the aliens, with the exception of Bethany.
 Tom takes charge and they discover the mind control device doesn't work on children, giving them a fighting chance.
 They realize they have a responsibility to protect the adults by keeping the aliens' existence a secret.

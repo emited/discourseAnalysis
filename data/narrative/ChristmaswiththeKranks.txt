@@ -10,7 +10,11 @@ However, it is revealed that Walt's wife Bev is suffering from cancer, perhaps d
 Children picket, led by Vic's son Spike (Erik Per Sullivan), neighbors constantly call, and Christmas carolers try to revive the Kranks' holiday spirit by singing on their lawn which Luther stops by freezing his front lawn.
 Even the newspaper gets into the act by publishing a front page story complete with a photograph of the unlit Krank house and states that the Kranks' street has lost the prize and won sixth place because of how Luther and Nora refused to decorate their house.
 Still, Luther and Nora continue to stand their ground.
+<<<<<<< HEAD
 The two are in the process of packing on Christmas Eve morning when they receive a call from Blair, who announces she's at Miami International Airport, en route home with her Peruvian fianc as a surprise for her parents.
+=======
+The two are in the process of packing on Christmas Eve morning when they receive a call from Blair, who announces she's at Miami International Airport, en route home with her Peruvian fiancé as a surprise for her parents.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 She's anxious to introduce Enrique to her family's holiday traditions, and when she asks if they're having their usual party that night, a panicked Nora says yes.
 Comic chaos ensues as the couple finds themselves trying to decorate the house and coordinate a party with only twelve hours to spare before their daughter and future son-in-law arrive.
 While Nora scrambles to find food, especially Blair's favorite honey glazed ham, Luther goes to buy a tree from the Boy Scouts but they only have one worthless non-green tree left since their sales went big and rapid.

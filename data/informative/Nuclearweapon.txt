@@ -9,7 +9,11 @@ The bombings resulted in the deaths of approximately 200,000 civilians and milit
 The ethics of the bombings and their role in Japan's surrender remain the subject of scholarly and popular debate.
 Since the atomic bombings of Hiroshima and Nagasaki, nuclear weapons have been detonated on over two thousand occasions for the purposes of testing and demonstration.
 Only a few nations possess such weapons or are suspected of seeking them.
+<<<<<<< HEAD
 The only countries known to have detonated nuclear weaponsand acknowledge possessing themare (chronologically by date of first test) the United States, the Soviet Union (succeeded as a nuclear power by Russia), the United Kingdom, France, the People's Republic of China, India, Pakistan, and North Korea.
+=======
+The only countries known to have detonated nuclear weapons—and acknowledge possessing them—are (chronologically by date of first test) the United States, the Soviet Union (succeeded as a nuclear power by Russia), the United Kingdom, France, the People's Republic of China, India, Pakistan, and North Korea.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Israel is also believed to possess nuclear weapons, though in a policy of deliberate ambiguity, it does not acknowledge having them.
 Germany, Italy, Turkey, Belgium and the Netherlands are nuclear weapons sharing states.
 The nuclear non-proliferation treaty aimed to reduce the spread of nuclear weapons, but its effectiveness has been questioned, and political tensions remained high in the 1970s and 1980s.

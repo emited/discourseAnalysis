@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 The Abbasid Caliphate (/bsd/ or /bsd/ Arabic:   al-Khilfah al-Abbsyah) was the third of the Islamic caliphates to succeed the Islamic prophet Muhammad.
 The Abbasid dynasty descended from Muhammad's youngest uncle, Abbas ibn Abd al-Muttalib (566653 CE), from whom the dynasty takes its name.
+=======
+The Abbasid Caliphate (/əˈbæsᵻd/ or /ˈæbəsᵻd/ Arabic: الخلافة العباسية‎ al-Khilāfah al-‘Abbāsīyah) was the third of the Islamic caliphates to succeed the Islamic prophet Muhammad.
+The Abbasid dynasty descended from Muhammad's youngest uncle, Abbas ibn Abd al-Muttalib (566–653 CE), from whom the dynasty takes its name.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They ruled as caliphs, for most of their period from their capital in Baghdad in modern-day Iraq, after assuming authority over the Muslim empire from the Umayyads in 750 CE (132 AH).
 The Abbasid caliphate first centered its government in Kufa, but in 762 the caliph Al-Mansur founded the city of Baghdad, north of the Sasanian capital city of Ctesiphon.
 The choice of a capital so close to Persia proper reflected a growing reliance on Persian bureaucrats, most notably of the Barmakid family, to govern the territories conquered by Arab Muslims, as well as an increasing inclusion of non-Arab Muslims in the ummah.

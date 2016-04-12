@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 In 1950, during the Cold War, Frantiek (Franta) Slma (Ondej Vetch) is incarcerated in Czechoslovakia, because of his prior service in the RAF.
 His recollections of the war begin in 1939, just days prior to the German invasion of Czechoslovakia.
 After the invasion, the Czechoslovakian military is disbanded and has to give up its aircraft.
 However, young pilots Franta and his friend Karel Vojtek (Krytof Hdek), among others, refuse to submit to their occupiers and flee to the United Kingdom to join the RAF.
+=======
+In 1950, during the Cold War, František (Franta) Sláma (Ondřej Vetchý) is incarcerated in Czechoslovakia, because of his prior service in the RAF.
+His recollections of the war begin in 1939, just days prior to the German invasion of Czechoslovakia.
+After the invasion, the Czechoslovakian military is disbanded and has to give up its aircraft.
+However, young pilots Franta and his friend Karel Vojtíšek (Kryštof Hádek), among others, refuse to submit to their occupiers and flee to the United Kingdom to join the RAF.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The British make the Czechoslovaks retrain from the basics, which infuriates them, especially Karel, who is both impatient to fight the Germans and humiliated at being retaught what he already knows.
 Karel also sees the compulsory English language lessons as a pointless waste of his time.
 The RAF is in such a dire need of pilots during the Battle of Britain that eventually the Czech and Slovak airmen are allowed to fly, and after their first sortie, they realise why the British have trained them so intensely: a young Czechoslovak nicknamed "Tom Tom" is shot down by a Messerschmitt Bf 109.
@@ -18,6 +25,10 @@ His life raft bursts as he tries to inflate it, so Karel decides to drop his own
 The raft emerges from the water, allowing Franta to survive until he is rescued.
 Afterward, when the war is over, Franta drives to Susan's home, only to find her with her injured husband recently returned from fighting overseas.
 Knowing he has no future with Susan and wanting to preserve her honour, he pretends to have lost his way and asks directions to the next town.
+<<<<<<< HEAD
 Disappointed by what has happened, Franta returns to Czechoslovakia and finds his old girlfriend has married the neighbourhood jobsworth, has given birth to a child, and has taken over Bara, his dog.
+=======
+Disappointed by what has happened, Franta returns to Czechoslovakia and finds his old girlfriend has married the neighbourhood jobsworth, has given birth to a child, and has taken over Barča, his dog.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 All Franta can do is endure the situation as stoically as he can.
 Arrested and thrown in prison, he only has his memories of his friendship with Karel to sustain him.

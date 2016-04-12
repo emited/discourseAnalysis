@@ -1,5 +1,9 @@
 The plot begins with the portrayal of the Massacre of the Innocents in the Nativity.
+<<<<<<< HEAD
 The remainder of the movie portrays the annunciation (conception) and birth of Jesus Christ to explain why King Herod the Great (Ciarn Hinds) ordered the murder.
+=======
+The remainder of the movie portrays the annunciation (conception) and birth of Jesus Christ to explain why King Herod the Great (Ciarán Hinds) ordered the murder.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The film then goes back one year before the massacre, to Jerusalem where Zachariah is a rabbi and making an offering, when he gets told by the Archangel Gabriel that his wife will bear a son by a vision.
 He states that he is too old, and is told by Gabriel that he will be unable to speak until the boy is born.
 It then goes to the town of Nazareth, where a teenaged girl named Mary (Keisha Castle-Hughes) is farming, and soldiers come to collect taxes, one man, who is unable to pay, has a third of his land seized and his daughter pressed into debt slavery to pay his debt.

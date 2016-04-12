@@ -1,7 +1,11 @@
 Intense young "tough" Thomas Seyr is a 28-year-old real estate broker involved in shady business deals.
 His business partners, Fabrice and Sami, spend much of their time ruthlessly chasing squatters and illegal immigrants out of the buildings they have procured and trying to work their way around government housing regulations.
 Thomas is born to this kind of work; his father, Robert, is also involved in dodgy enterprises and sometimes calls upon Thomas to beat up people who refuse to pay.
+<<<<<<< HEAD
 Tom shows a protective and defensive attitude toward his father who doesn't always appreciate what his son does for himso much so that when his father introduces his new girlfriend to Tom, Tom undermines her to her face, and insults her to his father, insisting she is an opportunistic "whore." Later, when he tries to enlist her help to watch over his father, she tells him they broke up due to Robert changing his attitude and she is aware of Tom's backstabbing because Robert told her.
+=======
+Tom shows a protective and defensive attitude toward his father who doesn't always appreciate what his son does for him–so much so that when his father introduces his new girlfriend to Tom, Tom undermines her to her face, and insults her to his father, insisting she is an opportunistic "whore." Later, when he tries to enlist her help to watch over his father, she tells him they broke up due to Robert changing his attitude and she is aware of Tom's backstabbing because Robert told her.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Robert by this time is in danger from a Russian gangster, Minskov (Anton Yakovlev) who scammed him out of 300,000 Euros and Tom is worried for his safety.
 Tom chances upon his late mother's manager, his mother having been a concert pianist until she died 8 years previously.
 The manager remembers him playing something when he was 20 years old, and invites him to audition for him.

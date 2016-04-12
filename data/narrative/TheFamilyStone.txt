@@ -8,7 +8,11 @@ She invites Amy's high school flame and local paramedic, Brad Stevenson (Paul Sc
 The following morning, when she awakens in Ben's bed, she incorrectly assumes their night of revelry ended with the two having sex together.
 Christmas proves to be a day of accusations, recriminations, self-discoveries, and attempts to mend fences.
 Sybil (Diane Keaton), who originally refused Everett's request for his grandmother's ring, reconsiders her position and offers it to him; but, by now, his feelings for Meredith have shifted to her sister.
+<<<<<<< HEAD
 In a moment of emotional confusion  or clarity  he asks Julie to try on the ring, and it gets stuck.
+=======
+In a moment of emotional confusion – or clarity – he asks Julie to try on the ring, and it gets stuck.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When Julie and Meredith lock themselves in the bathroom to get the ring off, they assume Everett is about to propose to Meredith.
 The family exchanges gifts; and Meredith, oblivious to Sybil's failing health, presents each with a framed enlarged photograph of Sybil taken when she was pregnant with Amy.
 Everyone is touched by her gesture, and Meredith relaxes slightly; but, when Everett asks to talk to her, she demurs again and again until she blurts out that she will not marry him.

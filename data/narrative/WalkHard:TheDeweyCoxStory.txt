@@ -1,7 +1,11 @@
 Dewey Cox begins his quest for stardom in Springberry, Alabama in 1946.
 While playing with his brother Nate, Dewey accidentally cuts his brother in half at the waist with a machete.
 This leads Dewey's father to frequently repeat the phrase "The wrong kid died" throughout the film.
+<<<<<<< HEAD
 The trauma causes Dewey to lose his sense of smell  "you've gone smell blind," states Dewey's mother.
+=======
+The trauma causes Dewey to lose his sense of smell – "you've gone smell blind," states Dewey's mother.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After his brother's death is announced by a physician making a housecall, Dewey's mother sends him to the local store to buy some butter and a candle.
 There, he meets a blues guitarist, who lets Dewey play his guitar.
 Dewey is a natural.

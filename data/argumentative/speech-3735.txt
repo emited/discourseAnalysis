@@ -8,3 +8,7 @@ The safety of the immense amount of public property in this city and that of the
 At the present moment, when all is quiet, it is difficult to realize the state of alarm which prevailed when the troops were first ordered to this city.
 This almost instantly subsided after the arrival of the first company, and a feeling of comparative peace and security has since existed both in Washington and throughout the country.
 Had I refused to adopt this precautionary measure, and evil consequences, which many good men at the time apprehended, had followed, I should never have forgiven myself.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

@@ -6,7 +6,11 @@ Worried about Nemo's safety, Marlin embarrasses Nemo during a school field trip.
 Nemo sneaks away from the reef and is captured by scuba divers.
 As the boat departs, a diver accidentally knocks his diving mask overboard.
 While attempting to save Nemo, Marlin meets Dory, a good-hearted and optimistic regal blue tang with short-term memory loss.
+<<<<<<< HEAD
 Marlin and Dory meet three sharks  Bruce, Anchor and Chum  who claim to be vegetarians.
+=======
+Marlin and Dory meet three sharks – Bruce, Anchor and Chum – who claim to be vegetarians.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Marlin discovers the diver's mask and notices an address written on it.
 When he argues with Dory and accidentally gives her a nosebleed, the blood scent causes Bruce to enter an uncontrollable feeding frenzy.
 The pair escape from Bruce but the mask falls into a trench in the deep sea.

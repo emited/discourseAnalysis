@@ -8,7 +8,11 @@ In sociology, behavior in general includes actions having no meaning, being not 
 Behavior in this general sense should not be mistaken with social behavior, which is a more advanced social action, specifically directed at other people.
 The acceptability of behavior depends heavily upon social norms and is regulated by various means of social control.
 Human behavior is studied by the specialized academic disciplines of psychiatry, psychology, social work, sociology, economics, and anthropology.
+<<<<<<< HEAD
 Human behavior is experienced throughout an individuals entire lifetime.
+=======
+Human behavior is experienced throughout an individual’s entire lifetime.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It includes the way they act based on different factors such as genetics, social norms, core faith, and attitude.
 Behavior is impacted by certain traits each individual has.
 The traits vary from person to person and can produce different actions or behavior from each person.

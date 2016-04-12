@@ -12,3 +12,7 @@ The gloom and anxiety which have enshrouded the country must make repose especia
 No demand for speedy legislation has been heard; no adequate occasion is apparent for an unusual session of Congress.
 The Constitution defines the functions and powers of the executive as clearly as those of either of the other two departments of the Government, and he must answer for the just exercise of the discretion it permits and the performance of the duties it imposes.
 Summoned to these high duties and responsibilities and profoundly conscious of their magnitude and gravity, I assume the trust imposed by the Constitution, relying for aid on divine guidance and the virtue, patriotism, and intelligence of the American people.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

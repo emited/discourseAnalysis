@@ -20,7 +20,11 @@ Brian however disowns her when he realizes she is helping Raymond cheat.
 The night before the third round, Sandra learns that Shelley's cancer is terminal.
 Angry that Shelley lied to her, she quits the team.
 Shelley recruits one of her clients as the model for the third round and wins, moving the team into second place overall.
+<<<<<<< HEAD
 Phil is congratulatory, but Shelley reveals that her motivation was not to win  she wanted the team effort to bond the four of them into a family before she dies.
+=======
+Phil is congratulatory, but Shelley reveals that her motivation was not to win – she wanted the team effort to bond the four of them into a family before she dies.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Phil agrees to participate in the final round; he also talks Sandra into rejoining the team.
 Christina cuts off most of her hair so that she cannot participate in her father's scheme for the final round, and she and Brian reconcile.
 In the last round, Phil's novel design includes shaving Sandra's head to reveal an old scalp tattoo and applying body paint to her naked, winged body.

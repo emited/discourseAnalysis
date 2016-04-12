@@ -1,5 +1,9 @@
 The film begins with a drunken and downtrodden Catholic priest telling his story to a sympathetic bartender (Brian George). Father Brian Finn (Edward Norton) has been dedicated to his calling since he was a child and now shares the duties of a New York parish with an older priest, Fr.
+<<<<<<< HEAD
 Havel (Milo Forman). Rabbi Jacob "Jake" Schram (Ben Stiller), best friends with Brian since childhood, is the youngest rabbi at his Conservative synagogue; his lack of effort to find a Jewish wife often results in his mother, Ruth (Anne Bancroft) and other women of his congregation setting him up on blind dates, much to his dismay.
+=======
+Havel (Miloš Forman). Rabbi Jacob "Jake" Schram (Ben Stiller), best friends with Brian since childhood, is the youngest rabbi at his Conservative synagogue; his lack of effort to find a Jewish wife often results in his mother, Ruth (Anne Bancroft) and other women of his congregation setting him up on blind dates, much to his dismay.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The two men show a close bond, even in their professions, where the two are planning the opening of a jointly sponsored community center.
 In its earlier days, the friendship included a third party.
 Via flashbacks and reminiscent musings, Anna Reilly (Jenna Elfman) is introduced: she met Jake and Brian in middle school, after beating up a bully who was picking on them.

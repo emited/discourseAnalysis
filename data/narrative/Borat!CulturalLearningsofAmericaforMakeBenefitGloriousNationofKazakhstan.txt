@@ -1,5 +1,9 @@
 At the behest of the Kazakh Ministry of Information, reporter Borat Sagdiyev leaves Kazakhstan for the "Greatest Country in the World", the "U, S and A" to make a documentary.
+<<<<<<< HEAD
 He leaves behind his wife Oxana and other inhabitants of his village  including his "43-year-old" mother, "No.
+=======
+He leaves behind his wife Oxana and other inhabitants of his village – including his "43-year-old" mother, "No.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 4 prostitute in all of Kazakhstan" sister, "the town rapist", and "the town mechanic and abortionist." His companions are his producer Azamat Bagatov and a pet hen.
 In New York, Borat sees an episode of Baywatch on TV and immediately falls in love with C. J. Parker.
 While interviewing and mocking a panel of feminists, he learns of the actress' name and her residence in California.

@@ -4,12 +4,20 @@ We, The President of the United States, the Prime Minister of Great Britain, and
 
 We express our determination that our nations shall work together in war and in the peace that will follow.
 
+<<<<<<< HEAD
 As to warour military staffs have joined in our round-table discussions, and we have concerted our plans for the destruction of the German forces.
+=======
+As to war—our military staffs have joined in our round-table discussions, and we have concerted our plans for the destruction of the German forces.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We have reached complete agreement as to the scope and timing of the operations to be undertaken from the east, west, and south.
 
 The common understanding which we have here reached guarantees that victory will be ours.
 
+<<<<<<< HEAD
 And as to peacewe are sure that our concord will win an enduring peace.
+=======
+And as to peace—we are sure that our concord will win an enduring peace.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 We recognize fully the supreme responsibility resting upon us and all the United Nations to make a peace which will command the good will of the overwhelming mass of the peoples of the world and banish the scourge and terror of war for many generations.
 
 With our diplomatic advisers we have surveyed the problems of the future.

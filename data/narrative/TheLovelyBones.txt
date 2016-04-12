@@ -11,7 +11,11 @@ Later, Len Fenerman, the detective assigned to the case, tells the Salmons the p
 That night in his study, Jack looks out the window and sees a flashlight in the cornfield.
 Thinking it is Harvey returning to destroy more evidence, he runs out to confront him, armed with a baseball bat.
 The figure is not Harvey, but Clarissa, Susie's best friend who is dating Brian, one of Susie's classmates.
+<<<<<<< HEAD
 As Susie watches in horror from heaven, Brianwho was going to meet Clarissa in the cornfieldnearly beats Jack to death, and Clarissa breaks Jack's knee.
+=======
+As Susie watches in horror from heaven, Brian—who was going to meet Clarissa in the cornfield—nearly beats Jack to death, and Clarissa breaks Jack's knee.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While he recovers from knee replacement surgery, Susie's mother, Abigail, begins cheating on Jack with the widowed Fenerman.
 Trying to help her father prove his suspicions, Lindsey sneaks into Harvey's house and finds a diagram of the underground den, but is forced to leave when Harvey returns unexpectedly.
 The police do not arrest him, however, which enables him to flee from Norristown.

@@ -2,7 +2,11 @@ Charlie Croker (Michael Caine), a Cockney criminal, is released from prison with
 He soon meets with the widow (Lelia Goldoni) of his friend and fellow thief Roger Beckermann (Rossano Brazzi), who was killed by the Mafia while driving a Lamborghini Miura in the Italian Alps.
 Mrs Beckermann gives Croker her husband's plans for the robbery that attracted the hostile attention of his killers, which detail a way to steal 4 million dollars in the city of Turin and escape to Switzerland.
 Croker breaks back into his former prison to convince Mr.
+<<<<<<< HEAD
 Bridger (Nol Coward), the head of a huge criminal empire, to finance the plan.
+=======
+Bridger (Noël Coward), the head of a huge criminal empire, to finance the plan.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Bridger, who has bribed almost all of the prison guards to work for him, initially rejects the plan, but changes his mind after he learns Fiat is set to build a new factory in China.
 With Bridger's backing, Croker recruits computer expert Professor Peach (Benny Hill), his girlfriend Lorna (Maggie Blye) and a team of thieves and drivers.
 The plan calls for Peach to replace the programme in the computer controlling Turin's traffic control system, creating a paralysing traffic jam that will allow the thieves to escape with the gold in three Mini Cooper S getaway cars.

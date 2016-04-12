@@ -1,6 +1,10 @@
 Evolution is change in the heritable traits of biological populations over successive generations.
 Evolutionary processes give rise to diversity at every level of biological organisation, including the levels of species, individual organisms, and molecules.
+<<<<<<< HEAD
 All life on Earth shares a common ancestor known as the last universal ancestor, which lived approximately 3.53.8 billion years ago, although a study in 2015 found "remains of biotic life" from 4.1 billion years ago in ancient rocks in Western Australia.
+=======
+All life on Earth shares a common ancestor known as the last universal ancestor, which lived approximately 3.5–3.8 billion years ago, although a study in 2015 found "remains of biotic life" from 4.1 billion years ago in ancient rocks in Western Australia.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 According to one of the researchers, "If life arose relatively quickly on Earth ... then it could be common in the universe."
 Repeated formation of new species (speciation), change within species (anagenesis), and loss of species (extinction) throughout the evolutionary history of life on Earth are demonstrated by shared sets of morphological and biochemical traits, including shared DNA sequences.
 These shared traits are more similar among species that share a more recent common ancestor, and can be used to reconstruct a biological "tree of life" based on evolutionary relationships (phylogenetics), using both existing species and fossils.

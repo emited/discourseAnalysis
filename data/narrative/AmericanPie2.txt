@@ -22,6 +22,10 @@ He thinks she arrives when a vehicle turns up after Stifler is talking on the ph
 He spends the night talking with a few girls, but he doesn't sleep with any of them.
 The next morning, after the party, a Mercedes coupe with darkened windows turns up, Finch approaches and it turns out Stifler's Mom has come after all.
 He jumps at the chance and they drive off together, Stifler not realizing until after the car has driven off that it was Finch and his mother.
+<<<<<<< HEAD
 After being asked, she reveals her name is Janine, but also instructs Finch to resume calling her "Stiflers mom" as per usual.
+=======
+After being asked, she reveals her name is Janine, but also instructs Finch to resume calling her "Stifler’s mom" as per usual.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The geeky Sherman (Chris Owen) gives up on getting anyone after he is turned down by the experienced and sharp-tongued Jessica (Natasha Lyonne), but the rejected Nadia, who wanted Jim because he was a geek, is turned on by his "Shermanator" gimmick, and they end up in bed together.
 Kevin doesn't end up "getting off" with anyone, but he does seem to succeed in getting over Vicky (Tara Reid) after making advances on her throughout the film.

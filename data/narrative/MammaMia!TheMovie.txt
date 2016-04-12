@@ -1,14 +1,22 @@
 On a Greek island called Kalokairi, bride-to-be Sophie Sheridan posts three wedding invitations ("I Have a Dream") to different men.
 Sophie's bridesmaids, Ali and Lisa, arrive.
 Sophie reveals that she found her mother's diary and has three possible fathers: Irish-American architect Sam Carmichael, Swedish adventurer and writer Bill Anderson, and British banker Harry Bright.
+<<<<<<< HEAD
 As Sophie wants her father to give her away at the altar, she invited them without telling her mother, believing that after she spends time with them she will know who her father is ("Honey, Honey"). Villa owner Donna Sheridan, Sophie's mom, is ecstatic to reunite with her former Dynamos bandmates, wisecracking author Rosie Mulligan and wealthy multiple divorce Tanya Chesham-Leigh, and reveals her bafflement at her daughter's desire to get married.
+=======
+As Sophie wants her father to give her away at the altar, she invited them without telling her mother, believing that after she spends time with them she will know who her father is ("Honey, Honey"). Villa owner Donna Sheridan, Sophie's mom, is ecstatic to reunite with her former Dynamos bandmates, wisecracking author Rosie Mulligan and wealthy multiple divorcée Tanya Chesham-Leigh, and reveals her bafflement at her daughter's desire to get married.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Donna shows off the villa to Rosie and Tanya ("Money, Money, Money"). The three men arrive; Sophie smuggles them to their room and explains that she sent the invitations.
 She begs them to hide so Donna will have a surprise at the wedding: seeing the old friends of whom she "so often" favourably speaks.
 They overhear Donna working (humming "Fernando") and swear not to reveal her secret.
 Donna spies them and is dumbfounded to find herself facing former lovers ("Mamma Mia"), and is adamant that they leave.
 She confides in Tanya and Rosie ("Chiquitita") that she is uncertain which of the men is Sophie's father.
 Tanya and Rosie rally her spirits by getting Donna to dance with the female staff and islanders ("Dancing Queen"). Sophie finds the men aboard Bill's yacht, and they sail around Kalokairi ("Our Last Summer") and tell stories of Donna as a carefree girl.
+<<<<<<< HEAD
 Sophie plans to tell her fianc Sky about her ploy, but loses her nerve.
+=======
+Sophie plans to tell her fiancé Sky about her ploy, but loses her nerve.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Sky and Sophie sing to each other ("Lay All Your Love on Me"), but Sky is snatched for his bachelor party.
 At Sophie's bachelorette party, Donna, Tanya and Rosie perform as Donna and The Dynamos ("Super Trouper"). The festivities are interrupted by the arrival of Sam, Bill and Harry.
 Sophie decides to talk with each of her prospective dads alone.

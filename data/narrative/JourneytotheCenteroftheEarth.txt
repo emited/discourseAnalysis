@@ -5,7 +5,11 @@ Lidenbrock attempts a decipherment, deducing the message to be a kind of transpo
 Professor Lidenbrock decides to lock everyone in the house and force himself and the others (Axel, and the maid, Martha) to go without food until he cracks the code.
 Axel discovers the answer when fanning himself with the deciphered text: Lidenbrock's decipherment was correct, and only needs to be read backwards to reveal sentences written in rough Latin.
 Axel decides to keep the secret hidden from Professor Lidenbrock, afraid of what the Professor might do with the knowledge, but after two days without food he cannot stand the hunger and reveals the secret to his uncle.
+<<<<<<< HEAD
 Lidenbrock translates the note, which is revealed to be a medieval note written by the (fictional) Icelandic alchemist Arne Saknussemm, who claims to have discovered a passage to the center of the Earth via Snfell in Iceland.
+=======
+Lidenbrock translates the note, which is revealed to be a medieval note written by the (fictional) Icelandic alchemist Arne Saknussemm, who claims to have discovered a passage to the center of the Earth via Snæfell in Iceland.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In what Axel calls bad Latin, the deciphered message reads:
 
 In Snefflls [sic] Iokulis kraterem kem delibat umbra Skartaris Iulii intra kalendas deskende, audas uiator, te [sic] terrestre kentrum attinges.
@@ -19,18 +23,30 @@ Arne Saknussemm
 
 which, when translated into English, reads:
 
+<<<<<<< HEAD
 Descend, bold traveller, into the crater of the jkull of Snfell, which the shadow of Scartaris touches (lit: tastes) before the Kalends of July, and you will attain the center of the earth.
+=======
+Descend, bold traveller, into the crater of the jökull of Snæfell, which the shadow of Scartaris touches (lit: tastes) before the Kalends of July, and you will attain the center of the earth.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I did it.
 Arne Saknussemm
 
 Professor Lidenbrock is a man of astonishing impatience, and departs for Iceland immediately, taking his reluctant nephew with him.
 Axel, who, in comparison, is cowardly and anti-adventurous, repeatedly tries to reason with him, explaining his fears of descending into a volcano and putting forward various scientific theories as to why the journey is impossible, but Professor Lidenbrock repeatedly keeps himself blinded against Axel's point of view.
+<<<<<<< HEAD
 After a rapid journey via Lbeck and Copenhagen, they arrive in Reykjavk, where the two procure the services of Hans Bjelke (a Danish-speaking Icelander eiderdown hunter) as their guide, and travel overland to the base of the volcano.
+=======
+After a rapid journey via Lübeck and Copenhagen, they arrive in Reykjavík, where the two procure the services of Hans Bjelke (a Danish-speaking Icelander eiderdown hunter) as their guide, and travel overland to the base of the volcano.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In late June, they reach the volcano, which has three craters.
 According to Saknussemm's message, the passage to the center of the Earth is through the one crater that is touched by the shadow of a nearby mountain peak at noon.
 However, the text also states that this is only true during the last days of June.
 During the next few days, with July rapidly approaching, the weather is too cloudy for any shadows.
+<<<<<<< HEAD
 Axel silently rejoices, hoping this will force his uncle  who has repeatedly tried to impart courage to him only to succeed in making him even more cowardly still  to give up the project and return home.
+=======
+Axel silently rejoices, hoping this will force his uncle – who has repeatedly tried to impart courage to him only to succeed in making him even more cowardly still – to give up the project and return home.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Alas for Axel, however, on the second to last day, the sun comes out and the mountain peak shows the correct crater to take.
 After descending into the crater, the three travellers set off into the bowels of the Earth, encountering many strange phenomena and great dangers, including a chamber filled with combustible gas, and steep-sided wells around the "path". After taking a wrong turn, they run out of water and Axel almost dies, but Hans taps into a neighbouring subterranean river.
 Lidenbrock and Axel name the resulting stream the "Hansbach" in his honour and the three are saved.
@@ -57,7 +73,11 @@ The travellers are swept away as the sea rushes into the large open gap in the g
 After spending hours being swept along at lightning speeds by the water, the raft ends up inside a large volcanic chimney filling with water and magma.
 Terrified, the three are rushed upwards, through stifling heat, and are ejected onto the surface from a side-vent of a stratovolcano.
 When they regain consciousness, they discover that they have been ejected from Stromboli, a volcanic island located in southern Italy.
+<<<<<<< HEAD
 They return to Hamburg to great acclaim  Professor Lidenbrock is hailed as one of the great scientists of history, Axel marries his sweetheart Gruben, and Hans eventually returns to his peaceful life in Iceland.
+=======
+They return to Hamburg to great acclaim – Professor Lidenbrock is hailed as one of the great scientists of history, Axel marries his sweetheart Gräuben, and Hans eventually returns to his peaceful life in Iceland.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The Professor has some regret that their journey was cut short.
 At the very end of the book, Axel and Lidenbrock realize why their compass was behaving strangely after their journey on the raft.
 They realize that the needle was pointing the wrong way after being struck by an electric fireball which nearly destroyed the wooden raft.

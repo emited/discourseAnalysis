@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Genetics is the study of genes  what they are, what they do, and how they work.
+=======
+Genetics is the study of genes — what they are, what they do, and how they work.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Genes are made up of molecules inside the nucleus of a cell that are strung together in such a way that the sequence carries information: that information determines how living organisms inherit phenotypic traits, (features) determined by the genes they received from their parents and thereby going back through the generations.
 For example, offspring produced by sexual reproduction usually look similar to each of their parents because they have inherited some of each of their parents' genes.
 Genetics identifies which features are inherited, and explains how these features pass from generation to generation.

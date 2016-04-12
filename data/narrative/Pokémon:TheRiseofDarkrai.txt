@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 In the prologue, a scientist named Tonio is reading a diary which belonged to a famous architect named Godey, his great-grandfather, indicating that two Pokmon between their dimension are fighting, and that the battle could lead to chaos.
 Those written future events are occurring at that same moment as Palkia, who can distort space and Dialga, who rules over time are brawling, which causes the hourglass in Tonio's lab to fall and shatter.
 Ash, Brock, and Dawn are headed to Alamos Town for the next Pokmon contest.
+=======
+In the prologue, a scientist named Tonio is reading a diary which belonged to a famous architect named Godey, his great-grandfather, indicating that two Pokémon between their dimension are fighting, and that the battle could lead to chaos.
+Those written future events are occurring at that same moment as Palkia, who can distort space and Dialga, who rules over time are brawling, which causes the hourglass in Tonio's lab to fall and shatter.
+Ash, Brock, and Dawn are headed to Alamos Town for the next Pokémon contest.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, they realize that Alamos is in the middle of a small lake.
 Tired, they are greeted by Alice and her Chimchar from Alamos who offer them a hot air balloon ride.
 Brock falls for her and his Croagunk Jabs him.
 Alice is a tour guide as well as a music student who plays the leaf whistle.
 On their way, the battle between the dimensions continues and causes a massive air current shockwave.
 Alice then offers a tour of the town.
+<<<<<<< HEAD
 Later on, Alice brings them to a garden in which many Pokmon reside in peace and where Alice played at as a little girl.
 Ash, Brock, and Dawn let all their Pokmon free and they run off to do their own things, which then later goes from happiness to chaos.
 Once the Pokmon begin to quarrel, along with the garden Pokmon present, Alice calms them down playing a soothing song using the leaf whistle, later on revealing that she had learned the song from her grandmother (who appears deceased). Shortly after a Gallade hops right into the scene.
@@ -14,6 +21,15 @@ Alice indicates that Gallade senses something wrong and thus, the Gallade reques
 The trio recalls their Pokmon and they pursuit the Gallade, ending up at a small temple with some of its pillars damaged.
 A man named Baron Alberto walks out of the tunnel, claiming that was the work of Darkrai.
 The name Darkrai puzzles Ash and Dawn, but Brock mentions that Darkrai is a Pokmon who causes nightmares.
+=======
+Later on, Alice brings them to a garden in which many Pokémon reside in peace and where Alice played at as a little girl.
+Ash, Brock, and Dawn let all their Pokémon free and they run off to do their own things, which then later goes from happiness to chaos.
+Once the Pokémon begin to quarrel, along with the garden Pokémon present, Alice calms them down playing a soothing song using the leaf whistle, later on revealing that she had learned the song from her grandmother (who appears deceased). Shortly after a Gallade hops right into the scene.
+Alice indicates that Gallade senses something wrong and thus, the Gallade requests Ash and the rest of them to follow him.
+The trio recalls their Pokémon and they pursuit the Gallade, ending up at a small temple with some of its pillars damaged.
+A man named Baron Alberto walks out of the tunnel, claiming that was the work of Darkrai.
+The name Darkrai puzzles Ash and Dawn, but Brock mentions that Darkrai is a Pokémon who causes nightmares.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Everyone hears a noise from a bush nearby and Baron orders his Lickilicky to fire a Hyper Beam attack into the bush.
 However, the victim was Tonio who screams and limps out of the bush.
 Alice quickly hurries to Tonio's pain.
@@ -23,6 +39,7 @@ Brock is deeply shocked as well as the rest of them.
 Alice rejects and runs to Tonio claiming that she likes him.
 Tonio blushes and tries not to deny anything.
 Not too long after, Darkrai appears in the garden.
+<<<<<<< HEAD
 Baron orders Lickilicky to attack the Dark Pokmon, which misses while Darkrai fires a Dark Void at his enemy.
 Baron's Lickilicky dodges the attack and the orb of dark impales Ash, instantly knocking him out to sleep and subsequently, trapping him in a nightmare.
 The nightmare shows Palkia moving up to Ash and then goes to attack him.
@@ -32,6 +49,17 @@ Then, Darkrai disappears to reveal Pikachu, who is about to get devoured by a va
 Ash dives into the hole to rescue Pikachu.
 Having failed, he and his Pikachu drop into a neverending fall.
 He is then awakened by Pikachu's Thunderbolt at the Pokmon Center.
+=======
+Baron orders Lickilicky to attack the Dark Pokémon, which misses while Darkrai fires a Dark Void at his enemy.
+Baron's Lickilicky dodges the attack and the orb of dark impales Ash, instantly knocking him out to sleep and subsequently, trapping him in a nightmare.
+The nightmare shows Palkia moving up to Ash and then goes to attack him.
+This delivers Ash to a part of the garden.
+After learning the dream is Darkrai's doing and Darkrai appears in front of him, Ash reaches for a Poké Ball and tosses it, but it vanishes into thin air.
+Then, Darkrai disappears to reveal Pikachu, who is about to get devoured by a vacuum hole.
+Ash dives into the hole to rescue Pikachu.
+Having failed, he and his Pikachu drop into a neverending fall.
+He is then awakened by Pikachu's Thunderbolt at the Pokémon Center.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At night, Tonio tries to find more information in which he succeeds.
 He reads that Darkrai had opened his heart to Alice's grandmother years ago and remains in the garden since then, with Godey witnessing a little bit on the side as she plays the leaf whistle.
 Meanwhile, Baron meets three TV people who are actually Team Rocket who decide to film Baron as he takes on Darkrai.
@@ -39,17 +67,26 @@ The next morning, Ash, Brock, and Dawn visit the Space-Time Towers in town, meet
 They climb to the top to be introduced to a massive instrument which plays music by the hour Using the instrument, Dawn plays a special song through the tower's bells (The "Market Theme" from the Legend of Zelda franchise.) As Ash and the rest of the group leave the Space-Time Towers, a hole blasts out in the middle of the sky just above the towers which then cools off.
 A massive shockwave has purged through the entire town and Tonio decides to study the sudden outburst.
 Afterwards, Darkrai reappears in the courtyard while Ash and company (with Baron joining along) engage in combat with it.
+<<<<<<< HEAD
 Darkrai is outraged and fires multiple loads of Dark Void orbs, placing many Pokmon in the town square into nightmares.
 Back at Tonio's lab after some intensive research, he finds that the sudden outburst was when the legendary Palkia had entered their dimension, but he did not know why.
 Ash and Baron chase Darkrai into a dark alley where the Dark Pokmon scores a direct hit on Baron's Lickilicky, causing it to doze off.
 Just then, Baron is turned into a Lickilicky himself (due to a combination of the distorting of space and Lickilicky dreaming that he turned into his master). With that occurring, floating ghost-like images of the sleeping Pokmon floated all around town, some passing through walls, causing the situation to grow quite strange.
 After all the Pokmon are at the Pokmon center, Alamos Town is completely covered in a massive fog which can not be cleared off and causes anything which attempts to leave the town to be reversibly entering the town, resulting in no possible escape.
+=======
+Darkrai is outraged and fires multiple loads of Dark Void orbs, placing many Pokémon in the town square into nightmares.
+Back at Tonio's lab after some intensive research, he finds that the sudden outburst was when the legendary Palkia had entered their dimension, but he did not know why.
+Ash and Baron chase Darkrai into a dark alley where the Dark Pokémon scores a direct hit on Baron's Lickilicky, causing it to doze off.
+Just then, Baron is turned into a Lickilicky himself (due to a combination of the distorting of space and Lickilicky dreaming that he turned into his master). With that occurring, floating ghost-like images of the sleeping Pokémon floated all around town, some passing through walls, causing the situation to grow quite strange.
+After all the Pokémon are at the Pokémon center, Alamos Town is completely covered in a massive fog which can not be cleared off and causes anything which attempts to leave the town to be reversibly entering the town, resulting in no possible escape.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Baron still believes that it was still Darkrai who had caused all this.
 All the trainers follow Baron to confront Darkrai, but Ash, Brock, and Dawn do not go along listening to Tonio, who doesn't believe Darkrai is up to this.
 He believes Darkrai is good since he had saved Alice in their childhood.
 It is revealed that the two of them were playing in the garden when Alice tripped off the cliff and fell.
 Tonio ran to her (knowing that he would fail) but a silhouette of Darkrai zipped out and caught Alice just before disappearing.
 Hearing that, the trio now agree that it was not Darkrai who caused the havoc.
+<<<<<<< HEAD
 Tonio explains that the distortion caused from the spiritual images of the sleeping Pokmon was caused by an multidimensional disturbance from when Palkia entered the realm.
 Later that evening, Tonio finds Palkia resting between the towers.
 Darkrai, who was fighting Baron, instead tries to attack the resting Palkia.
@@ -58,6 +95,16 @@ As Palkia and Darkrai battle, Palkia switches the town back into his battle dime
 As they brawl, the entire town is going to dissipate into nothing (due to the severe injury suffered by Palkia during his battle with Dialga earlier in the movie). Darkrai constantly tries to fend them off as the town evacuates into the garden.
 After Tonio reads a passage from Godey's diary, Alice hears the word "Oracin" which means Prayer in Spanish and that is the name of the song she plays on the leaf whistle.
 Tonio indicates that "Oracin is the song that could soothe even the fiercest rage". They realize that they must play Oracin on the towers' musical instrument to stop Dialga and Palkia from their feud.
+=======
+Tonio explains that the distortion caused from the spiritual images of the sleeping Pokémon was caused by an multidimensional disturbance from when Palkia entered the realm.
+Later that evening, Tonio finds Palkia resting between the towers.
+Darkrai, who was fighting Baron, instead tries to attack the resting Palkia.
+Ash then realizes that was what Darkrai was trying to tell him in his nightmare, that the two legendary Pokémon are waging war.
+As Palkia and Darkrai battle, Palkia switches the town back into his battle dimension (Alternate Dimension, where Unown live and located between time and space). But as Palkia is about to hit Darkrai with one of his attacks, Dialga opens fire on the two and immediately runs into Palkia, thus continuing it.
+As they brawl, the entire town is going to dissipate into nothing (due to the severe injury suffered by Palkia during his battle with Dialga earlier in the movie). Darkrai constantly tries to fend them off as the town evacuates into the garden.
+After Tonio reads a passage from Godey's diary, Alice hears the word "Oración" which means Prayer in Spanish and that is the name of the song she plays on the leaf whistle.
+Tonio indicates that "Oración is the song that could soothe even the fiercest rage". They realize that they must play Oración on the towers' musical instrument to stop Dialga and Palkia from their feud.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After finding the music disc, Ash, Dawn, Alice and Tonio begin to head up the tower by balloon as Brock helps Nurse Joy evacuate the townspeople.
 On their way up, Dialga fires its Roar of Time while Palkia stands in between the balloon and Dialga.
 Palkia dodges the attack, leaving the beam to crossfire with the balloon.
@@ -65,10 +112,17 @@ Darkrai instantly comes to the rescue and takes the massive blow from Dialga.
 However, in the process Palkia and Dialga fly by the balloon, causing heavy damage, and leaving Ash and Dawn to travel up by foot which will slow them down.
 Dialga and Palkia continue their confrontation and now they are going to deal the final blow.
 Dialga is charging his Roar of Time while Palkia charges his Spacial Rend.
+<<<<<<< HEAD
 When both the legendary Pokmon discharge their attacks, Darkrai crosses the attacks' line and forms a sphere around him to block the attacks, engulfing and immobilizing Dialga and Palkia in the process.
 Baron, who had already turned back to himself due to his lickylicky awakening, then finally believes Darkrai is not the foe.
 As Ash and Dawn make their way up the tower, they watch as Darkrai's sphere gets weaker and eventually shrinks, causing Dialga and Palkia to break free.
 The dragons, fed up with the Dark Pokmon intervening with their battle, both shoot Darkrai from both sides.
+=======
+When both the legendary Pokémon discharge their attacks, Darkrai crosses the attacks' line and forms a sphere around him to block the attacks, engulfing and immobilizing Dialga and Palkia in the process.
+Baron, who had already turned back to himself due to his lickylicky awakening, then finally believes Darkrai is not the foe.
+As Ash and Dawn make their way up the tower, they watch as Darkrai's sphere gets weaker and eventually shrinks, causing Dialga and Palkia to break free.
+The dragons, fed up with the Dark Pokémon intervening with their battle, both shoot Darkrai from both sides.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Having almost no armor or the energy left, he bravely takes the destructive blow and disintegrates as he floats up into the air.
 Everyone looks on with the fear that now that Darkrai had perished, they too would suffer the same fate in the next moment.
 Tonio then mentions that if the dragons' signature moves collide once more, their dimension will be completely destroyed.
@@ -77,12 +131,20 @@ The song plays loud throughout the small section of what's left of the town.
 During the song, the towers start to glow.
 Each of the six towers (the whole structure is composed of three space and time towers) begin to unveil all their hidden features added by Godey (i.e. blooming flowers and curve-like structures out of the towers). Then, the towers begin to form gigantic golden wings.
 Those wings fold down and actually restore the lost part of town.
+<<<<<<< HEAD
 The song successfully calms the dragons down, Palkia's wound heals, Dialga flies away and Palkia restores everything back, returning Alamos Town to how it originally was along with the townspeople and the Pokmon living in the garden.
+=======
+The song successfully calms the dragons down, Palkia's wound heals, Dialga flies away and Palkia restores everything back, returning Alamos Town to how it originally was along with the townspeople and the Pokémon living in the garden.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Later, the band are mourning for the loss of Darkrai, but thank him for his efforts.
 Ash and Dawn begin to cry, both believing they would probably never see Darkrai again.
 As they walk away, Ash stops as he sees a shadow on the cliffside.
 He along with everyone else looks back at the cliff.
 Later on the Space-Time Towers, they find Darkrai standing heroically on top.
 Everyone is relieved that he is safe and Alice cuddles next to Tonio as they look onto Darkrai who then glares with a lit up eye, as the film quickly fades.
+<<<<<<< HEAD
 In the end credits, it shows the aftermath occurring after everything, such as the Pokmon contest which Dawn competes in.
+=======
+In the end credits, it shows the aftermath occurring after everything, such as the Pokémon contest which Dawn competes in.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Not too long after, it shows Dialga hovering towards his next destination awaiting a battle, which will start the next adventure that Ash, Dawn and Brock will face.

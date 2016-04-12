@@ -10,7 +10,11 @@ The important thing in our process, however, is to play the game, and in the gre
 
 Now that the election is over, it is time to get on with the great tasks that lie before us.
 I have tried to conduct myself in this campaign in a way that would not divide our country, not divide it regionally or by parties or in any other way, because I very firmly believe that what unites America today is infinitely more important than those things which divide us.
+<<<<<<< HEAD
 We are united AmericansNorth, East, West, and South, both partiesin our desire for peace, peace with honor, the kind of a peace that will last, and we are moving swiftly toward that great goal, not just in Vietnam, but a new era of peace in which the old relationships between the two super powers, the Soviet Union and the United States, and between the world's most populous nation, the People's Republic of China, and the United States, are changed so that we are on the eve of what could be the greatest generation of peace, true peace for the whole world, that man has ever known.
+=======
+We are united Americans—North, East, West, and South, both parties—in our desire for peace, peace with honor, the kind of a peace that will last, and we are moving swiftly toward that great goal, not just in Vietnam, but a new era of peace in which the old relationships between the two super powers, the Soviet Union and the United States, and between the world's most populous nation, the People's Republic of China, and the United States, are changed so that we are on the eve of what could be the greatest generation of peace, true peace for the whole world, that man has ever known.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 This is a great goal, bigger than whether we are Democrats or Republicans, and it is one that I think you will want to work with me, with all of us, in helping to achieve.
 

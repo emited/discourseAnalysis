@@ -47,7 +47,11 @@ And so let us now ask them, all the veterans of the Normandy campaign, to stand 
 [Applause]
 
 The freedom they fought for was no abstract concept, it was the stuff of their daily lives.
+<<<<<<< HEAD
 Listen to what Frank Elliot had written to his wife from the embarkation point in England: "I miss hamburgersla Coney Island, American beerla Duquesne, American showsla Penn Theater, and American girlsla you." Pauline Elliot wrote back on June 6th, as she and their one-year-old daughter listened on the radio, "Little DeRonda is the only one not affected by D-Day news.
+=======
+Listen to what Frank Elliot had written to his wife from the embarkation point in England: "I miss hamburgers—la Coney Island, American beer—la Duquesne, American shows—la Penn Theater, and American girls—la you." Pauline Elliot wrote back on June 6th, as she and their one-year-old daughter listened on the radio, "Little DeRonda is the only one not affected by D-Day news.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I hope and pray she will never remember any of this, but only the happiness of the hours that will follow her daddy's homecoming step on the porch."
 
 Well, millions of our GI's did return home from that war to build up our nations and enjoy life's sweet pleasures.

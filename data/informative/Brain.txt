@@ -2,7 +2,11 @@ The brain is an organ that serves as the center of the nervous system in all ver
 Only a few invertebrates such as sponges, jellyfish, adult sea squirts and starfish do not have a brain; diffuse or localised nerve nets are present instead.
 The brain is located in the head, usually close to the primary sensory organs for such senses as vision, hearing, balance, taste, and smell.
 The brain is the most complex organ in a vertebrate's body.
+<<<<<<< HEAD
 In a typical human, the cerebral cortex (the largest part) is estimated to contain 1533 billion neurons, each connected by synapses to several thousand other neurons.
+=======
+In a typical human, the cerebral cortex (the largest part) is estimated to contain 15–33 billion neurons, each connected by synapses to several thousand other neurons.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 These neurons communicate with one another by means of long protoplasmic fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells.
 Physiologically, the function of the brain is to exert centralized control over the other organs of the body.
 The brain acts on the rest of the body both by generating patterns of muscle activity and by driving the secretion of chemicals called hormones.

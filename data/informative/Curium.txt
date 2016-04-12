@@ -1,8 +1,15 @@
 Curium is a transuranic radioactive chemical element with symbol Cm and atomic number 96.
+<<<<<<< HEAD
 This element of the actinide series was named after Marie and Pierre Curie  both were known for their research on radioactivity.
 Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.
 The discovery was kept secret and only released to the public in November 1945.
 Most curium is produced by bombarding uranium or plutonium with neutrons in nuclear reactors  one tonne of spent nuclear fuel contains about 20 grams of curium.
+=======
+This element of the actinide series was named after Marie and Pierre Curie – both were known for their research on radioactivity.
+Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.
+The discovery was kept secret and only released to the public in November 1945.
+Most curium is produced by bombarding uranium or plutonium with neutrons in nuclear reactors – one tonne of spent nuclear fuel contains about 20 grams of curium.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Curium is a hard, dense, silvery metal with a relatively high melting point and boiling point for an actinide.
 Whereas it is paramagnetic at ambient conditions, it becomes antiferromagnetic upon cooling, and other magnetic transitions are also observed for many curium compounds.
 In compounds, curium usually exhibits valence +3 and sometimes +4, and the +3 valence is predominant in solutions.
@@ -10,7 +17,14 @@ Curium readily oxidizes, and its oxides are a dominant form of this element.
 It forms strongly fluorescent complexes with various organic compounds, but there is no evidence of its incorporation into bacteria and archaea.
 When introduced into the human body, curium accumulates in the bones, lungs and liver, where it promotes cancer.
 All known isotopes of curium are radioactive and have a small critical mass for a sustained nuclear chain reaction.
+<<<<<<< HEAD
 They predominantly emit -particles, and the heat released in this process can potentially produce electricity in radioisotope thermoelectric generators.
 This application is hindered by the scarcity, high cost and radioactivity of curium isotopes.
 Curium is used in production of heavier actinides and of the 238Pu radionuclide for power sources in artificial pacemakers.
 It served as the -source in the alpha particle X-ray spectrometers installed on several space probes, including the Sojourner, Spirit, Opportunity and Curiosity Mars rovers and the Philae lander on comet 67P/Churyumov-Gerasimenko, to analyze the composition and structure of the surface.
+=======
+They predominantly emit α-particles, and the heat released in this process can potentially produce electricity in radioisotope thermoelectric generators.
+This application is hindered by the scarcity, high cost and radioactivity of curium isotopes.
+Curium is used in production of heavier actinides and of the 238Pu radionuclide for power sources in artificial pacemakers.
+It served as the α-source in the alpha particle X-ray spectrometers installed on several space probes, including the Sojourner, Spirit, Opportunity and Curiosity Mars rovers and the Philae lander on comet 67P/Churyumov-Gerasimenko, to analyze the composition and structure of the surface.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

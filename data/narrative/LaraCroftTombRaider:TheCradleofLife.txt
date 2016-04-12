@@ -4,7 +4,11 @@ Among these treasures is a glowing orb with a pattern resembling a code etched i
 Lara (Angelina Jolie) finds this orb; but crime lord Chen Lo (Simon Yam) attacks her group, kill her two companions and takes the orb.
 Lara escapes with a strange medallion.
 MI6 approaches Lara with information of Pandora's Box.
+<<<<<<< HEAD
 It is an object from ancient legends that supposedly contains a deadly plague (the companion to the origin of life itself). They need to get it before Jonathan Reiss (Ciarn Hinds) - Nobel Prize winning scientist turned bio-terrorist - does.
+=======
+It is an object from ancient legends that supposedly contains a deadly plague (the companion to the origin of life itself). They need to get it before Jonathan Reiss (Ciarán Hinds) - Nobel Prize winning scientist turned bio-terrorist - does.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The box, hidden in the mysterious Cradle of Life, can only be found with a magical sphere that serves as a map.
 The same sphere was stolen by Chen Lo, who plans to sell the sphere to Reiss.
 Lara agrees to help them, with the condition that they release her old flame Terry Sheridan (Gerard Butler), who has knowledge of Chen Lo's criminal operation.

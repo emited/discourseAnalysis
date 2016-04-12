@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The Renaissance (UK /rnesns/, US /rnsns/) is a period in Europe, from the 14th to the 17th century, considered the bridge between the Middle Ages and modern history.
+=======
+The Renaissance (UK /rᵻˈneɪsəns/, US /ˈrɛnᵻsɑːns/) is a period in Europe, from the 14th to the 17th century, considered the bridge between the Middle Ages and modern history.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It started as a cultural movement in Italy in the Late Medieval period and later spread to the rest of Europe, marking the beginning of the Early Modern Age.
 The Renaissance's intellectual basis was its own invented version of humanism, derived from the rediscovery of classical Greek philosophy, such as that of Protagoras, who said, that "Man is the measure of all things." This new thinking became manifest in art, architecture, politics, science and literature.
 Early examples were the development of perspective in oil painting and the recycled knowledge of how to make concrete.
@@ -14,7 +18,11 @@ The art historian Erwin Panofsky observed of this resistance to the concept of "
 
 It is perhaps no accident that the factuality of the Italian Renaissance has been most vigorously questioned by those who are not obliged to take a professional interest in the aesthetic aspects of civilizationhistorians of economic and social developments, political and religious situations, and, most particularly, natural sciencebut only exceptionally by students of literature and hardly ever by historians of Art.
 
+<<<<<<< HEAD
 Some observers have called into question whether the Renaissance was a cultural "advance" from the Middle Ages, instead seeing it as a period of pessimism and nostalgia for classical antiquity, while social and economic historians, especially of the longue dure, have instead focused on the continuity between the two eras which are linked, as Panofsky observed, "by a thousand ties".
+=======
+Some observers have called into question whether the Renaissance was a cultural "advance" from the Middle Ages, instead seeing it as a period of pessimism and nostalgia for classical antiquity, while social and economic historians, especially of the longue durée, have instead focused on the continuity between the two eras which are linked, as Panofsky observed, "by a thousand ties".
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The word Renaissance, literally meaning "Rebirth" in French, first appears in English in the 1830s.
 The word occurs in Jules Michelet's 1855 work, Histoire de France.
 The word Renaissance has also been extended to other historical and cultural movements, such as the Carolingian Renaissance and the Renaissance of the 12th century.

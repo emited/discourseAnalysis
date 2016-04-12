@@ -3,7 +3,11 @@ Woody is a popular varsity football player while Nell is a nerdy, literature-lov
 They loathe each other and are constantly in dispute.
 One day their class goes on a school trip to a museum and they are forced to work together on an assignment.
 They quickly begin arguing in front of a statue of the ancient Aztec god Tezcatlipoca.
+<<<<<<< HEAD
 As they argue, the statue casts a spell upon them  causing them to wake up in each other's bodies the next morning.
+=======
+As they argue, the statue casts a spell upon them — causing them to wake up in each other's bodies the next morning.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When they arrive at school, they immediately blame each other for the body swap, but agree to pretend to be the other person until they can find a way to switch back.
 At first, they seem to succeed, but quickly return to arguing when they each feel the other is misrepresenting them in the opposite body, such as Woody (in Nell's body) answering a question oddly and surprising a teacher.
 The following day, Nell (in Woody's body) arrives at school wearing "Chinos and an Oxford cotton button-down" making Woody's appearance look "dorky" which frustrates Woody, and he is even more frustrated after he hears about how Nell (in Woody's body) failed Woody's football practice the previous day.

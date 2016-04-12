@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Five years after the first film, Crown Princess of Genovia Amelia "Mia" Thermopolis (Anne Hathaway) has just graduated from Princeton University's Woodrow Wilson School and is returning to Genovia with her bodyguard Joe (Hctor Elizondo). There, she will await her reign once her grandmother, Queen Clarisse (Julie Andrews), steps down as Queen.
+=======
+Five years after the first film, Crown Princess of Genovia Amelia "Mia" Thermopolis (Anne Hathaway) has just graduated from Princeton University's Woodrow Wilson School and is returning to Genovia with her bodyguard Joe (Héctor Elizondo). There, she will await her reign once her grandmother, Queen Clarisse (Julie Andrews), steps down as Queen.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 During Mia's 21st birthday party, she dances with all the eligible bachelors in hope of finding a husband.
 She becomes attracted to a handsome gentleman named Nicholas (Chris Pine). During the course of the night, Mia's tiara falls off and is caught by Parliament member Viscount Mabrey (John Rhys-Davies) who secretly plans to steal Mia's crown.
 While the Parliament is in-session the next morning, Mia stumbles upon a hidden room that allows her to secretly listen in.
@@ -22,7 +26,11 @@ During the Genovian Independence Day parade, Mia sees some boys picking on a lit
 Learning the children are orphans, Mia has a vendor give them all tiaras and lets them walk with her in the parade.
 Everyone is impressed by her act of generosity, while Mabrey sees it as a political maneuver.
 Mia later decides to convert one of the royal palaces into a temporary children's center.
+<<<<<<< HEAD
 That night, Mia has her bachelorette/sleepover party, where Queen Clarisse surfs on a mattress and sings a duet with Princess Asana (Raven-Symon), one of Mia's good friends.
+=======
+That night, Mia has her bachelorette/sleepover party, where Queen Clarisse surfs on a mattress and sings a duet with Princess Asana (Raven-Symoné), one of Mia's good friends.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the meantime, Mabrey realizes Nicholas has fallen for Mia, but Nicholas says that Mia will never love him.
 Nicholas comes upon Mia as she is practising her archery as part of her coronation rites.
 He helps her succeed in getting the arrow to hit the bullseye, something she had been struggling with.

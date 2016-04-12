@@ -18,7 +18,11 @@ Meanwhile, Stu reveals Hypnos' plan to Death upon capture and convinces her to s
 As he flees the morgue attendants, Stu finds out about Monkeybone's planned party and heads there with the extractors still in pursuit.
 At the party, Stu's agent, Herb, exposes himself to the Oneirix in the Monkeybone doll and ends up seeing in the mirror that his clothes are coming to life.
 This causes Herb to run through the party naked, telling everyone that the clothes have come to life and turned evil.
+<<<<<<< HEAD
 After that, Monkeybone in Stu's body tells everyone to forget about it as he brings down the Stu piata containing the Monkeybone dolls.
+=======
+After that, Monkeybone in Stu's body tells everyone to forget about it as he brings down the Stu piñata containing the Monkeybone dolls.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Stu uses Monkeybone's main characteristics from the comics to cause him to panic and escape.
 A chase ensues, culminating with Stu and Monkeybone battling each other while clinging to a giant Monkeybone balloon.
 The balloon is eventually shot down by a passing incompetent police officer and both Stu and Monkeybone fall to their deaths.

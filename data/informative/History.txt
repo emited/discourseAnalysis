@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 History (from Greek , historia, meaning "inquiry, knowledge acquired by investigation") is the study of the past, particularly how it relates to humans.
+=======
+History (from Greek ἱστορία, historia, meaning "inquiry, knowledge acquired by investigation") is the study of the past, particularly how it relates to humans.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It is an umbrella term that relates to past events as well as the memory, discovery, collection, organization, presentation, and interpretation of information about these events.
 Scholars who write about history are called historians.
 Events occurring prior to written record are considered prehistory.

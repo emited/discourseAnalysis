@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 In 2020, the Mars I spacecraft, en route to planet Mars, is commanded by Luke Graham (Don Cheadle) with fellow astronauts Nicholas Willis (Kavan Smith), Sergei Kirov (Peter Outerbridge), and Rene Cot (Jill Teed). Upon arrival, the team discovers a crystalline formation in the Cydonia region, by which they suspect an extrusion from a subsurface geothermal column of water, useful to future human colonization.
+=======
+In 2020, the Mars I spacecraft, en route to planet Mars, is commanded by Luke Graham (Don Cheadle) with fellow astronauts Nicholas Willis (Kavan Smith), Sergei Kirov (Peter Outerbridge), and Renée Coté (Jill Teed). Upon arrival, the team discovers a crystalline formation in the Cydonia region, by which they suspect an extrusion from a subsurface geothermal column of water, useful to future human colonization.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After reporting this to the World Space Station, they hear a strange sound on their communications system, which they assume to be interference from their planetary rover.
 While they scan the formation with radar, a large vortex kills them.
 After the vortex subsides, a large humanoid face is exposed in the adjacent mountain.

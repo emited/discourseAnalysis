@@ -2,7 +2,11 @@ The movie opens outside of a building where terrorists are holding hostages and 
 The Reno Sheriff's Department arrives in a helicopter, called in as experts.
 As the group prepare to deal with the situation, Deputy Travis Junior (Robert Ben Garant) wakes up and realizes it was a dream; he was sleeping at the wheel and the vehicle he and Lt.
 Dangle are in crashes.
+<<<<<<< HEAD
 The film continues with introductory clips of the officers, telling how they became interested in law enforcement,  la COPS.
+=======
+The film continues with introductory clips of the officers, telling how they became interested in law enforcement, à la COPS.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After a scene involving a chicken in the road miscoded as an "armed person on a roof", Dangle tells everyone that they have been invited to the American Police Convention in Miami Beach.
 On arrival, the group finds they are not on the entrant list.
 Having nowhere to stay, they rent rooms at a motel that seems to be a hub of illegal activities.

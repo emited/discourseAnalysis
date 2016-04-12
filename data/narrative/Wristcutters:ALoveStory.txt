@@ -1,6 +1,10 @@
 After Zia commits suicide, he finds himself in an afterlife limbo much the same as life, just slightly worse.
 Here the color is dim, there are no stars, and no one can smile.
+<<<<<<< HEAD
 This strange realm is populated by people who have committed suicide, such as Eugene, a Russian musician who lives with his mother, father, and brother  all suicide victims.
+=======
+This strange realm is populated by people who have committed suicide, such as Eugene, a Russian musician who lives with his mother, father, and brother – all suicide victims.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Eugene kills himself on stage by pouring a beer he is drinking onto his electric guitar.
 Together they waste most of their afterlives in bars, until Zia learns from a friend, Brian, that his ex-girlfriend, Desiree, has also committed suicide.
 He and Eugene take to the road to find her, in Eugene's rundown car.
@@ -16,7 +20,11 @@ Eugene meets a young woman, Nanuk, whom he romances.
 Just as Mikal and Zia discuss their plans to leave Kneller's camp, another camper, Yan, emerges from the woods with news that Kneller's dog has been abducted by a cult leader called "Messiah King". Kneller, Zia, Mikal, and Yan set off in search of King and Kneller's dog.
 After the group becomes lost and beds down for the night, Mikal and Zia discover a nearby ocean shore, where they kiss and spend the night.
 In the morning, Kneller discovers them lying among (presumably used) condoms and needles.
+<<<<<<< HEAD
 The group eventually reaches King's camp, where they discover that King (Will Arnett) is readying himself for a "real" miracle  to separate his soul from his body.
+=======
+The group eventually reaches King's camp, where they discover that King (Will Arnett) is readying himself for a "real" miracle – to separate his soul from his body.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 As Kneller confronts King, Zia discovers that his ex-girlfriend, Desiree, is a devout cult follower, having committed suicide to follow King to the afterlife.
 As King is about to perform public, ritual suicide, Kneller reveals himself to be an undercover agent for the people in charge.
 King and Desiree are taken away, while Mikal leaves with them, promising Zia that she'll return.

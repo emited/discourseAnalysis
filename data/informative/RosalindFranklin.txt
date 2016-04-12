@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Rosalind Elsie Franklin (25 July 1920  16 April 1958) was an English chemist and X-ray crystallographer who made contributions to the understanding of the molecular structures of DNA (deoxyribonucleic acid), RNA (ribonucleic acid), viruses, coal, and graphite.
+=======
+Rosalind Elsie Franklin (25 July 1920 – 16 April 1958) was an English chemist and X-ray crystallographer who made contributions to the understanding of the molecular structures of DNA (deoxyribonucleic acid), RNA (ribonucleic acid), viruses, coal, and graphite.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Although her works on coal and viruses were appreciated in her lifetime, her contributions to the discovery of DNA were largely recognized posthumously.
 Born to a prominent British Jewish family, Franklin was educated at a private day school at Norland Place in West London, Lindores School for Young Ladies in Sussex, and St Paul's Girls' School, London.
 Then she studied the Natural Sciences Tripos at Newnham College, Cambridge, from where she graduated in 1941.

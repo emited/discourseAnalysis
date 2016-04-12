@@ -4,7 +4,11 @@ Seeing that Cady is getting along with the Plastics, Janis hatches a plan of rev
 Cady soon learns about Regina's "Burn Book", a journal filled with rumors, secrets, and gossip about the other girls and some teachers.
 Despite this discovery, Cady decides to forgo Janis's scheme for ethical reasons.
 Meanwhile, Cady begins to have a crush on Regina's ex-boyfriend, Aaron Samuels (Jonathan Bennett), whom a jealous Regina steals back at a Halloween party in front of her.
+<<<<<<< HEAD
 Upon this incident, Cady decides to fully commit to Janis's plan to cut off Regina's "resources", which involve breaking Regina and Aaron up, tricking her into eating nutrition bars that actually make her gain weight, and turning Regina's fellow Plastics  rich but insecure Gretchen Wieners (Lacey Chabert) and sweet airhead Karen Smith (Amanda Seyfried)  against her.
+=======
+Upon this incident, Cady decides to fully commit to Janis's plan to cut off Regina's "resources", which involve breaking Regina and Aaron up, tricking her into eating nutrition bars that actually make her gain weight, and turning Regina's fellow Plastics – rich but insecure Gretchen Wieners (Lacey Chabert) and sweet airhead Karen Smith (Amanda Seyfried) – against her.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the process, Cady unwittingly remakes herself in Regina's image, becoming spiteful, superficial, and abandons Janis and Damian.
 When Regina is finally made aware of Cady's treachery, she retaliates by spreading the contents of her Burn Book all over the school, quickly inciting a riot.
 To avoid suspicion, Regina inserts a fake libel of herself in the book in order to blame Cady, Gretchen, and Karen, the only female students not mentioned in the book.

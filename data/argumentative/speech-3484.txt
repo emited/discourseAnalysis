@@ -22,3 +22,7 @@ In fine, a decisive inducement with me for acceding to the measure is to show by
 Having been the first to recognize their independence, and sympathized with them so far as was compatible with our neutral duties in all their struggles and sufferings to acquire it, we have laid the foundation of our future intercourse with them in the broadest principles of reciprocity and the most cordial feelings of fraternal friendship.
 To extend those principles to all our commercial relations with them and to hand down that friendship to future ages is congenial to the highest policy of the Union, as it will be to that of all those nations and their posterity.
 In the confidence that these sentiments will meet the approbation of the Senate, I nominate Richard C. Anderson, of Kentucky, and John Sergeant, of Pennsylvania, to be envoys extraordinary and ministers plenipotentiary to the assembly of American nations at Panama, and William B. Rochester, of New York, to be secretary to the mission.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

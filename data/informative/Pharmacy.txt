@@ -3,11 +3,19 @@ It is a health profession that links health sciences with chemical sciences and 
 The scope of pharmacy practice includes more traditional roles such as compounding and dispensing medications, and it also includes more modern services related to health care, including clinical services, reviewing medications for safety and efficacy, and providing drug information.
 Pharmacists, therefore, are the experts on drug therapy and are the primary health professionals who optimize use of medication for the benefit of the patients.
 An establishment in which pharmacy (in the first sense) is practiced is called a pharmacy (this term is more common in the United States) or a chemist's (which is more common in Great Britain). In the United States and Canada, drugstores commonly sell drugs, as well as miscellaneous items such as confectionery, cosmetics, office supplies, and magazines and occasionally refreshments and groceries.
+<<<<<<< HEAD
 The word pharmacy is derived from its root word pharma which was a term used since the 15th17th centuries.
+=======
+The word pharmacy is derived from its root word pharma which was a term used since the 15th–17th centuries.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, the original Greek roots from pharmakos imply sorcery or even poison.
 In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by other specialist practitioners, such as surgery and midwifery.
 The pharma (as it was referred to) often operated through a retail shop which, in addition to ingredients for medicines, sold tobacco and patent medicines.
 Often the place that did this was called an apothecary and several languages have this as the dominant term, though their practices are more akin to a modern pharmacy, in English the term apothecary would today be seen as outdated or only approproriate if herbal remedies were on offer to a large extent.
 The pharmas also used many other herbs not listed.
+<<<<<<< HEAD
 The Greek word Pharmakeia (Greek: ) derives from pharmakon (), meaning "drug", "medicine" (or "poison").
+=======
+The Greek word Pharmakeia (Greek: φαρμακεία) derives from pharmakon (φάρμακον), meaning "drug", "medicine" (or "poison").
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In its investigation of herbal and chemical ingredients, the work of the pharma may be regarded as a precursor of the modern sciences of chemistry and pharmacology, prior to the formulation of the scientific method.

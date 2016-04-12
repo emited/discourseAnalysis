@@ -1,7 +1,11 @@
 The book tells the story of Horton the Elephant, who, while splashing in a pool, hears a small speck of dust talking to him.
 Horton surmises that a small person lives on the speck and places it on a clover, vowing to protect it.
 He later discovers that the speck is actually a tiny planet, home to a community called Whoville, where microscopic creatures called Whos live.
+<<<<<<< HEAD
 The Mayor of Whoville asks Horton to protect them from harm, which Horton happily agrees to, proclaiming throughout the book that "a persons a person, no matter how small."
+=======
+The Mayor of Whoville asks Horton to protect them from harm, which Horton happily agrees to, proclaiming throughout the book that "a person’s a person, no matter how small."
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In his mission to protect the speck, Horton is ridiculed and harassed by the other animals in the jungle for believing in something that they are unable to see or hear.
 He is first criticized by a sour kangaroo and her little kangaroo in her pouch.
 The splash they make as they jump into the pool almost catches the speck, so Horton decides to find somewhere safer for it.

@@ -4,7 +4,11 @@ On delivery to their destination, they hoist an extra man in the car; so he refu
 Later they offer more money for Frank to drive farther from the city.
 He refuses the deal.
 The robbers escape in another car, and Frank leaves.
+<<<<<<< HEAD
 When Frank returns to his villa, local police Inspector Tarconi (Franois Berland) arrives to question Frank about the robbery.
+=======
+When Frank returns to his villa, local police Inspector Tarconi (François Berléand) arrives to question Frank about the robbery.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, Tarconi has no concrete proof about the heist and leaves.
 Frank is then hired to deliver a package to an American gangster, Darren "Wall Street" Bettencourt (Matt Schulze). While changing a flat tire, he notices something moving in the package.
 Along the way, he opens the package and finds a bound and gagged woman.

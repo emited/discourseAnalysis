@@ -12,3 +12,7 @@ He is instructed to open communications with those yet remaining, and endeavor b
 But to render this system of protection effectual it is essential that settlements of our citizens should be made within the line so established, and that they should be armed, so as to be ready to repel any attack.
 In order to afford inducements to such settlements, I submit to the consideration of Congress the propriety of allowing a reasonable quantity of land to the head of each family that shall permanently occupy it, and of extending the existing provisions on that subject so as to permit the issue of rations for the subsistence of the settlers for one year; and as few of them will probably be provided with arms, it would be expedient to authorize the loan of muskets and the delivery of a proper quantity of cartridges or of powder and balls.
 By such means it is to be hoped that a hardy population will soon occupy the rich soil of the frontiers of Florida, who will be as capable as willing to defend themselves and their houses, and thus relieve the Government from further anxiety or expense for their protection.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

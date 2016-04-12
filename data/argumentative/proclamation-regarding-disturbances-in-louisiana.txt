@@ -28,3 +28,7 @@ There are now smelting furnaces, for extracting the silver and gold from the ore
 Louis, and Omaha--three in the former city--and as much of the change required will be wanted in the Mississippi Valley States, and as the metals to be coined come from west of those States, and, as I understand, the charges for transportation of bullion from either of the cities named to the mint in Philadelphia or to New York City amount to $4 for each $1,000 worth, with an equal expense for transportation back, it would seem a fair argument in favor of adopting one or more of those cities as the place or places for the establishment of new coining facilities.
 I have ventured upon this subject with great diffidence, because it is so unusual to approve a measure--as I most heartily do this, even if no further legislation is attainable at this time--and to announce the fact by message.
 But I do so because I feel that it is a subject of such vital importance to the whole country that it should receive the attention of and be discussed by Congress and the people through the press, and in every way, to the end that the best and most satisfactory course may be reached of executing what I deem most beneficial legislation on a most vital question to the interests and prosperity of the nation.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

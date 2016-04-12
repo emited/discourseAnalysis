@@ -1,5 +1,9 @@
 Tensions between the Hutu and Tutsi peoples lead to a war in Rwanda, where corruption and bribes between politicians are routine.
+<<<<<<< HEAD
 Paul Rusesabagina (Cheadle), the manager of the Sabena owned Htel des Mille Collines, is Hutu, but his wife Tatiana (Okonedo), is Tutsi.
+=======
+Paul Rusesabagina (Cheadle), the manager of the Sabena owned Hôtel des Mille Collines, is Hutu, but his wife Tatiana (Okonedo), is Tutsi.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 His marriage is a source of friction with Hutu extremists, most prominently Georges Rutaganda (Kae-Kazim), a friendly goods supplier to the hotel who is also the local leader of Interahamwe, a brutal Hutu militia.
 As the political situation in the country worsens following the assassination of the president, Paul and his family observe neighbors being killed in ethnic violence, initiating the early stages of a genocide.
 Paul carries favor with people of influence, bribing them with money and alcohol, seeking to maintain sufficient influence to keep his family safe.
@@ -13,5 +17,9 @@ In a last-ditch effort to save the refugees, Paul pleads with the Rwandan Army G
 However, when Paul's bribes no longer work, he blackmails the General with threats of being tried as a war criminal.
 Soon after, the family and the hotel refugees are finally able to leave the besieged hotel in a UN convoy.
 They travel through retreating masses of refugees and militia to reach safety behind Tutsi rebel lines.
+<<<<<<< HEAD
 The film's epilogue displays a series of graphics stating that Rusesabagina saved 1,268 Rwandan refugees at the Htel des Mille Collines, and now lives in Belgium with his family.
+=======
+The film's epilogue displays a series of graphics stating that Rusesabagina saved 1,268 Rwandan refugees at the Hôtel des Mille Collines, and now lives in Belgium with his family.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It notes that Rutaganda and General Bizimungu were tried and convicted by the UN for war crimes in 2002, while also conveying the genocide that ended in July 1994 left almost a million people dead.

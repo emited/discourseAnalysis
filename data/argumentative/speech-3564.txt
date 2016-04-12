@@ -34,3 +34,7 @@ If no legislation is passed, then the excellent results accomplished by the work
 I urge the immediate enactment into law of provisions which will enable the Department of Agriculture adequately to inspect the meat and meat-food products entering into interstate commerce and to supervise the methods of preparing the same, and to prescribe the sanitary conditions under which the work shall be performed.
 I therefore commend to your favorable consideration, and urge the enactment of substantially the provisions known as Senate amendment No.
 29 to the act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1907, as passed by the Senate, this amendment being commonly known as the "Beveridge amendment."
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

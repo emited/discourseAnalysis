@@ -26,3 +26,7 @@ It is well known that a very large portion of the electors in all the States, if
 If the voters in many of the States of the North and West were required to take such an oath as a test of their qualification, there is reason to believe that a majority of them would remain from the polls rather than comply with its degrading conditions.
 How far and to what extent this test oath prevented the registration of those who were qualified under the laws of Congress it is not possible to know, but that such was its effect, at least sufficient to overcome the small and doubtful majority in favor of this constitution, there can be no reasonable doubt.
 Should the people of Arkansas, therefore, desiring to regulate the elective franchise so as to make it conform to the constitutions of a large proportion of the States of the North and West, modify the provisions referred to in the "fundamental condition," what is to be the consequence? Is it intended that a denial of representation shall follow? And if so, may we not dread, at some future day, a recurrence of the troubles which have so long agitated the country? Would it not be the part of wisdom to take for our guide the Federal Constitution, rather than resort to measures which, looking only to the present, may in a few years renew, in an aggravated form, the strife and bitterness caused by legislation which has proved to be so ill timed and unfortunate?
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

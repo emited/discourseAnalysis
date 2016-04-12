@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Rheology (/rildi/; from Greek  rh, "flow" and -o, -logia, "study of") is the study of the flow of matter, primarily in a liquid state, but also as 'soft solids' or solids under conditions in which they respond with plastic flow rather than deforming elastically in response to an applied force.
+=======
+Rheology (/riːˈɒlədʒi/; from Greek ῥέω rhéō, "flow" and -λoγία, -logia, "study of") is the study of the flow of matter, primarily in a liquid state, but also as 'soft solids' or solids under conditions in which they respond with plastic flow rather than deforming elastically in response to an applied force.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 It applies to substances which have a complex microstructure, such as muds, sludges, suspensions, polymers and other glass formers (e.g., silicates), as well as many foods and additives, bodily fluids (e.g., blood) and other biological materials or other materials which belong to the class of soft matter.
 Newtonian fluids can be characterized by a single coefficient of viscosity for a specific temperature.
 Although this viscosity will change with temperature, it does not change with the strain rate.

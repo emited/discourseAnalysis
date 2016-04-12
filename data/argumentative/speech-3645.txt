@@ -3,9 +3,15 @@ With a simple oath, we affirm old traditions and make new beginnings.
 As I begin, I thank President Clinton for his service to our nation.
 And I thank Vice President Gore for a contest conducted with spirit and ended with grace.
 I am honored and humbled to stand here, where so many of America's leaders have come before me, and so many will follow.
+<<<<<<< HEAD
 We have a place, all of us, in a long storya story we continue, but whose end we will not see.
 It is the story of a new world that became a friend and liberator of the old, a story of a slave-holding society that became a servant of freedom, the story of a power that went into the world to protect but not possess, to defend but not to conquer.
 It is the American storya story of flawed and fallible people, united across the generations by grand and enduring ideals.
+=======
+We have a place, all of us, in a long story—a story we continue, but whose end we will not see.
+It is the story of a new world that became a friend and liberator of the old, a story of a slave-holding society that became a servant of freedom, the story of a power that went into the world to protect but not possess, to defend but not to conquer.
+It is the American story—a story of flawed and fallible people, united across the generations by grand and enduring ideals.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The grandest of these ideals is an unfolding American promise that everyone belongs, that everyone deserves a chance, that no insignificant person was ever born.
 Americans are called to enact this promise in our lives and in our laws.
 And though our nation has sometimes halted, and sometimes delayed, we must follow no other course.

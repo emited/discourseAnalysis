@@ -10,7 +10,11 @@ Bruce then uses his powers to cause Evan to make a fool out of himself on-air, c
 After taking Grace to a fancy dinner and telling her he made anchor (angering her, as she thought he was going to propose), Bruce begins to hear voices in his head.
 He re-encounters God, who confronts Bruce on using his powers for personal gain and not helping people.
 He also explains that the voices are prayers to God that Bruce must deal with.
+<<<<<<< HEAD
 Bruce creates a computerized email-like system to receive the prayers and respond, but finds that the influx is far too great for him to handle  even though God had stated that Bruce is only receiving prayers from the Buffalo area  and sets the program to automatically answer Yes to every prayer.
+=======
+Bruce creates a computerized email-like system to receive the prayers and respond, but finds that the influx is far too great for him to handle — even though God had stated that Bruce is only receiving prayers from the Buffalo area — and sets the program to automatically answer Yes to every prayer.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Bruce attends a party celebrating his promotion.
 When Grace arrives, she finds Bruce being seduced and kissed by Susan and storms out.
 Bruce follows Grace, but she is heartbroken and will not listen to him.
@@ -24,7 +28,11 @@ As he reads it, another prayer from Grace arrives, this one wishing not to be in
 Bruce is stunned and walks alone on a highway, asking God to take back His powers and letting his fate be in His hands.
 Bruce is suddenly struck by a truck and regains consciousness in a white void.
 God appears and asks Bruce what he really wants; Bruce admits that he only wants to make sure Grace finds a man that would make her happy.
+<<<<<<< HEAD
 God agrees and Bruce finds himself in the hospital, shortly after being revived  near miraculously  by the doctors.
+=======
+God agrees and Bruce finds himself in the hospital, shortly after being revived — near miraculously — by the doctors.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Grace arrives and the two rekindle their relationship, with Bruce and Grace later becoming engaged.
 After his recovery, Bruce returns to his field reporting but takes more pleasure in the simple stories.
 Bruce and Grace announce their engagement on live TV.

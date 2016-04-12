@@ -4,7 +4,11 @@ The chief says he'll give anything to whoever can bring him this Champion of Fea
 Cryptograf hatches a secret plan to seize power and tells the chief they'll find the Champion of Fear in Gaul.
 During a typical day in the Gaulish village, chief Vitalstatistix announces the imminent arrival of his nephew Justforkix, who is to be trained to be a man.
 When Justforkix arrives from Parisium, he doesn't look like warrior material.
+<<<<<<< HEAD
 He uses his bird SMS (Shortmessageservix) to send messages to his "babes". Besides chasing girls, he's into hi-tech, nightlife, and dancing  and he's a vegetarian, much to the dismay of Obelix, who can't get him to try wild boar.
+=======
+He uses his bird SMS (Shortmessageservix) to send messages to his "babes". Besides chasing girls, he's into hi-tech, nightlife, and dancing — and he's a vegetarian, much to the dismay of Obelix, who can't get him to try wild boar.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In Norway, as the Vikings prepare to start their quest, the chief's wife, Vikea, orders her husband to get her some flat-packed easy-to-assemble furniture from his raids, while his daughter, Abba, insists on going along, but meets with a flat refusal.
 Abba disguises herself as a man and goes anyway.
 Meanwhile, Asterix and Obelix proceed with training Justforkix, but with little (if any) success.

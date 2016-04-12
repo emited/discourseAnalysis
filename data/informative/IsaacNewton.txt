@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Sir Isaac Newton PRS (/njutn/; 25 December 1642  20 March 1726/27) was an English physicist and mathematician (described in his own day as a "natural philosopher") who is widely recognised as one of the most influential scientists of all time and a key figure in the scientific revolution.
 His book Philosophi Naturalis Principia Mathematica ("Mathematical Principles of Natural Philosophy"), first published in 1687, laid the foundations for classical mechanics.
+=======
+Sir Isaac Newton PRS (/ˈnjuːtən/; 25 December 1642 – 20 March 1726/27) was an English physicist and mathematician (described in his own day as a "natural philosopher") who is widely recognised as one of the most influential scientists of all time and a key figure in the scientific revolution.
+His book Philosophiæ Naturalis Principia Mathematica ("Mathematical Principles of Natural Philosophy"), first published in 1687, laid the foundations for classical mechanics.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Newton made seminal contributions to optics, and he shares credit with Gottfried Wilhelm Leibniz for the development of calculus.
 Newton's Principia formulated the laws of motion and universal gravitation, which dominated scientists' view of the physical universe for the next three centuries.
 By deriving Kepler's laws of planetary motion from his mathematical description of gravity, and then using the same principles to account for the trajectories of comets, the tides, the precession of the equinoxes, and other phenomena, Newton removed the last doubts about the validity of the heliocentric model of the Solar System.

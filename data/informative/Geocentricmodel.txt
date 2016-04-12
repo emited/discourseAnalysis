@@ -9,9 +9,17 @@ The second observation supporting the geocentric model was that the Earth does n
 Ancient Greek, ancient Roman and medieval philosophers usually combined the geocentric model with a spherical Earth.
 It is not the same as the older flat Earth model implied in some mythology.
 The ancient Jewish Babylonian uranography pictured a flat Earth with a dome-shaped rigid canopy named firmament placed over it.
+<<<<<<< HEAD
 (- rqa').
+=======
+(רקיע- rāqîa').
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 However, the ancient Greeks believed that the motions of the planets were circular and not elliptical, a view that was not challenged in Western culture until the 17th century through the synthesis of theories by Copernicus and Kepler.
 The astronomical predictions of Ptolemy's geocentric model were used to prepare astrological and astronomical charts for over 1500 years.
 The geocentric model held sway into the early modern age, but from the late 16th century onward was gradually superseded by the heliocentric model of Copernicus, Galileo and Kepler.
 There was much resistance to the transition between these two theories.
+<<<<<<< HEAD
 Christian theologians were reluctant to reject a theory that agreed with Bible passages (e.g. "Sun, stand you still upon Gibeon", Joshua 10:12  King James 2000 Bible). Others felt a new, unknown theory could not subvert an accepted consensus for geocentrism.
+=======
+Christian theologians were reluctant to reject a theory that agreed with Bible passages (e.g. "Sun, stand you still upon Gibeon", Joshua 10:12 – King James 2000 Bible). Others felt a new, unknown theory could not subvert an accepted consensus for geocentrism.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

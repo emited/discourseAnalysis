@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A molecule (/mlkjul/) is an electrically neutral group of two or more atoms held together by chemical bonds.
+=======
+A molecule (/ˈmɒlɪkjuːl/) is an electrically neutral group of two or more atoms held together by chemical bonds.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Molecules are distinguished from ions by their lack of electrical charge.
 However, in quantum physics, organic chemistry, and biochemistry, the term molecule is often used less strictly, also being applied to polyatomic ions.
 In the kinetic theory of gases, the term molecule is often used for any gaseous particle regardless of its composition.

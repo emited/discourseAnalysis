@@ -25,7 +25,11 @@ The mad scientist confronts him, takes him to his laboratory, and explains about
 Later at a party thrown by the Mayor (Scott Wilson) Marvin chases after a cat and destroys everything around him and is fired on the spot.
 During his reprimand, he hears something, jumps into the nearby lake and rescues the mayor's son using powers derived from a sea lion and a dolphin.
 He is swiftly reinstated.
+<<<<<<< HEAD
 Chief Wilson (Ed Asner) questions Marvin about the late-night attacks on farm animals, because one of witnesses made a police sketchand it looks like Marvin.
+=======
+Chief Wilson (Ed Asner) questions Marvin about the late-night attacks on farm animals, because one of witnesses made a police sketch—and it looks like Marvin.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Rianna goes to Marvin's house, where he has barricaded himself inside.
 They spend the night together, but Marvin wants to be tied up so he can't hurt anyone anymore.
 In the morning, he finds himself untied, courtesy of Rianna.
@@ -46,5 +50,9 @@ Sure enough, once the mob thinks a black man was responsible, they don't care an
 Marvin and Rianna get married, and have a litter of children that each look like Marvin.
 While watching television, they see Dr.
 Wilder win the Nobel Prize.
+<<<<<<< HEAD
 He says he owes it all to his fiance, who is the same woman from the Badger Milk commercial.
+=======
+He says he owes it all to his fiancée, who is the same woman from the Badger Milk commercial.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 When she turns around to kiss him, there are large scars shown on her back, implying that Wilder performed the experiment on her as well.

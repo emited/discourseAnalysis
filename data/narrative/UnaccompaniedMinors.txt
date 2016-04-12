@@ -1,7 +1,11 @@
 Spencer Davenport (Dyllan Christopher) and his sister Katherine must fly from California to Pennsylvania on Christmas Eve to spend the holidays with their dad, an environmentalist.
 Unfortunately, during their layover at the Hoover International Airport in Chicago, a massive blizzard grounds all planes and cancels all flights, and the siblings are sent to the anarchic UM (unaccompanied minors') room, where they meet Christmas-spirited smarty-pants Charlie Goldfinch (Tyler James Williams), surly tomboy Donna Malone (Quinn Shephard), arrogant rich girl Grace Conrad (Gia Mantegna), and mysterious Beef Wellington (Brett Kelly).
 Charlie, Spencer, Beef, Grace and Donna sneak out, and proceed to enjoy themselves around the airport.
+<<<<<<< HEAD
 When they are caught by the airport security guards and returned to the UM room, they find that the other minors, Katherine included, have been sent to a lodge down the road, and that the grouchy head of passenger relations, Oliver Porter (Lewis Black)  whose trip to Hawaii is among the canceled flights  intends for the kids to spend Christmas Eve in the UM room.
+=======
+When they are caught by the airport security guards and returned to the UM room, they find that the other minors, Katherine included, have been sent to a lodge down the road, and that the grouchy head of passenger relations, Oliver Porter (Lewis Black) — whose trip to Hawaii is among the canceled flights — intends for the kids to spend Christmas Eve in the UM room.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Knowing that it will break Katherine's faith in Santa Claus if she does not receive a present by the next morning, Spencer asks the others to help him get a present for his sister in return for a plan to escape.
 With Spencer's plan, the minors give Zach Van Bourke (Wilmer Valderrama), the friendly clerk watching them, the slip, but Mr.
 Porter grows desperate to get the kids back, and sends all the airport guards to find them.

@@ -7,7 +7,11 @@ His team, along with NASA's meteorologist Janet Tokada, builds a forecast model.
 Across the world, violent weather causes mass destruction.
 U.S. President Blake authorizes the FAA to suspend all air traffic due to severe turbulence.
 At the International Space Station (ISS) three astronauts see a huge storm system spanning the northern hemisphere, which soon develops into three massive hurricane-like super storms.
+<<<<<<< HEAD
 The eyes of these storms hold temperatures of 150 F (101 C), instantly freezing anything they come into contact with.
+=======
+The eyes of these storms hold temperatures of −150 °F (−101 °C), instantly freezing anything they come into contact with.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The three cells are located over Canada, Siberia, and Scotland.
 The weather becomes increasingly violent, causing traffic-jammed Manhattan streets to become flooded knee-deep.
 Jack's son Sam, visiting New York City as he is participating in an academic decathlon, calls his father, promising to be on the next train home, but flooding closes the subways and Grand Central Terminal.
@@ -26,6 +30,10 @@ The next morning, the Sam's group determines that Laura has blood poisoning from
 The eye of the Canadian super storm passes over New York City and the three barely return to the library with the medicine in time.
 Jack and an unconscious Jason, who are also in the eye, narrowly escape the super-freeze themselves by taking shelter in an abandoned Wendy's restaurant.
 Upon reaching Manhattan, Jack and Jason discover the library buried in snow but find Sam's group alive.
+<<<<<<< HEAD
 New York has become a polar, subarctic city, completely frozen by reaching 98 F (72 C). They radio this to the government-in-exile in Mexico and President Becker orders helicopters flown into New York, finding more survivors.
+=======
+New York has become a polar, subarctic city, completely frozen by reaching −98 °F (−72 °C). They radio this to the government-in-exile in Mexico and President Becker orders helicopters flown into New York, finding more survivors.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Becker orders search-and-rescue teams to look for other survivors as he gives his first address to the nation.
 The movie concludes with the astronauts looking down at Earth from the Space Station, showing most of the northern hemisphere covered in ice and snow, with one of the astronauts stating, "Look at that....Have you ever seen the air so clear?"

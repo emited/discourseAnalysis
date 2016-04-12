@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Abu Ysuf Yaqb ibn Isq a-abb al-Kind (Arabic:       , Latin: Alkindus) (c. 801873 AD), known as "the Philosopher of the Arabs", was a Muslim Arab philosopher, polymath, mathematician, physician and musician.
+=======
+Abu Yūsuf Yaʻqūb ibn ʼIsḥāq aṣ-Ṣabbāḥ al-Kindī (Arabic: أبو يوسف يعقوب بن إسحاق الصبّاح الكندي‎, Latin: Alkindus) (c. 801–873 AD), known as "the Philosopher of the Arabs", was a Muslim Arab philosopher, polymath, mathematician, physician and musician.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Al-Kindi was the first of the Muslim peripatetic philosophers, and is unanimously hailed as the "father of Islamic or Arabic philosophy" for his synthesis, adaptation and promotion of Greek and Hellenistic philosophy in the Muslim world.
 Al-Kindi was a descendant of the Kinda tribe.
 He was born in Basra and educated in Baghdad.

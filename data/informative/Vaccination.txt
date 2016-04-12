@@ -8,8 +8,13 @@ The active agent of a vaccine may be intact but inactivated (non-infective) or a
 Smallpox was most likely the first disease people tried to prevent by inoculating themselves and was the first disease for which a vaccine was produced.
 The smallpox vaccine was discovered in 1796 by the British physician Edward Jenner, although at least six people had used the same principles years earlier.
 Louis Pasteur furthered the concept through his work in microbiology.
+<<<<<<< HEAD
 The immunization was called vaccination because it was derived from a virus affecting cows (Latin: vaccacow). Smallpox was a contagious and deadly disease, causing the deaths of 2060% of infected adults and over 80% of infected children.
 When smallpox was finally eradicated in 1979, it had already killed an estimated 300500 million people in the 20th century.
+=======
+The immunization was called vaccination because it was derived from a virus affecting cows (Latin: vacca—cow). Smallpox was a contagious and deadly disease, causing the deaths of 20–60% of infected adults and over 80% of infected children.
+When smallpox was finally eradicated in 1979, it had already killed an estimated 300–500 million people in the 20th century.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In common speech, vaccination and immunization have a similar meaning.
 This distinguishes it from inoculation, which uses unweakened live pathogens, although in common usage either can refer to an immunization.
 Vaccination efforts have been met with some controversy on scientific, ethical, political, medical safety, and religious grounds.

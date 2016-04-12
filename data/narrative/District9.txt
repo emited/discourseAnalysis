@@ -2,7 +2,11 @@ In an alternate 1982, an alien ship inexplicably stops over Johannesburg.
 When investigation teams enter the ship, they discover a population of sick and malnourished extraterrestrials, who become nicknamed "prawns". The South African government confines the aliens to "District 9", a government camp that is located outside of Johannesburg.
 Twenty-eight years later, in 2010, following periodic conflict between the aliens and the locals living near District 9, the government hires private military company Multinational United (MNU) to relocate the aliens to a new internment.
 Wikus van de Merwe (Sharlto Copley), an Afrikaner bureaucrat, is appointed by Piet Smit (Louis Minnaar), an MNU executive and his father-in-law, to lead the relocation.
+<<<<<<< HEAD
 Meanwhile, three aliens  Christopher Johnson (Jason Cope), his son, and a friend  scavenge pieces of their technology from which they distill a fluid of their native provenance, and store it in a small canister.
+=======
+Meanwhile, three aliens — Christopher Johnson (Jason Cope), his son, and a friend — scavenge pieces of their technology from which they distill a fluid of their native provenance, and store it in a small canister.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Wikus confiscates the canister from the shack of Christopher's friend, but accidentally sprays some of the fluid onto his face.
 Christopher's friend is subsequently killed by Koobus Venter (David James), a sadistic mercenary soldier employed by MNU.
 Under the fluid's influence, Wikus' body, starting with his injured left arm, begins to deteriorate and become alien tissue.

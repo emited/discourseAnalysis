@@ -22,7 +22,11 @@ When the second option is about to become true, Bittleman steals Calvin's shoes 
 After convincing Ox and his friends that Bittleman is selfish, Ox takes the shoes out of Bittleman's safe.
 The kids head to the arena with Calvin's sneakers.
 Bittleman escapes and sends goons after Calvin in a failed attempt to steal the shoes.
+<<<<<<< HEAD
 Calvin makes it to the arena with the shoes after the 3rd quarter ends with Vince Carter and the Toronto Raptors routing the Knights 8059.
+=======
+Calvin makes it to the arena with the shoes after the 3rd quarter ends with Vince Carter and the Toronto Raptors routing the Knights 80–59.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the 4th quarter of the last regular season, Calvin is put into the game by the coach and the Knights start to make a comeback.
 After a pile-on towards the end of the game, Calvin's shoes are ruined with the Knights down by one point.
 On the last play, Calvin manages to pump fake to get Vince Carter to jump and Calvin was able to get the ball to Tracy and Tracy makes the game-winning shot to clinch the Knights their first playoff appearance.

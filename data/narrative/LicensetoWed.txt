@@ -1,7 +1,11 @@
 Sadie Jones (Mandy Moore) has always longed to marry the man of her dreams in her family church.
 Though she has found her lifetime companion in Ben Murphy (John Krasinski), Sadie is distressed to learn that St.
 Augustine's has only one wedding slot available over the next two years, though after re-checking their planning book, they find that the wedding can be held in three weeks.
+<<<<<<< HEAD
 While Sadie and Ben do qualify for the slot, the church's eccentric minister, Reverend Frank (Robin Williams), will not wed the couple until they agree to attend his prenuptial course (shortened, due to the new date, from three months to three weeks). As their wedding date draws near, Sadie and Ben must now follow all of Reverend Frank's rules, attend his unusual classes, and complete a series of homework assignments designed specifically to irritate one another  in order to get past puppy love and ensure that their union will have a sound foundation.
+=======
+While Sadie and Ben do qualify for the slot, the church's eccentric minister, Reverend Frank (Robin Williams), will not wed the couple until they agree to attend his prenuptial course (shortened, due to the new date, from three months to three weeks). As their wedding date draws near, Sadie and Ben must now follow all of Reverend Frank's rules, attend his unusual classes, and complete a series of homework assignments designed specifically to irritate one another — in order to get past puppy love and ensure that their union will have a sound foundation.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In one part of the course, the couple has to care for twin "creepy robot" babies.
 They get on Ben's last nerve and he destroys one, to the horror of bystanders in a department store.
 To Ben's dismay, one of Frank's rules is no pre-marital sex.

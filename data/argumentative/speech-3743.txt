@@ -42,3 +42,7 @@ It is claimed by the advocates of the measure herewith returned that there is an
 I was disposed to give great weight to this view of the question at first, but on reflection it will be remembered that there still remains $4,000,000 of authorized bank-note circulation assigned to States having less than their quota not yet taken.
 In addition to this the States having less than their quota of bank circulation have the option of twenty-five millions more to be taken from those States having more than their proportion.
 When this is all taken up, or when specie payments are fully restored or are in rapid process of restoration, will be the time to consider the question of "more currency."
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

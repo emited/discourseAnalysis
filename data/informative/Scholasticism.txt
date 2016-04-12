@@ -10,4 +10,8 @@ As a program, scholasticism began as an attempt at harmonization on the part of 
 (See also Christian apologetics.)
 Some of the main figures of scholasticism include Anselm of Canterbury, Peter Abelard, Alexander of Hales, Albertus Magnus, Duns Scotus, William of Ockham, Bonaventure, and Thomas Aquinas.
 Aquinas's masterwork Summa Theologica, considered to be the pinnacle of scholastic, medieval, and Christian philosophy, began while Aquinas was regent master at the studium provinciale of Santa Sabina in Rome, the forerunner of the Pontifical University of Saint Thomas Aquinas, Angelicum.
+<<<<<<< HEAD
 Important work in the scholastic tradition has been carried on well past Aquinas's time, for instance by Francisco Surez and Luis de Molina, and also among Lutheran and Reformed thinkers.
+=======
+Important work in the scholastic tradition has been carried on well past Aquinas's time, for instance by Francisco Suárez and Luis de Molina, and also among Lutheran and Reformed thinkers.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

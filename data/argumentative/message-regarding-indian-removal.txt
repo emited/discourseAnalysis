@@ -8,3 +8,7 @@ It is to be regretted that the rules by which the classification of the improvem
 In thus employing my best faculties to exercise the power with which I am invested to avoid evils and to effect the greatest attainable good for our common country I feel that I may trust to your cordial cooperation, and the experience of the past leaves me no room to doubt the liberal indulgence and favorable consideration of those for whom we act.
 The grounds upon which I have given my assent to appropriations for the construction of lighthouses, beacons, buoys, public piers, and the removal of sand bars, sawyers, and other temporary or partial impediments in our navigable rivers and harbors, and with which many of the provisions of this bill correspond, have been so fully stated that I trust a repetition of them is unnecessary.
 Had there been incorporated in the bill no provisions for works of a different description, depending on principles which extend the power of making appropriations to every object which the discretion of the Government may select, and losing sight of the distinctions between national and local character which I had stated would be my future guide on the subject, I should have cheerfully signed the bill.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

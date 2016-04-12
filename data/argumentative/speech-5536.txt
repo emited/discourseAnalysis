@@ -5,7 +5,11 @@ But I assume the Presidency under extraordinary circumstances never before exper
 This is an hour of history that troubles our minds and hurts our hearts.
 
 Therefore, I feel it is my first duty to make an unprecedented compact with my countrymen.
+<<<<<<< HEAD
 Not an inaugural address, not a fireside chat, not a campaign speechjust a little straight talk among friends.
+=======
+Not an inaugural address, not a fireside chat, not a campaign speech—just a little straight talk among friends.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And I intend it to be the first of many.
 
 I am acutely aware that you have not elected me as your President by your ballots, and so I ask you to confirm me as your President with your prayers.
@@ -14,7 +18,11 @@ And I hope that such prayers will also be the first of many.
 If you have not chosen me by secret ballot, neither have I gained office by any secret promises.
 I have not campaigned either for the Presidency or the Vice Presidency.
 I have not subscribed to any partisan platform.
+<<<<<<< HEAD
 I am indebted to no man, and only to one womanmy dear wifeas I begin this very difficult job.
+=======
+I am indebted to no man, and only to one woman—my dear wife—as I begin this very difficult job.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 I have not sought this enormous responsibility, but I will not shirk it.
 Those who nominated and confirmed me as Vice President were my friends and are my friends.

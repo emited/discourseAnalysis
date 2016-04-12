@@ -9,7 +9,11 @@ After a disastrous fling with Hazel (the woman who works in the box office), he 
 Their relationship ultimately fails, and he continues his awkward relationship with Hazel, who is by now married with children and working as his assistant.
 Meanwhile, an unknown condition is systematically shutting down his autonomic functions one by one.
 As the years rapidly pass, the continually expanding warehouse is isolated from the deterioration of the city outside.
+<<<<<<< HEAD
 Caden buries himself ever deeper into his magnum opus, blurring the line between reality and the world of the play by populating the cast and crew with doppelgngers.
+=======
+Caden buries himself ever deeper into his magnum opus, blurring the line between reality and the world of the play by populating the cast and crew with doppelgängers.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 For instance, Sammy Barnathan is cast in the role of Caden in the play after Sammy reveals that he has been obsessively following Caden for 20 years, while Sammy's lookalike is cast as Sammy.
 Sammy's interest in Hazel sparks a revival of Caden's relationship with her, leading Sammy to commit suicide.
 As he pushes against the limits of his personal and professional relationships, Caden lets an actress take over his role as director and takes on her previous role as Ellen, Adele's custodian.

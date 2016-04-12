@@ -2,7 +2,11 @@ Lucky the dog (Norm Macdonald) explains Dr.
 John Dolittle's (Eddie Murphy) gift of talking to animals.
 John comes home from France and gives his wife a present from Paris.
 He also gives his daughter, Maya (Kyla Pratt), a chameleon, named Pepito.
+<<<<<<< HEAD
 Also, Charisse's (Raven-Symon) sixteenth birthday is coming today.
+=======
+Also, Charisse's (Raven-Symoné) sixteenth birthday is coming today.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 She was also not doing well in her classes.
 As a punishment, her father takes her phone away.
 Later on, Charisse's boyfriend, Eric (Lil' Zane), comes over and decides to join the family at the birthday party.

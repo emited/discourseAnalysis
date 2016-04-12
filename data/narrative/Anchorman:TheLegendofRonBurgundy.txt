@@ -1,7 +1,11 @@
 In 1974, Ron Burgundy (Will Ferrell) is the famous anchorman for a local San Diego television station, fictional KVWN channel 4. He works alongside his friends on the news team; lead field reporter Brian Fantana (Paul Rudd), sportscaster Champion "Champ" Kind (David Koechner), and intellectually disabled chief meteorologist Brick Tamland (Steve Carell). Station director Ed Harken (Fred Willard) informs the team that they have maintained their long-held status as the highest-rated news program in San Diego, leading them to throw a wild party, where Ron unsuccessfully tries to pick up a beautiful, blonde woman, Veronica Corningstone (Christina Applegate). Ed later informs the team that they have been forced to hire Veronica Corningstone, the same woman whom Ron tried to pick up.
 After a series of unsuccessful attempts by the team to seduce her, she finally relents and consents to a "professional tour" of the city with Ron, culminating in a sexual relationship.
 Despite agreeing to keep the relationship discreet, Ron announces it on air.
+<<<<<<< HEAD
 After a dispute with a motorcyclist (Jack Black) involving Ron's dog, Baxter, being punted off the San DiegoCoronado Bridge, Ron is late to work.
+=======
+After a dispute with a motorcyclist (Jack Black) involving Ron's dog, Baxter, being punted off the San Diego–Coronado Bridge, Ron is late to work.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Veronica fills in for him on-air, and the couple break up.
 Veronica is made co-anchor, to the disgust of the team, and the two co-anchors become fierce rivals, both on and off the air.
 Depressed, the news team decides to buy new suits, but Brick, who was leading the way, gets them lost in a shady part of town.

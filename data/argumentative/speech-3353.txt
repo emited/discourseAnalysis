@@ -44,7 +44,11 @@ We didn't take him there.
 
 And for another thing, the Republican record in Congress during all the years since Hoover's time, shows they haven't learned a thing, and probably will act as they did before, and just like he did, if they got in again.
 
+<<<<<<< HEAD
 They are the people who vote against social security, they vote againsthousing, they vote against rent controls, they vote against minimum wages.
+=======
+They are the people who vote against social security, they vote against—housing, they vote against rent controls, they vote against minimum wages.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They are the people who voted for Taft-Hartley and for the labor injunction in the steel case.
 They are the people that want to take over the Government.
 That is the reason I am going around the country, trying to remind the people to do a little thinking for themselves.
@@ -52,11 +56,19 @@ And it wasn't 1932 when they did these things.
 It was 1946, it was 1947, it was 1949, and even 1952.
 
 You know, you ought to read the fine print in the Congressional Record and find out how these birds behave when they think you don't know what they are doing, and then you will know what to do.
+<<<<<<< HEAD
 The Republicans never have looked after the interests of the common peopleand they never will, no matter what their five-star candidate may tell you at election time.
 It is clear by now that any relation between what he says about the Republican Party and its actual record is just purely coincidental.
 
 It isn't necessary to "pour it on." All that is necessary for me to do is to tell you the truth and get you to think a little bit.
 Signs like that young man is wearing "Give 'em hell, Harry"I don't have to give 'em hell, it's a lot worse for me to tell the truth on 'em, because they can't stand the truth.
+=======
+The Republicans never have looked after the interests of the common people—and they never will, no matter what their five-star candidate may tell you at election time.
+It is clear by now that any relation between what he says about the Republican Party and its actual record is just purely coincidental.
+
+It isn't necessary to "pour it on." All that is necessary for me to do is to tell you the truth and get you to think a little bit.
+Signs like that young man is wearing "Give 'em hell, Harry"—I don't have to give 'em hell, it's a lot worse for me to tell the truth on 'em, because they can't stand the truth.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 Now you people are intelligent.
 You are a cross-section of this United States of America.
@@ -75,6 +87,7 @@ But I am asking you to read the Republican platform, and read the fine print in 
 And then you can't do anything else but use your heads.
 If you do that, you will vote for the welfare of the free world.
 You will vote for the welfare of the free world.
+<<<<<<< HEAD
 And the greatest Nation in the history of the world is the leader of the free worldthat is the United States of America.
 
 Then you will vote for the interests of this great countrywhich is your interest.
@@ -83,6 +96,16 @@ You will remember what happenedyou will remember 1932, and you will also remembe
 
 And if you do that, then my trip around the country has not been in vain.
 I am trying to wake you up to just thinkto think in your own interest.
+=======
+And the greatest Nation in the history of the world is the leader of the free world—that is the United States of America.
+
+Then you will vote for the interests of this great country—which is your interest.
+Then you will look after yourselves.
+You will remember what happened—you will remember 1932, and you will also remember that awful "do-nothing good-for-nothing" Both Congress that I put under the sod in 1948.
+
+And if you do that, then my trip around the country has not been in vain.
+I am trying to wake you up to just think—to think in your own interest.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 And when you do that, on November the 4th you will go to the polls and you will send Adlai Stevenson to the White House and we will have 4 more years of good government and prosperity.
 
 Thank you very much.

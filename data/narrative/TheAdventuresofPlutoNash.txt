@@ -25,7 +25,11 @@ Abruptly, he is contacted by his mother, who tells him that Rowland has been kil
 A chase ensues and the heroes escape, but their car is damaged and explodes, causing them to be presumed dead by the agents.
 They manage to get out in their astronaut suits but soon run out of oxygen and pass out.
 Bruno carries them through the Moon desert, but soon, his battery runs out.
+<<<<<<< HEAD
 They are eventually rescued and taken to Moon Beach by Felix Laranga (Luis Guzmn), a local smuggler who idolizes Pluto Nash.
+=======
+They are eventually rescued and taken to Moon Beach by Felix Laranga (Luis Guzmán), a local smuggler who idolizes Pluto Nash.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They infiltrate Rex Crater's casino/hotel.
 Bruno ends up running afoul of a robot slot machine whose lever he accidentally breaks.
 When Bruno is taken away by security, Pluto sends Dina to pay for the damages and get Bruno out.

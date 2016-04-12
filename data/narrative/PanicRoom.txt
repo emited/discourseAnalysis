@@ -14,7 +14,11 @@ The Altmans make several attempts to call for help, including signaling a neighb
 Meg then taps into the main telephone line and gets through to her ex-husband Stephen (Bauchau), before the burglars cut them off.
 When all attempts to get into the room fail, Junior lets slip that there is much more money in the safe than he let on, and gives up on the robbery.
 About to leave the house, he is shot by Raoul, who forces Burnham, at gunpoint, to finish the robbery.
+<<<<<<< HEAD
 Stephen arrives at the home and is taken hostage by Burnham and Raoulwho severely beats him.
+=======
+Stephen arrives at the home and is taken hostage by Burnham and Raoul—who severely beats him.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 To make matters worse, Sarah, who has diabetes, suffers a seizure.
 Her emergency glucagon syringe is in a refrigerator outside the panic room.
 After using an unconscious Stephen to trick Meg into momentarily leaving the panic room, Burnham enters it, finding Sarah motionless on the floor.

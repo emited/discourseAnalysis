@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Syriac /srik/ (  Len Suryy), also known as Syriac Aramaic, is a dialect of Middle Aramaic that was once spoken across much of the Fertile Crescent and Eastern Arabia.
+=======
+Syriac /ˈsɪriæk/ (ܠܫܢܐ ܣܘܪܝܝܐ Leššānā Suryāyā), also known as Syriac Aramaic, is a dialect of Middle Aramaic that was once spoken across much of the Fertile Crescent and Eastern Arabia.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Having first appeared in the early first century AD in Edessa, classical Syriac became a major literary language throughout the Middle East from the 4th to the 8th centuries, the classical language of Edessa, preserved in a large body of Syriac literature.
 Indeed, Syriac literature comprises roughly 90% of the extant Aramaic literature.
 Old Aramaic was adopted by the Neo-Assyrian Empire (911-605 BC) when they conquered the various Aramean city-kingdoms to its west.

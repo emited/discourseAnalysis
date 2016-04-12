@@ -56,3 +56,7 @@ I am on my way to participate in the commemoration of the victory of Yorktown.
 It is a name which brings a glow of pride to every American.
 It recalls the final victory of our people after years of sacrifice and privation.
 This Nation passed through Valley Forge and came to Yorktown.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

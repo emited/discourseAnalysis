@@ -23,7 +23,11 @@ The key is tied to the trigger of an enclosed shotgun.
 Jeff eventually decides to help Timothy, but the shotgun discharges and kills Halden when he retrieves the key, and he is unable to free Timothy before his neck breaks.
 Forced at gunpoint by Amanda, Lynn performs an improvised surgery to relieve pressure on John's brain.
 He hallucinates about a woman during the surgery and declares his love out loud while pointing at Lynn.
+<<<<<<< HEAD
 When Amanda leaves, flashbacks show her becoming Kramer's protge, abducting Adam Stanheight prior to the first film and returning a few days later to give Adam a mercy killing out of guilt.
+=======
+When Amanda leaves, flashbacks show her becoming Kramer's protégée, abducting Adam Stanheight prior to the first film and returning a few days later to give Adam a mercy killing out of guilt.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 In the present, she reads a letter addressed to her which drives her to hysterics.
 After the surgery, Lynn and Kramer speak privately and Lynn admits the ordeal has renewed her appreciation for her family.
 Amanda returns to tell Kramer that Jeff has completed his tests, but refuses to remove Lynn's collar and intends to simply kill her.

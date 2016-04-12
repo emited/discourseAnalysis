@@ -1,5 +1,9 @@
 After finding success with a DNA restructuring formula in the first film, Sherman Klump has created another formula which enables those who take it to find the Fountain of Youth.
+<<<<<<< HEAD
 He has also met and fallen in love with a colleague, Denise Gaines, who has developed a method to isolate genetic material and later becomes his fiance. Together, their work has enabled Wellman College to receive a $150 million award from a pharmaceutical firm to the excitement of Dean Richmond.
+=======
+He has also met and fallen in love with a colleague, Denise Gaines, who has developed a method to isolate genetic material and later becomes his fiancée. Together, their work has enabled Wellman College to receive a $150 million award from a pharmaceutical firm to the excitement of Dean Richmond.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Despite his good fortune, Sherman has a major problem: the personality of his vanquished alter ego, Buddy Love, is still ingrained inside him and causes him to act out in the same crass manner Buddy does.
 After a few particularly unpleasant incidents, from Buddy kicking in, when Sherman sexually insults his own therapist trying to help him with it, then does the same thing to a woman walking a dog, and later during a toast turns around and says something completely insensitive to his father at a dinner outing in honor of him, and then when Sherman intended on proposing to Denise, but then Buddy kicks in and makes it a perverted sex request, causing Denise to become mortified against him, Sherman heads to his lab where he use Denise's methodology to isolate and remove the gene in Sherman's DNA where Buddy has manifested.
 Determined to be rid of Buddy permanently, and despite of Jason warning him of potentially catastrophic consequences for his health, Sherman extracts the gene with from inside his body.

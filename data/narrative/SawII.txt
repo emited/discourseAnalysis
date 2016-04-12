@@ -34,6 +34,10 @@ The sitting area is revealed to be a lift and they use it to leave the factory.
 The tech team tracks the video's source and Rigg leads his SWAT team to a house where they find VCRs playing previously recorded images.
 As Kerry realizes the game took place before they found Kramer, the timer expires and a large safe opens, revealing Daniel bound and breathing into an oxygen mask.
 Eric, unaware of any of this, enters the house alone and locates the bathroom, where he is attacked by a pig-masked figure.
+<<<<<<< HEAD
 He awakens shackled at the ankle to a pipe and a tape recorder, left by Amanda, revealing that she is Kramer's protg and will continue his work after he dies.
+=======
+He awakens shackled at the ankle to a pipe and a tape recorder, left by Amanda, revealing that she is Kramer's protégé and will continue his work after he dies.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 She appears in the doorway and seals the door, leaving Eric to die.
 Outside, Kramer hears Eric's screams and slowly forms a smile.

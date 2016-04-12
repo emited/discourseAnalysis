@@ -9,7 +9,11 @@ After losing a local tournament, Daytona is apprenticed to a blind man in Chinat
 Daytona also meets Wong's niece, Maggie.
 When locals vandalize Master Wong's house for violating their edict against teaching white people ping pong, Daytona is forced to play against "The Dragon", a young girl, in exchange for Wong's right to stay.
 After Daytona beats the Dragon, Feng's men take notice of his win and bring Daytona, Rodriguez, and Wong to Feng's facility.
+<<<<<<< HEAD
 Daytona handily beats his first opponent, Freddy "Fingers" Wilson, though he is unnerved to learn that the tournament is literally sudden deaththe loser is killed by a poisoned dart delivered by Feng's majordomo, Mahogany.
+=======
+Daytona handily beats his first opponent, Freddy "Fingers" Wilson, though he is unnerved to learn that the tournament is literally sudden death—the loser is killed by a poisoned dart delivered by Feng's majordomo, Mahogany.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After Daytona attempts unsuccessfully to escape, Feng invites him to join his side and reveals that he only finished half of Wong's training.
 He says it would be the ultimate satisfaction to win Daytona away from Wong.
 Feng also shows Daytona his specially modified ping-pong table.

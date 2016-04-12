@@ -8,7 +8,11 @@ Things initially go well, but Blart is sidetracked when he decides to participat
 He crashes the party and makes a wild exit by falling through a window.
 Two days later, on the night of Black Friday, an organized gang of thugs disguised as Santa's Village employees begin what appears to be a bank heist inside the mall.
 They take Amy and other customers in the bank hostage.
+<<<<<<< HEAD
 Simms is revealed as the gang's leader  his mall security job was a ploy to gather intelligence.
+=======
+Simms is revealed as the gang's leader – his mall security job was a ploy to gather intelligence.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They are keeping the hostages as insurance for the gang's escape.
 The crew forces shoppers to exit the mall and strategically places motion sensors around each entrance to detect any attempt to enter or exit the building.
 Blart takes a break in the arcade and plays Detroit Rock City via Rock Band.

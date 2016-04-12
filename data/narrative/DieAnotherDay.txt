@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MI6 officer James Bondagent 007infiltrates a North Korean military base, where Colonel Tan-Sun Moon is illegally trading weapons for African conflict diamonds.
+=======
+MI6 officer James Bond—agent 007—infiltrates a North Korean military base, where Colonel Tan-Sun Moon is illegally trading weapons for African conflict diamonds.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 After Moon's assistant Zao discovers that Bond is a British agent, the colonel attempts to kill Bond and a hovercraft chase ensues, which ends with Moon's apparent death.
 Bond survives, but is captured by North Korean soldiers and imprisoned by the Colonel's father, General Moon.
 After 14 months of captivity and torture, Bond is traded for Zao in a prisoner exchange.

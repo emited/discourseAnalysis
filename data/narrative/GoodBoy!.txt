@@ -5,7 +5,11 @@ Baker (Kevin Nealon and Molly Shannon), let Owen adopt a scruffy Border Terrier 
 Owen does have a friend named Connie Flemming (Brittany Moldowan), a girl his age who lives in the neighborhood.
 But that won't be for long if Owen's parents continue their trend of buying and selling houses.
 Owen and Hubble get more than they bargained for when after the incident which involves Owen realising that Hubble is a dog from outer space.
+<<<<<<< HEAD
 When Owen wakes up next morning to discover that he can understand every word Hubble saysincluding the ominous phrase: "Take me to your leaders."
+=======
+When Owen wakes up next morning to discover that he can understand every word Hubble says—including the ominous phrase: "Take me to your leaders."
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Owen learns that dogs came to Earth thousands of years ago to colonize and dominate the planet.
 Hubble, who is really named Canid 3942, has been sent by the powerful Greater Dane (voice of Vanessa Redgrave) on a mission from the Dog Star Sirius 7 to make sure dogs have fulfilled this destiny.
 The dogs Owen walks include pampered Poodle Barbara Ann (voiced by Delta Burke), cool Boxer Wilson (voiced by Donald Faison), nervous Italian Greyhound Nelly (voiced by Brittany Murphy) and gassy Bernese Mountain Dog Shep (voiced by Carl Reiner).

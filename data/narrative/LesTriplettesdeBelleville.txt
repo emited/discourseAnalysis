@@ -8,7 +8,11 @@ Eventually, Champion enters the Tour de France but during the race, he and two o
 Souza and Bruno follow the men, but lose their trail soon after reaching the city.
 Lost and with no way to find Champion, Souza has a chance encounter with the renowned Belleville triplets, music hall singers from the 1930s, now elderly women turned improvisational musicians.
 The sisters take Souza to their home and over time she becomes a part of their group.
+<<<<<<< HEAD
 Meanwhile, the mafia boss drugs the kidnapped cyclists and employs a mechanic to build a stationary cycling machine for the racers to race on  to create their own mini Tour de France for gambling.
+=======
+Meanwhile, the mafia boss drugs the kidnapped cyclists and employs a mechanic to build a stationary cycling machine for the racers to race on — to create their own mini Tour de France for gambling.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 At a fancy restaurant, the Triplets and Souza perform a jam session using a newspaper, refrigerator, vacuum and bicycle wheel as instruments.
 The mafia boss who kidnapped her grandson happens to be in the same restaurant and, with the help of Bruno, Souza realizes he has Champion.
 She tails one of the Mafia's minions the next day and discovers their scheme.

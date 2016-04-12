@@ -1,6 +1,10 @@
 Dentistry is a branch of medicine that is involved in the study, diagnosis, prevention, and treatment of diseases, disorders and conditions of the oral cavity, commonly in the dentition but also the oral mucosa, and of adjacent and related structures and tissues, particularly in the maxillofacial (jaw and facial) area.
 Although primarily associated with teeth among the general public, the field of dentistry or dental medicine is not limited to teeth but includes other aspects of the craniofacial complex including the temperomandibular and other supporting structures.
+<<<<<<< HEAD
 The term dentistry comes from odontology (from Ancient Greek  (odos, "tooth"))  the study of the structure, development, and abnormalities of the teeth.
+=======
+The term dentistry comes from odontology (from Ancient Greek ὀδούς (odoús, "tooth")) – the study of the structure, development, and abnormalities of the teeth.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Because of their substantial overlap in concept, dentistry is often also understood to subsume the now largely defunct medical specialty of stomatology (the study of the mouth and its disorders and diseases) for which reason the two terms are used interchangeably in certain regions.
 Dentistry is widely considered  important for overall health.
 Dental treatment is carried out by the dental team, which often consists of a dentist and dental auxiliaries (dental assistants, dental hygienists, dental technicians, and dental therapists). Most dentists work in private practices (primary care), although some work in dental hospitals and hospitals (secondary care) and institutions (prisons, armed forces bases, etc.).

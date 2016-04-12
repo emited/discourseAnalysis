@@ -1,6 +1,10 @@
 Diffraction refers to various phenomena which occur when a wave encounters an obstacle or a slit.
 It is defined as the bending of light around the corners of an obstacle or aperture into the region of geometrical shadow of the obstacle.
+<<<<<<< HEAD
 In classical physics, the diffraction phenomenon is described as the interference of waves according to the HuygensFresnel principle.
+=======
+In classical physics, the diffraction phenomenon is described as the interference of waves according to the Huygens–Fresnel principle.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 These characteristic behaviors are exhibited when a wave encounters an obstacle or a slit that is comparable in size to its wavelength.
 Similar effects occur when a light wave travels through a medium with a varying refractive index, or when a sound wave travels through a medium with varying acoustic impedance.
 Diffraction occurs with all waves, including sound waves, water waves, and electromagnetic waves such as visible light, X-rays and radio waves.

@@ -8,7 +8,11 @@ The release was followed by apologies from the commander and later by an express
 General Huerta urged that martial law obtained at the time at Tampico; that orders had been issued that no one should be allowed to land at the Iturbide Bridge; and that our sailors had no right to land there.
 Our naval commanders at the port had not been notified of any such prohibition; and, even if they had been, the only justifiable course open to the local authorities would have been to request the paymaster and his crew to withdraw and to lodge a protest with the commanding officer of the fleet.
 Admiral Mayo regarded the arrest as so serious an affront that he was not satisfied with the apologies offered, but demanded that the flag of the United States be saluted with special ceremony by the military commander of the port.
+<<<<<<< HEAD
 The incident cannot be regarded as a trivial one, especially as two of the men arrested were taken from the boat itselfthat is to say, from the territory of the United Statesbut had it stood by itself it might have been attributed to the ignorance or arrogance of a single officer.
+=======
+The incident cannot be regarded as a trivial one, especially as two of the men arrested were taken from the boat itself—that is to say, from the territory of the United States—but had it stood by itself it might have been attributed to the ignorance or arrogance of a single officer.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Unfortunately, it was not an isolated case.
 A series of incidents have recently occurred which cannot but create the impression that the representatives of General Huerta were willing to go out of their way to show disregard for the dignity and rights of this Government and felt perfectly safe in doing what they pleased, making free to show in many ways their irritation and contempt.
 A few days after the incident at Tampico an orderly from the U.S.S. Minnesota was arrested at Vera Cruz while ashore in uniform to obtain the ship's mail, and was for a time thrown into jail.
@@ -36,3 +40,7 @@ No doubt I could do what is necessary in the circumstances to enforce respect fo
 I, therefore, come to ask your approval that I should use the armed forces of the United States in such ways and to such an extent as may be necessary to obtain from General Huerta and his adherents the fullest recognition of the rights and dignity of the United States, even amidst the distressing conditions now unhappily obtaining in Mexico.
 There can in what we do be no thought of aggression or of selfish aggrandizement.
 We seek to maintain the dignity and authority of the United States only because we wish always to keep our great influence unimpaired for the uses of liberty, both in the United States and wherever else it may be employed for the benefit of mankind.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

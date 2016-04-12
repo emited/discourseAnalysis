@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Richard Phillips Feynman, (/fanmn/; May 11, 1918  February 15, 1988) was an American theoretical physicist known for his work in the path integral formulation of quantum mechanics, the theory of quantum electrodynamics, and the physics of the superfluidity of supercooled liquid helium, as well as in particle physics for which he proposed the parton model.
+=======
+Richard Phillips Feynman, (/ˈfaɪnmən/; May 11, 1918 – February 15, 1988) was an American theoretical physicist known for his work in the path integral formulation of quantum mechanics, the theory of quantum electrodynamics, and the physics of the superfluidity of supercooled liquid helium, as well as in particle physics for which he proposed the parton model.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 For his contributions to the development of quantum electrodynamics, Feynman, jointly with Julian Schwinger and Sin-Itiro Tomonaga, received the Nobel Prize in Physics in 1965.
 He developed a widely used pictorial representation scheme for the mathematical expressions governing the behavior of subatomic particles, which later became known as Feynman diagrams.
 During his lifetime, Feynman became one of the best-known scientists in the world.

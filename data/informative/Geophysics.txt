@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Geophysics /diofzks/ is a subject of natural science concerned with the physical processes and physical properties of the Earth and its surrounding space environment, and the use of quantitative methods for their analysis.
+=======
+Geophysics /dʒiːoʊfɪzɪks/ is a subject of natural science concerned with the physical processes and physical properties of the Earth and its surrounding space environment, and the use of quantitative methods for their analysis.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The term geophysics sometimes refers only to the geological applications: Earth's shape; its gravitational and magnetic fields; its internal structure and composition; its dynamics and their surface expression in plate tectonics, the generation of magmas, volcanism and rock formation.
 However, modern geophysics organizations use a broader definition that includes the water cycle including snow and ice; fluid dynamics of the oceans and the atmosphere; electricity and magnetism in the ionosphere and magnetosphere and solar-terrestrial relations; and analogous problems associated with the Moon and other planets.
 Although geophysics was only recognized as a separate discipline in the 19th century, its origins date back to ancient times.

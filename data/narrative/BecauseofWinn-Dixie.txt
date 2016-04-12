@@ -4,7 +4,11 @@ Opal claims the dog is hers, and takes it home to The Preacher.
 Opal christens the dog Winn-Dixie, after the supermarket.
 She asks her father to list ten things about her mother, who abandoned them.
 Miss Franny Block, a librarian, shares great stories about her past including one about her great-grandfather, whose family members died while he was fighting for the South in the Civil War.
+<<<<<<< HEAD
 He invented Littmus Lozenge candies, which tasted like root beer and strawberry but included a secret ingredient sorrow.
+=======
+He invented Littmus Lozenge candies, which tasted like root beer and strawberry but included a secret ingredient— sorrow.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Anyone who tasted the candies tasted sweetness mixed with sadness.
 In Because of Winn-Dixie, these candies symbolize that even though life sometimes deals people a bit of sadness, there is always much to appreciate.
 Opal learns that her sour faced neighbor, Amanda Wilkinson, lost her brother Carson because he drowned.

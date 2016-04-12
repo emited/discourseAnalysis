@@ -1,7 +1,11 @@
 In February 1966, while on a combat mission, Lt.
 Dieter Dengler (Christian Bale), a German-born U.S. Navy pilot in squadron VA-145, flying from the carrier USS Ranger, is shot down in his Douglas A-1 Skyraider over Laos.
 He survives the crash, only to be captured by the Pathet Lao.
+<<<<<<< HEAD
 Dengler is offered leniency by the Province Governor(Franois Chau), if he will sign a document condemning America, but he refuses.
+=======
+Dengler is offered leniency by the Province Governor(François Chau), if he will sign a document condemning America, but he refuses.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Dengler is tortured and taken to a prison camp.
 There he meets his fellow prisoners: American pilots Gene DeBruin (Jeremy Davies) and Duane W. Martin (Steve Zahn), Y.C., Procet and Phisit, some of whom have been captives for years.
 Learning that the guards are planning to kill them all and return to their village, Dengler begins planning an escape.

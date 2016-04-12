@@ -20,3 +20,7 @@ Prompt action upon this treaty is very desirable.
 If it meets the approval of the Senate, peace and good order will be secured in the islands under existing laws until such time as Congress can provide by legislation a permanent from of government for the islands.
 This legislation should be, and I do not doubt will be, not only just to the natives and all other residents and citizens of the islands, but should be characterized by great liberality and a high regard to the rights of all people and of all foreigners domiciled there.
 The correspondence which accompanies the treaty will put the Senate in possession of all the facts known to the Executive.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

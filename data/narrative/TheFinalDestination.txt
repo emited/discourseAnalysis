@@ -20,6 +20,10 @@ While Nick rushes to save Lori and Janet, a fire erupts behind the movie screen.
 Nick convinces Lori to leave, but Janet refuses and is killed by flying debris when the fire sets off an explosion.
 As Nick and Lori try to escape, Lori is pulled into a malfunctioning escalator's gears, and Nick realizes that it was just another vision.
 Unable to save George, Nick rushes to the theater and barely manages to stop the fire before the explosion occurs.
+<<<<<<< HEAD
 Weeks later, Nick notices a loose scaffold prop outside of a caf and warns a worker about it before meeting Lori and Janet inside.
+=======
+Weeks later, Nick notices a loose scaffold prop outside of a café and warns a worker about it before meeting Lori and Janet inside.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 While Lori and Janet talk, Nick notices several more omens and realizes that everything they've been through was only a feint meant to lead them to where they needed to be for Death to strike.
 At that moment, the scaffold collapses, causing a truck to swerve and crash through the window, killing all three of them.

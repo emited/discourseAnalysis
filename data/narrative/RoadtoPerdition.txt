@@ -8,7 +8,11 @@ Capone's underboss Frank Nitti (Tucci) rejects Sullivan's proposals, before info
 Rooney reluctantly allows Nitti to dispatch assassin Harlen Maguire (Law), who is also a crime scene photographer, to kill Sullivan.
 Maguire tracks him and his son to a roadside diner, but fails to kill Sullivan.
 Realizing Maguire's intentions, Sullivan punctures Maguire's car tire before escaping.
+<<<<<<< HEAD
 In reaction to the ordered hit, Sullivan begins robbing banks that hold Capones laundered money, hoping to trade it for Connor while teaching Michael to drive their getaway car.
+=======
+In reaction to the ordered hit, Sullivan begins robbing banks that hold Capone’s laundered money, hoping to trade it for Connor while teaching Michael to drive their getaway car.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Sullivan is impeded when the mob withdraws its money, so he visits Rooney's accountant Alexander Rance (Baker) at his hotel.
 The encounter is a set-up, with Rance stalling Sullivan until Maguire enters with a shotgun.
 In the ensuing crossfire, Rance is killed by the shot from Maguire's shotgun, Maguire is injured by flying glass shards, and Sullivan escapes with the ledgers.

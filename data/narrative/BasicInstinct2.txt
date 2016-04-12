@@ -14,8 +14,13 @@ Glass receives a phone call from his ex-wife, Denise, in a state of distress.
 Her partner, Adam Towers, a journalist writing a negative story about Dr.
 Glass, has been found strangled to death.
 Glass suspects that Tramell committed the murder and is attempting to frame him for it.
+<<<<<<< HEAD
 More murders begin to surface around Glass as his obsession with Tramell grows and his career and life are threatened  he finds his ex-wife in a bathroom with her throat slit after they have an altercation in a bar.
 Later, Dicky Pep is killed  eventually, he himself can no longer tell right from wrong, and the police begin to suspect Glass of involvement in the crimes.
+=======
+More murders begin to surface around Glass as his obsession with Tramell grows and his career and life are threatened – he finds his ex-wife in a bathroom with her throat slit after they have an altercation in a bar.
+Later, Dicky Pep is killed – eventually, he himself can no longer tell right from wrong, and the police begin to suspect Glass of involvement in the crimes.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He confronts Tramell at her apartment where they engage in passionate sex.
 The situations comes to a head during a confrontation between Glass and Tramell at her apartment where, after a struggle, Glass attempts to kill Tramell.
 Tramell gives Glass a copy of the draft of her next novel, titled The Analyst.

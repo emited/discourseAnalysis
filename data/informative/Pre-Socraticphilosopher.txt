@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Pre-Socratic philosophy is Greek ancient philosophy before Socrates (and includes schools contemporary to Socrates that were not influenced by him). In Classical antiquity, the Presocratic philosophers were called physiologoi (Greek: ; in English, physical or natural philosophers). Aristotle called them physikoi ("physicists", after physis, "nature") because they sought natural explanations for phenomena, as opposed to the earlier theologoi (theologians), whose philosophical basis was supernatural.
 Diogenes Lartius divides the physiologoi into two groups, Ionian and Italiote, led by Anaximander and Pythagoras, respectively.
+=======
+Pre-Socratic philosophy is Greek ancient philosophy before Socrates (and includes schools contemporary to Socrates that were not influenced by him). In Classical antiquity, the Presocratic philosophers were called physiologoi (Greek: φυσιόλογοι; in English, physical or natural philosophers). Aristotle called them physikoi ("physicists", after physis, "nature") because they sought natural explanations for phenomena, as opposed to the earlier theologoi (theologians), whose philosophical basis was supernatural.
+Diogenes Laërtius divides the physiologoi into two groups, Ionian and Italiote, led by Anaximander and Pythagoras, respectively.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Hermann Diels popularized the term pre-socratic in Die Fragmente der Vorsokratiker (The Fragments of the Pre-Socratics) in 1903.
 However, the term pre-Sokratic was in use as early as George Grote's Plato and the Other Companions of Sokrates in 1865.
 Edouard Zeller was also important in dividing thought before and after Socrates.

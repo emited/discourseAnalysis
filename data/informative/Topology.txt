@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 In mathematics, topology (from the Greek , place, and , study) is concerned with the properties of space that are preserved under continuous deformations, such as stretching and bending, but not tearing or gluing.
 This can be studied by considering a collection of subsets, called open sets, that satisfy certain properties, turning the given set into what is known as a topological space.
 Important topological properties include connectedness and compactness.
 Topology developed as a field of study out of geometry and set theory, through analysis of such concepts as space, dimension, and transformation.
 Such ideas go back to Gottfried Leibniz, who in the 17th century envisioned the geometria situs (Greek-Latin for "geometry of place") and analysis situs (Greek-Latin for "picking apart of place"). Leonhard Euler's Seven Bridges of Knigsberg Problem and Polyhedron Formula are arguably the field's first theorems.
+=======
+In mathematics, topology (from the Greek τόπος, place, and λόγος, study) is concerned with the properties of space that are preserved under continuous deformations, such as stretching and bending, but not tearing or gluing.
+This can be studied by considering a collection of subsets, called open sets, that satisfy certain properties, turning the given set into what is known as a topological space.
+Important topological properties include connectedness and compactness.
+Topology developed as a field of study out of geometry and set theory, through analysis of such concepts as space, dimension, and transformation.
+Such ideas go back to Gottfried Leibniz, who in the 17th century envisioned the geometria situs (Greek-Latin for "geometry of place") and analysis situs (Greek-Latin for "picking apart of place"). Leonhard Euler's Seven Bridges of Königsberg Problem and Polyhedron Formula are arguably the field's first theorems.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The term topology was introduced by Johann Benedict Listing in the 19th century, although it was not until the first decades of the 20th century that the idea of a topological space was developed.
 By the middle of the 20th century, topology had become a major branch of mathematics.
 Topology has many subfields:

@@ -13,3 +13,7 @@ In any event, it will be my duty to preserve it, and this duty shall be performe
 In conclusion it may be permitted to me to remark that I have often warned my countrymen of the dangers which now surround us.
 This may be the last time I shall refer to the subject officially.
 I feel that my duty has been faithfully, though it may be imperfectly, performed, and, whatever the result may be, I shall carry to my grave the consciousness that I at least meant well for my country.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

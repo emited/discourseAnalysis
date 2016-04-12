@@ -1,6 +1,10 @@
 This film is a coming of age picture for the four main characters, and how their lives change over one Christmas holiday.
 The film is set in late 1960s Australia.
+<<<<<<< HEAD
 Four orphan boys from a Roman Catholic orphanage in the outback of Australia    Maps, Misty, Spark and Spit    were all born in the month of December, and for their birthday, they are sent on a holiday to the beach to stay with Mr.
+=======
+Four orphan boys from a Roman Catholic orphanage in the outback of Australia  –  Maps, Misty, Spark and Spit  –  were all born in the month of December, and for their birthday, they are sent on a holiday to the beach to stay with Mr.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 and Mrs.
 McAnsh.
 While there, they meet Fearless, a man who claims to be the risk motorbike rider in the nearby carnival, and his wife, Teresa.

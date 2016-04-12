@@ -16,3 +16,7 @@ Upon the expiration of their service many of them will doubtless desire to remai
 It is deemed important that provision be made for the appointment of a suitable number of Indian agents to reside among the various tribes m Oregon, and that appropriations be made to enable them to treat with these tribes with a view to restore and preserve peace between them and the white inhabitants.
 Should the laws recommended be promptly passed, the measures for their execution may be completed during the present season, and before the severity of winter will interpose obstacles in crossing the Rocky Mountains.
 If not promptly passed, a delay of another year will be the consequence, and may prove destructive to the white settlements in Oregon.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

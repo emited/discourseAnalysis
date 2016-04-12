@@ -31,7 +31,11 @@ Teddy and David become trapped when the Wonder Wheel falls on their vehicle.
 Believing the Blue Fairy to be real, David asks to be turned into a real boy, repeating his wish without an end, until the ocean freezes in another ice age and his internal power source drains away.
 Two thousand years later, humans are extinct and Manhattan is buried under several hundred feet of glacial ice.
 The now highly advanced Mecha have evolved into an intelligent, silicon-based form.
+<<<<<<< HEAD
 On their project to study humans  believing it was the key to understanding the meaning of existence  they find David and Teddy and discover they are original Mecha who knew living humans, making the pair very special and unique.
+=======
+On their project to study humans — believing it was the key to understanding the meaning of existence — they find David and Teddy and discover they are original Mecha who knew living humans, making the pair very special and unique.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 David is revived and walks to the frozen Blue Fairy statue, which cracks and collapses as he touches it.
 Having downloaded and comprehended his memories, the advanced Mecha use these to reconstruct the Swinton home and explain to David via an interactive image of the Blue Fairy (Meryl Streep) that it is impossible to make him human.
 However, at David's insistence, they recreate Monica from DNA in the lock of her hair, which Teddy had saved.

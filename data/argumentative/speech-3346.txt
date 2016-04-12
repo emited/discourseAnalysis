@@ -19,7 +19,11 @@ Every one of you has a hand in this Government, and when you don't exercise that
 >You know, in 1946 two-thirds of you stayed at home and you have got the 80th CongressI say, next to one, the worst Congress the country has ever had for the welfare of the public.
 
 If you will study the record, I am sure you will come to the same conclusion that I have, although you are not as close to those things as I am.
+<<<<<<< HEAD
 But your interests are involved in the results of thisthe action and nonaction of the 80th Congress.
+=======
+But your interests are involved in the results of this—the action and nonaction of the 80th Congress.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 All of you in this good town depend either on some job or on the soil, and if you do your interests have been vitally affected by the actions of this "do-nothing" 80th Republican Congress.
 
@@ -31,7 +35,11 @@ I am on a crusade for the welfare of the everyday man in the United States.
 I am not working for special privilege.
 I am not working for the speculators' lobby.
 I am not working for the real estate lobby.
+<<<<<<< HEAD
 I am not working for any special interests in the United States but the interests of the everyday man whose interest is my interestand that interest is your interest.
+=======
+I am not working for any special interests in the United States but the interests of the everyday man whose interest is my interest—and that interest is your interest.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 
 You know, Lincoln said that the Lord certainly loved the common people or he wouldn't have made so many of them.
 I think that is just as true as it can be.

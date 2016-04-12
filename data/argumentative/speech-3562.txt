@@ -20,3 +20,7 @@ It ought not to be postponed until the regular session.
 I therefore urgently recommend that a special commission be created, non-partisan in its character, to be composed of well-informed citizens of different parties who will command the confidence of Congress and the country because of their special fitness for the work, whose duty it shall be to make recommendations of whatever changes in our present banking and currency laws may be found necessary and expedient, and to report their conclusions on or before the 1st day of November next, in order that the same may be transmitted by me to Congress for its consideration at its first regular session.
 It is to be hoped that the report thus made will be so comprehensive and sound as to receive the support of all parties and the favorable action of Congress.
 At all events, such a report cannot fail to be of value to the executive branch of the Government, as well as to those charged with public legislation, and to greatly assist in the establishment of an improved system of finance.
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce

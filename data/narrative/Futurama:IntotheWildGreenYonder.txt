@@ -7,7 +7,11 @@ He meets Hutch, a transient who advises Fry to wear a tin foil hat to keep other
 Hutch warns Fry never to reveal his powers and to beware the "Dark Ones".
 While golfing with the crew, Leo reveals plans to build the universe's largest miniature golf course, destroying 12% of the Milky Way in the process.
 Farnsworth and the crew survey the site and discover an asteroid in a violet dwarf star system teeming with primordial life.
+<<<<<<< HEAD
 Despite this, Farnsworth approves Leos project.
+=======
+Despite this, Farnsworth approves Leo’s project.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Disgusted, Leela joins the eco-feminists, who begin sabotaging the project.
 
 Hutch introduces Fry to the "Legion of Mad Fellows", a secret society of tin-foil-hat-wearing telepaths led by the Number 9 man.

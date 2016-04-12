@@ -1,6 +1,10 @@
 Born in 1972 in Kansas, 8-year-olds Neil McCormick and Brian Lackey are sexually abused by their baseball coach.
 Both boys are targets for abuse due to their dysfunctional families: Neil's single mother, Ellen, is neglectful and preoccupied with a string of boyfriends, while Brian's parents are on the verge of divorce.
+<<<<<<< HEAD
 Neil shows homosexual proclivities at an early agehe is fascinated with male models depicted in his mother's Playgirl magazines.
+=======
+Neil shows homosexual proclivities at an early age—he is fascinated with male models depicted in his mother's Playgirl magazines.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 He interprets the coach's abuse as an initiation into sexuality and becomes sexually compulsive, being mainly attracted to "bearish" middle-aged men.
 Neil begins prostituting himself at the age of fifteen.
 Eventually he leaves home, drifts into petty crime, and becomes a prostitute in New York City.

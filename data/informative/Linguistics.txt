@@ -1,6 +1,10 @@
 Linguistics is the scientific study of language.
 There are three aspects to this study: language form, language meaning, and language in context.
+<<<<<<< HEAD
 The earliest activities in the description of language have been attributed to the 4th century BCE Indian grammarian Pini, who was an early student of linguistics and wrote a formal description of the Sanskrit language in his Adhyy.
+=======
+The earliest activities in the description of language have been attributed to the 4th century BCE Indian grammarian Pāṇini, who was an early student of linguistics and wrote a formal description of the Sanskrit language in his Aṣṭādhyāyī.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Linguistics analyzes human language as a system for relating sounds (or signs in signed languages) and meaning.
 Phonetics studies acoustic and articulatory properties of the production and perception of speech sounds and non-speech sounds.
 The study of language meaning, on the other hand, deals with how languages encode relations between entities, properties, and other aspects of the world to convey, process, and assign meaning, as well as to manage and resolve ambiguity.
@@ -19,6 +23,10 @@ Stylistics involves the study of patterns of style: within written, signed, or s
 Language documentation combines anthropological inquiry with linguistic inquiry to describe languages and their grammars.
 Lexicography covers the study and construction of dictionaries.
 Computational linguistics applies computer technology to address questions in theoretical linguistics, as well as to create applications for use in parsing, data retrieval, machine translation, and other areas.
+<<<<<<< HEAD
 People can apply actual knowledge of a language in translation and interpreting, as well as in language education  the teaching of a second or foreign language.
+=======
+People can apply actual knowledge of a language in translation and interpreting, as well as in language education – the teaching of a second or foreign language.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Policy makers work with governments to implement new plans in education and teaching which are based on linguistic research.
 Areas of study related to linguistics include semiotics (the study of signs and symbols both within language and without), literary criticism, translation, and speech-language pathology.

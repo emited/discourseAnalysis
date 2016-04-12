@@ -5,14 +5,22 @@ Ran meeting Story eliminates his fear and sharpens his inner voice, but he learn
 The Tartutic, an invincible simian trio that serve as the Blue World's peacekeepers, have forbidden that Story be attacked while returning home.
 The Scrunt nonetheless does just that, as Story is destined to be a great leader as well.
 To return safely, she will now need the help of a Symbolist, Guardian, Guild, and Healer.
+<<<<<<< HEAD
 Story believes Heep to be her Guardian; Heep asks Farber, a West Coast migr turned film critic, to help him figure out the others' identities.
+=======
+Story believes Heep to be her Guardian; Heep asks Farber, a West Coast émigré turned film critic, to help him figure out the others' identities.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Working off movie tropes, Farber misadvises Heep, leading him to a flawed conclusion that Dury is the Symbolist, the smokers are the Guild, and Bell is the Healer.
 Heep asks Story how to "practice" for the confrontation but nearly dies in the process, convincing him he's not the Guardian.
 The next night, Farber's bad advice leads to their plan's immediate failure.
 In the confusion, Farber is killed and Story is mortally wounded by the Scrunt.
 Dury suddenly realizes his son Joey (Noah Gray-Cabey) is the Symbolist.
 Interpreting the information on cereal boxes, Joey deduces the true Guild is composed of seven sisters, that two new men must be present, and that the Healer is male, soon revealed to be Heep.
+<<<<<<< HEAD
 He goes about healing Story by "bringing forth [his] energy" (his repressed grief). Story's departure starts again, but the Scrunt attacks; it is stopped by the gaze of Reggie (Freddy Rodrguez), a lopsidedly muscled tenant who is the true Guardian.
+=======
+He goes about healing Story by "bringing forth [his] energy" (his repressed grief). Story's departure starts again, but the Scrunt attacks; it is stopped by the gaze of Reggie (Freddy Rodríguez), a lopsidedly muscled tenant who is the true Guardian.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Reggie's gaze, capable of compelling the Scrunt to slowly retreat, is distracted by the cry of the Great Eatlon, a giant eagle who will ferry Story home.
 When Reggie breaks eye contact, the Scrunt leaps, but the Tartutic arrive and drag it away.
 Heep thanks Story for saving his life as she hugs him goodbye.

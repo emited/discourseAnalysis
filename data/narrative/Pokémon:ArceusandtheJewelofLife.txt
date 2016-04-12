@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ash Ketchum, Dawn, Brock and their Pokmon arrive in Michina Town.
 As the group relaxes in a nearby river, some watermelons suddenly float towards them.
 While enjoying the watermelons with their Pokmon, a boy named Kato and his sister Kiko appear who justify that the watermelons were theirs and were kept to cool in the flow of the river.
@@ -7,6 +8,17 @@ Ash and Dawn win the battle with good teamwork and also request Kato and Kiko to
 After that, Kato and Kiko suggest Ash and the gang visit the local temple ruins.
 Whilst visiting a lake, a typhoon suddenly strikes up, but two mysterious individuals named Sheena and Kevin summon Dialga who ends the typhoon.
 Giratina arrives, but Sheena uses her ability to communicate with a Pokmon's heart to quell their conflicts with each other, sending Giratina back to its dimension.
+=======
+Ash Ketchum, Dawn, Brock and their Pokémon arrive in Michina Town.
+As the group relaxes in a nearby river, some watermelons suddenly float towards them.
+While enjoying the watermelons with their Pokémon, a boy named Kato and his sister Kiko appear who justify that the watermelons were theirs and were kept to cool in the flow of the river.
+Kato and Kiko then challenge Ash for a tag battle in return of the watermelons.
+Ash and Dawn thus plan for a tag Pokémon battle against them using Ash's Pikachu and Dawn's Piplup against Kako's Heracross and Kiko's Beautifly.
+Ash and Dawn win the battle with good teamwork and also request Kato and Kiko to join for eating watermelons.
+After that, Kato and Kiko suggest Ash and the gang visit the local temple ruins.
+Whilst visiting a lake, a typhoon suddenly strikes up, but two mysterious individuals named Sheena and Kevin summon Dialga who ends the typhoon.
+Giratina arrives, but Sheena uses her ability to communicate with a Pokémon's heart to quell their conflicts with each other, sending Giratina back to its dimension.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Palkia then arrives to save Dialga from another typhoon, and Sheena, once again, uses her ability to sync with the two to thank them.
 Taking the kids to the temple, Sheena and Kevin explain that they investigate disruptions in time and space, and worry that Arceus, the creator of the dimensions, is to awaken, and that he is responsible for the encounters between Dialga, Palkia, and Giratina.
 Sheena explains that centuries ago, Arceus saved Earth from a meteor storm and nearly died with the loss of his sixteen Life Plates, but a man named Damos saved him.
@@ -24,7 +36,11 @@ Pikachu, Piplup, and Pichu free the kids and Damos.
 Arceus arrives to collect the Jewel of Life, hidden in Marcus' scepter, but the fooled Sheena ends up being the one who betrays him.
 Arceus is forced into a pit and is wounded by silver water and electrical attacks.
 Marcus' intention is to kill Arceus himself to save the future.
+<<<<<<< HEAD
 Sheena and Damos use their abilities to free the Pokmon under Marcus' control, including Heatran and Bronzong.
+=======
+Sheena and Damos use their abilities to free the Pokémon under Marcus' control, including Heatran and Bronzong.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Ash and Dawn (with the help of Chikorita, Cyndaquil, and Totodile) confront Marcus, and Ash obtains the real Jewel of Life.
 Arceus absorbs the Jewel of Life, restoring his own life force and those of the future.
 Arceus rescues his saviors from the collapse of the temple.

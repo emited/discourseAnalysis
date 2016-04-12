@@ -1,5 +1,9 @@
 Eleven years after the events of the first film, Dante (Brian O'Halloran) opens the Quick Stop convenience store to find that it is on fire; Randal (Jeff Anderson) had left the coffee pot on after closing the night before.
+<<<<<<< HEAD
 As a result of the destruction of Quick Stop and the adjacent RST Video, Dante and Randal begin working at a Mooby's fast food restaurant along with Elias (Trevor Fehrman) and their manager Becky Scott (Rosario Dawson). A year later, Dante is planning to leave his minimum wage lifestyle in favor of a family life in Florida with his fiance Emma Bunting (Jennifer Schwalbach), whose father will provide them with a home and a business to run.
+=======
+As a result of the destruction of Quick Stop and the adjacent RST Video, Dante and Randal begin working at a Mooby's fast food restaurant along with Elias (Trevor Fehrman) and their manager Becky Scott (Rosario Dawson). A year later, Dante is planning to leave his minimum wage lifestyle in favor of a family life in Florida with his fiancée Emma Bunting (Jennifer Schwalbach), whose father will provide them with a home and a business to run.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 This leaves Randal bitterly disappointed, who fears that with Dante moving to Florida would leave him without his best friend.
 Jay and Silent Bob (Jason Mewes and Kevin Smith) have since followed Dante and Randal, and now loiter outside of Mooby's. Jay and Silent Bob no longer do drugs after they were arrested for the possession of drugs and were sent to rehab, and become devout Christians following their release.
 However, the duo continue selling drugs.

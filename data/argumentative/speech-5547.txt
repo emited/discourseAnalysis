@@ -5,12 +5,21 @@ JANUARY 1, 1979
 The United States of America and the People's Republic of China have agreed to recognize each other and to establish diplomatic relations as of January 1, 1979.
 The United States of America recognizes the Government of the People's Republic of China as the sole legal Government of China.
 Within this context, the people of the United States will maintain cultural, commercial, and other unofficial relations with the people of Taiwan.
+<<<<<<< HEAD
 The United States of America and the People's Republic of China reaffirm the principles agreed on by the two sides in the Shanghai Communiqu and emphasize once again that:
 Both wish to reduce the danger of international military conflict.
 Neither should seek hegemony in the Asia-Pacific region or in any other region of the world and each is opposed to efforts by any other country or group of countries to establish such hegemony.
 Neither is prepared to negotiate on behalf of any third party or to enter into agreements or understandings with the other directed at other states.
 The Government of the United States of America acknowledges the Chinese position that there is but one China and Taiwan is part of China.
 Both believe that normalization of Sino-American relations is not only in the interest of the Chinese and American peoples but also contributes to the cause of peace in Asia and the world.
+=======
+The United States of America and the People's Republic of China reaffirm the principles agreed on by the two sides in the Shanghai Communiqué and emphasize once again that:
+—Both wish to reduce the danger of international military conflict.
+—Neither should seek hegemony in the Asia-Pacific region or in any other region of the world and each is opposed to efforts by any other country or group of countries to establish such hegemony.
+—Neither is prepared to negotiate on behalf of any third party or to enter into agreements or understandings with the other directed at other states.
+—The Government of the United States of America acknowledges the Chinese position that there is but one China and Taiwan is part of China.
+—Both believe that normalization of Sino-American relations is not only in the interest of the Chinese and American peoples but also contributes to the cause of peace in Asia and the world.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The United States of America and the people's Republic of China will exchange Ambassadors and establish Embassies on March 1, 1979.
 Yesterday, our country and the People's Republic of China reached this final historic agreement.
 On January 1, 1979, a little more than two weeks from now, our two Governments will implement full normalization of diplomatic relations.
@@ -21,6 +30,7 @@ But far more is involved in this decision than just the recognition of a fact.
 Before the estrangement of recent decades, the American and the Chinese people had a long history of friendship.
 We've already begun to rebuild some of those previous ties.
 Now our rapidly expanding relationship requires the kind of structure that only full diplomatic relations will make possible.
+<<<<<<< HEAD
 The change that I'm announcing tonight will be of great long-term benefit to the peoples of both our country and Chinaand, I believe, to all the peoples of the world.
 Normalizationand the expanded commercial and cultural relations that it will bringwill contribute to the well-being of our own Nation, to our own national interest, and it will also enhance the stability of Asia.
 These more positive relations with China can beneficially affect the world in which we live and the world in which our children will live.
@@ -28,6 +38,15 @@ We have already begun to inform our allies and other nations and the Members of 
 But I wish also tonight to convey a special message to the people of TaiwanI have already communicated with the leaders in Taiwanwith whom the American people have had and will have extensive, close, and friendly relations.
 This is important between our two peoples.
 As the United States asserted in the Shanghai Communiqu of 1972, issued on President Nixon's historic visit, we will continue to have an interest in the peaceful resolution of the Taiwan issue.
+=======
+The change that I'm announcing tonight will be of great long-term benefit to the peoples of both our country and China—and, I believe, to all the peoples of the world.
+Normalization—and the expanded commercial and cultural relations that it will bring—will contribute to the well-being of our own Nation, to our own national interest, and it will also enhance the stability of Asia.
+These more positive relations with China can beneficially affect the world in which we live and the world in which our children will live.
+We have already begun to inform our allies and other nations and the Members of the Congress of the details of our intended action.
+But I wish also tonight to convey a special message to the people of Taiwan—I have already communicated with the leaders in Taiwan—with whom the American people have had and will have extensive, close, and friendly relations.
+This is important between our two peoples.
+As the United States asserted in the Shanghai Communiqué of 1972, issued on President Nixon's historic visit, we will continue to have an interest in the peaceful resolution of the Taiwan issue.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 I have paid special attention to ensuring that normalization of relations between our country and the People's Republic will not jeopardize the well-being of the people of Taiwan.
 The people of our country will maintain our current commercial, cultural, trade, and other relations with Taiwan through nongovernmental means.
 Many other countries in the world are already successfully doing this.

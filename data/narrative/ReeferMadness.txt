@@ -9,7 +9,11 @@ Arriving at Jack's boss' "headquarters," he gets out and Jimmy asks him for a ci
 Jack gives him a joint.
 Later, when Jack comes back down and gets into the car, Jimmy drives off dangerously, along the way running over a pedestrian with his car.
 A few days later, Jack tells Jimmy that the pedestrian died of his injuries.
+<<<<<<< HEAD
 Jack agrees to keep Jimmy's name out of the case, providing he agrees to "forget he was ever in Mae's apartment". Jimmy does indeed escape the consequences of his crimea rare occurrence in the film.
+=======
+Jack agrees to keep Jimmy's name out of the case, providing he agrees to "forget he was ever in Mae's apartment". Jimmy does indeed escape the consequences of his crime—a rare occurrence in the film.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Bill begins an affair with Blanche.
 Mary, Jimmy's sister and Bill's girlfriend, goes to Mae's apartment looking for Jimmy and accepts a joint from Ralph, thinking it to be a normal cigarette.
 When she refuses Ralph's advances, he tries to rape her.

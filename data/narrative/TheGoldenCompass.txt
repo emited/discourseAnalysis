@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 The story takes place in an alternate world dominated by a powerful church called the Magisterium, and where part of the soul resides outside a person as an animal companion called a dmon.
 Lyra Belacqua, an orphan raised in a college in Oxford, England, and her dmon Pantalaimon witness a Magisterium agent poison her uncle's bottle of Tokay.
+=======
+The story takes place in an alternate world dominated by a powerful church called the Magisterium, and where part of the soul resides outside a person as an animal companion called a dæmon.
+Lyra Belacqua, an orphan raised in a college in Oxford, England, and her dæmon Pantalaimon witness a Magisterium agent poison her uncle's bottle of Tokay.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Lyra then warns her uncle, Lord Asriel, who instructs her to remain in hiding.
 Lyra watches Asriel give a presentation regarding Dust, a particle that the Magisterium has forbidden the mention of.
 The college gives Asriel a grant to fund a northern expedition.
@@ -14,12 +19,20 @@ Coulter's house in a city that resembles a futuristic London, Lyra mentions 'dus
 This puts Mrs.
 Coulter on edge and she warns Lyra never to mention it again, and also insists that she leave the bag containing the aleithiometer.
 Mrs.
+<<<<<<< HEAD
 Coulter's dmon (a golden monkey) attacks Pan, causing Lyra to give in.
+=======
+Coulter's dæmon (a golden monkey) attacks Pan, causing Lyra to give in.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Lyra and Pan discover that Mrs.
 Coulter is head of the General Oblation Board, the "Gobblers", who have been kidnapping local children.
 She also discovers that her best friend Roger and her Gyptian friend Billy have been taken by the Gobblers.
 Lyra and Pan walk in on Mrs.
+<<<<<<< HEAD
 Coulter's dmon attempting to steal the alethiometer.
+=======
+Coulter's dæmon attempting to steal the alethiometer.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 They escape into the streets.
 The "Gobblers" pursue her, but she is saved by some Gyptians.
 Aboard a Gyptian boat heading north to rescue their children, Lyra shows the alethiometer to a Gyptian wise man, Farder Coram.
@@ -33,7 +46,11 @@ At a northern port, Lyra is befriended by a Texan aeronaut named Lee Scoresby, w
 Exiled in shame, the giant polar bear Iorek Byrnison has been tricked out of his armour by the local townspeople.
 Using the alethiometer Lyra tells Iorek where to find his armour.
 Armoured again, the fearsome Iorek and his friend Lee Scoresby join the trek northward.
+<<<<<<< HEAD
 That night while riding on Iorek's back, Lyra finds a cowering and changed Billy separated from his dmon Ratter.
+=======
+That night while riding on Iorek's back, Lyra finds a cowering and changed Billy separated from his dæmon Ratter.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Lyra reunites Billy with his mother just as the group is attacked by Samoyeds who capture Lyra.
 Taken to the armoured bear king Ragnar Sturlusson, Lyra tricks him into fighting Iorek one on one.
 At first, Ragnar seems to have the upper hand in the fight, but Iorek eventually tricks his rival and kills him.
@@ -41,21 +58,37 @@ He then becomes the new king.
 Iorek carries Lyra near to a thin ice bridge near Bolvangar.
 Reaching the station, Lyra is taken to eat with the missing children.
 While hiding again Lyra discovers that the Magisterium scientists, under the guidance of Mrs.
+<<<<<<< HEAD
 Coulter, are performing experiments to sever the bond between a child and his or her dmon.
+=======
+Coulter, are performing experiments to sever the bond between a child and his or her dæmon.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Caught spying, Lyra and Pan are thrown in the intercision chamber, and end up unconscious from the energy force that tries to cut them.
 On seeing Lyra in the guillotine, Mrs.
 Coulter rescues her and takes her to her quarters.
 When Lyra wakes up she is comforted by a distraught Mrs.
+<<<<<<< HEAD
 Coulter, who explains the dmon cutting to Lyra and also tells Lyra that she is her mother.
+=======
+Coulter, who explains the dæmon cutting to Lyra and also tells Lyra that she is her mother.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 Lyra then guesses that Lord Asriel is her father.
 When Mrs.
 Coulter asks for the alethiometer, Lyra gives her the can containing the spy fly.
 The spy fly stings Mrs.
+<<<<<<< HEAD
 Coulter, knocking her and her dmon out.
 Lyra runs to the room with the intercision machine.
 The growing chain reaction builds as Lyra yanks a control box loose and hurls it into the intercision machine, causing it to explode.
 This sets off a series of explosions that tear the facility apart.
 Outside, the children are attacked by Tartar mercenaries and their wolf dmons.
+=======
+Coulter, knocking her and her dæmon out.
+Lyra runs to the room with the intercision machine.
+The growing chain reaction builds as Lyra yanks a control box loose and hurls it into the intercision machine, causing it to explode.
+This sets off a series of explosions that tear the facility apart.
+Outside, the children are attacked by Tartar mercenaries and their wolf dæmons.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The battle is joined by Iorek, the Gyptians, and a band of flying witches led by Serafina Pekkala.
 The Tartars are defeated and the children are rescued.
 Rather than returning south, Lyra, Roger and Iorek fly north with Lee Scoresby in search of Lord Asriel.

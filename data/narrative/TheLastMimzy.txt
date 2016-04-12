@@ -21,7 +21,11 @@ Mimzy explains to the children that they must use the toys as a time machine to 
 Despite attempts by the FBI to prevent them, Noah and Emma use their psionic abilities to escape so that they can activate a time portal.
 Before leaving, Mimzy absorbs a tear from Emma, thus providing the DNA required to restore humanity's corrupted DNA.
 Emma is almost sucked into the future with Mimzy, but Noah grabs Emma and pulls her out of the portal just as Mimzy is sent back to its own time.
+<<<<<<< HEAD
 Following the exodus, Noah's science teacher, who was present at the event, claims he has seen "numbers", referring to his fiance's desire to win the lottery.
+=======
+Following the exodus, Noah's science teacher, who was present at the event, claims he has seen "numbers", referring to his fiancée's desire to win the lottery.
+>>>>>>> 10700975bfa2773dd7684d375d1ded6f4f1cb0ce
 The world has become a beautiful place, where humanity has integrated into the constructed ecosystems.
 The story ends with Emma's teacher (Julia Arkos) calling on Emma in class, asking what she did over her weekend break.
 Emma simply smiles.

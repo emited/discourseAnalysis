@@ -91,7 +91,8 @@ def test_ecriture_lecture():
 
 def build_all_2():
     print 'For each class, we build all the trees and save them in CSVs'
-    path_to_save = '~/Documents/s2/tal/discourseAnalysis/data/'
+    path_to_save = '../data/test/try'
+    """
     nar_trees = return_trees_from_merge('~/Documents/s2/tal/discourseAnalysis/data/narrative')
     write_tree_in_csv(nar_trees)    
     
@@ -108,14 +109,16 @@ def build_all_2():
     int2cl = {0:'narrative', 1:'argumentative', 2:'informative',3:'descriptive'}
 
     T = [t[0] for t in all_trees]
-    pickle.dump(T,open(path_to_save+'trees.pkl','wb'))
+    pickle.dump(T,open(path_to_save+'trees.pkl','wb'))"""
+    T = pickle.load(open('../data/trees_with_labels.pkl','r'))
+    T = [t[0] for t in T]
 
-    y_nar = [0 for t in nar_trees]
+    """y_nar = [0 for t in nar_trees]
     y_arg = [1 for t in arg_trees]
     y_inf = [2 for t in inf_trees]
     y_des = [3 for t in des_trees]
     y = np.array( y_nar + y_arg + y_inf + y_des )
-    pickle.dump(y,open(path_to_save+'labels.pkl','wb'))
+    pickle.dump(y,open(path_to_save+'labels.pkl','wb'))"""
     
     index = ['bin','count','norm','height','tfid']
 
@@ -148,10 +151,10 @@ def build_all_2():
     print 'Kernels'
 
     ## tree kernels
-    max_depth = 15
-    T_p = [ctree.prune(t,max_depth) for t in T]
-    K_tree = kernels.compute_gram(T_p,T_p,kernels.tree_kernel)
-    pickle.dump(K_tree,open(path_to_save+'tree_kernel.pkl'))
+    #max_depth = 15
+    #T_p = [ctree.prune(t,max_depth) for t in T]
+    #K_tree = kernels.compute_gram(T_p,T_p,kernels.tree_kernel)
+    #pickle.dump(K_tree,open(path_to_save+'tree_kernel.pkl'))
 
     print 'vector kernels'
     print 'linear'
@@ -271,5 +274,4 @@ def build_all():
     pickle.dump(K_all,open(path_to_save+'kernels_test.pkl','wb'))
 
 build_all_2()
-
 

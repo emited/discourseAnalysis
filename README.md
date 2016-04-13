@@ -1,4 +1,4 @@
-<h1 style="text-align: center;" markdown="1">Rapport TAL: Classification de documents par rapport à leur type de discours à l'aide de l'analyse discursive</h1>
+<h1 style="text-align: center;" markdown="1">TAL: Classification de documents par rapport à leur type de discours à l'aide de l'analyse discursive</h1>
 
 
 <h3 style="text-align: right;" markdown="1">René Traoré, de Bézenac Emmanuel</h3>

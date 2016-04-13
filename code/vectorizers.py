@@ -52,7 +52,7 @@ def build_height_vect(T):
     return pos
 
 def build_height_vects(T_list):
-    return [build_count_vect(T) for T in T_list]
+    return [build_height_vect(T) for T in T_list]
 
 def build_tfid_vects(T_list):
     dicos = build_norm_vects(T_list)
